@@ -1,0 +1,23 @@
+---
+layout: post
+title: A stickier internet
+date: '2014-01-01 12:00:00'
+---
+
+I'm not keen on retrospective "the year that was" pieces. I'm not being ironic, nor awkward.  
+
+Handily though 2013 does mark a 12 month period that showed the internet starting to become a more interesting and engaging place again, rising up from being a vehicle for a constant fast-flowing stream of digital social network driven snippets and SEO-driven link bait articles, and websites drowning in their design ubiquity. The internet became a place of immersive experiences, rewarding experiences that held an audience's attention for much longer than it takes to read 140 characters. Or laugh at the latest meme. Or whatever. There were websites that were sticky, that you gave up time to delve into.
+
+<a href="http://www.theguardian.com/world/interactive/2013/nov/01/snowden-nsa-files-surveillance-revelations-decoded#section/1">The Guardian's NSA Files: Decoded</a> gets a lot of the obvious plaudits/thumbs up as the shining example of this kinda thing, showing the full potential of modern day new media-driven journalism - broken up into chunks of reserched well written copy, full documents to view, professional video, and thought-through graphics. This was immersive journalism at its finest.
+
+But the Guardian wasn't alone. If the New York Times was published in the UK, I am sure they should get a lot more praise this side of the Atlantic for doing that sort of thing regularly, with their splendid <a href=" http://www.nytimes.com/newsgraphics/2013/10/27/south-china-sea/">A Game of Shark and Minnow</a> being notable amongst several fine examples.
+
+The Phony PPL and Ratking <a href="http://agenda.complex.com/cons/">Converse Cons website</a> took the same approach but looking at more street (sorry...) sources (albeit seemer a 'lighter' in comparison to the Guardian and NYT's efforts).
+
+Closer to home (at least where I work) Bryan James took a slightly different tack with his cracking <a href="http://hashima-island.co.uk/">Hashima Island project</a>, which gave an audience a memorable (and haunting) guide around a forgotten island, a unique experience designed around Google Street View, an exploration that utilises the modern web almost to the full.
+
+Almost? My eyes (and ears) where whetted by NPR's <em>Planet Money</em> podcast which ran a fantastic project throughout most of 2013. The team, inspired by Pietra Rivoli's book <em>The Travels of a T-Shirt in the Global Economy</em> launched a <a href="http://www.kickstarter.com/projects/planetmoney/planet-money-t-shirt">Kickstarter campaign</a> to <a href="http://www.npr.org/blogs/money/2013/04/30/180079862/episode-455-the-planet-money-t-shirt-is-finally-almost-here">make their own T-shirt from scratch</a>. Initially looking for $50,000 to be greenlit, the campaign garnered pledges of half a million dollars!
+
+The guys and gals <a href="http://www.npr.org/templates/archives/archive.php?thingId=190719989">gave regular fascinating globe-trekking updates</a> through their podcasts until <a href="http://www.npr.org/blogs/money/2013/12/13/250747279/episode-503-adding-up-the-cost-of-the-planet-money-t-shirt">the the middle of December</a>, when the complete story was told through <a href="http://apps.npr.org/tshirt/">a sweet little site</a>. It was the through-the-year stuff that made this for me, that it wasn't just a website, but employing different facets of the internet - Kickstarter, the social media awareness/discussion around that, the podcasts and blog posts through the year, the eventual website - to take the Planet Money audience on a journey with them. That there is a highly engaging website that tells the story is the icing on the cake.
+
+<em>Content is King</em> is the cliche pedalled around too much, and for years at that, but finally - at last! - it is being realised in such publicly aware ways that reward the time you, as a reader, invest. Has new media finally come of age? When this sort of work is in the main rather than rare examples amongst all the sheer shite out there at the moment (and I don't just mean selfies), it may just have. There's still some way to go yet. But these are my choice examples that we are heading in the right direction.

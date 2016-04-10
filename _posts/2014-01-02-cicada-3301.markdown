@@ -1,0 +1,13 @@
+---
+layout: post
+title: Cicada 3301
+date: '2014-01-02 12:00:00'
+---
+
+Yesterday I was talking about <a href="/a-stickier-internet/">a stickier internet</a>, experiences that you spend time with and that reward you.
+
+This morning I listened to the <a href="http://www.wnyc.org/story/smartest-people-internet-all-want-solve/">latest WNYC New Tech City podcast</a> about the Cicada 3301 mystery.  Taking its cue from a recent <a href="http://www.telegraph.co.uk/technology/internet/10468112/The-internet-mystery-that-has-the-world-baffled.html">Daily Telegraph article</a> the podcast explored a series of increasingly complex puzzles that started on a hidden away internet forum.
+
+The end of the story is probably the biggest puzzle, but still a fascinating story of how something so intricate and unknown can exist in a time and in a place where more folk are being increasingly transparent (intentionally or unintentionally, eh, NSA) with their actions.
+
+Take ten minutes out to <a href="http://www.wnyc.org/story/smartest-people-internet-all-want-solve/">listen to the podcast here.</a>

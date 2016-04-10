@@ -1,0 +1,50 @@
+---
+layout: post
+title: Leeds GovJam 2014
+date: '2014-06-05 09:00:00'
+---
+
+![Drawing wireframes](https://farm3.staticflickr.com/2913/14157557859_5f900f6e44_k.jpg)
+
+I've spent the past couple of days at the awesome [ODI Leeds space](http://theodi.org/nodes/leeds), part of the team running the [Leeds GovJam](https://leedsgovjam.wordpress.com/), Leeds's contribution to the [global GovJam](http://www.govjam.org/), [one of 34](http://www.govjam.org/govjam14/jamsites) across the world.
+
+Up front the event was put forward as a neutral environment a “safe space” where people are free to talk and explore collaboratively. The jam was geared towards finding and thinking about problems within public sector/public facing services. The attendees had two days on-site to learn and work towards presenting a prototype of their 'design' as part of a team at the end of the second day.
+
+Leeds has a lot of public facing services based in the city, from the obvious of the council (who are evidently embracing newer ways of thinking and working) as well as the strong NHS and DWP presence in the city - and there were also attendees from further afield.
+
+Six teams were pulled together and each was given an area to consider designing for. Each team had a good spread/mix which made for fascinating observation as the team members explored issues and shared their thoughts.
+
+From the off, the focus was on products and services centred around users' needs, not driven agendas - which resonates strongly with my own design approach: design for the people.
+
+![People!](http://photos-f.ak.instagram.com/hphotos-ak-xfa1/10431964_1459207147658165_822757193_n.jpg)
+
+Building an understanding of prototypes, what a prototype could be, and then actually prototyping was also key: getting something made and then refining the design based on response to that.
+
+It's easy working regularly with prototypes that there are still a lot of people out there that don't already, and may not even be aware of them - or even harbour a preconception of them being a gimmick).
+
+"Making not talking" was a mantra spoken a couple of times and the pressure of time helped enable this, bringing a briskness to the teams' work, a "just do it" attitude, getting on, exploring, but also enjoyment and an understanding about the benefits of this way of working.
+
+![Prototype presentation](https://farm6.staticflickr.com/5590/14154473337_0565ce4927_k.jpg)
+
+One attendee said she'd not worked this nimbly; another person said they'd never worked this way before. Both said they wanted to do it more, "cutting down the talking and hypothesising, getting some research, making something off the back of that [a prototype] and then finding out how people respond."
+
+For me the exposure the attendees got to this more playful design approach and remembering who they are doing it for - an audience, the people who need ‘serving’ - was a big win. But the biggest win was the number who were "going to take this approach back to the office", as well as the connections people made. ("Can I have your number?" "It's on the council intranet." "I forget about that. The council's so big!")
+
+The only downside? A few thinking "Not sure my boss will agree/understand/get this." Maybe next year this year's attendees could convince those bosses to try it out.
+
+![Having fun!](http://photos-d.ak.instagram.com/hphotos-ak-xfp1/10358449_247946572063043_1567446416_n.jpg)
+
+I was chuffed to bits the event went so well, as did the rest of the team running the event. What'll be interesting for me will be what the attendees do next, and hopefully those guys will report back at some point in the not-too-distant-future about how some of the GovJam spirit has helped them within their services!
+
+***
+
+If you want to discover more, here are some online records of the event:
+
+* [The Leeds GovJam website](https://leedsgovjam.wordpress.com/)
+* [The projects on Planet Jam](http://www.govjam.org/jamsite/22147/projects)
+* [An excellent album of pictures from Lisa Jeffery](https://www.flickr.com/photos/116167444@N02/sets/72157645003531784) (some of which are in this post)
+* [Storify collection of tweets around the event](https://storify.com/sdleeds/leeds-govjam-2014)
+
+***
+
+Picture credits: [Lisa Jeffery](https://twitter.com/lisajjeffery), [Georgiana Mannion](https://twitter.com/MrsWomannion), me
