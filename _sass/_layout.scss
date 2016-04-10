@@ -11,7 +11,7 @@
 }
 
 .site-title {
-    font-size: 26px;
+    font-size: 19px;
     font-weight: 300;
     line-height: 56px;
     letter-spacing: -1px;
@@ -187,6 +187,7 @@
 .post-meta {
     font-size: $small-font-size;
     color: $grey-color;
+    margin-bottom: 40px;
 }
 
 .post-link {
@@ -207,6 +208,7 @@
     font-size: 42px;
     letter-spacing: -1px;
     line-height: 1;
+    margin-bottom: 40px;
 
     @include media-query($on-laptop) {
         font-size: 36px;

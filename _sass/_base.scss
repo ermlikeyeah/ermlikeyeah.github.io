@@ -92,7 +92,7 @@ h1, h2, h3, h4, h5, h6 {
  */
 a {
     color: $brand-color;
-    text-decoration: none;
+    text-decoration: underline;
 
     &:visited {
         color: darken($brand-color, 15%);
@@ -110,12 +110,14 @@ a {
  * Blockquotes
  */
 blockquote {
+    font-family: "Helvetica Neue", Helvetica, Arial;
     color: $grey-color;
-    border-left: 4px solid $grey-color-light;
+    margin: 40px 0;
+    border-left: 4px solid $grey-color-dark;
     padding-left: $spacing-unit / 2;
-    font-size: 18px;
-    letter-spacing: -1px;
-    font-style: italic;
+    font-size: 20px;
+    letter-spacing: 0px;
+    font-style: none;
 
     > :last-child {
         margin-bottom: 0;
