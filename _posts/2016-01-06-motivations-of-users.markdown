@@ -6,7 +6,7 @@ date: '2016-01-06 08:26:45'
 
 Last week, I was having a chat with someone. (Hello, [Zuz](http://www.twitter.com/techforevil).) We were talking about agile/Agile and service design/Service Design. More on that bit another time.
 
-The chat ended up circling – yes, like vultures in the desert, I guess – around some case studies in the book [This is Service Design Thinking](http://www.amazon.co.uk/This-Service-Design-Thinking-Basics/dp/906369279X). The chat reminded me of a nagging feeling when I read the case studies the first time a few years back: 
+The chat ended up circling – yes, like vultures in the desert, I guess – around some case studies in the book [This is Service Design Thinking](http://www.amazon.co.uk/This-Service-Design-Thinking-Basics/dp/906369279X). The chat reminded me of a nagging feeling when I read the case studies the first time a few years back:
 
 > Why in these cases did they choose service design as their approach? What motivated them?
 
@@ -46,4 +46,4 @@ There is always a reason, there are always motivations. Recognise motivations. Y
 
 ---
 
-Footnote: I touched upon this in 2014 when [I publicly gave a talk at Forefront](https://speakerdeck.com/idlesi/you-say-persona-i-say-person-ah), mentioning the idea of *characters*. I also did a [blog post when I gave the talk](/forefront-leeds-november-2014-reeves-rosser/).
+Footnote: I touched upon this in 2014 when [I publicly gave a talk at Forefront](https://speakerdeck.com/idlesi/you-say-persona-i-say-person-ah), mentioning the idea of *characters*. I also did a [blog post when I gave the talk](/forefront-leeds-november-2014-reeves-rosser).

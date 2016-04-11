@@ -20,7 +20,7 @@ In my first weeks full-time in government I took the innocent/wide-eyed/idealist
 
 > The current way is the way we’ve been doing it for fifteen, twenty years. It works.
 
-The paper form, the only thing sat on the table in front of me in this meeting, became the focal point of the conversation. 
+The paper form, the only thing sat on the table in front of me in this meeting, became the focal point of the conversation.
 
 The recommendation:
 
@@ -52,12 +52,12 @@ Change takes time. And patience. And, most of all, belief in and willing to do d
 
 I read something recently that said [leadership is doing nothing](http://adage.com/article/guest-columnists/a-great-brand-leader-absolutely/302548/). It’s not. Leadership should be about doing something:
 
-* State, reiterate belief
-* Enable doing.
-* Monitored
-* Maintained
-* Referenced.
-* Not only be heard, be seen, amongst those doing.
+- State, reiterate belief
+- Enable doing.
+- Monitored
+- Maintained
+- Referenced.
+- Not only be heard, be seen, amongst those doing.
 
 And leadership isn’t management (and likewise management doesn’t automatically mean leadership): Leadership is about showing the way.
 
@@ -67,6 +67,6 @@ User experience has moved away from being just the designer’s role to that of 
 
 Never lose sight of why we are doing it. To transform, enabled by digital and technology. It is enabled by people and it is for people. [Aaron Snow](https://twitter.com/aaronsnow) from [18F](http://18f.gsa.gov) brilliantly put the goals in front of us in one of his slides at Sprint 16 last week.
 
-![Tranform government](/content/images/2016/02/transform.jpeg)
+![Transform government](/content/images/2016/02/transform.jpeg)
 
 Have patience. Have understanding. Be mindful it is change we are dealing with — don’t let it slap you in the face like it did me. Keep on keeping on.

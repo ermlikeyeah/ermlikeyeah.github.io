@@ -4,7 +4,7 @@ title: Why the Bronx Burned, a cautionary tale on bad data usage
 date: '2015-11-06 08:03:24'
 ---
 
-[Earlier this week I suggested](www.ermlikeyeah.com/openly-talking-across-government-about-design/) if you *read one thing this week*, make it [Katy Arnold's recent piece on designing within Home Office Digital](https://hodigital.blog.gov.uk/2015/10/23/user-research-and-design-in-home-office-digital/).
+[Earlier this week I suggested](/openly-talking-across-government-about-design) if you *read one thing this week*, make it [Katy Arnold's recent piece on designing within Home Office Digital](https://hodigital.blog.gov.uk/2015/10/23/user-research-and-design-in-home-office-digital/).
 
 If you *listen to one thing this week*, make it the recent episode of the FiveThirtyEight podcast, *[What's The Point](http://fivethirtyeight.com/tag/whats-the-point/)*.
 

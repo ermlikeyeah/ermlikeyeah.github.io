@@ -19,7 +19,7 @@ On the service I am on I've used two [Google Ventures design sprints](http://www
 ####The problem with 'prototype'
 Up front I spied one slight issue with this week's show and tell: There's a sliding scale on how people define prototypes.
 
-Some see them as a thing that tests something. (Which I do, [as blogged about here](http://www.ermlikeyeah.com/a-short-note-about-prototyping/).)
+Some see them as a thing that tests something. (Which I do, [as blogged about here](/a-short-note-about-prototyping).)
 
 Others, at the other end of the scale, can see prototypes as a sort, say, of hyper-rich specification, if you will, that they can use to do a full build against.
 

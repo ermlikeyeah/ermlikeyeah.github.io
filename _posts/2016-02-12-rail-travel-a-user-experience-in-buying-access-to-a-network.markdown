@@ -10,13 +10,13 @@ Sometimes I book the ticket in advance, using the Trainline.com’s app.
 
 My user journey and needs are pretty straightforward.
 
-> I am travelling from Shipley to Newcastle. I will be coming back at some point in the next few days - I am not sure when, so let’s keep that open. I want to [leave at/arrive by] this time on that day. Show me the tickets I can choose from.
+> I am traveling from Shipley to Newcastle. I will be coming back at some point in the next few days - I am not sure when, so let’s keep that open. I want to [leave at/arrive by] this time on that day. Show me the tickets I can choose from.
 
 My options for leaving are always between 6am and 7:30am. Invariably I go for the cheapest option against the times presented. An *off-peak return for about £60*.
 
 Sometimes I turn up to the train station without pre-booking a ticket. My user need when I have turned up at a train station without a pre-booked ticket (which is pretty regularly) is pretty straightforward.
 
-> I am travelling from Shipley to Newcastle. I have turned up to travel so I want to leave as soon as possible so I can arrive at my destination as soon as possible. I will be coming back at some point in the next few days - I am not sure when, so let’s keep that open. Can I have a ticket, please?
+> I am traveling from Shipley to Newcastle. I have turned up to travel so I want to leave as soon as possible so I can arrive at my destination as soon as possible. I will be coming back at some point in the next few days - I am not sure when, so let’s keep that open. Can I have a ticket, please?
 
 I have two options: a manned ticket office or the automated ticket machine.
 
@@ -38,11 +38,11 @@ By the time the train got into Leeds the conductor hadn’t reached me. So I wen
 
 This morning at that window I was told several things by the Northern Rail staff at Leeds station:
 
-1. **“Travelling without a ticket is illegal.”**
+1. **“Traveling without a ticket is illegal.”**
 I knew this, accept this, and cool with this. But it’s a bit hard to actually buy a ticket when the ticket machine at the unmanned Apperley Bridge station wasn’t working and no conductor got to me on my train into Leeds. So I had no choice but to go to the ticket window at Leeds station.
-2. **“Travelling without a ticket is illegal” and therefore (and I quote) “invalidates my right to any discount.”**
+2. **“Traveling without a ticket is illegal” and therefore (and I quote) “invalidates my right to any discount.”**
 It was made clear by the chap at the back of the ticket office that I was not allowed a non-peak return as I had got on the train without a ticket. Doing this removed any “rights” I had.
-3. **For the past five or six months I have been travelling illegally using an off-peak ticket. I should have bought peak tickets.**
+3. **For the past five or six months I have been traveling illegally using an off-peak ticket. I should have bought peak tickets.**
 I have been buying the wrong tickets, despite explaining these being the tickets I have been given by Northern Rail's own staff over the past months. I showed some previous tickets (as I have to claim the trains back). When showing the Trainline app with the same price as the ticket I'd got from Shipley previously as another example it was explained “the Trainline has different rules”.
 4. **I “should know what peak and off-peak is before accepting a ticket”.**
 Whether I buy a ticket from a train station ticket office, a ticket machine, or a web-based service I shouldn’t have to be the one that understands off-peak and peak travel. That’s not my system to understand. I just want a ticket that is right for the conditions. And, yes, I am happy to pay whatever. I just want consistency. And confidence I am being sold the right product for the service I want to use.
@@ -53,7 +53,7 @@ On the train from Leeds to York another passenger was pulled up for having an of
 
 “But I was *sold* this by the ticket office,” the passenger countered again.
 
-“It’s your responsiblility to ensure you have the right ticket for travel,” countered the conductor.
+“It’s your responsibility to ensure you have the right ticket for travel,” countered the conductor.
 
 The exchange went on a little more. I said I’d had the same problem this morning. Several other passengers also piped in. The conductor was understanding, and then said this regularly happens. But, again, he reminded us we should know what off-peak and peak is.
 

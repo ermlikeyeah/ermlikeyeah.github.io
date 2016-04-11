@@ -5,7 +5,7 @@ date: '2015-11-17 21:50:00'
 ---
 
 ####1
-Working on creating HMRC's digital services there's great benefits using GDS's work as a platform ([blogged about previously here](http://www.ermlikeyeah.com/gds-as-a-platform/)). It's informed. It's easy to access to crib from. It helps us get up and running. It helps us get on with the work.
+Working on creating HMRC's digital services there's great benefits using GDS's work as a platform ([blogged about previously here](/gds-as-a-platform)). It's informed. It's easy to access to crib from. It helps us get up and running. It helps us get on with the work.
 
 The pay-off: There's also limits in what we do at work. Do not misread this: The work I do is fun, a certain kind of fun.
 

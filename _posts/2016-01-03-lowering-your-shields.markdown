@@ -8,7 +8,7 @@ Yesterday morning I was starting to feel a slight case of “head back to work t
 
 The same morning a piece from [Rands](http://randsinrepose.com) started doing the digital media rounds. Called [Shields Down](http://randsinrepose.com/archives/shields-down/) it’s worth a read.
 
-Rands discusses when you decide to look around somewhere else, when you imagine yourself that somewhere else, when you decide you are going to resign from your current post, when your shields come down. 
+Rands discusses when you decide to look around somewhere else, when you imagine yourself that somewhere else, when you decide you are going to resign from your current post, when your shields come down.
 
 In Rands’ piece is a proposed mental checklist to “aggregate your opinions on”:
 
@@ -23,9 +23,9 @@ In Rands’ piece is a proposed mental checklist to “aggregate your opinions o
 * Do I believe in the vision?
 * Do I trust the leaders?
 
-Good list that. A couple of things arguably missing, but solid enough. 
+Good list that. A couple of things arguably missing, but solid enough.
 
-Anyway. This piece came out several days after [I’d squirrelled away in a post](http://www.ermlikeyeah.com/coffee-and-toast/) I had been for a look somewhere. 
+Anyway. This piece came out several days after [I’d squirreled away in a post](/coffee-and-toast) I had been for a look somewhere.
 
 I am nosy as to what people are doing, how they do it, why they do it, who they do it and the places they do it. I have seen things you people would not believe. I want to work in the best places possible. But that does not mean I am looking to move.
 
@@ -41,6 +41,6 @@ And then validate that:
 
 Because *could* and *can* are separated: Recognition of possibility needs to be enabled by ability/permission.
 
-> *Can* we do some of that stuff we *could* do into our current gaff? Y’know, improve where we are. 
+> *Can* we do some of that stuff we *could* do into our current gaff? Y’know, improve where we are.
 
 When you can't is when having your shields down is the most dangerous.

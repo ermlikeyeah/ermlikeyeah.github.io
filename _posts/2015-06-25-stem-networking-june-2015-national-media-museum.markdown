@@ -16,7 +16,7 @@ The [National Science Festival](http://www.britishscienceassociation.org/british
 
 After some networking there were a couple of quick stand-up talks, including a revealing one about getting funding. There's loads of little pockets of funding for STEM in schools out there, which seem easy to get. Is this because not enough people are going for them?
 
-As someone who is a governor at a Bradford school, as someone who works in the "digital industry" as a consultant (and increasingly around education), and someone who volunteers to help educate and promote through my involvement with things like the [Bradford Coder Dojo](http://www.ermlikeyeah.com/tag/coderdojo-bradford/), it was an event that was just about right. All the talkers gave some valuable insight, and individually and collectively it wasn't too overwhelming in length or content.
+As someone who is a governor at a Bradford school, as someone who works in the "digital industry" as a consultant (and increasingly around education), and someone who volunteers to help educate and promote through my involvement with things like the Bradford Coder Dojo, it was an event that was just about right. All the talkers gave some valuable insight, and individually and collectively it wasn't too overwhelming in length or content.
 
 And as someone who has a deep love for the museum, it's great to see the museum being as open, accommodating, and engaging as they were/are.
 

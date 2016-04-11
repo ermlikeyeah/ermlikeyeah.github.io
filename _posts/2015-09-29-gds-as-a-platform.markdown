@@ -7,7 +7,7 @@ date: '2015-09-29 19:30:00'
 ####1.
 I’ve lost count of how long I’ve been working for HMRC on creating their digital services. It’s not that big a number. It's early double digits of weeks. Maybe eleven. I don’t know exactly how long.
 
-Since I wrote my [three weeks up](//www.ermlikeyeah.com/hmrc-nearly-three-weeks-up/) post I’ve done a lot more: Absorbed more, learnt more, taught a lot more, traveled more, and made more. It’s been more full-on than those jam-packed first few weeks.
+Since I wrote my [three weeks up](/hmrc-nearly-three-weeks-up) post I’ve done a lot more: Absorbed more, learnt more, taught a lot more, traveled more, and made more. It’s been more full-on than those jam-packed first few weeks.
 
 I still bump into friends for the first time since I moved inside, and some ask why I took the role. I touched on some of that before, in the earlier post. There’s still a myriad of other reasons, and I'll come to some here.
 

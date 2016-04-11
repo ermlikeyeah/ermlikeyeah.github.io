@@ -10,7 +10,7 @@ It hits lunchtime, it’s been a while so we’re having a good gas over coffee.
 
 We got ruminating about what we would called this sort of place. It’s not an agency. Maybe it’s a studio. A design business? A software house? Creative technology firm? We go on, and start to shudder and giggle at what we’re saying. We didn’t really come to a conclusion, we move on, comparing notes on how my mate’s place and where I work operate.
 
-I’ve posted before about working at [HMRC Digital](/tag/hmrc-digital/). A lot of how our places of work go about doing work: Comparable. Agile, sprints, exploring through prototypes, working “with the business”. They seem to have the edge getting something working out into the open faster, but something to work on. There’s breakout spaces, and big whiteboard wall surfaces you can draw on. And we’re nodding at how alike our “public” and “private” workplaces are.
+I’ve posted before about working at HMRC Digital. A lot of how our places of work go about doing work: Comparable. Agile, sprints, exploring through prototypes, working “with the business”. They seem to have the edge getting something working out into the open faster, but something to work on. There’s breakout spaces, and big whiteboard wall surfaces you can draw on. And we’re nodding at how alike our “public” and “private” workplaces are.
 
 Stop for a second there. Pretty amazing that, ways of working in the public and private sectors being alike.
 

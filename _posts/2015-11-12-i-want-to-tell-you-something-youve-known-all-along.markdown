@@ -30,7 +30,7 @@ A lot of work going on is looking address that, including digital services as pa
 
 I've said before Inheritance Tax is hard. I want to work so it isn't hard. I want to work for it to be as painless as possible.
 
-I've [blogged before about doing research to make an online Inheritance Tax service](/research-with-users-to-understand-gifts/). 
+I've [blogged before about doing research to make an online Inheritance Tax service](/research-with-users-to-understand-gifts). 
 
 Last week we had user research sessions where I had tried lead us to look at the wider service, not just the digital bit, and find a way through Inheritance Tax for users, for citizens. This is hard when you are assigned to do *the digital bit*. But the difficulties outside of *the digital bit* can strangle your digital service. So you have to look back up the stream.
 
@@ -40,6 +40,6 @@ And with perfect timing there was also [this news](http://www.theguardian.com/po
 
 I will blog more on the service thing later, I promise.
 
-So, for the time being this means I will be continuing to bomb round the country, to meet colleagues within wider government, and everyday people. At the moment I visit at least three cities in the UK every week for work, and I don't want that to stop. 
+So, for the time being this means I will be continuing to bomb round the country, to meet colleagues within wider government, and everyday people. At the moment I visit at least three cities in the UK every week for work, and I don't want that to stop.
 
 By the way, Sky in Leeds are hiring.

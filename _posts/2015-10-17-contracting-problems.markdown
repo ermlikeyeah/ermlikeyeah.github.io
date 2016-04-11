@@ -55,7 +55,7 @@ A lot of us are cut from the agency cloth. We know sometimes we have to go the e
 
 We talk about the things we want the design community where we work to be, how we can contribute. We talk about how we can use our experience. We talk about how we want to mentor the placement students. We work out ways we can work closer with the content designers, with the user researchers, with the business analysts, with the front-enders, with everyone.
 
-At one point there’s the suggestion we should get a megaphone and stand at one end of the atrium and declare a manifesto with design at the centre (because [design is the team’s work](/design-is-teamwork/)). Eeee, ales, eh.
+At one point there’s the suggestion we should get a megaphone and stand at one end of the atrium and declare a manifesto with design at the centre (because [design is the team’s work](/design-is-teamwork)). Eeee, ales, eh.
 
 But why the fuck not?
 

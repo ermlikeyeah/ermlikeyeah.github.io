@@ -5,7 +5,7 @@ date: '2015-10-16 15:48:25'
 ---
 
 ####0
-I was [saying earlier](/gds-as-a-platform/) (using the work of GDS as an example) having a platform to do work off is important, defining how we work is *important*.
+I was [saying earlier](/gds-as-a-platform) (using the work of GDS as an example) having a platform to do work off is important, defining how we work is *important*.
 
 ####1
 Places of work like to talk about the way they work as a Really Important Thing.
@@ -53,7 +53,7 @@ Sometimes people move because they just want to *try* something different.
 
 Whether you’re a “client” or an “employee” there’s a line.
 
-Spelling out process on your website, in your pitches to potential clients in your decks, and in interviews to potential employees in handbooks is just a promise. 
+Spelling out process on your website, in your pitches to potential clients in your decks, and in interviews to potential employees in handbooks is just a promise.
 
 Doing it is another.
 

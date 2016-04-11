@@ -8,7 +8,7 @@ date: '2015-10-19 06:41:12'
 At HMRC Digital we look to put user needs first, designing and creating digital services that are shaped around what works for users of the services.
 
 ####2
-Three weeks into my time at HMRC Digital I wrote about working in a team in government, which you can [read here](/hmrc-nearly-three-weeks-up/). I dealt in broad strokes previously.
+Three weeks into my time at HMRC Digital I wrote about working in a team in government, which you can [read here](/hmrc-nearly-three-weeks-up/. I dealt in broad strokes previously.
 
 Now approaching three months on the job, I thought it might be useful to explore how we are approaching creating the inheritance tax digital online service with a user first approach.
 
@@ -70,13 +70,13 @@ As we have it in the service at the moment:
 
 * A debt is anything owed by the deceased.
 
-* A gift is anything given away by the estate. 
+* A gift is anything given away by the estate.
 
 There are different types of asset, debt, and gift.
 
 We have designed the service so the user can provide information as simply as possible. In many cases we employ a simple ask a question and get a “Yes” and “No” response. And we provide supplemental and guiding information wherever we can, to aid the user.
 
-The information provided by the user allows the service (and therefore HMRC) to reach a conclusion – which you might remember is “Do I need to pay any inheritance tax on this?” 
+The information provided by the user allows the service (and therefore HMRC) to reach a conclusion – which you might remember is “Do I need to pay any inheritance tax on this?”
 
 ####9
 The assets and debts parts of the online service are in a position where we feel we can push the service into ‘beta’. Beta means we would make the service available online so the public can use the service – and by using it helping us understand user needs even more, so we can adapt the service to meet those needs. (Because we’re driven by research.)
@@ -98,11 +98,11 @@ We also had user feedback about the tone of the language, with suggestions there
 ####12
 Because user research sessions are about exploring we decided we would use the Friday to pull together a prototype that provides several pages of simple, clear explanations of “gifts”, written in a slightly more informal tone. These pages would come before the user enters any gift information.
 
-A prototype is something that tests an idea. (I have [blogged about this before](/a-short-note-about-prototyping/).) The prototype we looked to make is a "fake" version of the service that users could use in a web browser, as if it was the real thing.
+A prototype is something that tests an idea. (I have [blogged about this before](/a-short-note-about-prototyping).) The prototype we looked to make is a "fake" version of the service that users could use in a web browser, as if it was the real thing.
 
 Although we moved quickly to make this prototype, as a team – myself, Andy the content designer, and Sara our user researcher – we huddled and worked nimbly, first sketching out some wireframes, understanding what content we need, how we will divide it, and then setting to work on making this around my Macbook.
 
-I code using the [GDS prototype kit](https://github.com/alphagov/govuk_prototype_kit) using our sketches as reference, while Andy pulls together the copy we need as content. Sara, as always, keeps us on track making sure we meet user needs, as well as helping shape some of the detail of the upcoming research sessions. 
+I code using the [GDS prototype kit](https://github.com/alphagov/govuk_prototype_kit) using our sketches as reference, while Andy pulls together the copy we need as content. Sara, as always, keeps us on track making sure we meet user needs, as well as helping shape some of the detail of the upcoming research sessions.
 
 On Saturday I took a couple of hours to review the work (always good to sleep on something new), and did a couple of tweaks.
 
@@ -138,7 +138,7 @@ Where would they get this information, where would they find out what to get, ho
 We have some ideas which we need to put in front of users, see how they respond. Because, at the end of the day, it’s not about what I think is right, or anyone else in the team thinks is right – it what is right for our users, it is what works for our users.
 
 ####16
-We’ll be continuing to research this in the coming couple of weeks. Hopefully I will be able to update you in the near future on how we get on. 
+We’ll be continuing to research this in the coming couple of weeks. Hopefully I will be able to update you in the near future on how we get on.
 
 ####Footnotes
 If you want to read more on how we design in government there's a great post by Rebecca Cottrell [on the GDS design notes blog](https://designnotes.blog.gov.uk/2014/10/13/how-designers-prototype-at-gds/).

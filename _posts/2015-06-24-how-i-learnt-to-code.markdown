@@ -44,7 +44,7 @@ I typed that in, hit the return key.
 
 The computer replied `24`. Fast! I gave it a few, admittedly simple, maths problems, possibly in the hope I'd catch it out, it'd get one wrong.
 
-I quickly learnt that instead of `x` for multiply I needed to use `*`.  For `÷` I needed `/`. 
+I quickly learnt that instead of `x` for multiply I needed to use `*`.  For `÷` I needed `/`.
 
 I then learnt I could store values in `variables`.
 
@@ -67,11 +67,11 @@ On my screen - a TV the computer was plugged into - the computer printed MY NAME
 
 From going through the early half of the Commodore 64 manual I learnt concepts then that shaped my coding:
 
-* How to display something
-* How to store information
-* How to manipulate information
-* How to loop
-* Think about the design of my computer program before I started.
+- How to display something
+- How to store information
+- How to manipulate information
+- How to loop
+- Think about the design of my computer program before I started.
 
 ...which in short is everything you need to get up and running if you want to go "full code". And a lot of these programs were simple, short. But they were done in an environment that presented me with no option but to type something in, allowing me manipulate my machine.
 

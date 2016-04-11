@@ -16,7 +16,7 @@ People always want to do better. When you spend the majority of your week at wor
 
 But the language of contrasting mindsets, the language of factions, the language of conflict. It’s just not needed. It’s understandable – because better – but really? There’s no need, for yourself, for the closer team, for the wider team.
 
-This mismatch always comes down to a lack of agreement in how to work. Taking that time upfront to sit down and talk, to understand. 
+This mismatch always comes down to a lack of agreement in how to work. Taking that time upfront to sit down and talk, to understand.
 
 “We don’t have time to sit down right now.”
 
@@ -24,7 +24,7 @@ Of course you do. How long does it take to talk together, to understand, and to 
 
 Agreement isn’t just saying yes. It’s about understanding, sharing, and agreeing to a way of working – and then actually working in that shared frame of mind. That includes the process, the structure, the systems, the stakeholders, all the things.
 
-Last week I [posted on motivations](/motivations-of-users/). Work can be as much personal motivations as they can be centred around your users or audience insight and business needs.
+Last week I [posted on motivations](/motivations-of-users). Work can be as much personal motivations as they can be centred around your users or audience insight and business needs.
 
 The best work never comes from ego alone.
 

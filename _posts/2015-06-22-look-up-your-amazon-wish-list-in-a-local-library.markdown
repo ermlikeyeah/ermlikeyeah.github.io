@@ -44,4 +44,4 @@ Likewise, any council library system that uses the Capita Discovery system can b
 
 And that's it. Thanks again if you replied last week. It was some of those replies that got me thinking about this latest "quick code". I apologise again it isn't the neatest and a little looser than last week's, but I didn't have loads of time (and partially on purpose). As a little "proof of concept" it does the job.
 
-As always let me know what you think, good and not-so-good! You can post comments below, get me on Twitter at [www.twitter.com/ermlikeyeah](//www.twitter.com/ermlikeyeah), and email at [si@studioofthings.com](mailto:si@studioofthings.com).
+As always let me know what you think, good and not-so-good! Get me on Twitter at [www.twitter.com/ermlikeyeah](//www.twitter.com/ermlikeyeah), and email at [si@studioofthings.com](mailto:si@studioofthings.com).

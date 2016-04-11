@@ -22,24 +22,23 @@ On the train home I created a US version. It's not the prettiest thing, mind. Do
 I was curious what the Scores on the Doors were like near me. This quick hack takes openly available data and does some simple analysis. Needs some design work and the code could do with some efficiencies – but it works.
 
 * [Have a look](http://www.studioofthings.com/dev/playground/livefoodauthorities.php)
-* [Read blog post about this](/view-your-local-scores-on-the-doors/)
+* [Read blog post about this](/view-your-local-scores-on-the-doors)
 
 ####Amazolibrarymash
-Take an Amazon wishlist and then look it up against the catalogues of Bradford, Leeds, or North Yorkshire libraries. 
+Take an Amazon wishlist and then look it up against the catalogues of Bradford, Leeds, or North Yorkshire libraries.
 
 * [Have a look](http://www.studioofthings.com/books/amazon-wishlist.php)
-* [Read blog post about this](/look-up-your-amazon-wish-list-in-a-local-library/)
+* [Read blog post about this](/look-up-your-amazon-wish-list-in-a-local-library)
 
 ####Event Masher
 Looks up and shows neatly the events out onto Eventbrite, Lanyard, and Meetup.
 
 * [Have a look](http://www.studioofthings.com/eventmasher/)
-* [Read blog post about this](/hacking-together-a-data-masher/)
+* [Read blog post about this](/hacking-together-a-data-masher)
 
 ####Shall I Hang The Washing Out?
 A quick web app that tells you whether you should hang the washing out, or not.
 
 * [Have a look](http://www.studioofthings.com/washingout/index.php)
-* [Read blog post about version 1 of this](/weathering-a-two-hour-hack/)
-* [Read blog post about version 2 of this](/better-when-relevant/)
-
+* [Read blog post about version 1 of this](/weathering-a-two-hour-hack)
+* [Read blog post about version 2 of this](/better-when-relevant)
