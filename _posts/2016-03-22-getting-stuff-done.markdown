@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Getting stuff done
+title: Getting stuff done (in gov)
 date: '2016-03-22 08:42:01'
 ---
 
-I bumped into a pal on the train last week. She, like me, “made the leap” to work for government.
+I bumped into a pal on the train last week. She, like me, “made the leap” to work for (a part) government.
 
 She’s got a bloody good track record, someone who has been there and worked hard to make some really good stuff. She’s smart, know her beans, wants to get stuff done, streetwise, a proper team player. She’s the sort of person that the Googles, Facebooks, Amazons, BBCs, R/GAs, and all that have had — and would love to have. She’s the sort of person it’s good to know we’ve got in government. She’s the sort of person we need more of in government.
 
@@ -31,7 +31,7 @@ Last week Mikey Dickerson of [the U.S. Digital Service](https://www.whitehouse.g
 
 > And I’ll be honest: this can be the most frustrating and difficult work you’ll ever do.
 
-The past week has reiterated here in the UK we, in government, need to be more open (we’re supposed to work in the open) but also be increasingly honest about where we actually are, where we are going, what we’re doing well, and what we’re struggling with. 
+The past week has reiterated here in the UK we, in government, need to be more open (we’re supposed to work in the open) but also be increasingly honest about where we actually are, where we are going, what we’re doing well, and what we’re struggling with.
 
 Digi gov is very good at celebratory PRing what’s very good. What place isn’t? We need to cover the other stuff as openly as well. And not just from people who have left the grid, [like Tom Harrop](https://medium.com/@fightfortheuser/gov-uk-from-the-inside-e3d0ab3479e6#.y42rc3yfe). People still inside.
 
