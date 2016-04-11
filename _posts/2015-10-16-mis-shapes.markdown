@@ -4,10 +4,10 @@ title: Mis-shapes
 date: '2015-10-16 15:48:25'
 ---
 
-####0
+#### 0
 I was [saying earlier](/gds-as-a-platform) (using the work of GDS as an example) having a platform to do work off is important, defining how we work is *important*.
 
-####1
+#### 1
 Places of work like to talk about the way they work as a Really Important Thing.
 
 Example.
@@ -26,12 +26,12 @@ Usually this is for spelt out openly for the benefit of clients, usually potenti
 
 And, again, quite right.
 
-####2
+#### 2
 Increasingly the Process has become as important, if not more important, to the employees of organisations, again usually potential ones.
 
 To repeat: It recognises, it shows openly organisations have thought through how to get something intangible in, and then out of the door as something tangible.
 
-####3
+#### 3
 Recognising and acknowledging An Actual Process is the least praised part of the (and bear with me here) Making Process — and often the most neglected, the bit taken for granted.
 
 Process has always been Something Acknowledged – but now in the industry/sector I work in it is used a comparator, a differentiator.
@@ -42,7 +42,7 @@ Even when The Process is a variant on Everyone’s Else’s Process, there’s d
 
 Different people always means a difference.
 
-####4
+#### 4
 Now, more so than ever, people can move and will move between companies because there’s a genuine chance to work differently, in a way that isn’t just about working with different people.
 
 And it’s not different for difference’s sake.
@@ -57,8 +57,7 @@ Spelling out process on your website, in your pitches to potential clients in yo
 
 Doing it is another.
 
-####5
-
+#### 5
 “Uncertainty” is a very human trait.
 
 We instinctively fear the unknown and create logical (albeit not always rational) reasoning to create assurance.
@@ -71,7 +70,7 @@ It’s about managing expectancy, creating certainty, and a sense of “job done
 
 That is Process.
 
-####6
+#### 6
 Recognise a Way Of Working that can provide consistency (if not uniformity) for your people.
 
 Ensure it right for your organisation.
@@ -82,12 +81,12 @@ Ensure it right for your work.
 
 And be open and honest about that.
 
-####7
+#### 7
 In the "new way" of working, honesty and openness about where you are with the Job, where you are going with the Job, and exploring how you will get the Job Done are cornerstones of working. Teamwork, eh.
 
 Know what your Way Of Working is. Share it. Use it. Tweak if you have to as you go along – sometimes circumstance requires that. But make sure you are honest and open about it. You want consistency, if not uniformity.
 
-####8
+#### 8
 But, don’t pull the wool over the eyes of the people who do your work and who you do the work for.
 
 Don't say you do it One Way, but actually do work Another Way.
@@ -96,7 +95,7 @@ Don't say you do it One Way, but actually have No Way.
 
 Even worse don't just make it up as you go alone. That road leads ruin.
 
-####9
+#### 9
 Don't sell false hope.
 
 Don't snare work and people in on a false promise.

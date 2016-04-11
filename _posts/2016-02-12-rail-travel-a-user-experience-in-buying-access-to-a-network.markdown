@@ -8,6 +8,8 @@ Since last July I have been working all over the country, but predominantly Newc
 
 Sometimes I book the ticket in advance, using the Trainline.com’s app.
 
+![](/assets/trainline.jpg)
+
 My user journey and needs are pretty straightforward.
 
 > I am traveling from Shipley to Newcastle. I will be coming back at some point in the next few days - I am not sure when, so let’s keep that open. I want to [leave at/arrive by] this time on that day. Show me the tickets I can choose from.

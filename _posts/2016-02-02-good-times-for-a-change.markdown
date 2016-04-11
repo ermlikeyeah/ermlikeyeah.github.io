@@ -16,7 +16,7 @@ There were five points to work through sequentially. 1. 2. 3. 4. 5. It was a roa
 
 They weren’t going to do all the work now in one big go. My colleagues have done the hard work to discover a way to *progressively* examine, make, and alter the way users, customers, citizens, *people* interact with government on a particular thing, to make it *easier*, to make it more a thing of the modern world.
 
-They aren’t going to do all the work now in one big go, disappear, and then reappear, say, a year from now. Their first point will be a start, with something small(wish), that is contained, releasable – and then they will build around and on top of that. It's a buzzy of buzzword: Iteration.
+They aren’t going to do all the work now in one big go, disappear, and then reappear, say, a year from now. Their first point will be a start, with something small(ish), that is contained, releasable – and then they will build around and on top of that. It's a buzzy of buzzword: Iteration.
 
 That’s their plan for now. That could change. They’ll see how it goes as they go along. Things might change. Insight. Policy. Society even. And again, buzzy buzzword time: Agile.
 
@@ -30,7 +30,9 @@ Why do I mention this? It can be all too easy to fall into the “old ways”, t
 
 No. Not this.
 
-When you work on something that can have a positive impact on people’s lives we need to make sure we keep a focus on *getting something out there*. And we need to make sure we can do it sooner rather than later. The “new ways” allow us to drip, drip, drip something out if we want to.
+When you work on something that can have a positive impact on people’s lives we need to make sure we keep a focus on *getting something out there*. And we need to make sure we can do it sooner rather than later. The “new ways” allow us to drip, drip, drip something out if we want to. Piece by piece we launch, until we have a mass of small things out there.
+
+![](/assets/speedboat-race.jpg)
 
 [Sarah Richards wrote recently](http://www.sarahjrichards.com/blog/done-is-better-than-perfect) “Done is better than perfect”. Sarah’s piece was about content, but it resonates a lot further with me. *Done is better than perfect* is also a great focus for the Thing You Are Making.
 

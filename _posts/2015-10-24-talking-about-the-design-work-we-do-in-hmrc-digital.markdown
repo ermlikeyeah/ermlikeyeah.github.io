@@ -4,7 +4,9 @@ title: Talking about the design work we do in HMRC Digital
 date: '2015-10-24 09:55:00'
 ---
 
-You may have noticed during my current gig at HMRC Digital I am trying to share – through blog posts and tweets – what is going on "under the hood". You can [view the blog posts here](http://www.ermlikeyeah.com/tag/hmrc-digital/).
+You may have noticed during my current gig at HMRC Digital I am trying to share – through blog posts and tweets – what is going on "under the hood".
+
+![](/assets/make-things-better.jpg)
 
 Why am I doing this? In part because the GDS team [work openly, sharing their work](https://gds.blog.gov.uk/). The open culture of GDS, leading the way of digital transformation within government design work, is part of the allure of where I am.
 

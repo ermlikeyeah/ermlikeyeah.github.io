@@ -6,6 +6,8 @@ date: '2016-03-22 08:42:01'
 
 I bumped into a pal on the train last week. She, like me, “made the leap” to work for (a part) government.
 
+![](/assets/the-right-stuff.jpg)
+
 She’s got a bloody good track record, someone who has been there and worked hard to make some really good stuff. She’s smart, know her beans, wants to get stuff done, streetwise, a proper team player. She’s the sort of person that the Googles, Facebooks, Amazons, BBCs, R/GAs, and all that have had — and would love to have. She’s the sort of person it’s good to know we’ve got in government. She’s the sort of person we need more of in government.
 
 During our train trip we had a catch up, talked about life an’that, and eventually ended up comparing our bits of government.

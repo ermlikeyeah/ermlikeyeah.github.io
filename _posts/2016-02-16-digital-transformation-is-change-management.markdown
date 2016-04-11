@@ -48,7 +48,7 @@ Of course it’ll be hard, of course it’s hard. We’re doing in the face of t
 
 Change takes time. And patience. And, most of all, belief in and willing to do digital transformation.
 
-![Solve human problems](/content/images/2016/02/solve-human-problems.jpeg)
+![Solve human problems](/assets/solve-human-problems.jpg)
 
 I read something recently that said [leadership is doing nothing](http://adage.com/article/guest-columnists/a-great-brand-leader-absolutely/302548/). It’s not. Leadership should be about doing something:
 
@@ -63,10 +63,10 @@ And leadership isn’t management (and likewise management doesn’t automatical
 
 User experience has moved away from being just the designer’s role to that of the whole team. Never has design simultaneously been at the forefront and in danger of being watered down. But the designer’s role has become more focused, to concentrate on the product, to have permission to shape the service. And in government, despite its monopolies, it is a service, it is made of services. Design isn’t intangible. Design has visible, interactive manifestations. Design now has a point to lead.
 
-![Design is the process](/content/images/2016/02/design-is-the-process-1.jpeg)
+![Design is the process](/assets/design-is-the-process-1.jpg)
 
 Never lose sight of why we are doing it. To transform, enabled by digital and technology. It is enabled by people and it is for people. [Aaron Snow](https://twitter.com/aaronsnow) from [18F](http://18f.gsa.gov) brilliantly put the goals in front of us in one of his slides at Sprint 16 last week.
 
-![Transform government](/content/images/2016/02/transform.jpeg)
+![Transform government](/assets/transform.jpg)
 
 Have patience. Have understanding. Be mindful it is change we are dealing with — don’t let it slap you in the face like it did me. Keep on keeping on.

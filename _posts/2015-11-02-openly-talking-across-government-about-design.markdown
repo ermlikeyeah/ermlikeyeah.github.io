@@ -4,7 +4,7 @@ title: Openly talking across government, about design
 date: '2015-11-02 08:30:00'
 ---
 
-####0
+#### 0
 There are many great reasons to work in government designing and creating services.
 
 One of them is the way – and ways – of working. If not uniformity, there's certainly consistency.
@@ -19,20 +19,20 @@ Another great reason is that there are many of us that want to and like to talk 
 
 Within government this openly talking is super-handy. Why?
 
-####1
+#### 1
 Citizens of the United Kingdom pay for this work through their taxes. This is us showing our thinking and work to you. We are working in the open. That simple.
 
-####2
+#### 2
 By showing you our work, you know we’re not doing this locked away in a soundproof room. We are listening, reacting. Showing we listen gives you confidence in what we are doing. And hopefully it gives you confidence in where government services are going.
 
-####3
+#### 3
 By talking openly, hopefully it makes government seem an appealing place to work. It worked for me, and I am still here. It’s worked for others.
 
 The more top drawer thinkers, makers, doers we have working for government, the better.
 
 How exciting is that we can entice people from the “private” side to the “public” side to make better services we use every day as part of our interface, our interaction, our conversation even with government?
 
-####4
+#### 4
 Government has many arms.
 
 Someone said a few months back it’s like an octopus. I’ve recently seen Spectre, where the octopus is a symbol for a disruptive organisation, albeit a bad-bad-bad one. So maybe not that analogy – but you get the idea.
@@ -47,7 +47,7 @@ Talking openly from one of those arms, on sticky web places like blogs, means th
 
 On that point, GDS are good on that shizz. And DWP Digital are pretty close behind. And they're not alone.
 
-####5
+#### 5
 Last week, the immensely engaging and always-seemingly-impeccably-dressed [Katy Arnold](www.twitter.com/katyarnie), over at Home Office Digital, recently added to that pot when Katy shared how she, her team, her “arm” are doing things. You can [find the post here](https://hodigital.blog.gov.uk/2015/10/23/user-research-and-design-in-home-office-digital/).
 
 It’s an excellent read, especially as Katy has also given links off to supporting material for those who want a fully rounded briefing.

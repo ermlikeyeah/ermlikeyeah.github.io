@@ -4,15 +4,15 @@ title: Contracting problems
 date: '2015-10-17 08:02:42'
 ---
 
-####1
+#### 1
 It’s a couple of weeks back. It’s a weekday morning, about half seven. I’ve been staying over in a hotel, and sat eating breakfast at a table on my own.
 
-####2
+#### 2
 Times like this I am usually lost in [Feedly](http://www.feedly.com/) on my phone, catching up on news and stuff. It’s not unusual. There’s usually the murmur from other tables. Between articles I catch snippets. Most of the time I do have a quick listen. It’s easy to be curious, eh?
 
 But most of the time I go back to Feedly while I eat and drink.
 
-####3
+#### 3
 This morning I am between articles. I hear the murmurs from the next table. These guys are up from London, they’re going into somewhere to today to check on something.
 
 > They’re contractors. They’re not invested. They don’t care. They turn up, do their thing, do their hours, clock out.
@@ -21,7 +21,7 @@ The chaps continued on. They took contractors are a mass, a whole, and applied t
 
 The last thing I overheard those chaps say before I left – having finished my breakfast rather than a sense of weariness in what they were saying – was how contractors aren’t there forever. “Full time staff” were presented as people who would never leave their place of work.
 
-####4
+#### 4
 I walk into work, thinking about what I overheard.
 
 Sometimes I say I am an “accidental freelancer”. I freelance/contract because I need to work. When there’s no full time roles for you you look at other ways of working. So, at the mo freelance/contract work keeps me busy, in work, and being paid.
@@ -42,7 +42,7 @@ After work that day, I finish at half six. Over the past three months I’ve bee
 
 Maybe they do have a point.
 
-####5
+#### 5
 A few days after overhearing these chaps talk I am out for an unwind with some of the other designers.
 
 We’re swapping problems, solutions, things we want to do, things we could do, laughs, rants, enthusiasms – over a couple of ales and a burger.
@@ -59,7 +59,7 @@ At one point there’s the suggestion we should get a megaphone and stand at one
 
 But why the fuck not?
 
-####6
+#### 6
 During the evening not one of us mentions anything about how we are only where we are until a certain point, when the contract runs out. We talk about what we do as a job, which we turn up to every day. Which we do. To us it is our job. We are paid to turn up, and we want to contribute.
 
 You might already be forming the point as contractors that we are paid “alright”. But if working where we are was about money first and foremost most of us acknowledged we’d be somewhere else. Probably places in London, not spending the best past of the marooned away from our families.
@@ -68,7 +68,7 @@ We’re there because we want to do good work, for the people, with our colleagu
 
 And I realise *we* are the antithesis to those guys at breakfast.
 
-####7
+#### 7
 Some of us have started to talk about enjoying it so much we’re looking at how at some point we can become designers within government “full time”.
 
 Some of it is to keep a good thing going, the other is to get out of the “contractor avoidance” that hangs around a little, how there’s certain thing we cannot do because we’re not full time civil servants.
@@ -79,9 +79,7 @@ And here's the crux for me: Whether they are contractors or full time, isn’t i
 
 And assembling a *good team* in the first place is hard, believe me.
 
-####8
-I’d like to end with a sting in this tale.
-
+#### 8
 Those guys at that breakfast table? Later that day I see them walking about where I work. I have no beef with them, or people who think like that. I am on with my thing. They're on with their thing.
 
 Still, proving they are wrong: Just another thing I could add to our list of things that will make where we work a better place. And maybe to people like that wherever they are.

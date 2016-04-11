@@ -6,6 +6,8 @@ date: '2015-08-27 06:26:50'
 
 I'm staying in Jesmond in Newcastle.
 
+![](/assets/mog-is-home.jpg)
+
 Earlier this week I passed the poster above. You've probably seen this sort of DIY lost cat/dog/other pet animal posters at some time.
 
 This one was stuck to one of those metal cabinets you sometimes see in streets, that probably houses a technical exchange of some sort. (Something worth breaking your walk to check next time you go past one, maybe.)

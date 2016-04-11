@@ -6,6 +6,8 @@ date: '2015-09-26 12:10:00'
 
 The monthly Bradford CoderDojo returned today after taking August off for the school holiday.
 
+![](/assets/cd-ev3.jpg)
+
 Held, as usual, at the city's [Curriculum Innovation Centre](https://www.google.co.uk/maps/place/The+Innovation+Centre+Bradford/@53.7948029,-1.7454657,15z/data=!4m2!3m1!1s0x0:0x7d25cca0e49c6198?sa=X&ved=0CHEQ_BIwCmoVChMIy5C8k4iZyAIVC74UCh0xzgKM), there was a really healthy turnout from children and their parents. Thank you to all that came along - if you didn't we wouldn't have a reason to run the Dojos.
 
 There was a wealth of options provided by [the Dojo mentors](http://www.ticbradford.com/coderdojo/mentors) for the children to choose from this month.

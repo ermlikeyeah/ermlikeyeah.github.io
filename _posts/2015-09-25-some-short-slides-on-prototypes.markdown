@@ -16,7 +16,7 @@ On the service I am on I've used two [Google Ventures design sprints](http://www
 
 (Protip: I highly recommend you don't take this approach if you've other stuff on top of this. It's an absolute frier. I just did it as we needed a bit of step change. It's easy to get distracted by "fire fighting" and put off the longer game stuff. It's not fun finishing off your work at 2am and having to get up four hours later to head off for a long day of user research.)
 
-####The problem with 'prototype'
+#### The problem with 'prototype'
 Up front I spied one slight issue with this week's show and tell: There's a sliding scale on how people define prototypes.
 
 Some see them as a thing that tests something. (Which I do, [as blogged about here](/a-short-note-about-prototyping).)
@@ -29,7 +29,7 @@ The prototype I showed - running off my Macbook, made using the GDS prototype ki
 
 The prototype also carried some rough edges - but its primary purpose was there to test structure, user flow, things like that, rather than the nitty-gritty of the overall precision of content (at this point).
 
-####Borrowing from pop culture
+#### Borrowing from pop culture
 To introduce the session I pulled together some slides. Examples of "prototypes" in the wild, in popular culture aren't that prevalent. But there's one in Iron Man 3. So I cadged that. It's a decent one. (I know I borrow from the Marvel Cinematic Universe a lot. Why wouldn't I?)
 
 Why borrow from pop culture? It's something the audience has a decent chance of having seen. And pop culture is usually accessible.

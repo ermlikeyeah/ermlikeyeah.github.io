@@ -3,8 +3,10 @@ layout: post
 title: Codegirl at the Co-op
 date: '2016-02-26 15:44:59'
 ---
-
 A couple of days back I hot-footed across the country from Newcastle to Manchester, via Idle, to take the daughter to a showing of Codegirl at the Co-op’s HQ in Manchester. Codegirl is a documentary film centring on the all-girl teams taking part in the [Technovation](http://www.technovationchallenge.org) Challenge. [Here’s the film’s website](http://www.codegirlmovie.com) and [here’s the IMDB entry](http://www.imdb.com/title/tt5086438/).
+
+![](/assets/co-op-codegirl.jpg)
+
 
 I left work at half twelve, got home at half three, had the daughter in tow, at Apperley Bridge train station by four, and got back home at 11pm, after the couple of hours’ train journey back (it’s been some long weeks with work and I didn’t fancy sleep-driving) – and on a school night. My daughter needed to be up for school in the morning and I had to be back on a train to Newcastle at 7am.
 

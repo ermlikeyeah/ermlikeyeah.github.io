@@ -4,7 +4,7 @@ title: GDS as a platform
 date: '2015-09-29 19:30:00'
 ---
 
-####1.
+#### 1.
 I’ve lost count of how long I’ve been working for HMRC on creating their digital services. It’s not that big a number. It's early double digits of weeks. Maybe eleven. I don’t know exactly how long.
 
 Since I wrote my [three weeks up](/hmrc-nearly-three-weeks-up) post I’ve done a lot more: Absorbed more, learnt more, taught a lot more, traveled more, and made more. It’s been more full-on than those jam-packed first few weeks.
@@ -18,12 +18,12 @@ Another frequent question I get asked — and there are two forms:
 
 There’s an intertwined answer to both of those.
 
-####2.
+#### 2.
 I’ve been at places where there is nothing to work from, no structure, no commonly accepted way of working. There’s no process. There’s no way of getting the work through. There’s no understanding of who does what and why. On projects when there’s been no *brand guidelines*. And ad work where you're a second tier agency doing some DM for a big brand working from a PDF supplied by the "big agency". (And then get an arsey email from the client saying that's not quite the right font and we get super-fruity because What Do They Fucking Expect When They Don't Send Us The Proper Artwork And Fonts To Work From, Eh?.)
 
 Everything just *happens*, by the will, the desire, the talent, and — to a lesser extent — the experience of the people. Somehow it gets done, and usually it is agonising. (And usually not sustainable.)
 
-####3.
+#### 3.
 I’ve been at places where I have gone in and there is some form of structure — but no consistency to the way of work.
 
 I’ve been at places where there is a way of working set down, but the people just don’t dig it. (Might have been responsible for that once, ahem.)
@@ -40,7 +40,7 @@ I answered:
 
 FYI, I didn't get the job.
 
-####4.
+#### 4.
 [GDS](https://www.gov.uk/government/organisations/government-digital-service) is now about four years old. There are people at GDS who are experienced, who know their shit, who have started with nothing other than their brains, their wits, and their goodwill. And they created something that is recognised — and not just in a bandwagon-jumping way — as *good*. And that something isn’t easy to create.
 
 All that work manifests as the current 18 point [Digital by Default Service Standard](http://www.gov.uk/service-manual/digital-by-default).
@@ -53,7 +53,7 @@ Both are great platforms for doing work. GDS's efforts are awesome, a lot of har
 
 And it’s not GDS’s — it openly, publicly available. The GDS way is to *make things open, it makes them better*. It's out there, for you, anyone to pick up and use. Response, reaction to the things GDS do is part of their make-up. Listening and then acting on what they hear.
 
-####5.
+#### 5.
 One of the reasons I signed up to work at HMRC is the immense potential in actually embracing user-centred design to make digitally enabled services. These services are not just used by citizens and businesses, but also the staff within HMRC. And that's *embracing user-centred design*, actually using it as a way of working, not just paying it lip service.
 
 Last week I went to Nottingham and saw rooms full of paper forms, recent paper forms. It’s the most manual, the most non-digital process I have seen for years. And there is a lot more of this within government.
@@ -64,7 +64,7 @@ The transformative effect GDS already have created is noteworthy. That HMRC uses
 
 Build on the shoulders of giants, eh.
 
-####6.
+#### 6.
 People don’t strive for uniformity in the way they work, they just want consistency — with the room to adapt, to wiggle when needed.
 
 People join places because they want an assurance of a way of working. A platform like the Digital by Default Service Standard, is a Good Thing. It means you can look up, go “Alright then”, and get on, acclimatised. If you're a little unsure, the Standards, the design patterns are concise enough to check in on. You know what you should be doing. And it's not about handcuffs or strait jackets - there's plenty of room on how you go about doing it.
@@ -81,7 +81,7 @@ Try either.
 
 I have. They’re not just fucking hard, but they're fucking awful. Those are the hardest you can do.
 
-####7.
+#### 7.
 People sometimes assume I joined because of Ben Terrett. It's not. And it's not because of Mike Bracken. And it’s not because of Tom Loosemore. And it’s not because of Russell Davies. And it's not because of any other person at GDS. It’s not because of any one person in particular. (Although after a couple of beers I would possibly have Russell, so to speak.)
 
 It’s because of the work they all led, they all contributed to, that they all did with a much wider group of people, to create and set down approaches that you can confidently use as springboards, as a platform.
@@ -90,7 +90,7 @@ And, yes, there’s the chance to work *with* GDS. And note, *with*. Not under. 
 
 GDS created the Service Standard working on the initial services they took on.
 
-####8.
+#### 8.
 We - at HMRC - are getting to apply that on the services that HMRC look after. Some really big services. Some really tough services. Some services you will go back to regularly. Some services you will use once, but dip in and out of several times over a few months.
 
 We'll be using and testing the Service Standard ourselves.

@@ -4,7 +4,7 @@ title: Get Git
 date: '2015-12-07 16:30:00'
 ---
 
-####The short version.
+#### The short version.
 With some of my colleagues I am running a short series of lessons that teach the students the basics of Git, a piece of software that allows us to create, store, and recall versions.
 
 The lessons are unapologetically entry level. You can read why in the long version below.
@@ -23,7 +23,7 @@ I am making the lessons openly available.
 
 
 
-####The long version
+#### The long version
 "What is Git?"
 
 "I don't know Git."
@@ -42,7 +42,7 @@ Before I go any further: Git. Don't worry. We're not talking about being a nasty
 
 Anyway, I've never checked if I *know* Git. And I've been using Git for a long time now, six years, maybe seven years.
 
-About the time I started using Git, making web-based stuff was something I'd moved away from in my day job. I tinkered in evenings to keep the skills alive. Git is one of those things (seemingly like all the things I've learnt to do with making things for the internet) I learnt by doing a little reading on the web, and then just using and doing. I didn't go on a course. I didn't take lessons. 
+About the time I started using Git, making web-based stuff was something I'd moved away from in my day job. I tinkered in evenings to keep the skills alive. Git is one of those things (seemingly like all the things I've learnt to do with making things for the internet) I learnt by doing a little reading on the web, and then just using and doing. I didn't go on a course. I didn't take lessons.
 
 So when I heard some people at work saying some of the stuff above it sparked a thought: Do *I* know Git?
 
@@ -50,7 +50,7 @@ I spent a lunchtime going through a couple of online tutorials. It was alright. 
 
 Which is handy. Git is a part of the way we store and share work within government, so it's important as makers of things we understand how it works.
 
-Another part of how we work in government is about people - we put users first, but we're also about collaboration. 
+Another part of how we work in government is about people - we put users first, but we're also about collaboration.
 
 And some of my colleagues were saying that stuff above.
 
@@ -84,4 +84,4 @@ After the third run-through we're just about "there". And we want to share that 
 
 Thank you to my colleagues for helping shape these, and also show the need in the first place.
 
-We'll be adding any follow-up lessons over the coming weeks after we've gone through the same iterating process. 
+We'll be adding any follow-up lessons over the coming weeks after we've gone through the same iterating process.

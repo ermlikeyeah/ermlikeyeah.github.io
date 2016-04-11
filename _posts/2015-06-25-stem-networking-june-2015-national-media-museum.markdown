@@ -6,6 +6,8 @@ date: '2015-06-25 17:30:00'
 
 I popped by the National Media Museum late this afternoon to hear about STEM (science, technology, engineering and mathematics) activities the museum is running and leading for students, schools, and families, as well hearing from bodies outside of the museum.
 
+![](/assets/bradford-stem-media-museum.jpg)
+
 In quite an up-front intro, the museum staff talked about "refocusing" in the past 18 months or so, to lean more against STEM. This seems to be manifesting in more apparent link-ups from its sister museum, the Science Museum in Manchester. The museum also openly admitted they hadn't been listening to teachers in the past, but now they want to. With the range of activities and events the museum runs, this is a great chance for teachers to help shape and influence what the museum puts on and needs to put on. More info for educators is [over on a dedicated part of the National Media Museum's website](http://www.nationalmediamuseum.org.uk/educators).
 
 David Wilkinson introduced and explained West Yorkshire's strong STEM ambassadors community, including a fantastic statistic that 52% of the area's ambassadors are female, compared with a national figure of 40%. They're always on the look out for volunteer ambassadors - as well. There's more over on the [WY STEM website](http://www.wystem.co.uk/). (I may be registering, yes.)

@@ -6,6 +6,8 @@ date: '2016-02-10 15:59:14'
 
 There’s [a sequel to Blade Runner on the way](http://www.empireonline.com/movies/news/blade-runner-sequel-starts-shooting-july/).
 
+![](/assets/blade-runner-fly-shot-1.jpg)
+
 The first Blade Runner is one of those films I can pretty much remember the first time I saw it. It was some point October 1987 to June 1988. I was in my first year at secondary school. During this school year I went to boarding school in Grimsby, and used to spend the weekends with my nana and pop.
 
 (For the record, this wasn’t a pre-perceived punishment. I am from Grimsby. And I am totally cool with this.)
@@ -16,11 +18,11 @@ One of the other times I asked if they could record Blade Runner. I’ll have be
 
 I’d watched a bit of Alien several years before, when I sneaked downstairs after being put to bed, and sat on the stairs of our small semi in Immingham. It was still light, quite sunny actually, and through the gap on the hinge side of the door I could see the TV my mum and dad was watching in the lounge. It was only later I realised it was the Nostromo's canteen I glimpsing.
 
-Nana - or rather pop under nana’s instructions - videoed Blade Runner and I watched it a weekend or two later. 
+Nana - or rather pop under nana’s instructions - videoed Blade Runner and I watched it a weekend or two later.
 
 I was already into films, but Blade Runner really kicked off my interest in science fiction. [The opening](https://www.youtube.com/watch?v=-fu7jN2_2pE) is ace. I still love how the Ladd Company logo builds up. The type of the intro credits. How the score becomes a varying hum as we’re brought up to speed. And then the cut to the plumes of fire from the chimneys/exhausts as we hover above the LA of the future, with a slow zoom in. And then this.
 
-![Eye shot from Blade Runner](/content/images/2016/02/blade-runner-eye.jpg)
+![Eye shot from Blade Runner](/assets/blade-runner-eye.jpg)
 
 Awe-some.
 

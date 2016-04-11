@@ -12,7 +12,7 @@ One bit really caught my eye: The design of the page for the spaces you are look
 
 Here's a grab of a the bulk of a space page.
 
-![](/content/images/2015/12/airbnb-overview.jpg)
+![](/assets/airbnb-overview.jpg)
 
 There's a lot of content in there: Pictures are used to show the spaces off, and the rest relies on words. A lot of it relies on words. There's some titled icons in there to help break things up, again neatly, but there's a lot of words. And there's a neat trick employed to cut the number of words down – and allow the user to bring more content into play when needed. Some good use of space, by the way. Not sure if there is a pun here, design or otherwise.
 
@@ -22,10 +22,10 @@ Part of that neatness comes down to the Amenities section. AirBnB offers you spa
 
 Here's that.
 
-![](/content/images/2015/12/airbnb-1.jpg)
+![](/assets/airbnb-1.jpg)
 
 Again, neat, tidy, and kept to a 2x2 grid. Neater still is when you click **More**. The site reveals a list of *all the options*, with the relevant ones using bolder type and an icon, and the non-relevant struck-out and with less bolder weight.
 
-![](/content/images/2015/12/airbnb-2.jpg)
+![](/assets/airbnb-2.jpg)
 
-Showing all the options. Showing what you get – and then showing what you don't get. No ambiguity. Clear isn't it? 
+Showing all the options. Showing what you get – and then showing what you don't get. No ambiguity. Clear isn't it?
