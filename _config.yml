@@ -19,3 +19,4 @@ github_username:  ermlikeyeah
 
 # Build settings
 markdown: kramdown
+paginate: 5
