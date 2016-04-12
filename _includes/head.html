@@ -14,12 +14,12 @@
   <meta property="og:site_name" content="Erm, like, yeah..." />
   <meta property="og:type" content="website" />
   <meta property="og:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}" />
-  <meta property="og:description" content="{% if post.excerpt %}{{ post.excerpt  | remove: '<p>' | remove: '</p>' | remove: '<strong>' | remove: '</strong>' | escape }}{% else %}{{ site.description | escape }}{% endif %}
+  <meta property="og:description" content="{% if post.excerpt %}{{ post.excerpt | strip_html }}{% else %}{{ site.description | escape }}{% endif %}
 " />
   <meta property="og:url" content="http://www.ermlikeyeah.com/" />
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}" />
-  <meta name="twitter:description" content="{% if post.excerpt %}{{ post.excerpt  | remove: '<p>' | remove: '</p>' | remove: '<strong>' | remove: '</strong>' | escape }}{% else %}{{ site.description | escape }}{% endif %}
+  <meta name="twitter:description" content="{% if post.excerpt %}{{ post.excerpt | strip_html }}{% else %}{{ site.description | escape }}{% endif %}
 " />
   <meta name="twitter:url" content="http://www.ermlikeyeah.com/" />
 

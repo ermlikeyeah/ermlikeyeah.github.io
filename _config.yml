@@ -9,7 +9,7 @@
 title: Simon Wilson's blog
 email: simoncwilson@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  I currently work for HMRC as an interaction designer. These are usually thoughts on digital-enabled strategy and design (experience, service, product, and interaction).
+  The web log of Simon Wilson. Usually thoughts on digital-enabled strategy and design (experience, service, product, and interaction).
 baseurl: "" # the subpath of your site, e.g. /blog
 permalink: /:title
 url: "https://ermlikeyeah.github.io/" # the base hostname & protocol for your site
