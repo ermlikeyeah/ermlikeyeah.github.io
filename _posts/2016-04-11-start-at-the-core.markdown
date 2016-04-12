@@ -22,7 +22,11 @@ In [a recent episode 99% Invisible](http://99percentinvisible.org/episode/the-fr
 
 > First and foremost the credit card was designed to make money for banks, and everything about their design betrays that primary objective. Credit cards don't have to be complicated, they don't have to trick you, but they do, because they were designed that way.
 
-I have written before on [people's expectancies](/design-is-the-process-and-when-designing-works), [designing and making egolessly](blood-simple) to meet users needs. If the skeleton is broken, if the systems that surround it are borked, then putting a new skin on it is just hiding the decay underneath. As [Tom Loosemore put it](https://tom.loosemore.com/2015/11/01/keynote-at-web-directions-2015-sydney/): No more lipstick on pigs.
+I have written before on [people's expectancies](/design-is-the-process-and-when-designing-works), [designing and making egolessly](blood-simple) to meet users needs. If the skeleton is broken, if the systems that surround that skeleton are borked, then putting a new skin on it is just hiding the decay underneath.
+
+As [Tom Loosemore put it](https://tom.loosemore.com/2015/11/01/keynote-at-web-directions-2015-sydney/):
+
+> No more lipstick on pigs.
 
 If parts of an industry that designed the credit card realises this opportunity to do something better for the user, well, so should anyone else offering a service, in ways that go beyond just being "an internet bank" like First Direct and Smile did at the turn of the century.
 
