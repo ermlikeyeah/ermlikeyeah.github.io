@@ -10,16 +10,17 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
   <link href='https://fonts.googleapis.com/css?family=Merriweather' rel='stylesheet' type='text/css'>
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
 
   <meta property="og:site_name" content="Erm, like, yeah..." />
   <meta property="og:type" content="website" />
   <meta property="og:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}" />
-  <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html }}{% else %}{{ site.description | escape }}{% endif %}
+  <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines }}{% else %}{{ site.description | escape }}{% endif %}
 " />
   <meta property="og:url" content="http://www.ermlikeyeah.com/" />
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}" />
-  <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html }}{% else %}{{ site.description | escape }}{% endif %}
+  <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines }}{% else %}{{ site.description | escape }}{% endif %}
 " />
   <meta name="twitter:url" content="http://www.ermlikeyeah.com/" />
 
