@@ -7,7 +7,7 @@ date: '2016-04-03 22:15:00'
 Lovely day in New York. Some fun design finds as well.
 
 ![](/assets/apr-3-1.jpg)
-Those lovely little icons at the top of the bill we got to help whoever serves you. Quite commonplace on bills in the States.
+This lovely little thing at the top of the bill we got, there to help whoever serves you. Quite commonplace on bills in the States. Once you notice it the first time you can't stop noticing it...
 
 ![](/assets/apr-3-2.jpg)
 Coke Zero can for the Final Four.
