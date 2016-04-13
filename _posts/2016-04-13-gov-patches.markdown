@@ -41,4 +41,4 @@ As these patches are not service specific I am going to get a run done, and anyo
 
 I am going to send these to print by the end of the week, once I've checked the designs are tight and have created an artwork file.
 
-If you fancy one (or more) give me a shout (if you're of the government, get me at my HMRC Digital email address or on Slack; anyone else my contact details [are here](/contact)) with which patch(es) you want, how many, and where you are. I'll get an idea of how many to get and work out a way to get them to you.
+If you fancy one (or more) give me a shout (if you're of the government, get me at my HMRC Digital email address or on Slack; anyone else, my contact details [are here](/contact)) with which patch(es) you want, how many, and where you are. I'll get an idea of how many to get and work out a way to get them to you.
