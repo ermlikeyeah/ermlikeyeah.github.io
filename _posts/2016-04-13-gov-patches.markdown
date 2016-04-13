@@ -5,7 +5,7 @@ date: '2016-04-13 21:00:00'
 ---
 Hello there.
 
-Amongst everything else, I've been working on a service patch idea/design this week. If a government passes an assement, it tends to get a patch. HMRC isn't very good at this. ([More](https://gds-missions-alpha.herokuapp.com/missions) [here](http://shannonigansdesign.com/portfolio/sticker-designs-for-moj-digital/).)
+Amongst everything else, I've been working on a service patch idea/design this week. If a government (digital) service passes [an assessment](https://www.gov.uk/service-manual/digital-by-default/assessments-at-gds.html), it tends to get a patch. Tends to as HMRC isn't very good at this. (Wanna know more on the patches? [More](https://gds-missions-alpha.herokuapp.com/missions) [here](http://shannonigansdesign.com/portfolio/sticker-designs-for-moj-digital/).)
 
 Typically I've come up with a couple of smaller, generic ideas (ie. not specific to a service) which came together quickly (or at least quicker) than what I started out doing. Here they are.
 
