@@ -5,13 +5,13 @@ date: '2016-04-13 21:00:00'
 ---
 Hello there.
 
-Amongst everything else, I've been working on a service patch idea/design this week. ([More](https://gds-missions-alpha.herokuapp.com/missions) [here](http://shannonigansdesign.com/portfolio/sticker-designs-for-moj-digital/).)
+Amongst everything else, I've been working on a service patch idea/design this week. If a government passes an assement, it tends to get a patch. HMRC isn't very good at this. ([More](https://gds-missions-alpha.herokuapp.com/missions) [here](http://shannonigansdesign.com/portfolio/sticker-designs-for-moj-digital/).)
 
-Typically I've come up with a couple of smaller, generic ideas (ie. not specific to a service) which came together quickly (or at least quicker) than what I started out doing.
+Typically I've come up with a couple of smaller, generic ideas (ie. not specific to a service) which came together quickly (or at least quicker) than what I started out doing. Here they are.
 
 ![](/assets/100-beta-stickers.jpg)
 
-The patch on the left is the 100 emoji. User centred design is all about keeping it real. Sometimes that is forgotten. Putting users first should always be a badge of pride.
+The patch on the left is the [100 emoji](https://www.quora.com/What-does-the-100-emoji-generally-mean). User centred design is all about keeping it real. Sometimes that is forgotten. Putting users first should always be a badge of pride. It was a quick idea I just did on screen to see how it looked. A little refinement and, yeah, let's get some of those printed!
 
 The patch on the right? I've done posters which are up at HMRC.
 
