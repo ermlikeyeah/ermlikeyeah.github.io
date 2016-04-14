@@ -3,11 +3,11 @@ layout: post
 title: Always be in beta posters
 date: '2016-04-14 08:20:00'
 ---
-In [yesterday's post](2016-04-13-gov-patches), I included an image of some posters we've got up in the Newcastle HMRC office.
+In [yesterday's post on some new patches/stickers](/2016-04-13-gov-patches), I included an image of some posters we've got up in the Newcastle HMRC office.
 
 ![](/assets/always-be-in-beta-posters.jpg)
 
-For the people who have asked off the back of that post and the others who have asked before, I've finally got round to quickly exporting the posters as a PDF.
+For the people who have asked off the back of that post and others who have asked before, I've finally got round to quickly exporting the posters as a PDF.
 
 [You can download the PDF here](/assets/hmrc-always-in-beta-posters-a4.pdf).
 
