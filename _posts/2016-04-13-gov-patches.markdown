@@ -47,6 +47,6 @@ If you fancy one (or more) give me a shout (if you're of the government, get me 
 
 **Update**
 
-The stickers have gone to print. I've ordered 50 of the 100 and 200 of the Beta dog. The 100 stickers will be red print on silver. The artwork sent to print is below. The 100 sticker now has "Users first" on a red border. The beta sticker now has lower case type.
+The stickers have gone to print. I've ordered 50 of the 100 and 200 of the Beta dog. The 100 stickers will be red print on silver. Yes! *Silver*! The artwork sent to print is below. The 100 sticker now has "Users first" on a red border. The beta sticker now has lower case type.
 
 ![](/assets/100-and-beta-artwork.jpg)
