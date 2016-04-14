@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Some new patches
+title: Some new stickers
 date: '2016-04-13 21:00:00'
 ---
 Hello there.
