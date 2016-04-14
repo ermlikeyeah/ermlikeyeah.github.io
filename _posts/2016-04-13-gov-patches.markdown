@@ -11,9 +11,9 @@ Typically I've come up with a couple of smaller, generic ideas (ie. not specific
 
 ![](/assets/100-beta-stickers.jpg)
 
-The patch on the left is the [100 emoji](https://www.quora.com/What-does-the-100-emoji-generally-mean). User centred design is all about keeping it real. Sometimes that is forgotten. Putting users first should always be a badge of pride. It was a quick idea I just did on screen to see how it looked. A little refinement and, yeah, let's get some of those printed!
+The sticker on the left is the [100 emoji](https://www.quora.com/What-does-the-100-emoji-generally-mean). User centred design is all about keeping it real. Sometimes that is forgotten. Putting users first should always be a badge of pride. It was a quick idea I just did on screen to see how it looked. A little refinement and, yeah, let's get some of those printed!
 
-The patch on the right? I've done posters which are up at HMRC.
+The sticker on the right? I've done posters which are up at HMRC.
 
 ![](/assets/always-be-in-beta-posters.jpg)
 
@@ -35,10 +35,18 @@ Beta's also quite stubborn, determined, knows which is the way he wants to go. H
 
 ![](/assets/beta-laying-down.jpg)
 
-Anyway, Beta looked quite easy to draw, would probably look good if I worked out the best angle, and it's turned out alright. So, Beta is he mascot of the Always Be In Beta patch, looking right, looking forwards, looking for stuff.
+Anyway, Beta looked quite easy to draw, would probably look good if I worked out the best angle, and it's turned out alright. So, Beta is he mascot of the Always Be In Beta sticker, looking right, looking forwards, looking for stuff.
 
-As these patches are not service specific I am going to get a run done, and anyone can have one (or several).
+As these stickers are not service specific I am going to get a run done, and anyone can have one (or several).
 
 I am going to send these to print by the end of the week, once I've checked the designs are tight and have created an artwork file.
 
-If you fancy one (or more) give me a shout (if you're of the government, get me at my HMRC Digital email address or on Slack; anyone else, my contact details [are here](/contact)) with which patch(es) you want, how many, and where you are. I'll get an idea of how many to get and work out a way to get them to you.
+If you fancy one (or more) give me a shout (if you're of the government, get me at my HMRC Digital email address or on Slack; anyone else, my contact details [are here](/contact)) with which sticker(s) you want, how many, and where you are. I'll get an idea of how many to get and work out a way to get them to you. And, yeah, I am paying.
+
+---
+
+**Update**
+
+The stickers have gone to print. I've ordered 50 of the 100 and 200 of the Beta dog. The 100 stickers will be red print on silver. The artwork sent to print is below. The 100 sticker now has "Users first" on a red border. The beta sticker now has lower case type.
+
+![](/assets/100-and-beta-artwork.jpg)
