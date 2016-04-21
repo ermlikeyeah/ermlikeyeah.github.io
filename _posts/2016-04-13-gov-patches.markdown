@@ -13,7 +13,7 @@ Typically I've come up with a couple of smaller, generic ideas (ie. not specific
 
 The sticker on the left is the [100 emoji](https://www.quora.com/What-does-the-100-emoji-generally-mean). User centred design is all about keeping it real. Sometimes that is forgotten. Putting users first should always be a badge of pride. It was a quick idea I just did on screen to see how it looked. A little refinement and, yeah, let's get some of those printed!
 
-The sticker on the right? I've done posters which are up at HMRC.
+The sticker on the right? I've done posters which are up at HMRC. (Which you can now [download the artwork for](/2016-04-14-beta-posters).)
 
 ![](/assets/always-be-in-beta-posters.jpg)
 
@@ -41,7 +41,7 @@ As these stickers are not service specific I am going to get a run done, and any
 
 I am going to send these to print by the end of the week, once I've checked the designs are tight and have created an artwork file.
 
-If you fancy one (or more) give me a shout (if you're of the government, get me at my HMRC Digital email address or on Slack; anyone else, my contact details [are here](/contact)) with which sticker(s) you want, how many, and where you are. I'll get an idea of how many to get and work out a way to get them to you. And, yeah, I am paying.
+If you fancy one (or more) [use this Google Form to let me know](http://goo.gl/forms/3WkEISMau7) - or give me a shout (if you're of the government, get me at my HMRC Digital email address or on Slack; anyone else, my contact details [are here](/contact)) with which sticker(s) you want, how many, and where you are. I'll get an idea of how many to get and work out a way to get them to you. And, yeah, I am paying.
 
 ---
 
@@ -50,3 +50,11 @@ If you fancy one (or more) give me a shout (if you're of the government, get me 
 The stickers have gone to print. I've ordered 50 of the 100 and 200 of the Beta dog. The 100 stickers will be red print on silver. Yes! *Silver*! The artwork sent to print is below. The 100 sticker now has "Users first" on a red border. The beta sticker now has lower case type.
 
 ![](/assets/100-and-beta-artwork.jpg)
+
+---
+
+**Another update**
+
+The stickers have arrived!
+
+![](/assets/100-beta-stickers-real.jpg)
