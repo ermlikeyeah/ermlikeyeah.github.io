@@ -18,7 +18,7 @@ The team are also striving to make the site as accessible as possible. Talk of g
 
 This team's resources didn't stretch to as much user research as they would have liked. But they want to do more, and with the platform they have in place they feel they will get more response from users. Their "do, not yet done" approach means they will always be in beta. They will be listening and they will act on that response to shape their digital platform.
 
-This is genuinely amazing work. This is transformative work, for the users of the service and also within the council itself. And as a citizen of Bradford it was doubly cheering to see. Another local government team gets on with making something that works for the people it is there for - the citizens. Hooray!
+This team, this work is made of the right stuff. This is genuinely amazing work. This is transformative work, for the users of the service and also within the council itself. And as a citizen of Bradford it was doubly cheering to see. Another local government team gets on with making something that works for the people it is there for - the citizens. Hooray!
 
 They deserved [some stickers](/gov-patches/) and got some.
 
