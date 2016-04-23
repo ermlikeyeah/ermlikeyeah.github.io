@@ -4,7 +4,7 @@ title: Availability
 permalink: /availability/
 ---
 
-I am currently booked until 10 April 2016.
+I am currently booked until 23 May 2016.
 
 I am considering offers for my next challenge after that, contract or "full time".
 
