@@ -22,6 +22,6 @@ This team, this work is made of the right stuff. This is genuinely amazing work.
 
 They deserved [some stickers](/gov-patches/) and got some.
 
-You can see the fruits of this team's hard work at [bradford.gov.uk](http://www.bradford.gov.uk). The team would appreciate your visit - and they will be listening to your feedback and acting on it.
+You can read the team's thoughts about their work [on their blog](https://bradfordmdc.wordpress.com/2016/04/22/making-our-new-website-live/). You can see the fruits of this team's hard work at [bradford.gov.uk](http://www.bradford.gov.uk). The team would appreciate your visit - and they will be listening to your feedback and acting on it.
 
 Keep going.
