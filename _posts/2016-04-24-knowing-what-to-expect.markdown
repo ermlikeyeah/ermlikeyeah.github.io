@@ -56,3 +56,5 @@ As one user succinctly put it for us:
 We need to do this sooner than when our users are in the service. We need to do this sooner than when our users hit gov.uk.
 
 It's easy to say we've got a lot of this going in the right direction in gov. We have. That isn't us being rose tinted specs about it. And we know there's lots that isn't right, there's still lots to do. And having a majority of people expect, to know they can use a digital service that works well for them needs to be near the top of that list. While we talk about doing what works for users, we need to make sure we get across that it works to that audience.
+
+We'll get there, but we cannot take it for granted it will just happen. Like I say, much still to do.
