@@ -51,7 +51,7 @@ Our mission is to make things that work for users, all users, be inclusive. This
 
 As one user succinctly put it for us:
 
-> "All my life I have dealt with government over the telephone and with letters. Don't just expect us to do it because it's *on the internet*. Show the public how straightforward this is. I would not have tried this unless I was here."
+> "All my life I have dealt with government over the telephone and with letters. Don't just expect us to do it because it's *on the internet*. Show the public how straightforward this is. I would not have tried this unless I was here [in this research session]."
 
 We need to do this sooner than when our users are in the service. We need to do this sooner than when our users hit gov.uk.
 
