@@ -18,7 +18,7 @@ Along the way I've helped organisations such as ADT, Defra, DWP, HMRC, Leeds Cit
 
 You can usually see where and when on [my availability page](/availability) and [LinkedIn page](http://uk.linkedin.com/in/siwilson/).
 
-I also run events, helping organise Leeds Digital Festival and the Leeds Digital Conference a few years back, used to organise the Leeds Digital Lunches, might do another [Get into Gaming](getintogaming.co.uk) with Sean if our calendars ever align, and am involved with [GovJam in Leeds](https://leedsgovjam.wordpress.com/). Sometimes I stand up front, doing speaking engagements, having popped up at [NUX](/tag/NUX/) and [Forefront](/tag/forefront-leeds/), as well as being invited into places to do "behind closed doors" talks.
+I also run events, helping organise Leeds Digital Festival and the Leeds Digital Conference a few years back, used to organise the Leeds Digital Lunches, might do another [Get into Gaming](getintogaming.co.uk) with Sean if our calendars ever align, and am involved with [GovJam in Leeds](https://leedsgovjam.wordpress.com/). Sometimes I stand up front, doing speaking engagements, having popped up at NUX and Forefront, as well as being invited into places to do "behind closed doors" talks.
 
 I volunteer to help out at the [Bradford CoderDojo](http://www.ticbradford.com/coderdojo), aimed at engaging and enabling young people with design through digital and technology.
 
