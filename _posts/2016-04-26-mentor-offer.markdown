@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mentor offer
-date: '2016-04-26 07:30:00'
+date: '2016-04-26 07:00:00'
 ---
 Hello. From early June I will be spending some time during the week "closer to home". This means I will be about Leeds and Bradford more than the past ten months – by actually being about.
 
