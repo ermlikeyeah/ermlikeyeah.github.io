@@ -1,0 +1,25 @@
+/**
+ * Previous and Next styling
+ */
+ .PageNavigation {
+//   font-size: 14px;
+//   display: block;
+//   width: auto;
+//   overflow: hidden;
+ }
+
+ .PageNavigationPrevious {
+   max-width: 40%;
+   float: left;
+
+ }
+
+ .PageNavigationNext {
+   max-width: 40%;
+   float: right;
+ }
+
+ .PageNavDate {
+   font-size: $small-font-size;
+   color: $grey-color;
+ }
