@@ -5,7 +5,7 @@ date: '2016-04-30 07:30:00'
 ---
 Early this week I told my manager and my fellow designers at HMRC's digital delivery arm that [I am leaving](https://twitter.com/ermlikeyeah/status/725374078211727361). I had an offer. It wasn't the first I have had over the past few months. But this time I wasn't going to say no. It feels the right time, it feels the right opportunity.
 
-I joined last July, after much nudging from pals and accepting an offer from the then-head of design, [Andrew Travers](http://trvrs.co).
+I joined HMRC last July, after much nudging from pals and accepting an offer from the then-head of design, [Andrew Travers](http://trvrs.co).
 
 By the turn of the year I was saying "no thanks" to chances to go back to being a head of this and a director of that. I was alright just being an interaction designer. I was even flirting with the idea of applying for the head of digital design role at HMRC after Andrew's departure. It's not all a bed of roses, but it's not all bad. Good stuff to get on with, other stuff that needs to be better.
 
@@ -17,21 +17,21 @@ HMRC has come a long way. That progress may be relative within government, but i
 
 To me HMRC does work that does matter. It gathers the funds that are redistributed. It genuinely effects people. For that reason it is hard to leave.
 
-There is also a great team of designers at HMRC. Genuinely talented, passionate people that want to make things that work. It will be hardest to leave them behind. There are people there I have enjoyed working alongside, supporting. I wish I could have been able to do more. As content as I was being just an interaction designer, that in its own right reduced the ability to affect wider change(s). But I am sure the lure of HMRC will be enough for a good interaction designer to go in and contribute to that community, that work.
+There is also a great team of designers at HMRC. Genuinely talented, passionate people that want to make things that work. It will be hardest to leave them behind. There are people there I have enjoyed working alongside, supporting. I wish I could have been able to do more. As content as I was being just an interaction designer, that in its own right reduced the ability to affect wider change(s). I am sure the lure of HMRC will be enough for a good interaction designer to go in and contribute to that community, that work.
 
-I always feel privileged and proud to be one of the many involved with this work, and will always be thankful to Andrew for letting me in last summer.
+I always feel privileged and proud to be one of the many involved with this work, and will always be thankful to Andrew for letting me in last summer. But it's the right time to move on and go somewhere that is more in line with what I want to do, how I work and want to work.
 
-But it's the right time to move on and go somewhere that is more in line with how I work and want to work, definitely on public services.
-
-I will be joining the nhs.uk team. They've recently [moved into beta](http://digital.nhs.uk/moving-to-beta).
+I will be joining the nhs.uk team.
 
 I believe that more government digital transformation work would benefit from having more of a "start up approach", runways, building a solid core that has value – that works – to the users and getting it out there sooner, and iterating around and on that. And always with user needs driving the service design.
 
-There is already a talented team of people working on nhs.uk that isn't massive. This isn't about throwing loads and loads of resource at something. It's about the right people and technology working in the right way for the job. And the management are a part of that team, not above pushing into the team. I think these are important things.
+There is already a talented team of people working on nhs.uk that isn't massive. This isn't about throwing loads and loads of resource at something. It's about the right people and technology working in the right way for the job. And the management are a part of that team, not above pushing into the team. I think these are important things. And the most important thing: This is work for you. This is work and ways of working made of the right stuff. A sign of that progressivism is the work they are doing has recently [moved into beta](http://digital.nhs.uk/moving-to-beta).
 
-It won't be easy or straightforward, but as I was reminded a month back when everyone is involved, when everyone is attuned, when everyone is willing, it enables you as a team to understand collectively what is needed, to get through what is needed faster, and get what is needed out there faster. That I will be back in Leeds more doing this work was just a bonus. (I removed geography from the equation when weighing up my options.)
+When they asked if I'd work with them it was a case I couldn't say no. There are some things in life you only say yes to. This is one of them.
 
-And while I have said yes to this chance, I said no to some others at this same time. Two of those ran the NHS opportunity really close, testament to what is happening across gov. One thing I will definitely say: This is a great time to help government change. Whatever your political persuasions making better digitally enabled public services is what we should be doing. You expect it from so many other bodies. You should expect it of the body/bodies that look after our society.
+It won't be easy or straightforward, but as I was reminded a month back when everyone is involved, when everyone is attuned, when everyone is willing, it enables you as a team to understand collectively what is needed, to get through what is needed faster, and get what is needed out there faster. That I will have the chance to be back in Leeds more doing this work was just a bonus. (I removed geography from the equation when weighing up my options.)
+
+And while I have said yes to this chance, I said no to some others at this same time. Two of those were opportunities in the public realm that ran the NHS opportunity really close, testament to what is happening across gov. One thing I will definitely say: This is a great time to help government change. Whatever your political persuasions making better digitally enabled public services is what we should be doing. You expect it from so many other bodies. You should expect it of the body/bodies that look after our society.
 
 There are so many other bits of gov working on this change. While meeting the [government digital by default service standard](https://www.gov.uk/service-manual/digital-by-default) by putting user needs at the centre of the work is their shared approach, their problems, their environments, their context can be so different. There are so many opportunities to help make things better. Some will be better for some people than others by virtue of the opportunity's collective chemistry. The choice is there (even if it is you prefer using a PC laptop to a Macbook).
 
