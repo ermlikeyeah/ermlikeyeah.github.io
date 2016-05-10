@@ -9,6 +9,8 @@
 
       <div class="footer-col footer-col-3">
         <p>{{ site.description }}</p>
+        <p class="rss-subscribe">Subscribe to <a href="{{ "/feed.xml" | prepend: site.baseurl }}">blog's RSS feed</a></p>
+
       </div>
 
 
@@ -19,20 +21,46 @@
         </ul>
 
         <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
 
           {% if site.twitter_username %}
           <li>
-            {% include icon-twitter.html username=site.twitter_username %}
+            {% include twitter.html username=site.twitter_username %}
           </li>
           {% endif %}
-        </ul>
 
-        <p class="rss-subscribe">Subscribe to <a href="{{ "/feed.xml" | prepend: site.baseurl }}">blog's RSS feed</a></p>
+          {% if site.instagram_username %}
+          <li>
+            {% include instagram.html username=site.instagram_username %}
+          </li>
+          {% endif %}
+
+          {% if site.pinboard_username %}
+          <li>
+            {% include pinboard.html username=site.pinboard_username %}
+          </li>
+          {% endif %}
+
+          {% if site.speakerdeck_username %}
+          <li>
+            {% include speakerdeck.html username=site.speakerdeck_username %}
+          </li>
+          {% endif %}
+
+          {% if site.linkedin_username %}
+          <li>
+            {% include linkedin.html username=site.linkedin_username %}
+          </li>
+          {% endif %}
+
+          {% if site.github_username %}
+          <li>
+            {% include github.html username=site.github_username %}
+          </li>
+          {% endif %}
+
+
+
+        </ul>
 
       </div>
 

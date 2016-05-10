@@ -15,8 +15,14 @@ permalink: /:title
 permalink: /:title/
 
 url: "https://www.ermlikeyeah.com/" # the base hostname & protocol for your site
-twitter_username: ermlikeyeah
+
+# Accounts elsewhere usernames to link to
 github_username:  ermlikeyeah
+instagram_username: idlesi
+linkedin_username: siwilson
+pinboard_username: idlesi
+speakerdeck_username: idlesi
+twitter_username: ermlikeyeah
 
 
 # Build settings

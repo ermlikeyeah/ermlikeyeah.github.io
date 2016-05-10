@@ -4,7 +4,7 @@ title: Be more start-up
 date: '2015-12-22 09:32:40'
 ---
 
-####1
+#1
 A month or so back during [my talk at Forefront](/forefront-leeds-26-november-2015) I mentioned I owe a lot due to my time in agencies. To be more precise I owe a lot due to my time at one agency: [Brahm](https://en.wikipedia.org/wiki/Brass_Agency). You can [view the slides here](https://speakerdeck.com/idlesi/forefront-november-2015?slide=38), 38 onwards.
 
 One thing my slides don’t spell out is I owe my career on *the advertising side* a lot. In short: I started at Brahm on the digital side, and moved to the ad/design side about a third of the way through my time there. And I am perfectly cool saying that as well. Hipster digital types may smirk, but whatever.
@@ -19,7 +19,7 @@ My time at Brahm also taught me to *know the process* and *believe in the proces
 
 There is a key part of that process I think gets neglected in the rush to [JFDI](http://geekdictionary.computing.net/define/jfdi).
 
-####2
+#2
 I’ve said before that a brief is the most important document for any agency job – or at least the process of what goes into a good brief. The best briefs – or “briefs” – are driven by *research*, carry *analysis*, set down an *understanding*, reveals *motivations*, *goals*, and shared. It is an agreement on cross-levels.
 
 However, it *is* the thing that comes first, a point of reference. It kicks everything off. Everything after that relies on it. Asking, finding out, knowing at the beginning means we know how we are getting along, something to look back against. The brief can adapt as time goes on, but always there.
