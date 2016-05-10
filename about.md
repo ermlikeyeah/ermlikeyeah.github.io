@@ -6,17 +6,16 @@ permalink: /about/
 
 Hi! I'm Si.
 
-I currently work for HMRC as a lead interaction designer. I try to write regularly about my work and the work on this blog.
-
 I am a highly experienced and successful strategist, product/service/experience/interaction designer, maker of things, and organiser of gigs, with nearly twenty years experience in "the industry".
+
+I currently work for HMRC as a lead interaction designer. I try to write regularly about my work and the work on this blog. You can usually see where and when I am (including any planned "helping outs" and public appearances) on [my availability page](/availability) and [LinkedIn page](http://uk.linkedin.com/in/siwilson/).
+
 
 I believe in research, knowing, teamwork and collaboration, playing to our strengths, and doing by making. Design is the process.  My work is usually digitally enabled and always people focused.
 
 I started off as a junior web developer in 1998 as job to pay the bills after learning HTML in my evenings at university. I've worked "across and up" to do strategy and design work, becoming a digital lead, creative manager, digital creative and development director, and chief operations officer, in some of Leeds's biggest and smartest creative and digital businesses.
 
 Along the way I've helped organisations such as ADT, Defra, DWP, HMRC, Leeds City Council, Linkdex, Jet2.com, the NHS, and Persimmon Homes.
-
-You can usually see where and when on [my availability page](/availability) and [LinkedIn page](http://uk.linkedin.com/in/siwilson/).
 
 I also run events, helping organise Leeds Digital Festival and the Leeds Digital Conference a few years back, used to organise the Leeds Digital Lunches, might do another [Get into Gaming](getintogaming.co.uk) with Sean if our calendars ever align, and am involved with [GovJam in Leeds](https://leedsgovjam.wordpress.com/). Sometimes I stand up front, doing speaking engagements, having popped up at NUX and Forefront, as well as being invited into places to do "behind closed doors" talks.
 
