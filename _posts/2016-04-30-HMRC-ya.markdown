@@ -2,8 +2,6 @@
 layout: post
 title: HMRC-ya
 date: '2016-04-30 07:30:00'
-comments: false
-
 ---
 Early this week I told my manager and my fellow designers at HMRC's digital delivery arm that [I am leaving](https://twitter.com/ermlikeyeah/status/725374078211727361). I had an offer. It wasn't the first I have had over the past few months. But this time I wasn't going to say no. It feels the right time, it feels the right opportunity.
 
