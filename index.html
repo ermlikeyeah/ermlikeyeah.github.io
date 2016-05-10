@@ -11,17 +11,15 @@ layout: default
 
             <div class="post-header">
                 <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-
+                  <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                </h2>
                 <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
               </div>
 
                 <p>{{ post.excerpt | strip_html }}
                     <a href="{{ post.url | prepend: site.baseurl }}">Read all &rarr;</a>
                 </p>
-                <hr>
+
         </li>
         {% endfor %}
     </ul>

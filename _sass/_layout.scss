@@ -203,6 +203,7 @@
     line-height: 1;
     text-decoration: none;
     color: $text-color;
+    margin-top: 60px;
 
     &,
     &:visited {
@@ -216,7 +217,7 @@
  * Posts
  */
 .post-header {
-    margin-bottom: $spacing-unit;
+    margin-bottom: $spacing-unit / 2;
 }
 
 .post-title {
