@@ -2,14 +2,13 @@
 layout: page
 title: Side projects
 permalink: /side-projects/
-comments: false
 ---
 Whatever you want to call them, here's some little quick things on the side I've done in recent years. Most of them are quick hacks, pulled together initially in just a couple of hours. Some were improved from there. Apologies if they don't work any more. Most have an accompanying blog post that talks about how they came to be.
 
 ## Look up Scores on the Doors
 I was curious what the Scores on the Doors on eateries near me were. This quick hack takes openly available data (from the Food Standards Agency) and does some simple analysis. Needs some design work and the code could do with some efficiencies – but it works. (And there's some noted iterations.)
 
-* [Have a look](http://www.studioofthings.com/dev/playground/livefoodauthorities.php)
+* [Have a look](http://www.studioofthings.com/dev/playground/livefoodauthorities.php) (Beware: It's a bit slow.)
 * [Read blog post about this](/view-your-local-scores-on-the-doors/)
 
 ## Amazolibrarymash
