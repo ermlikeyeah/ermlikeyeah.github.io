@@ -4,10 +4,10 @@ title: Side projects
 permalink: /side-projects/
 comments: false
 ---
-Whatever you want to call them, here's some little quick things on the side I've done in recent years. Most of them are quick hacks. Apologies if they don't work any more. Most have an accompanying blog post that talks about how they came to be.
+Whatever you want to call them, here's some little quick things on the side I've done in recent years. Most of them are quick hacks, pulled together initially in just a couple of hours. Some were improved from there. Apologies if they don't work any more. Most have an accompanying blog post that talks about how they came to be.
 
 ## Look up Scores on the Doors
-I was curious what the Scores on the Doors on eateries near me were. This quick hack takes openly available data and does some simple analysis. Needs some design work and the code could do with some efficiencies – but it works. (And there's some noted iterations.)
+I was curious what the Scores on the Doors on eateries near me were. This quick hack takes openly available data (from the Food Standards Agency) and does some simple analysis. Needs some design work and the code could do with some efficiencies – but it works. (And there's some noted iterations.)
 
 * [Have a look](http://www.studioofthings.com/dev/playground/livefoodauthorities.php)
 * [Read blog post about this](/view-your-local-scores-on-the-doors/)
@@ -19,7 +19,7 @@ Take an Amazon wishlist and then look it up against the catalogues of Bradford, 
 * [Read blog post about this](/look-up-your-amazon-wish-list-in-a-local-library/)
 
 ## Shall I Hang The Washing Out?
-A quick web app that tries to answer the question "Shall I hang the washing out?" There's a few things I'd really like to iterate on this, like saying "Yes" and "No" to the actual user need.
+A quick web app that tries to answer the question "Shall I hang the washing out?" There's a few things I'd really like to iterate on this, like saying "Yes" and "No" to the actual user need – but it's got the data coming back to do that.
 
 * [Have a look](http://www.studioofthings.com/washingout/index.php)
 * [Read blog post about version 1 of this](/weathering-a-two-hour-hack/)
@@ -32,7 +32,7 @@ A "How much can I do at lunch?" from the back end of 2014, which pokes a little 
 * [Have a look at the US version](http://cities.studioofthings.com?country=usa)
 
 ## Event Masher
-Looks up and shows neatly the events out onto Eventbrite, Lanyard, and Meetup.
+Made to neatly show the combined events from Eventbrite, Lanyard, and Meetup when given a location (I made it centered on Leeds and Bradford). Most likely doesn't actually work any more.
 
 * [Have a look](http://www.studioofthings.com/eventmasher/)
 * [Read blog post about this](/hacking-together-a-data-masher/)
