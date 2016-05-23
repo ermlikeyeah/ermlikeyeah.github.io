@@ -32,6 +32,6 @@ Two conditions:
 
 The artwork is set to size (45mm/4.5cm) and if you want a printer I recommend [Diginate](http://www.diginate.com) or [Awesome Merch](http://www.awesomemerchandise.com/Circular-45mm-Vinyl-Stickers). You want circular stickers and a matt finish.
 
-[Get the artwork here](/assets/bradford-beta-launch.pdf). It's a PDF, which can be opened in Adobe Illustrator.
+[Get the artwork here](/assets/bradford-beta-launch.pdf). It's a PDF, which can be opened in Adobe Illustrator. You can alter the words and colours easy enough.
 
 And if you do make use of this artwork, [let me know](/contact)!
