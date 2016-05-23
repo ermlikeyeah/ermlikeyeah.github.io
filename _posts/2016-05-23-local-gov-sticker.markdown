@@ -13,7 +13,7 @@ Pulling together the artwork I was reminded of Bradford's motto:
 
 On gov stickers we carry the motto "Trust. Users. Delivery." While Bradford council's digital platform team had been inspired by the work in government, the city's motto seemed a more than apt replacement.
 
-And because the team have been going about work the right way, a tick seemed a good mark, a positive indicator. Well done! Keep doing this! (Plus, I am rubbish at drawing thumbs ups, so, y'know...)
+And because the team have been going about work the right way, a tick seemed a good mark, a positive indicator. Well done! Keep doing this! (Plus, I am rubbish at drawing thumbs ups so, y'know...)
 
 I also got them printed onto shiny gold. Because everyone likes a shiny.
 
