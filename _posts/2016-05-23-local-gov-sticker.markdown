@@ -30,7 +30,7 @@ Two conditions:
 1. You have worked on a digital service in the right way (either to meet the [government digital by default service standard](https://www.gov.uk/service-manual/digital-by-default) or the [local gov equivalent](http://localgovdigital.info/localgov-digital-makers/outputs/local-government-digital-service-standard/)) – and it's out there.
 2. You can only have a sticker if you have earned it. These are not for promotional purposes. Stick them and show them off with pride.
 
-The artwork is set to size (45mm/4cm) and if you want a printer I recommend [Diginate](http://www.diginate.com) or [Awesome Merch](http://www.awesomemerchandise.com/Circular-45mm-Vinyl-Stickers). You want circular stickers and a matt finish.
+The artwork is set to size (45mm/4.5cm) and if you want a printer I recommend [Diginate](http://www.diginate.com) or [Awesome Merch](http://www.awesomemerchandise.com/Circular-45mm-Vinyl-Stickers). You want circular stickers and a matt finish.
 
 [Get the artwork here](/assets/bradford-beta-launch.pdf). It's a PDF, which can be opened in Adobe Illustrator.
 
