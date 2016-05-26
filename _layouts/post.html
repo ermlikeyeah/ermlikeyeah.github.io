@@ -12,6 +12,8 @@ layout: default
 
   <div class="post-content" itemprop="articleBody">
     {{ content }}
+
+
   </div>
 
   {{ page.categories | join ', ' }}
@@ -31,6 +33,7 @@ layout: default
       <a href="{{page.next.url}}">{{page.next.title}}</a>
     {% endif %}
   </div>
+
 
   {% if page.comments != false %}
 
@@ -62,6 +65,5 @@ layout: default
   <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
 
   {% endif %}
-
 
 </article>

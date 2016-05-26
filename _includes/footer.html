@@ -8,17 +8,20 @@
     <div class="footer-col-wrapper">
 
       <div class="footer-col footer-col-3">
-        <p>{{ site.description }}</p>
-        <p class="rss-subscribe">Subscribe to <a href="{{ "/feed.xml" | prepend: site.baseurl }}">blog's RSS feed</a></p>
+
+        <p>
+          <a href="https://github.com/ermlikeyeah/ermlikeyeah.github.io/issues/new?title=Issue%20with%20page%20{{ page.path }}">Report an issue with this page</a> on Github<br />
+          <a href="https://github.com/ermlikeyeah/ermlikeyeah.github.io/blob/master/{{ page.path }}">View this page</a> on Github
+        </p>
+
+        <p class="rss-subscribe"><a href="{{ "/feed.xml" | prepend: site.baseurl }}">View this blog's RSS feed</a></p>
 
       </div>
 
 
       <div class="footer-col footer-col-3">
-        Email
-        <ul class="contact-list">
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        </ul>
+
+        <p>{{ site.description }}</p>
 
         <ul class="social-media-list">
 
