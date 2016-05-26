@@ -29,9 +29,9 @@ It gets some likes and retweets from similar minded people. Then a few hours lat
 
 Whether the reply is tongue-in-cheek or not it stands out.
 
-> If you can’t understand ISO8601-format timstamps, then, frankly, that’s your problem.
+I think back to what my wife said. I look at the tweet.
 
-I think back to what my wife said.
+> If you can’t understand ISO8601-format timstamps, then, frankly, that’s your problem.
 
 And then I read through the replies to that tweet.
 
