@@ -41,6 +41,6 @@ The format in the email is a “[standard date-time format](https://twitter.com/
 
 “[I wish that format was used more a lot more! Clear and unambiguous](https://twitter.com/PaulWalkerUK/status/735252386483167232)”.
 
-I presumed the way the date was formatted might be an oversight. Or the formatting code has just broken. But then I think what if it was deliberate? What if the person (or people) who made and sent the email think this is “right”? After all, to some people, to some users this format is actually OK. It is, to some users, friendly. And to some it may just be my wife's problem that she doesn't understand it.
+I presumed the way the date was formatted might be an oversight. Or the formatting code has just broken. But then I think what if it was deliberate? What if the person (or people) who made and sent the email think this is “right”? After all, to some people, to some users this format is actually OK. It is, to some users, friendly. My bad in my tweet. And to some it may just be my wife's problem that she doesn't understand it.
 
-But is it?
+But is it within the context of the email she received?
