@@ -4,7 +4,9 @@ title: 'Leeds GovJam 2015: in just three points'
 date: '2015-06-13 07:36:43'
 ---
 
-Here's a thing. My post-gig notes for Leeds GovJam weren't very big. Literally three points in my notebook. That's them above.
+Here's a thing. My post-gig notes for Leeds GovJam weren't very big. Literally three points in my notebook. Here's the note.
+
+![](/assets/2015-govjam-three-points.jpg)
 
 To compare, usually when I go to "gigs", public or private, I get a good twenty down.
 
