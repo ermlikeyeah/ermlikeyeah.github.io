@@ -37,7 +37,7 @@ I shouldn't have to. What if I didn't know that is what I supposed to do?
 
 It's sloppy. And like a lot of things online it's easy to fix. If it's a free text field accept the six character all number form. And accept eight characters and do the "stripping" of non-numerical characters off-screen.
 
-And if you cannot for whatever reason cannot allow more than six characters include a line informing the user "Enter only the six numbers of your sort code. Do not include any dashes or spaces." It's not hard.
+And if you cannot, for whatever reason, allow more than six characters include a line informing the user "Enter only the six numbers of your sort code. Do not include any dashes or spaces." It's not hard.
 
 This is the sort of data entry hack normal people shouldn't have to do. It's infuriating. And the sort of thing that begs can we have some sort of standard pattern across the web for this sort of thing. In short: Please, for the love of God, just put a fucking stop to this? It is 2016. Users, consumers, customers, *people* deserve better.
 
