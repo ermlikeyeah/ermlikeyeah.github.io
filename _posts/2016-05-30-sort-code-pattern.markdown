@@ -21,7 +21,7 @@ The three others times: This.
 
 ![](/assets/sort-code-example.jpg)
 
-A label saying *sort code*, with a red asterisk indicating it is mandatory, and then a free text field.
+A label saying *sort code*, with a red asterisk indicating it is mandatory (which isn't spelt out in one case, just the assumption the user will know what this means), and then a free text field.
 
 `number number dash number number dash`
 
