@@ -19,19 +19,21 @@ On one the form was divided into three different spaces, for each of the three p
 
 The three others times: This.
 
+A label saying *sort code*, with a red asterisk indicating it is mandatory (which isn't spelt out in one case, just the assumption the user will know what this means), and then a free text field.
+
 ![](/assets/sort-code-example.jpg)
 
-A label saying *sort code*, with a red asterisk indicating it is mandatory (which isn't spelt out in one case, just the assumption the user will know what this means), and then a free text field.
+I type in my sort code as on my card, my bank statement, my online banking screen.
 
 `number number dash number number dash`
 
-I type the next number. I cannot.
-
-The free text field will not let me progress beyond entering the sixth character.
-
-On screen: `number number dash number number dash`
+Next number? Nope. The free text field will not let me progress beyond entering the sixth character.
 
 On my card, on my bank statement, on my bank statement, on my online banking? There's another two characters, two I need to pay for something.
+
+I sigh. I deleted the dashes and type in the last two numbers.
+
+I shouldn't have to. What if I didn't know that is what I supposed to do?
 
 It's sloppy. And like a lot of things online it's easy to fix. If it's a free text field accept the six character all number form. And accept eight characters and do the "stripping" of non-numerical characters off-screen.
 
