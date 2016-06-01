@@ -8,8 +8,7 @@ Hi! I'm Si.
 
 I am a highly experienced and successful strategist, product/service/experience/interaction designer, maker of things, and organiser of gigs, with nearly twenty years experience in "the industry".
 
-I currently work for HMRC as a lead interaction designer. I try to write regularly about my work and the work on this blog. You can usually see where and when I am (including any planned "helping outs" and public appearances) on [my availability page](/availability) and [LinkedIn page](http://uk.linkedin.com/in/siwilson/).
-
+After the best part of a year working as a lead interaction designer on digital services at HMRC, I currently design for the Department of Health's NHSbeta service. I try to write regularly about my work and the work on this blog. You can usually see where and when I am (including any planned "helping outs" and public appearances) on [my availability page](/availability) and [LinkedIn page](http://uk.linkedin.com/in/siwilson/).
 
 I believe in research, knowing, teamwork and collaboration, playing to our strengths, and doing by making. Design is the process.  My work is usually digitally enabled and always people focused.
 
