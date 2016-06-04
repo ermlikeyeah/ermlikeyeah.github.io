@@ -14,7 +14,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 permalink: /:title
 permalink: /:title/
 
-url: "http://www.ermlikeyeah.com/" # the base hostname & protocol for your site
+url: "https://www.ermlikeyeah.com/" # the base hostname & protocol for your site
 
 # Accounts elsewhere usernames to link to
 github_username:  ermlikeyeah
