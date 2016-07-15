@@ -29,3 +29,16 @@
   font-size: $small-font-size;
   text-align: right;
 }
+
+.stickers ul {
+  display: inline;
+
+}
+
+.stickers li {
+  width: 45%;
+  list-style-type: none;
+   padding: 10px;
+   display: inline-block;
+
+}
