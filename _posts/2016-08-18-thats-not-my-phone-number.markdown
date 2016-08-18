@@ -24,9 +24,9 @@ I quickly switch tabs in my browser and search for the area code 01744. It’s S
 
 At this point I actually want to stop what I am doing and sort this out. I look on screen. Nothing asks me “Is one of these numbers not yours?”
 
-I decide to press on, making absolutely sure I have selected the Mobile option before continuing. I complete the transaction, but I am not happy.
+I decide to press on, making absolutely sure I have selected the Mobile option before continuing. I complete the transaction, but I am not happy. Something is amiss.
 
-I am not worried, as I am sure that nothing has gone from my accounts without me knowing. But I go to the screen of payment recipients my account can send money to. Everything on there is as I expect it.
+I am sure that nothing has gone from my accounts without me knowing. But I go to the screen of payment recipients my account can send money to. Everything on there is as I expect it.
 
 ![Screen grab](/assets/bank_grab_2.jpg)
 
