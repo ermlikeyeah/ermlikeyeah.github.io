@@ -18,7 +18,7 @@ The screen refreshes and I am presented with the following:
 
 On the screen I go to tap the Mobile option and see it is already selected – and then looking down at the next option notice that the Home number isn’t ours. We haven’t got a landline at home any more. But that phone number isn’t our old number. Or any of our numbers in the past.
 
-My default form of telephone contact is through my mobile telephone. My wife is the same. We even don’t have a landline anymore.
+My default form of telephone contact is through my mobile telephone. My wife is the same. We don’t even have a landline anymore.
 
 I quickly switch tabs in my browser and search for the area code 01744. It’s St Helens. We’ve never leaved in St Helens. I am worried.
 
