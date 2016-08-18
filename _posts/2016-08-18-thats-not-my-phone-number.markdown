@@ -4,11 +4,11 @@ title: That’s not my home phone number, the area dial code is all wrong - Or, 
 date: '2016-08-18 10:30:00'
 ---
 
-This morning I was walking the dog, the dog is happy walking around on her own, so I decide to do a little life admin. It’s a busy day ahead, not sure I’ll get the chance to do it all, I’ll steal a march now.
+This morning I was walking the dog. The dog is happy walking around on her own, so I decide to do a little life admin. It’s a busy day ahead, not sure I’ll get the chance to do it all, I’ll steal a march now.
 
 I’ve got my phone in my hand. I decide to do a bank transfer, to someone I haven’t transferred to before.
 
-I log into my bank’s website through the web browser on my phone (Chrome Beta), which is painless enough, and go to the Payment section from my current account. I go to the option to send a payment to someone I haven’t sent a payment to before (which is more succinctly presented than that, because that’s the value of good content design).
+I log into my bank’s website through the web browser on my phone (Chrome Beta), which is painless enough, done it before quite a bit, and go to the Payment section from my current account page. I go to the option to send a payment to someone I haven’t sent a payment to before (which is more succinctly presented than that, because that’s the value of good content design).
 
 I enter the sort code of the account I am sending money to. The screen responds to say which bank that sort code is with. I enter the account number of the account I am sending money to. I click the continue button.
 
