@@ -1,7 +1,7 @@
 ---
 layout: post
-title:
-date: '2016-06-12 16:00:00'
+title: USDS values
+date: '2016-06-12 16:00:s00'
 ---
 The US Digital Service have published [their values](https://medium.com/@USDigitalService/our-values-1fc02b53598#.u6qgcdkrf).
 
