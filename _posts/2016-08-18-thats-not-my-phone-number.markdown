@@ -12,13 +12,13 @@ I log into my bank’s website through the web browser on my phone (Chrome Beta)
 
 I enter the sort code of the account I am sending money to. The screen responds to say which bank that sort code is with. I enter the account number of the account I am sending money to. I click the continue button.
 
-The screen refreshes and I am presented with the following.
+The screen refreshes and I am presented with the following:
 
 ![Screen grab](/assets/bank_grab_1.jpg)
 
-My default form of telephone contact is through my mobile telephone. My wife is the same. We even don’t have a landline anymore.
-
 On the screen I go to tap the Mobile option and see it is already selected – and then looking down at the next option notice that the Home number isn’t ours. We haven’t got a landline at home any more. But that phone number isn’t our old number. Or any of our numbers in the past.
+
+My default form of telephone contact is through my mobile telephone. My wife is the same. We even don’t have a landline anymore.
 
 I quickly switch tabs in my browser and search for the area code 01744. It’s St Helens. We’ve never leaved in St Helens. I am worried.
 
