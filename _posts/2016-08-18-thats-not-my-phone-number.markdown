@@ -26,7 +26,7 @@ At this point I actually want to stop what I am doing and sort this out. I look 
 
 I decide to press on, making absolutely sure I have selected the Mobile option before continuing. I complete the transaction, but I am not happy. Something is amiss.
 
-I am sure that nothing has gone from my accounts without me knowing. But I go to the screen of payment recipients my account can send money to. Everything on there is as I expect it.
+I am sure that nothing has gone from my accounts without me knowing. But I go to the screen of payment recipients my account can send money to. Everything on there is as I expect it. No unknown recipients.
 
 ![Screen grab](/assets/bank_grab_2.jpg)
 
