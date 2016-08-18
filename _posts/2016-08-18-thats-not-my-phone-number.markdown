@@ -1,6 +1,6 @@
 ---
 layout: post
-title: That’s not my home phone number, the area dial code is all wrong - Or, How I suddenly lost trust in my bank
+title: That’s not my home phone number, the area dial code is all wrong - Or, how I suddenly lost trust in my bank
 date: '2016-08-18 10:30:00'
 ---
 
