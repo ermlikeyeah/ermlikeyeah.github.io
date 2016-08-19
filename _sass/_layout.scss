@@ -192,18 +192,17 @@
 .post-meta {
     font-size: $small-font-size;
     color: $grey-color;
-    font-style: italic;
-    font-weight: $base-font-weight / 2;
+    font-weight: $base-font-weight;
 }
 
 .post-link {
     display: block;
-    font-size: $base-font-size * 2;
-    letter-spacing: -1px;
-    line-height: 1;
+    font-size: $base-font-size * 2.5;
+    letter-spacing: 0;
+    line-height: 1.3em;
     text-decoration: none;
     color: $text-color;
-    margin-top: 60px;
+    margin-top: 2.5em;
 
     &,
     &:visited {
@@ -221,9 +220,9 @@
 }
 
 .post-title {
-    font-size: $base-font-size * 2;
-    letter-spacing: -1px;
-    line-height: 1;
+    font-size: $base-font-size * 2.5;
+    letter-spacing: 0;
+    line-height: 1.3em;
 
     @include media-query($on-laptop) {
 
