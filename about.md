@@ -6,23 +6,25 @@ permalink: /about/
 
 Hi! I'm Si.
 
-I am a highly experienced and successful strategist, product/service/experience/interaction designer, maker of things, and organiser of gigs, with nearly twenty years experience in "the industry".
+This is my blog. I try to write regularly about my work and the work I am involved with here.
 
-After the best part of a year working as a lead interaction designer on digital services at HMRC, I currently design for the Department of Health's NHS beta service. I try to write regularly about my work and the work on this blog. You can usually see where and when I am (including any planned "helping outs" and public appearances) on [my availability page](/availability) and [LinkedIn page](http://uk.linkedin.com/in/siwilson/).
+I am a highly experienced and successful strategist, designer (working on product, service, interaction, and experience), and maker of things, with nearly twenty years experience in "the industry".
 
-I believe in research, knowing, teamwork and collaboration, playing to our strengths, and doing by making. Design is the process.  My work is usually digitally enabled and always people focused.
+Currently I design for NHS Digital's [NHS beta service](//transformation.blog.nhs.uk).
 
-I started off as a junior web developer in 1998 as job to pay the bills after learning HTML in my evenings at university. I've worked "across and up" to do strategy and design work, becoming a digital lead, creative manager, digital creative and development director, and chief operations officer, in some of Leeds's biggest and smartest creative and digital businesses.
+I believe in design is a process involving the team, and work should always be focused on the people we are doing it for. I do this through research, knowing, teamwork and collaboration, and doing by making.
 
-Along the way I've helped organisations such as ADT, Defra, DWP, HMRC, Leeds City Council, Linkdex, Jet2.com, the NHS, and Persimmon Homes.
+I started off as a junior web developer in 1998 after learning HTML and some Perl in my evenings at university.
 
-I also run events, helping organise Leeds Digital Festival and the Leeds Digital Conference a few years back, used to organise the Leeds Digital Lunches, might do another [Get into Gaming](getintogaming.co.uk) with Sean if our calendars ever align, and am involved with [GovJam in Leeds](https://leedsgovjam.wordpress.com/). Sometimes I stand up front, doing speaking engagements, having popped up at NUX and Forefront, as well as being invited into places to do "behind closed doors" talks.
+I've worked "across and up" to do strategy and design in some of Leeds's biggest and smartest creative and digital businesses. The majority of my roles have been senior, occasionally on boards. They are [listed on] LinkedIn](http://uk.linkedin.com/in/siwilson/). Along the way I've helped organisations such as ADT, Defra, DWP, HMRC, Leeds City Council, Linkdex, Jet2.com, the NHS, and Persimmon Homes.
+
+Previously I helped run events, including Leeds Digital Festival, the Leeds Digital Conference, the Leeds Digital Lunches, and [Get into Gaming](getintogaming.co.uk) with Sean Parker, and [GovJam in Leeds](//leedsgovjam.wordpress.com/). Sometimes I stand up front, doing speaking engagements, having popped up at NUX and Forefront, as well as being invited into places to do "behind closed doors" talks.
 
 I volunteer to help out at the [Bradford CoderDojo](http://www.ticbradford.com/coderdojo), aimed at engaging and enabling young people with design through digital and technology.
 
-I live in [Idle, Bradford, West Yorkshire, in the United Kingdom](https://www.google.co.uk/maps/place/Idle,+Bradford,+West+Yorkshire+BD10/@53.8372139,-1.8040416,12z/data=!4m2!3m1!1s0x487be38e02277d49:0xd28ce4d95e48f3e7?hl=en), but work away a lot, around and out of the UK.
+I live in [Idle, Bradford, West Yorkshire, in the United Kingdom](https://www.google.co.uk/maps/place/Idle,+Bradford,+West+Yorkshire+BD10/@53.8372139,-1.8040416,12z/data=!4m2!3m1!1s0x487be38e02277d49:0xd28ce4d95e48f3e7?hl=en), but work wherever interesting work takes me.
 
-I am also a dad, husband, dog walker/cushion, reader, watcher of films/lover of cinema, gardener, ex-school governor, cleaner, converted coffee enthusiast, cake consumer, occasional cook, and supporter of Grimsby Town Football Club (once upon a time I even helped set up, run, and contribute to the awesome mind- and award-winning [Cod Almighty](http://www.codalmighty.com/)).
+I am also a dad, husband, dog walker/cushion, reader, watcher of films/lover of cinema, gardener, ex-school governor, cleaner, converted coffee enthusiast, cake consumer, occasional cook, and supporter of Grimsby Town Football Club (once upon a time I even helped set up, run, and contribute to the mind- and award-winning [Cod Almighty](http://www.codalmighty.com/)).
 
 If you want to talk, feel free! You can [get my contact details here](/contact). Don't be a stranger now.
 

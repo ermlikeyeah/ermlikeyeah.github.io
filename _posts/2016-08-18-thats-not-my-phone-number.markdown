@@ -64,6 +64,6 @@ I am told he cannot, but another department cannot. I ask how I can get in touch
 
 On the short train journey into Leeds I think this through. I have this department who can help, I do not want to change the number because I am worried inserting no number might destroy any chance of finding out more. I feel foolish for not noticing sooner. And how could I have not known this number had been changed? The answers I got about how this could have happened?
 
-But the space of an hour the trust I hold in my bank has gone, not just because of the *How Did That Number Get There?* and the reasons offered, but because I am the one who has to dial through to this other department to allay my fears. It’s making me think I *really* need to switch banks.
+In the space of an hour the trust I hold in my bank has gone, not just because of the *How Did That Number Get There?* and the reasons offered, but because I am the one who has to dial through to this other department to allay my fears. It’s making me think I *really* need to switch banks.
 
-Oh, by the way, all the above: The value of good service design through bad service design.
+Anyway, all the above, the value of good service design through bad service design.
