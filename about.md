@@ -16,7 +16,7 @@ I believe in design is a process involving the team, and work should always be f
 
 I started off as a junior web developer in 1998 after learning HTML and some Perl in my evenings at university.
 
-I've worked "across and up" to do strategy and design in some of Leeds's biggest and smartest creative and digital businesses. The majority of my roles have been senior, occasionally on boards. They are [listed on] LinkedIn](//uk.linkedin.com/in/siwilson/). Along the way I've helped organisations such as ADT, Defra, DWP, HMRC, Leeds City Council, Linkdex, Jet2.com, the NHS, and Persimmon Homes.
+I've worked "across and up" to do strategy and design in some of Leeds's biggest and smartest creative and digital businesses. The majority of my roles have been senior, occasionally on boards. They are [listed on LinkedIn](//uk.linkedin.com/in/siwilson/). Along the way I've helped organisations such as ADT, Defra, DWP, HMRC, Leeds City Council, Linkdex, Jet2.com, the NHS, and Persimmon Homes.
 
 Previously I helped run events, including Leeds Digital Festival, the Leeds Digital Conference, the Leeds Digital Lunches, and [Get into Gaming](//getintogaming.co.uk) with Sean Parker, and [GovJam in Leeds](//leedsgovjam.wordpress.com/). Sometimes I stand up front, doing speaking engagements, having popped up at NUX and Forefront, as well as being invited into places to do "behind closed doors" talks.
 
