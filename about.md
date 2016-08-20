@@ -8,7 +8,7 @@ Hi! I'm Si.
 
 This is my blog. I try to write regularly about my work and the work I am involved with here.
 
-I am a highly experienced and successful strategist, designer (working on product, service, interaction, and experience), and maker of things, with nearly twenty years experience in "the industry". At the moment I work on a freelance basis.
+I am a highly experienced and successful strategist, designer (working on product, service, interaction, and experience), and maker of things, with nearly twenty years experience in "the industry".
 
 Currently I am working as a senior UX designer on NHS Digital's [NHS beta service](//transformation.blog.nhs.uk).
 
