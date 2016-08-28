@@ -34,7 +34,7 @@ So, we theorised, what if there was an action on that page?
 
 We decided to test the hypothesis. We hurried through making a prototype. (And [here’s a quick reminder about what a prototype is](//www.ermlikeyeah.com/a-short-note-about-prototyping/).) Less chin stroking, get the idea down, and then take it from there. Because of the pace we were quite hacky. We knew there’d be flaws, gaps, bugs, things missing, but we wanted to validate or invalidate the hypothesis.
 
-One thing that seemed key was bringing real data into the prototype early on. Put people in their own moment, not get them to imagine they were somewhere else. The developers on the team worked fast to grab data from [an openly available NHS feed](//v1.syndication.nhschoices.nhs.uk/?apikey=bbccdd). We would also be testing the data by testing our idea.
+One thing that seemed key was bringing real data into the prototype early on. Put people in their own moment, not get them to imagine they were somewhere else. The developers on the team worked fast to grab data from an openly available NHS feed. We would also be testing the data by testing our idea.
 
 We also found time to take the data and apply some context - geography was the easy one (show only what was “nearby”), but also time (show only what was “open” now).
 
