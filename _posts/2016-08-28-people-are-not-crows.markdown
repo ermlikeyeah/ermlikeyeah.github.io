@@ -25,10 +25,9 @@ While this research was going on, the team in London were releasing their [beta 
 
 A lot of research has gone into that stomach ache page (which is still working on, with a lot of other stuff), and in that page is the suggestion the patient can go to a pharmacy.
 
-From our own research and using the beta stomach ache page’s prompt we thought why are we not directing people to a pharmacy there, a place where there was someone who could help? Some people will know their preferred pharmacy. But what if it is closed? Some people may be away from their “locality”. And some people, maybe they wouldn’t have considered going to a pharmacy in the first place. Is this an opportunity for some positive disruption? What if people even think “I didn’t realise my pharmacy could help me wit that?”
+From our own research and using the beta stomach ache page’s prompt we thought why are we not directing people to a pharmacy there, a place where there was someone who could help? Some people will know their preferred pharmacy. But what if it is closed? Some people may be away from their “locality”. And some people, maybe they wouldn’t have considered going to a pharmacy in the first place. Is this an opportunity for some positive disruption? What if people even think “I didn’t realise my pharmacy could help me with that?”
 
-So, we theorised, what if there was an action on that page?
-
+So, we theorised, what if there was an action on that page, that tried to link the user to some place, some person that could help them in the context of those symptoms?
 
 ![Screen grab of the stomach ache symptoms page](/assets/stomach-ache-symptoms-grab.jpg)
 
