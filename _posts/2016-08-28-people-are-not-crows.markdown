@@ -15,7 +15,7 @@ About 90% of patients’ interactions with the NHS are on a primary care level, 
 
 In recent research sessions we’ve been hearing about people’s experiences with pharmacies. The thing is, this isn’t what we were primarily looking for. We were initially looking into patients’ experiences with doctors: Their GP, and when they were “away”. We were hearing in our research sessions about what people did when their GP wasn’t available: Their GP’s surgery was closed or they were not near their GP’s surgery.
 
-We had a chart hung up that shows when general practice surgeries tend to be open. Seven circles for each day of the week. Each circle was a 24 hour clock showing the average opening times of practices. Basically, 8.30am to 5.30pm. 9 hours. The remaining 15 hours in the day? People wait, or they use other medical services.
+We had a chart hung up that shows when general practice surgeries tend to be open. Seven circles for each day of the week. Each circle was a 24 hour clock showing the average opening times of practices. Basically, 8.30am to 5.30pm on weekdays. 9 hours. The remaining 15 hours in the day? At weekends? People wait – or they use other medical services.
 
 Out of hours services, walk-in centres, accident and emergency centres, minor injury units, pharmacies, NHS 111, dialing 999. I think I’ve missed some places out of that quickly tapped out list. But so many choices. And so much confusion about what each does and why you would go to them and when. It’s easy to see why people would just go to their GP. Contacting a GP is a default state of mind.
 
