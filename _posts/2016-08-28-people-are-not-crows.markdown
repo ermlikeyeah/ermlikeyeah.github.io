@@ -23,7 +23,9 @@ Out of hours services, walk-in centres, accident and emergency centres, minor in
 
 While this research was going on, the team in London were releasing their [beta stomach ache page](//beta.nhs.uk/symptoms/stomach-ache), which advises you an action you can take, even somewhere to go if appropriate. When we do that we’re just trying to point you to someone and somewhere that can help.
 
-A lot of research has gone into that page (which we are still working on, with a lot of other stuff), and in that page is the suggestion the patient can go to a pharmacy. From our own research and using the beta stomach ache page we thought why are why not directing people to a pharmacy there? Some people will know their preferred pharmacy. But what if it is closed? Some people may be away from their “locality”. And some people, maybe they wouldn’t have considered going to a pharmacy in the first place. Is this an opportunity for some positive disruption?
+A lot of research has gone into that stomach ache page (which is still working on, with a lot of other stuff), and in that page is the suggestion the patient can go to a pharmacy.
+
+From our own research and using the beta stomach ache page’s prompt we thought why are we not directing people to a pharmacy there? Some people will know their preferred pharmacy. But what if it is closed? Some people may be away from their “locality”. And some people, maybe they wouldn’t have considered going to a pharmacy in the first place. Is this an opportunity for some positive disruption? What if people even think “I didn’t realise my pharmacy could help me wit that?”
 
 So, we theorised, what if there was an action on that page?
 
