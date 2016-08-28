@@ -7,21 +7,21 @@
 
     <div class="footer-col-wrapper">
 
-      <div class="footer-col footer-col-3">
+      <div class="footer-col">
 
         <p>
           <a href="https://github.com/ermlikeyeah/ermlikeyeah.github.io/issues/new?title=Issue%20with%20page%20{{ page.path }}">Report an issue with this page</a> on Github<br />
           <a href="https://github.com/ermlikeyeah/ermlikeyeah.github.io/blob/master/{{ page.path }}">View this page</a> on Github
         </p>
 
-        <p class="rss-subscribe"><a href="{{ "/feed.xml" | prepend: site.baseurl }}">View this blog's RSS feed</a></p>
-
       </div>
 
 
-      <div class="footer-col footer-col-3">
+      <div class="footer-col">
 
-        <p>{{ site.description }}</p>
+        <p>{{ site.description }}<br />
+          <a class="rss-subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}">View this blog's RSS feed</a>
+        </p>
 
         <ul class="social-media-list">
 

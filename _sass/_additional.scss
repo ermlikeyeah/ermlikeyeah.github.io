@@ -2,21 +2,40 @@
  * Previous and Next styling
  */
  .PageNavigation {
-//   font-size: 14px;
-//   display: block;
-//   width: auto;
-//   overflow: hidden;
- }
+
+   font-size: $base-font-size * 0.5;
+
+   @include media-query($on-laptop) {
+     font-size: $base-font-size * 0.85;
+     line-height: $base-line-height * 0.85;
+  }
+}
+
 
  .PageNavigationPrevious {
    max-width: 40%;
    float: left;
+
+   font-size: $base-font-size;
+
+   @include media-query($on-laptop) {
+     font-size: $base-font-size * 0.85;
+     line-height: $base-line-height * 0.85;
+  }
+
 
  }
 
  .PageNavigationNext {
    max-width: 40%;
    float: right;
+   font-size: $base-font-size;
+
+   @include media-query($on-laptop) {
+     font-size: $base-font-size * 0.85;
+     line-height: $base-line-height * 0.85;
+  }
+
  }
 
  .PageNavDate {
