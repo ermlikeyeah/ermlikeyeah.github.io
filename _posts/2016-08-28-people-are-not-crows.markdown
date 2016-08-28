@@ -3,7 +3,7 @@ layout: post
 title: People are not crows
 date: '2016-08-28 08:30:00'
 ---
-A quick bit about some of the work the [NHS.UK team](//transformation.blog.nhs.uk/moving-to-beta) in Leeds I am in is currently looking into.
+For starters, a quick bit about some of the work the [NHS.UK team](//transformation.blog.nhs.uk/moving-to-beta) in Leeds I am in is currently looking into.
 
 Time and time again in research sessions people say they go to their doctor because, as someone we spoke to put it succinctly: “My doctor is the door to whatever I need for medical things.” This is a highly shared view by the public and the organisation itself: [A GP](//www.healthcareers.nhs.uk/explore-roles/general-practice-gp) is recognised as many patients’ first point of contact with the NHS by the NHS’s service design.  ‘First  point of contact’ in NHS speak is ‘primary care’. You can [read more on primary care here](//digital.nhs.uk/primary-care).
 
