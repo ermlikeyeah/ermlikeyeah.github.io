@@ -3,7 +3,7 @@ layout: post
 title: My problem with “digital transformation”
 date: '2016-09-09 21:30:00'
 ---
-I was talking a friend recently. They advised me I was giving the impression of being angsty, almost against the idea ‘digital transformation’. I’d been doing it on Twitter as well.
+I was talking a friend recently. They advised me I was giving the impression of being angsty, almost against the idea of ‘digital transformation’. I’d been doing it on Twitter as well.
 
 I sighed. I could see their point.
 
