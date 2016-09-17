@@ -11,6 +11,8 @@ We are trying to bring people interested in design together to talk about the de
 
 We also want the time be one where people can be open and honest, to talk about their good stuff and the stuff that could be better.
 
+And we're just getting on with it.
+
 Using a big screen, two Macbooks, a telephone people from our offices in Exeter, Leeds, Newcastle, and London “met” using Google Hangouts, WebEx, and a telephone call. It was a little faffy, but it just about worked. Matt Higgins took [a picture of us in action](https://twitter.com/matsquatch_11/status/775974922254487552).
 
 I showed how we have been working and what we have been doing on nhs.uk, particularly out of Leeds. You can [see me on Twitter](https://twitter.com/Hamtweets/status/775659260843847680).
