@@ -13,7 +13,7 @@ We also want the time be one where people can be open and honest, to talk about 
 
 It isn’t a thing already happening in the NHS. So, we’re just getting on with it.
 
-Using a big screen, two Macbooks, a telephone people from our offices in Exeter, Leeds, Newcastle, and London “met” using Google Hangouts, WebEx, and a telephone call. It was a little faffy, but it just about worked. Matt Higgins took [a picture of us in action](https://twitter.com/matsquatch_11/status/775974922254487552).
+Using a big screen, two Macbooks, a telephone people from our offices in Exeter, Leeds, London, Newcastle, and Southampton “met” using Google Hangouts, WebEx, and a telephone call. It was a little faffy, but it just about worked. Matt Higgins took [a picture of us in action](https://twitter.com/matsquatch_11/status/775974922254487552).
 
 Important lesson one: IT permissions still make it hard to find one way of communicating.
 
