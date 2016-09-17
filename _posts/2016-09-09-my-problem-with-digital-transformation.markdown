@@ -21,7 +21,7 @@ I tried to be encouraging. But deep inside all I was looking at was a web interf
 
 Let’s be clear: this isn’t transformation. This isn’t digital transformation.
 
-At least they’re modernising something, eh. At least users won’t have to pinch and zoom the screen.
+At least they’re modernising something, eh. At least users won’t have to pinch and zoom the screen. It just that though: modernising a bit of a service. (It isn’t service design either, but that is a thing for another day.)
 
 And that’s just one example. And that one example I’ve had three times the past few months. I’ve had a few more over the past years. And I’ve read more. I don’t want to go on. And on. And on.
 
