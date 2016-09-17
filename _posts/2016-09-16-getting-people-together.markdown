@@ -33,6 +33,6 @@ And we’ve done a little retro to get some conversations going about what desig
 
 At the least we’re off.
 
-‘Digital transformation’ is a phrase that is used often, sometimes with vaguer meaning than others, and regularly focuses on the technology alone. While I am at the NHS I want to make sure design as a thing, the people involved with design, and the ways of working aren’t missed as part of that. Those are what ‘digital’ means to me. And it’s good to talk about them, regularly.
+‘Digital transformation’ is a phrase that is used often, sometimes with vaguer meaning than others, and regularly focuses on the technology alone. (Which I [blogged about last week](my-problem-with-digital-transformation).) While I am at the NHS I want to make sure design as a thing, the people involved with design, and the ways of working aren’t missed as part of that. Those are what ‘digital’ means to me. And it’s good to talk about them, regularly.
 
 Thank you to everyone who made the time to take part and attend. We’ll be doing another meet in about a month’s time. It feels good to have made a start.
