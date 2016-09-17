@@ -25,7 +25,7 @@ At least they’re modernising something, eh. At least users won’t have to pin
 
 And that’s just one example. And that one example I’ve had three times the past few months. I’ve had a few more over the past years. And I’ve read more. I don’t want to go on. And on. And on.
 
-The ‘ways of digital’, the people centric things - cohesion and learning through collaboration and cooperation missed – are missed out in the big sell of technological modernisation. Maybe the onus on transformation being led, driven in some places by a “Chief Technology Officer” is a part of the problem. Maybe the organisations have been fundamentally technology led, all about the systems and the processes mapped out and put down, so it is hard. Anything that is modernising is wrapped in the digital transformation banner.
+The ‘ways of digital’, the people centric things - cohesion and learning through collaboration and cooperation – are missed out in the big sell of technological modernisation. Maybe the onus on transformation being led, driven in some places by a “Chief Technology Officer” is a part of the problem. Maybe the organisations have been fundamentally technology led, all about the systems and the processes mapped out and put down, so it is hard. Anything that is modernising is wrapped in the digital transformation banner.
 
 I am a massive believer in digital transformation. And it can be painful, it can take time. But there needs to be honesty. Know where you are up to, what you are doing. The lines between actuality, ambition and misuse are clear to see.
 
