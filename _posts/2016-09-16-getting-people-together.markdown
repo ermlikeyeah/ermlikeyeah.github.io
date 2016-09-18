@@ -7,7 +7,7 @@ In the NHS beta team we try to do things openly. We publish little snippets on t
 
 On Tuesday we hosted the first cross NHS design get-together from Leeds, as a [brown bag lunchtime session](http://www.investopedia.com/terms/b/brown-bag-meeting.asp).
 
-We are trying to bring people interested in design together to talk about the design work we do in the NHS, the services we work on, and the way these services are created. Deliberately I have not said ‘designers’, focusing on bringing together a community that is interested in design.
+We are trying to bring together people in the NHS interested in design to talk about the design work we do in the NHS, the services we work on, and the way these services are created. Deliberately I have not said ‘designers’, focusing on bringing together a community that is interested in design.
 
 We also want the time be one where people can be open and honest, to talk about their good stuff and the stuff that could be better.
 
@@ -15,7 +15,7 @@ It isn’t a thing already happening in the NHS. So, we’re just getting on wit
 
 Using a big screen, two Macbooks, a telephone people from our offices in Exeter, Leeds, London, Newcastle, and Southampton “met” using Google Hangouts, WebEx, and a telephone call. It was a little faffy, but it just about worked. Matt Higgins took [a picture of us in action](https://twitter.com/matsquatch_11/status/775974922254487552).
 
-Important lesson one: IT permissions still make it hard to find one way of communicating.
+Important lesson one: IT still has the control! IT permissions still make it hard to find one way of communicating.
 
 Important lesson two: Getting the message about doing this and out to people involved a lot more systems. An email list. An intranet blog post. Yammer. Another email list. Slack. Individually targeted emails.
 
