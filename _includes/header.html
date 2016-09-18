@@ -16,9 +16,15 @@
       <div class="trigger">
 
         {% for my_page in site.pages %}
-        {% unless my_page.exclude_from_nav %}
+          {% if my_page.title %}
+
+          {% if my_page.exclude_from_nav != true %}
+
           <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-        {% endunless %}
+
+          {% endif %}
+
+          {% endif %}
         {% endfor %}
 
       </div>
