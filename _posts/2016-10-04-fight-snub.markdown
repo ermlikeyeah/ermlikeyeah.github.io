@@ -3,10 +3,6 @@ layout: post
 title: Fight snub
 date: '2016-10-04 21:00:00'
 ---
-# Lie down and not fight
-
-(With apologies to the Regulars.)
-
 Earlier this year I [wrote about “us versus them”](/us-versus-them/). I am sort of revisiting that post.
 
 I don’t like the word ‘fight’ at work to describe getting stuff done. It’s the language of conflict.
