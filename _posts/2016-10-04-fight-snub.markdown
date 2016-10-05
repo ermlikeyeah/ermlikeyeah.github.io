@@ -38,4 +38,4 @@ Francis provided that.
 
 We all have challenges, we all want to make things better. But that rate of progress will be even slower if we spend half the time dealing with the friction.
 
-Have a people centred mindset for the people you have doing the people centred work. Understand them – or they understand you. Have agreement and do work, not fights. And let’s crack on making things better.
+Have a people centred mindset for the people you have doing the people centred work. Understand them. Know they understand you. Either or both. But have agreement and do work, not fights. And let’s crack on making things better.
