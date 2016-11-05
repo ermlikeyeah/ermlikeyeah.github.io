@@ -1,0 +1,47 @@
+---
+layout: post
+title: Weeknotes s01e01
+date: '2016-11-05 07:00:00'
+---
+At the end of every week [Matt Jukes](https://twitter.com/jukesie) publishes notes on his working week. ([Here’s this week’s.](https://productforthepeople.xyz/weeknotes-s3e08-7974c08a2b20#.u16dwx78y)) For the past few years I’ve written similar notes into Evernote as a “private blog”, but not published them. I am going to try and publish what I can of those. This is nothing to do with turning 41 last week.
+
+The first full week back after taking some time out last week from the NHS.UK work a) to spend time at some other places doing Interesting Digital Things, and b) because it was my birthday. I used to do drop-ins at other places every four-to-six weeks but have fallen out of the habit over the past few months.
+
+The very full-on, sometimes frenetic nature of the work I am involved with has somewhat taken over my life. The time away was invigorating, as well helping maintain a sense of perspective. Is the stuff you’re doing actually that good? Is that bad thing actually that bad? How are people tackling similar problems? Oh, that’s a nice way of solving something, possibly something to borrow. Is the grass greener elsewhere? And “Why weren’t you taking these moments out, Si?”
+
+Anyway, the time away was full of reminders, particularly that compared to a lot of the public sector “transformation” stuff we’re quite a bit behind on NHS.UK – and we really have to make design and the idea of making good modern services things valued. We’re a small team spinning a lot of plates, but we’ll get there. Things are starting to surface.
+
+On Wednesday I had the privilege of representing the NHS.UK team at EHI Live in Birmingham, in a session alongside Matthew Parsons from GDS, [Bea Karol Banks](https://twitter.com/beatricelucy) from the [Tinder Foundation](//www.tinker.org), and Paul Thomas from Microsoft.
+
+![](/assets/ehi-live-2016.jpg)
+(Taken from [this tweet]().)
+
+Each of the speakers had time to talk before a question and answer session. I tried to squeeze into 20 minutes where the NHS.UK team has come from and where it is going. Doing the talk was a good chance to take stock – and the time away talked about above helped with that. A lot got cut, but what stayed in seemed to inform the audience. If you’re interested the slides from my talk are [on Speakerdeck](//speakerdeck.com/idlesi/nhs-dot-uk-ehi-live).
+
+If you look at the slides, slide 6 is deliberately blank, when I recalled the last conversation I had with my grandad earlier this year, while he was in hospital. At the time I told my grandad I was leaving HMRC to join the NHS.UK team, where I am now.
+
+“Oh right,” he said. “Doing what?”
+
+I hadn’t expected him to be interested. I wasn’t prepared. I managed to waffle on to him for a minute or so. I wasn’t being very clear, let alone concise, which my grandad made clear with his words on slide 7.
+
+“So, what is it you are doing?”
+
+Six months on from that chat it was felt good to know the answer and answers to that question, to share our work on NHS.UK, now and for the future, and knowing where we are going.
+
+The next day, out of London, we managed to herd together the NHS “design team” for the second cross-NHS design meet. ([I blogged about the first one six weeks back.](https://medium.com/@ermlikeyeah/getting-people-together-2abea8f542d4#.ovmcg13sx))
+
+I’ve always got the thoughts whether “design meets” should be just for designers – or more about talking about the services we are designing with everyone involved, so while the designers lead the meets, making sure user researchers, product owners/managers, and devilry managers are in the room is totally allowed. I am softly pushing for the latter approach at the mo. The NHS has a lot of bits spread apart – in skills, in mind as well as geography – so these meets are an attempt to connect those.
+
+We used the hour to talk about accessibility. There was an amazing turn out from the NHS posse at the recent cross government accessibility meet in Leeds. We’ve used our meet this as another step to talk about the work we’re doing to make sure our digital services work for everyone.
+
+Here’s Ian starting us off with NHS Choices.
+
+![](/assets/cross-nhs-design-2.jpg)
+
+(Taken from [this tweet](https://twitter.com/ermlikeyeah/status/794177667843162112).)
+
+Thanks to those who talked. It’s a big move to say Yes, and one we should never take for granted. Thanks also to those who Skyped in from Leeds and Newcastle. The building’s wifi totally failed so I had to tether using my mobile phone. Hopefully it wasn’t too bad for those joining us digitally.
+
+Some of the team spent time on Thursday testing the service we’re working on with a colleague with visual impairment due to degenerative eye condition. It was great to hear a colleague, Neil, say the next day “The more I understand about this, from trying out screen readers to seeing David working, the more I realise that designing stuff for everyone leads to better design for everyone.” A good way to end the week. We’re getting there.
+
+As always feel free to [get in touch](/contact) if you want to know or talk more. I am [@ermlikeyeah](//www.twitter.com/ermlikeyeah) on Twitter.
