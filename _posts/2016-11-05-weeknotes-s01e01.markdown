@@ -3,7 +3,7 @@ layout: post
 title: Weeknotes s01e01
 date: '2016-11-05 07:00:00'
 ---
-At the end of every week [Matt Jukes](//twitter.com/jukesie) publishes notes on his working week. ([Here’s this week’s.](//productforthepeople.xyz/weeknotes-s3e08-7974c08a2b20#.u16dwx78y)) For the past few years I’ve written similar notes into Evernote as a “private blog”, but not published them. I am going to try and publish what I can of those. This is nothing to do with turning 41 last week.
+At the end of every week [Matt Jukes](//twitter.com/jukesie) publishes notes on his working week. ([Here’s this week’s.](//productforthepeople.xyz/weeknotes-s3e08-7974c08a2b20#.u16dwx78y)) For the past few years I’ve written similar notes into Evernote as a “private blog”, but not publicly published them. I am going to try and publish what I can of those. This is nothing to do with turning 41 last week.
 
 The first full week back after taking some time out last week from the NHS.UK work a) to spend time at some other places doing Interesting Digital Things, and b) because it was my birthday. I used to do drop-ins at other places every four-to-six weeks but have fallen out of the habit over the past few months.
 
@@ -11,7 +11,7 @@ The very full-on, sometimes frenetic nature of the work I am involved with has s
 
 Anyway, the time away was full of reminders, particularly that compared to a lot of the public sector “transformation” stuff we’re quite a bit behind on NHS.UK – and we really have to make design and the idea of making good modern services things valued. We’re a small team spinning a lot of plates, but we’ll get there. Things are starting to surface.
 
-On Wednesday I had the privilege of representing the NHS.UK team at EHI Live in Birmingham, in a session alongside Matthew Parsons from GDS, [Bea Karol Banks](//twitter.com/beatricelucy) from the [Tinder Foundation](//twitter.com/TinderFdn), and Paul Thomas from Microsoft.
+On Wednesday I had the privilege of representing the NHS.UK team at EHI Live in Birmingham, in a session alongside Matthew Parsons from GDS, [Bea Karol Banks](//twitter.com/beatricelucy) from the [Tinder Foundation](//www.tinderfoundation.org), and Paul Thomas from Microsoft.
 
 ![](/assets/ehi-live-2016.jpg)
 (Taken from [this tweet](//twitter.com/NHSBenefits/status/793789684019232768).)
