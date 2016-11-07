@@ -28,6 +28,8 @@ I hadn’t expected him to be interested. I wasn’t prepared. I managed to waff
 
 Six months on from that chat it was felt good to know the answer and answers to that question, to share our work on NHS.UK, now and for the future, and knowing where we are going.
 
+Bea followed me with an excellent talk on Designing For Someone Who’s Never Been Online. She has also written an equally excellent post echoing many of the things she said. [You can read it here.](//medium.com/@beatricelucy/designing-for-someone-whos-never-been-online-979c9bb0bd3a#.ubva5n7d6)
+
 The next day, out of London, we managed to herd together the NHS “design team” for the second cross-NHS design meet. ([I blogged about the first one six weeks back.](//medium.com/@ermlikeyeah/getting-people-together-2abea8f542d4#.ovmcg13sx))
 
 I’ve always got the thoughts whether “design meets” should be just for designers – or more about talking about the services we are designing with everyone involved, so while the designers lead the meets, making sure user researchers, product owners/managers, and delivery managers are in the room is totally allowed. I am softly pushing for the latter approach at the mo. The NHS has a lot of bits spread apart – in skills, in mind as well as geography – so these meets are an attempt to connect those.
