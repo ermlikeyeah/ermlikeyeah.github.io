@@ -25,6 +25,8 @@ Anyway, I met another friend the other day. We laughed at how we’ve moved on, 
 
 We talked about the patterns stuff at the BBC, gov.uk some of the stuff the Co-op is giving us a glimpse of (like everyone seems to), Facebook, what we’re looking to do on NHS.UK, and on and on. Starting off with something, making something, testing, learning, documenting by adding/editing/deleting. And round and round it goes.
 
+Patterns are a thing of the moment, but one we’re glad of.
+
 As we ran started to run out of time, my mate told me about his current assignment.
 
 “Yeah,” he said, looking down at his drink. He picked it up, had a sup and put it back down before continuing. He tells me about where he is. He’s working on this thing that is going to go on for quite a while. It all sounds like Good Stuff.
