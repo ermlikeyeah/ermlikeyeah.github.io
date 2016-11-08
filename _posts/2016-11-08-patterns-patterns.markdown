@@ -41,6 +41,6 @@ Just as a baseline? I ask.
 
 “Some clients would be helpful because ‘Ah yeah, we had so-and-so do something similar’ and they’d send that over. But usually the client would come back with ‘We’ve sent you the guidelines’. And that’s it. And no client I ever worked with came back with guidelines they’d added actually to. That was years ago.
 
-“The management see ‘patterns’ as an exercise they just do up front, and then move on to ‘productionising’. Then they can just get whoever - front-end devs it sounds like mainly - to refer to them to copy and paste their way through services. No appreciation that the journey they are pulling together now may be different to the context for the original pattern. Patterns as the new identity guidelines we did ten years back, hey!”
+“The management see ‘patterns’ as an exercise they just do up front, and then move on to ‘productionising’. Then they can just get whoever - front-end devs it sounds like mainly - to refer to them to copy and paste their way through services. No appreciation that the journey they are pulling together now may be different to the context for the original pattern. And no plan, no intention to add to the work I am involved with now. Patterns as the new identity guidelines we did ten years back, hey!”
 
 A forewarning from the past for those doing work in the present there.
