@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Patterns patterns
+title: Patterns, patterns
 date: '2016-11-08 05:00:00'
 ---
 I’ve done that thing – when the days start to get shorter and the days get colder, at that point of the year where one is weary and needs a bit of a shot in the arm to keep going until the inevitable enforced end of year break – I seek solace in lunchtimes to talk about worky stuff with some friends more than ever. Warm the cockles, as it were.
