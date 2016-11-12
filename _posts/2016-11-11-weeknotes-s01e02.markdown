@@ -1,0 +1,50 @@
+---
+layout: post
+title: Weeknotes s01e02
+date: '2016-11-12 07:00:00'
+---
+Once [my first post for the NHS.UK Transformation blog was up](//transformation.blog.nhs.uk/talking-at-ehi-live-2016) (a quick recap of the EHI Live session I was on) it was full into a week of pretty much full time, full on designing this week. I am trying this sprint to get us from next to nothing tangible (other than a hypothesis) to some sort of working in-browser prototype. The last day of the sprint is this coming Monday. No pressure.
+
+Assembling something in-browser means having a design framework to play with to help assemble some ideas and then some designs to work from. Monday was about prepping: Prepping that base in-browser framework for later and prepping for the next day (the plan was to sketch as a team on Tuesday).
+
+Using the word ‘prep’ makes it sound like a lot of time – but it was more getting an idea of what we wanted to get out of the session, thinking what would be a good fit, and then noting down some structure, and glancing through our reference materials. Sometimes it feels prepping for sketching sessions is massively overblown, like a full on workshop, rather than being seen as a step to help move in the an agreed direction. The only real mitigation was I didn’t want the session to feel full of fluff, avoid the “Post Its for Post Its’ sake” perception that can sometimes permeate round these sessions. Keep it lean, keep it focused.
+
+Tuesday, once everyone had cleared their decks, we spent time together as a team. Getting the problem framed was the starting point, leaning on an approach in Jeff Gothelf’s Lean UX. Key was make sure everyone understood and was focused on the problem, and why it is a problem – and what could we do that would be of benefit? Nick, the service’s product owner, led the session.
+
+![](/assets/08-11-2016-sketching-as-a-team.jpg)
+(Picture taken from [this tweet](//twitter.com/ermlikeyeah/status/796034491156459521).)
+
+Once all was clear, we moved on to sketching as a team. Making clear it is a safe space – to come up with and to share ideas, not be worried about responses to those ideas, and express them in a way that is comfortable to the individual – the team got their heads down to think they individually could approach the problem with some a sketch of the service journey. After five minutes we went round and talked through our ideas. Having the whole team involved allows us to go wide on the problem. And there’s always a good mix of the pragmatic and the looking further afield.
+
+Three rounds of sketching-and-explaining got us through to some analysis. Seeing commonalities allowed the sketched ideas to be joined up, and allowed discussion around the fuzzier aspects of our explorations. As we went along assumptions were noted. Starting off there’s always some of those. We’ve a few assumptions, but we’re not starting with nothing. We have needs, if not specific acceptance criteria. This will help us bring something together quickly to get in front of users and get moving quickly.
+
+A strong part of our approach to doing stuff is working in the open is we also openly like to invite help. It’s not because we don’t know what we are doing - we appreciate the value of community and the opportunity to get expert knowledge we might not have thought of. We also try to work at pace, so if something happens to save time, bonus. Matt Harrington is not only [an advocate of strong trainer game](//twitter.com/ermlikeyeah/status/794196906339692544) but also [shares this willingness to use social media for help](//twitter.com/imattharrington/status/795949816652111872). He's also the product owner on the register with a GP service. The team are looking to speak to rural GP surgeries about registering patients. Know someone? Matt’s [on Twitter as @imattharrington](//twitter.com/iMattHarrington), or you can email that team on rgp-team@digital.nhs.uk.
+
+In research people frequently talk about their need for consistency in service from the NHS. It’s a tough cookie, and we don’t have a wide remit to delve into the NHS’s service design. But we can at least try to move towards making sure our digital services are consistent for our users. Some colleagues are exploring what an “online 111 service” would be like.
+
+Their service manager, [Chris](//twitter.com/e17chrisfleming), was scratching his head and we offered to help out in some, ahem, “spare time". Collaboration across services is vital, and having people who naturally have that mindset makes things easier. Sometimes that work is just about giving reassurance to the team they are doing the right thing. Sometimes that work is just about “sweating the details”.
+
+In this case it was both, but Chris and his team were already doing some really good stuff. Personally, it was good to see another curious, honest, modest, and talented team team doing the hard work – and above everything else, they care about what they are doing. You cannot take that team’s chemistry for granted.
+
+It’s easier to be insular and inward facing. I said in [last week’s notes](//medium.com/@ermlikeyeah/weeknotes-s01e01-47bb53b9582c#.eqbk0pkaa) getting some outside views always provides perspectives, from the reassuring to the positively challenging. Usually I go out of the building for these. But I’ve looked at bringing some of those perspectives into the Leeds NHS.UK space. It livens the team up, livens the workplace up, gets people thinking and talking. All good. [Ian Sharp](//twitter.com/IanDSharp) from the [Digital Health Enterprise Zone (DHEZ)](//www.dhez.org) in Bradford popped in this week.
+
+![](/assets/09-11-2016-ian-sharp.jpg)
+(Picture taken from [this tweet](//twitter.com/ermlikeyeah/status/796316924489715712).)
+
+Ian’s genuinely a great guy, and leading some great work out of DHEZ. I am immensely thankful he took the time out to pop by. His views on care as a thing that touches upon many social organisations (ie. not just the NHS) were pertinent, and based on work happening around Bradford. A dose of reality. We’ve promised we’ll be heading over to DHEZ in the coming weeks to talk about our work and look for further collaboration. Something else to look forward to it.
+
+![](/assets/10-11-2016-design-team.jpg)
+
+I took Wednesday afternoon off to go and have a snoop at somewhere doing interesting stuff, and have my thinking pushed. Always, always good to do either of these. Brilliant to do them both at the same time. And, again, brings perspective to what we are doing on NHS.UK.
+
+The whole NHS.UK design team assembled towards the end of the week to make sure our work-streams are joining up, if not already joined up. A value of this across-service approach means research sessions focusing can be mindful of what any of the three teams are looking for at that time, as well as what unexpected nuggets of insight pop up.
+
+It was good to end the week with the Leeds arm of NHS.UK moving into a new space – or rather a different part of the floor we’re on. Our seating and wall space were disconnected, but hopefully this shift will fix this. Also it’s been a good chance to consider the value of what we had up. Is it useful? It is still relevant? Have we taken the learnings, absorbed them, and then moved on?
+
+I’ve worried over the years about putting stuff up on walls turning into a wallpapering exercise, and an almost hoarding mentality to keep things up, leave it up just in case. (And the perennial “It looks good for visitors”.) Anyway, a chance to evaluate what really needed shifting from one wall, what needed taking down, rolling up and storing, and what just needed to go for recycling. We’ll get in and live in the space. We’ve already put a little sign up so people know where we are.
+
+![](/assets/11-11-2016-heart-nhs.jpg)
+
+It is Saturday morning as I tap this out. Monday is the last day of this sprint. The weekend and then one working day to see how quickly I can move the ideas from paper to something simply in-browser. No problemo...
+
+It might have been a depressing week personally with the US Election results, more GDS sniping, and some org woes. But, and it is hard to say this, it’s not about the politics, it’s about the people we are doing this for: the public. And the people we are working with. Gotta keep the head down, the thinking cap on, keep making good stuff, explaining how and why we do it, keep people curious, and forget about those woes.
