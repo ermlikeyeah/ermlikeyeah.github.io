@@ -15,6 +15,8 @@ Monday also saw [a visit from Caroline Jarrett](//twitter.com/ermlikeyeah/status
 
 Caroline visited in the middle of a massive end-of-sprint push to [get a prototype together](//twitter.com/ermlikeyeah/status/798159693638156292). Weekend work and a late nighter on Monday saw us meet that sprint goal. We’re not a massive team and really pushing to make sure we can get through work. Ending the sprint with something tangible meant we could end the sprint with a sense of closure and plan the next two weeks firmly. Satisfying.
 
+Even more satisfying was to have Chris Moore at HMRC use his great accessibility knowledge to review our work for us. Getting this take early on is vital. Accessibility isn't something we just tag on at the end. Also, cross government designers for the win.
+
 ![](/assets/18-11-2016-design-crit.jpg)
 
 Ben Cullimore is the designer on the NHS electronic referral system which is currently being worked on. Ben’s been keen to spend time with us on the beta team since I arrived nearly six months ago. Ben always brings his service’s work with an open mind for an open discussion about where they are at. Ben’s also a great example of the great people I work alongside, who want to do good work and have the talent to do that. Sadly the designers in NHS’s digital arm just haven’t had too much support. We’re changing that. We need to change that. It’s an honour to support Ben, and crit his work in a positive way to make things better, like [we did on Wednesday](//twitter.com/ermlikeyeah/status/798900675149185025). And, yeah, “electronic referral system”. I know. We’ll get there.
@@ -25,4 +27,4 @@ I’ve ended the week today going through what we want to do to connect people t
 
 There is enormous will for us to succeed, and the support to make that happen is immense. Burrowing on is key. But there are limits to what we can deliver. At the moment a lot of those limits are set down by a lack of data to meet users’ needs. This also means drawing up lists of that data we do not have – but we’ll get that stuff, and we’ll keep improving. Hopefully we’ll be blogging about that through the ‘proper channels’ soon.
 
-A terrific couple of weeks though. Long may it continue.
+A terrific couple of weeks though. Long may it continue. But now, a weekend off.
