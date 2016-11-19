@@ -7,19 +7,19 @@ At the end of last week [I noted](/weeknotes-s01e02/) that work was full on. It�
 
 We started the week with Dean joining us, bringing the Leeds posse its first content designer. We’ve a strong, nimble team of good people in the nhs.uk team across Leeds and London, but all the content was done by members of the team in London until Dean’s arrival. Dean has already brought a good balance of curiosity, understanding, and getting stuff done.
 
-![](/assets/18-11-2016-caroline-jarrett.jpg)
+![Dean and Caroline review our work.](/assets/18-11-2016-caroline-jarrett.jpg)
 
 Monday also saw [a visit from Caroline Jarrett](//twitter.com/ermlikeyeah/status/798227241473740801), who met the nhs.uk beta team in Leeds, and went through the work the team have been on with. I am massively grateful to Caroline for spending the time with us. The team richly enjoyed their time with Caroline. It’s great to have your thinking and work probed and stretched by someone as curious and sharp as Caroline.
 
-![](/assets/18-11-2016-port5000.jpg)
+![A picture of my MacBook with a reminder I need to use port 5000 to view it locally.](/assets/18-11-2016-port5000.jpg)
 
 Caroline visited in the middle of a massive end-of-sprint push to [get a prototype together](//twitter.com/ermlikeyeah/status/798159693638156292). Weekend work and a late nighter on Monday saw us meet that sprint goal. We’re not a massive team and really pushing to make sure we can get through work. Ending the sprint with something tangible meant we could end the sprint with a sense of closure and plan the next two weeks firmly. Satisfying.
 
-Even more satisfying was to have Chris Moore at HMRC use his great accessibility knowledge to review our work for us. Getting this take early on is vital. Accessibility isn't something we just tag on at the end. Also, cross government designers for the win.
+Even more satisfying was to have Chris Moore at HMRC use his great accessibility knowledge to review our work for us. Getting Chris’s take early on is a vital fillip. First and foremost Chris is a nifty content designer. Like Caroline, Chris is a critical friend. And accessibility isn’t something we just tag on at the end. Also, cross government designers for the win.
 
-![](/assets/18-11-2016-design-crit.jpg)
+![Dean, Ben, me.](/assets/18-11-2016-design-crit.jpg)
 
-Ben Cullimore is the designer on the NHS electronic referral system which is currently being worked on. Ben’s been keen to spend time with us on the beta team since I arrived nearly six months ago. Ben always brings his service’s work with an open mind for an open discussion about where they are at. Ben’s also a great example of the great people I work alongside, who want to do good work and have the talent to do that. Sadly the designers in NHS’s digital arm just haven’t had too much support. We’re changing that. We need to change that. It’s an honour to support Ben, and crit his work in a positive way to make things better, like [we did on Wednesday](//twitter.com/ermlikeyeah/status/798900675149185025). And, yeah, “electronic referral system”. I know. We’ll get there.
+Ben Cullimore is the designer on the NHS electronic referral service which is currently being worked on. Ben’s been keen to spend time with us on the beta team since I arrived nearly six months ago. Ben always brings his service’s work with an open mind for an open discussion about where they are at. Ben’s also a great example of the great people I work alongside, who want to do good work and have the talent to do that. Sadly the designers in NHS’s digital arm just haven’t had too much support. We’re changing that. We need to change that. It’s an honour to support Ben, and crit his work in a positive way to make things better, like [we did on Wednesday](//twitter.com/ermlikeyeah/status/798900675149185025). And, yeah, “electronic referral system”. I know. We’ll get there.
 
 Most of the week has been spent looking deeper at design and strategy of the connecting to services programme I am involved with. Again, lots of progress, but still lots to do. We’ve got to really test what we’re designing to make sure it’s not just better, but as good as it can be.
 
