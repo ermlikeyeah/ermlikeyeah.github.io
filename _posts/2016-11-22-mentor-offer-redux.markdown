@@ -9,6 +9,6 @@ To be honest, I didn’t follow through. A combo of tying stuff up at HMRC and p
 
 Sorry if you got in touch. I hold my hands up. My bad.
 
-Anyway, the offer still stands. The past six months is the first time in about 10 years I’ve not really been mentoring someone. And it’s something I miss. I like to give something back.
+Anyway, the offer still stands. The past six months is the first time in about 10 years I’ve not really been mentoring someone. And it’s something I miss. I like to give something back. If my skills, knowledge, and/or experience could help you as a person or your career, I’d be up for that!
 
-So if you fancy it – and ‘it’ would be hooking up every six weeks or so for about a year – [drop me a line](/contact). 
+So if you fancy it – and ‘it’ would be hooking up every six weeks or so for about a year – [drop me a line](/contact) with a little note why we could be a good match. I will get back to you this time, promise. 
