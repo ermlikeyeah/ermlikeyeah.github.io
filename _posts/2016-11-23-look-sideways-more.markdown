@@ -20,6 +20,6 @@ I’ve sort of fallen off this wagon in recent months. But I’ve started up aga
 
 I have an appeal of two halves.
 
-First: If you’re a place doing interesting stuff – and that could be how you go about it as much as what you are doing – I’d love to bob in. [Drop me a line](/contact). I am open to most things.
+First: If you don’t take this time out yourself, try it. Give it a go.
 
-Second: If you don’t take this time out yourself, try it. Give it a go.
+Second: If you’re a place doing interesting stuff – and that could be how you go about it as much as what you are doing – I’d love to bob in. [Drop me a line](/contact). I am open to most things.
