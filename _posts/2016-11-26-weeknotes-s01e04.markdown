@@ -1,0 +1,36 @@
+---
+layout: post
+title: Weeknotes s01e04
+date: '2016-11-26 12:00:00'
+---
+Amongst pressing on with the primary focus in Leeds (a little more on that further down), it’s been a week about stitching bits together, seeing clearly how the collective NHS.UK beta work fits (and doesn’t fit), what needs doing yet, and working to make sure we know what is missing can “be filled in” ahead of March.
+
+The design team came together midweek for a useful state of the nation session. As a design team (interaction designers, content designers, and the product owners) we went through where we’ve got to, what comes next, and share where we think our work needs to overlap more. We have three teams doing their own things, which are interlinked. We do go through stuff but usually those run-throughs are crammed in amongst the other stuff of that day. Taking time out once in a while to just focus on the whole service is key.
+
+Doing the making still takes *some time*, and we want to make sure – amongst the pressures of delivering and all the “foot to the floor” stuff – what we’re doing and how we do it sets a standard, a platform for whatever comes post-March. And that it is achievable - just having "people" doesn't get work done. Having people with the right skills and experience does. People not resources and all that.
+
+And then there’s the “unknowns”… They’re not know so a bit of a shrug. As we come to them we’ll respond, we’ll adapt.
+
+Getting clear what “connecting to services” (the focus of the Leeds’ team’s efforts) means we’re starting to talk openly about. Joe has [written up our thoughts on the NHS.UK blog](//transformation.blog.nhs.uk/connecting-people-to-services) as a starter.
+
+After a few weeks of scribbles that showed stuff like “Services are things like getting flu jabs, family planning, asthma checks. Services are not places like pharmacies. Places like that provide services.” we started to get it down visually. Here’s a initial brain splat to try and get it across simply:
+
+![](/assets/25-11-2016-nhs-beta-cts.gif)
+
+Does that make sense to you?
+
+Even if we’re a user researcher down, user research can still be a team sport. Some of us have strong user research skills so have a good multi-discipline team make-up comes into play. A few of us spent the best part of a day at a health centre in Meanwood. Talking to people and listening to them is the best! We do it regularly and it is never something I take for granted. We got great insight from patients, carers, and the staff at the surgery. Doing those last couple of tweaks to the prototype over an early breakfast ahead of going in felt worth it.
+
+We spoke to about 30 people, and came away having spoke to four people who have never used the internet. Four. My kids didn’t believe me when I told them. They literally cannot imagine such a thing. We came away knowing we’re heading in the right direction: Certain in some things, challenged in others, and knowing what questions we need to turn over next.
+
+I’ve found some time to dig around non-England pharmacy data. At the moment the data we use only has service providers in England. (Because NHS *England*…) But what if someone in Scotland, Wales, or Northern Ireland used what we’re making? It is NHS dot UK we’re working on…
+
+There’d be efficiencies in us doing everything in the UK around the same time (it’d mainly be a bit of a data mash from the looks of things), on top of the scenarios of people who live close to the borders between the UK’s nations, but… Anyway. We’ll see.
+
+Looking at how NHS service providers can give us information that meets patients’ needs is another thing we’ve started to explore. This is making sure that we provide usable tools for the people at those services. Usability isn’t just for the “front end”.
+
+Amongst everything this week I also had time to nip into a university and talk to some first year students about designing stuff. “Understand what needs to be done so you know why you are doing it,” I told them. Advice I always need to remember rather than just piling in and on. I am trying to kick off [cross government mince pies](//twitter.com/ermlikeyeah/status/801850064251604992), tapped a [quick post on looking sideways more](/look-sideways-more/), and [am looking for someone to mentor](/mentor-offer-redux/).
+
+![](/assets/25-11-2016-i-heart-nhs.jpg)
+
+**These weeknotes were brought to you while listening to A Tribe Called Quest’s [We Got It From Here... Thank You 4 Your Service](//open.spotify.com/album/3WvQpufOsPzkZvcSuynCf3).**
