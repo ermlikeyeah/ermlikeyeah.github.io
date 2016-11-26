@@ -23,7 +23,7 @@ Even if we’re a user researcher down, user research can still be a team sport.
 
 We spoke to about 30 people, and came away having spoke to four people who have never used the internet. Four. My kids didn’t believe me when I told them. They literally cannot imagine such a thing. We came away knowing we’re heading in the right direction: Certain in some things, challenged in others, and knowing what questions we need to turn over next.
 
-I mentioned [last week]()/weeknotes-s01e03/) the data we have limiting what we can do. I’ve found some time to dig around non-England pharmacy data. At the moment the data we use only has service providers in England. (Because NHS *England*…) But what if someone in Scotland, Wales, or Northern Ireland used what we’re making? It is NHS dot UK we’re working on…
+I mentioned [last week](/weeknotes-s01e03/) the data we have limiting what we can do. I’ve found some time to dig around non-England pharmacy data. At the moment the data we use only has service providers in England. (Because NHS *England*…) But what if someone in Scotland, Wales, or Northern Ireland used what we’re making? It is NHS dot UK we’re working on…
 
 There’d be efficiencies in us doing everything in the UK around the same time (it’d mainly be a bit of a data mash from the looks of things), on top of the scenarios of people who live close to the borders between the UK’s nations, but… Anyway. We’ll see.
 
