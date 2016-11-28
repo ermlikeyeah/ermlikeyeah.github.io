@@ -95,16 +95,17 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    color: $brand-color;
-    text-decoration: underline;
+    color: $text-color;
+    text-decoration: none;
+    border-bottom: 4px solid $text-color;
 
     &:visited {
-        color: darken($brand-color, 15%);
+        color: $text-color;
     }
 
     &:hover {
         color: $text-color;
-        text-decoration: underline;
+        text-decoration: none;
     }
 }
 
@@ -121,6 +122,13 @@ p {
       font-size: $base-font-size * 0.85;
       line-height: $base-line-height * 0.85;
   }
+}
+
+/**
+ * strong tag
+ */
+strong {
+  font-weight: $base-font-weight * 2;
 }
 
 
