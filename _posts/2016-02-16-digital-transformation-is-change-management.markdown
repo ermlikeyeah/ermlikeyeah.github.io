@@ -12,11 +12,15 @@ One thing dwells in my mind over the past six months: How hard it has been.
 
 I’ll say that again for clarity without the obstructive brackets: “Digital transformation” is hard.
 
-And at the mo it seems the vogue to get across how *digital transformation is hard*. I’m not trying to be trendy. [Poke](http://pokelondon.com) (an agency rare in that I have time for them) have [recently blogged excellently about this recently](http://pokelondon.com/thoughts/most-contagious-2015/) so it must be a proper thing for concern.
+And at the mo it seems the vogue to get across how *digital transformation is hard*. I’m not trying to be trendy. [Poke](http://pokelondon.com) (an agency rare in that I have time for them) have [recently blogged excellently about this](http://pokelondon.com/thoughts/most-contagious-2015/) so it must be a proper thing for concern.
 
-Confession: I didn’t expect it to be easy, I expected it to be difficult. But I totally misunderstood where the difficulty would come from. I thought coming into somewhere that had been created with the purpose of delivering digital transformation it’d be a case of getting on, getting doing.
+Confession: I didn’t expect it to be easy, I expected it to be difficult. There was plenty about this hanging about before I came in. And Andrew was refreshingly candid when he interviewed me (to his credit). But I totally misunderstood where the difficulty would come from. I thought coming into somewhere that had been created with the purpose of delivering digital transformation it’d be a case of getting on, getting doing.
 
-In my first weeks full-time in government I took the innocent/wide-eyed/idealistic approach of gathering *business needs* (not *business wants*) and *user needs* to design something then got through with the people from “the business”. In that meeting the design work I’d done was compared to the current paper form. My *digital transformation* work was compared to the *existing paper form*.
+In my first weeks full-time in government I took the innocent/wide-eyed/idealistic approach of gathering user needs (and some *business needs*) to design something that solves human problems.
+
+![Solve human problems](/assets/solve-human-problems.jpg)
+
+Then I went through it with the people from “the business”. In that meeting the design work I’d done was compared to the current paper form. My *digital transformation* work was compared to the *existing paper form*.
 
 > The current way is the way we’ve been doing it for fifteen, twenty years. It works.
 
@@ -42,13 +46,13 @@ No matter what places or platforms we start from we are not starting afresh in g
 
 For a few people — the “enlightened”, the “advocates”, the “trailblazers” — this is just getting everyone else, everything into how they already do things. *Just*. And that’s the pinch: It’s about change, changing the established order, changing the mindsets of how we go about things. It’s anything but *just*.
 
-We are trying to design things differently, to make things differently. Maybe this will mean we make different things. Maybe this will mean we will end up making the same things.
-
-Of course it’ll be hard, of course it’s hard. We’re doing in the face of tradition, years of training to continue that way of working. And of course it is obvious. But it wasn’t when I went in.
-
 Change takes time. And patience. And, most of all, belief in and willing to do digital transformation.
 
-![Solve human problems](/assets/solve-human-problems.jpg)
+And change is happening all of the time. Changing just won’t stop. It’s the pace to get things “up to scratch”, the pace to keep things moving along, and the need for nimbleness for that to happen.
+
+That is why we are trying to design things differently, to make things differently. Maybe this will mean we make different things. Maybe this will mean we will end up making the same things.
+
+Of course it’ll be hard, of course it’s hard. We’re doing in the face of tradition, years of training to continue that way of working. And of course it is obvious. But it wasn’t when I went in.
 
 I read something recently that said [leadership is doing nothing](http://adage.com/article/guest-columnists/a-great-brand-leader-absolutely/302548/). It’s not. Leadership should be about doing something:
 

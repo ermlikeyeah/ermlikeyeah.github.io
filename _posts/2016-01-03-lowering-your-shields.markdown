@@ -4,7 +4,7 @@ title: Lowering your shields
 date: '2016-01-03 13:00:00'
 ---
 
-Yesterday morning I was starting to feel a slight case of “head back to work tomorrow” glum. I've had the best part of two weeks off from work with the sam, doing fun stuff. Back to going away from home for the whole week, to the proverbial grind. Sad face.
+Yesterday morning I was starting to feel a slight case of “head back to work tomorrow” glum. I've had the best part of two weeks off from work with the fam, doing fun stuff. Back to going away from home for the whole week, to the proverbial grind. Sad face.
 
 The same morning a piece from [Rands](http://randsinrepose.com) started doing the digital media rounds. Called [Shields Down](http://randsinrepose.com/archives/shields-down/) it’s worth a read.
 
