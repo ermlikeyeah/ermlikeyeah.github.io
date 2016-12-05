@@ -1,0 +1,22 @@
+---
+layout: post
+title: Weeknotes s01e05
+date: '2016-12-05 07:00:00'
+---
+A bit of tick-tocking-along week in the day job. Nothing really to report. Stuff is happening. Most of the more eye-catching stuff involved the mothership.
+
+Thursday was a trip to Sheffield (probably my second favourite UK city) for the cross government design meeting. The highest number of ‘heads of’ updates, and some interesting themes around design consolidation and the idea of “design culture”.
+
+The former seems to be happening over a few bits of gov. We’ve gone wide, let’s take some time to rationalise our work. Sensible.
+
+The mentions of supporting design, supporting design culture, and supporting a design led culture also peppered the discussion. ‘Culture’ is a strong word, that mix of people and environment. Some good chats, but was clear that just about every government department there valued user centred design and gave it a “seat at the table”.
+
+The redesigned radio and checkboxes that the team at GDS have been working on have [been rolled out further](//designnotes.blog.gov.uk/2016/11/30/weve-updated-the-radios-and-checkboxes-on-gov-uk/). We’ve been using them for nearly two months now in our NHS.UK “connecting to services” and “register with a GP” work. Is it too much effort to do the work to overwrite browser’s default stylings so we have web interfaces that are designed for everyone? No. Maybe look at it the other way: Why don’t browsers come with form elements styled from this thinking out the box?
+
+The [revamp of the assessments of government services](//gds.blog.gov.uk/2016/11/30/building-better-assessments-for-digital-services/) was a good way to start the week. I [blogged earlier this year](//www.ermlikeyeah.com/continual-assessments/) on having more frequent contact with “guiders” (rather than assessors), and seeing this approach getting out there feels a good thing. Some teams, some services, some bits of gov will need it more than others, but feels a step in the right direction of helping those who need help not surface after months of work, fail their assessment, and go back to the heat of their department. ‘Fail’ is a strong word to take back to your bosses innit.
+
+“We want to empower teams across government to look at accessibility as an intrinsic part of end-to-end service design.” That’s the TL;DR of [a cracking blog post](//accessibility.blog.gov.uk/2016/12/02/how-to-make-accessibility-easier-for-service-teams/) on how to make accessibility easier for service teams.
+
+This week marked six months on NHS.UK beta. I took some time to do a six month review of that time. These week notes (which I have in longer form off-line) helped me take stock. Coming a few days after the cross gov meeting and seeing where government departments are at was probably not the best time to – but it’s progress. These things take time, I guess.
+
+Anyway. [Here’s Michael Bierut talking about the loneliness of designing and the primitive power of logos](//vimeo.com/122537489).
