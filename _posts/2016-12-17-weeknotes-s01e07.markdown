@@ -1,0 +1,36 @@
+---
+layout: post
+title: Weeknotes s01e07
+date: '2016-12-17 14:00:00'
+---
+No weeknotes last week mainly because, to be honest, I couldn’t be arsed. My personal weeknotes that these are usually culled from were a little bit grumbly about work at the end of that week – and I don’t think we should air our dirty laundry in public. I just wanted a weekend off and away from work, not picking through the irritations. But it has made me think about how we talk about this stuff. This sort of stuff is a bit too rose-tinted-glasses, just the “good stuff”. Rarely do we talk about the more awkward bits, the painful stuff. How do we go about giving a bit more balance in our regular reports? Anyway.
+
+A week back the publishable bits of my notes would have been a repeat of the notes from a fortnight before: “Head down pretty much to make sure we got to the end of the sprint with something solid to show off.”
+
+People stress “Don’t worry if we don’t get stuff done by the end of the sprint”. It’s not the worry about not finishing. It’s making sure we show _continual gradual improvement_ often. End-of-sprint is the perfect chance for that. I’ve eulogised the “be more start-up” spirit before. There’s a clock ticking. Limited runway. And these are public services. These things matter. Getting through every sprint with _some thing solid that shows progress_ matters. The strategy is delivery and all that.
+
+Monday was an in-early to get cracking on tying up some-which-turned-into-a-lot-of loose ends from the previous week.
+
+The high fidelity in-browser prototype ended up with code that was _a bit_ of a mess. Good job it’s not for production. Good job we recognise that. It’s the compromise working at pace to get through stuff. It has some rough edges, some errors, but it just about works in the back-end. But front-end – what matters – it does show the _breadth_ of NHS services and service providers we will be cutting through. And it’s raising some good questions.
+
+It was good to go through it with the rest of the team in Leeds late on Monday morning for a design review and then do some tweaks with their input. (I am starting to drop using the word ‘crit’, for the same reasons we dropped it at HMRC: ‘Review’ seems to invite a more open conversation than ‘crit’ which seems to initiate teardowns, which isn’t always what you need when you’re under the cosh.) Going through the work as a team means ahead of Tuesday – with the cross-NHS beta show and tell and end/start-of-sprint ceremonies – we’re all clear where we are back upstream on research and design. Also, the team are suitably curious so they’re asking good questions. What are the user needs? Are we explaining why we are doing this clearly enough? Is the work we are doing clear enough so users can succeed first time?
+
+There’s some fun challenges coming out.
+
+Pharmacies are always our starting point because that’s where we started with the spine of our work. _You can walk into a pharmacy to get what you need as long as it is open_. Everyone on the team knows they can do this at a pharmacy. Who doesn’t? We want to speak to those people.
+
+Going to see the doctor you are registered with? _You can book an appointment so you can see a doctor at a specific time_. You could do that over the phone – sometimes only when the receptionist is on duty, other general doctors’ surgeries have automated phone systems. And then there’s the online systems. Oh, and there’s three types, almost three *levels* of registration. Do these things matters to users?
+
+Things ramp up a lot more when we start looking at minor injury units, the seemingly misnamed walk-in centres (“You cannot just walk into our local walk-in centre,” one researchee wryly noted a few months back.), urgent care centres, and I could go on.
+
+The short: There’s patterns we are looking at here so people know how they can get access to these services. We did some great mapping recently to lay this out (following on from the work I was getting at in the [weeknotes s01e04](/weeknotes-s01e04)), and I’ll blog more on this in the coming weeks.
+
+With Alex joining the team recently, as a designer, there’s been moments where we’ve revisited the work that got us where we are. Not a case of looking back, but definitely how that work got us to where we are. Looking through the long screens of links to prototypes reminds me the amount of stuff we have worked through in since the summer. There’s a lot there. There’s a lot we’ve cut away so we focus on what works for users. There’s also a lot of questions we want answers to.
+
+I ended the week taking my projector into work to hook up to my MacBook and go through the live service as a team. Projecting the work onto the wall is a great way of allowing us to stick stuff around “live” screens, and work through the design as a team. A thing that seems to happen when going through a lot of stuff is how easy it is to slip away from the journey our users are on, forget the moment they are in. We need to stay focused on our users’ situations and motivations, not a generalisation or our situation. Just about empathy innit.
+
+Looking ahead to next week on Monday we’re going through the high fidelity prototype and looking at what need to do to iterate it. Well, elevate it really. It needs a bit of tightening but in the back-end Steve and Neil have done some great work to get us near to the year end and really get on with that. We’ll be going through the journeys and scrutinising the content and layout so we can get that nicely squeezed before breaking up for the holidays. Finish on a high, have a rest, and come back raring to go for the first three months of 2017.
+
+And, yes, that will be the only a week left until Christmas. I am looking forward already to the new year when we’ll be bolstering our team with two user researchers (we’ve been without for a couple of months) and a couple more developers for what looks like a full-on three months. On a personal note, that three of the new starters will be women is a proper thumbs up. The hard work to have not just a more capable team, but a more diverse capable team has paid off.
+
+And we’re already thinking of spending a day in the new years using the service we are working on in a way we wouldn’t normally be accustomed to. And yes, this does mean the office will ring to the sound of screen-readers. I hope it will raise a few eyebrows in the best way. We’ll see. Onwards.
