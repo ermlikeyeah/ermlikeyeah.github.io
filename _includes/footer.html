@@ -11,7 +11,9 @@
 
         <p>
           <a href="https://github.com/ermlikeyeah/ermlikeyeah.github.io/issues/new?title=Issue%20with%20page%20{{ page.path }}">Report an issue with this page</a> on Github<br />
-          <a href="https://github.com/ermlikeyeah/ermlikeyeah.github.io/blob/master/{{ page.path }}">View this page</a> on Github
+          <a href="https://github.com/ermlikeyeah/ermlikeyeah.github.io/blob/master/{{ page.path }}">View this page</a> on Github<br />
+          <a class="rss-subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}">View this blog's RSS feed</a>
+
         </p>
 
       </div>
@@ -20,10 +22,25 @@
       <div class="footer-col">
 
         <p>{{ site.description }}<br />
-          <a class="rss-subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}">View this blog's RSS feed</a>
+          <ul class="footer-list">
+          {% for my_page in site.pages %}
+            {% if my_page.title %}
+
+            {% if my_page.exclude_from_nav != true %}
+
+            <li><a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
+
+            {% endif %}
+
+            {% endif %}
+          {% endfor %}
+        </ul>
         </p>
 
-        <ul class="social-media-list">
+
+
+
+        <ul class="footer-list">
 
           {% if site.twitter_username %}
           <li>
