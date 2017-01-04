@@ -11,7 +11,7 @@ There’s half term in the middle of February, so some family time there. But, o
 
 I could just fill the time with… stuff. But I’ve spent enough time over the years filling time, and doing nothing. I hate it.
 
-And, on the flip side, I love the work I do these days.
+I could group all that time together and do a stretch freelancing somewhere. Here’s the flip side: I love the work I do these days and the places I do it.
 
 So, here’s an offer: I will gladly use some of those days off for me to look sideways, to nip in and spend time with other work happening across public services – and maybe me being there will be a look sideways for you too.
 
