@@ -15,4 +15,4 @@ I could group all that time together and do a stretch freelancing somewhere. Her
 
 So, here’s an offer: I will gladly use some of those days off to nip in and spend time with at other places working on things that matter – and maybe me being there will be a look sideways for you too.
 
-I’m up for owt, whether it’s help with the work you’re doing, general cheerleading about design, or showing up to give you a morale boost. It’s 9.40pm as I end tapping this. An hour-and-a-half ago I made this offer and already have a couple of days planned in. If you’ll have me just [drop me a line](/contact).
+I’m up for owt, whether it’s help with the work you’re doing, general cheerleading about design, or showing up to give you a morale boost. It’s 9.40pm as I end tapping this. An hour-and-a-half ago I made this offer on Twitter and already have a couple of days planned in. If you’re interested just [drop me a line](/contact).
