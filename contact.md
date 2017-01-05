@@ -7,5 +7,5 @@ permalink: /contact/
 Feel free to get in touch with me.
 
 - Email: [simoncwilson@gmail.com](mailto:simoncwilson@gmail.com)
-- Twitter: [ErmLikeYeah](http://www.twitter.com/ErmLikeYeah)
+- Twitter: [ErmLikeYeah](http://www.twitter.com/ErmLikeYeah) (my direct messages are open)
 - LinkedIn: [uk.linkedin.com/in/siwilson/](http://uk.linkedin.com/in/siwilson/)
