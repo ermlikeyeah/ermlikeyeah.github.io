@@ -7,7 +7,7 @@ Sorry about the break since [the last weeknotes](//medium.com/nhs-beta-leeds-wee
 
 After bagging [Matt Jukes’s blogger of the year noprize](//productforthepeople.xyz/the-jukesies-2016-da6600456210#.104b4ain8) I thought I’d earned the time off. Anyway.
 
-So, twas the week before Christmas and all through the NHS Digital offices on the south bank of Leeds every was back to full-on work after the firebreak. What’s a ‘firebreak’? He might be from the wrong half of Lincolnshire, but Andy Callow’s still managed to [do a write-up](https://medium.com/@andy.callow.hscic/relight-my-firebreak-721d91d7d198#.gmwnllodr) so you can be in the know.
+So, twas the week before Christmas and all through the NHS Digital offices on the south bank of Leeds everyone was back to full-on work after the firebreak. What’s a ‘firebreak’? He might be from the wrong half of Lincolnshire, but Andy Callow’s still managed to [do a write-up](https://medium.com/@andy.callow.hscic/relight-my-firebreak-721d91d7d198#.gmwnllodr) so you can be in the know.
 
 In the Leeds NHS Beta team we were pressing forward with scrutinising the work we have been on with. I took my projector in. We used the wall as a massive working wall and went through the product screen by screen as a team. As we went through we created new versions of journeys using the in-browser kit we are using. High fidelity prototypes for the win.
 
