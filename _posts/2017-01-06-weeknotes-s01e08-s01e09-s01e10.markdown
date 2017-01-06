@@ -1,0 +1,56 @@
+---
+layout: post
+title: Weeknotes s01e08, s01e09, and s01e10
+date: '2017-01-06 17:00:00'
+---
+Sorry about the break since [the last weeknotes](//medium.com/nhs-beta-leeds-weeknotes/weeknotes-s01e07-f5cbc366f994#.rx4ys29kj). Think of this like you’ve had a holiday away from it all, you’ve left the generic digital TV recording box to collect the episodes of something while you’re away and there’s a little bit of catching up to do. Just this is a bit less exciting, a bit more mundane than Corro, ‘enders, Game of Thrones, Westworld, Halt and Catch Fire, or those other ones set in the Yorkshire Dales or Chester or wherever.
+
+After bagging [Matt Jukes’s blogger of the year noprize](//productforthepeople.xyz/the-jukesies-2016-da6600456210#.104b4ain8) I thought I’d earned the time off. Anyway.
+
+So, twas the week before Christmas and all through the NHS Digital offices on the south bank of Leeds every was back to full-on work after the firebreak. What’s a ‘firebreak’? He might be from the wrong half of Lincolnshire, but Andy Callow’s still managed to [do a write-up](https://medium.com/@andy.callow.hscic/relight-my-firebreak-721d91d7d198#.gmwnllodr) so you can be in the know.
+
+In the Leeds NHS Beta team we were pressing forward with scrutinising the work we have been on with. I took my projector in. We used the wall as a massive working wall and went through the product screen by screen as a team. As we went through we created new versions of journeys using the in-browser kit we are using. High fidelity prototypes for the win.
+
+And, because it was the week before Christmas, kids were off school – and some of my colleagues brought their offspring in for a morning for me to “babysit”. They - all five of them - were eager students and makers once they’d settled down. I ran the morning like a little content hack day. What are things that matter to them? We used Post Its to note down some “ill” things, and then decided as a group which we’d work on, by voting. “Being sick” edged out “Big long cut on the head” by one vote. The students then had ten minutes to write down their experiences of being sick, trying to go along the journey.
+
+The content was collated and grouped, and we tried to create a narrative from the collective wisdom.
+
+For the avoidance of doubt here’s some of our insight:
+
+![](/assets/06-01-2017-desk.jpg)
+
+Together the team used a copy of an NHS Beta page I had locally on my MacBook to pull the page together, typing in the content.
+
+Armed with a page in-browser, the team went round the office to gauge response from potential users. The team were very keen to get an image into the page. But some of the feedback was along the lines of “A picture of sick might put me off reading the page”. The guys thought laterally and think maybe a drawing of someone being sick would do the job. If they had more time they would have drawn some pictures and tested them with our potential users.
+
+After a morning’s work, the gang did admirable work. We’ll need to run it by a clinician first before we think about publishing it to beta.nhs.uk (ahem).
+
+Here’s their work:
+
+![](/assets/06-01-2017-screen-grab.jpg)
+
+Good innit.
+
+Some people asked why I did this.I could have said “No”. I think it’s a thing we need to do more: Inspire more kids, more people to get into thinking about design, about how design isn’t just about how something looks (in the old graphic design sense), especially how the content that works comes together. Whenever possible it’s something I try to do, why I help at unis and colleges, why I help with Bradford CoderDojo (which [returns at the end of this month](/bradford-coder-dojo-back-for-2017/)), and more than happy to mentor other designers wherever I work.
+
+Not one of the kids were a bad ‘un. And while it was the luck of the draw, two of the five kids were girls – and I think one of the girls enjoyed the session the most. These things matter.
+
+None of them called me “sir” godammit.
+
+An aside: While there was a lot of focus on “doing this for the kids”, the session I did could be done by anyone. We should be giving more people a go at this sort of activity, to at least have empathy for the process we put into thinking about design, why we try to look wider than our own experiences, and also realise early on what we know – and what we don’t know and are filling with assumptions.
+
+In the last days before Christmas I also managed to get some hacking into the high fidelity prototype, bringing a bit of a smarter location finder function in. Rather than just taking a postcode I wanted to test users being able to use whatever they thought was a ‘location’, be it postcode, address, or whatever. Google has a decent option, and with a bit of hacking got the display to be a bit more in line with our accessibility driven design style. It’s not going to be the real thing people use but gets the idea across ([the point of prototypes](/a-short-note-about-prototyping/)).
+
+Between Christmas and the New Year was quiet. Most of us was off. I had a day in the office, half to avoid mince pies, half to tie up some loose ends to hit the ground running after the turn-of-the-year festivities.
+
+So, first week of 2017. The Christmas break provided a useful dose of Real World: Talk of what people did in the Real World over Christmas and how they did it. Their interactions, yay!
+
+“I went to the cinema and booked the tickets online. I chose what I wanted - the film, the showing, my seats - first. Then I had to confirm that booking by logging in.” Using GP surgeries’ online systems you have have to sign in first, then see if something is available. We’re going to be looking at how we can flip that, push the sign in gate towards the end of the process. There a prototype in the NHS Alpha days that did this – we;’re going to see what it takes to actually make this happen. Easy peasy…
+
+Lots of screwing down on stuff this week though. Good to have Dean sat right next to me so we could sit together and get stuff done quickly, review it, tweak again, review it, and again, and again. The work feels a lot tighter now. It feels there’s a lot under there, but users only see what they need to. Do the hard work to make it simple, eh.
+
+Brooke joined us as we beef up the team’s user research skills. Brooke’s moved over from DWP. A shame for them, but it’s good we’ve got Brooke and we’ve kept her working on public services. We’ll be joined by someone else next week as well to really push the research side of things, and we’ve got someone coming in dedicated to front-end code. It feels like we finally have a fully formed, multi-functional team to crack through stuff. Onwards and all that.
+
+On Thursday the Register with a GP team outta London had a day of users testing their service in a lab. Some of the Leeds team went down to observe the sessions. Learning from the people who actually have wanted and want that info is the best way. Dean attended and said: “Every single person I saw paid a lot of attention to patient number, which surprised me.” This is why we do research.
+
+I took a little time this week to plan the coming months. I’ll be spending some days away from the NHS Beta work between now and March, to [look sideways more](/look-sideways-more/). Even though I’ll be having those odd days off, I’ll be spreading some of the word of the work we’ve been doing, and bringing back whatever experiences I have while I am away.
