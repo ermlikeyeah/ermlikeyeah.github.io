@@ -3,6 +3,8 @@ layout: post
 title: Bradford CoderDojo – back for 2017
 date: '2017-01-05 17:00:00'
 ---
+CoderDojo is a coding club for young people, where they can learn how to code, develop websites, apps, programs, games and more. The sessions are run by volunteers and free to attend. In Bradford we hold the CoderDojos on a Saturday morning.
+
 It’s been a few months since our last CoderDojo in Bradford. We  – myself, Jonny, Kris, Paul, Shi – have collectively been distracted by other things. Sometimes things get in the way for all of us. That means we cannot do the Dojos. We are sorry.
 
 But we’re back. We found some time before Christmas to get together to do a little planning, and make sure we worked out how we would give our time and when. (Cos we do this voluntarily.)
