@@ -5,7 +5,7 @@ date: '2017-01-05 17:00:00'
 ---
 CoderDojo is a coding club for young people, where they can learn how to code, develop websites, apps, programs, games and more. The sessions are run by volunteers and free to attend. In Bradford we hold the CoderDojos on a Saturday morning.
 
-It’s been a few months since our last CoderDojo in Bradford. We  – myself, Jonny, Kris, Paul, Shi – have collectively been distracted by other things. Sometimes things get in the way for all of us. That means we cannot do the Dojos. We are sorry.
+It’s been a few months since our last CoderDojo in Bradford. We  – myself, Jonny, Kris, Paul, Shi – have collectively been distracted by other things. We are a small group of volunteers. Sometimes things get in the way for all of us. That means we cannot do the Dojos. We are sorry.
 
 But we’re back. We found some time before Christmas to get together to do a little planning, and make sure we worked out how we would give our time and when. (Cos we do this voluntarily.)
 
@@ -19,4 +19,4 @@ Jonny is leading pulling together a new site for the Dojo with the rest of the m
 
 Finally, we’d like to know what is the sort of stuff our students want to do – or even what the parents of our students want us all to do with our time together! If you’ve any suggestions/ideas drop me a line. My email address is on [the contact page](/contact). I’ll gather them together and we’ll use any ideas to help shape the sessions.
 
-Hopefully we’ll see you at the end of the month! And feel free to let all your friends know by Facebook, through Twitter – or by telling them when you see your friends!
+Hopefully we’ll see you at the end of the month! And feel free to let all your friends know by Facebook, through Twitter – or by telling them when you see your friends! And if you fancy helping organise the dojos we are always happy to hear from anyone interested.
