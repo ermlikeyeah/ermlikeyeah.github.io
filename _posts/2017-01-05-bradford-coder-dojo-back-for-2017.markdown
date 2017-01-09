@@ -20,3 +20,6 @@ Jonny is leading pulling together a new site for the Dojo with the rest of the m
 Finally, we’d like to know what is the sort of stuff our students want to do – or even what the parents of our students want us all to do with our time together! If you’ve any suggestions/ideas drop me a line. My email address is on [the contact page](/contact). I’ll gather them together and we’ll use any ideas to help shape the sessions.
 
 Hopefully we’ll see you at the end of the month! And feel free to let all your friends know by Facebook, through Twitter – or by telling them when you see your friends! And if you fancy helping organise the dojos we are always happy to hear from anyone interested.
+
+*Update: Monday 9 January 2017*
+Over the weekend every place at the Bradford CoderDojo in January was taken.
