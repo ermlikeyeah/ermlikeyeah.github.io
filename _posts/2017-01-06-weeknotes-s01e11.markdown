@@ -22,7 +22,7 @@ Here’s a quick peek at some screen grabs showing the journey. The pages shown 
 
 ![](/assets/book-gp-appoint-journey-1200.jpg)
 
-If you’re quite curious about some of the detail there’s a [high resolution version here](/assets/book-gp-appoint-journey.png).
+If you’re quite curious about some of the detail there’s a [high resolution version here](/assets/book-gp-appoint-journey.png). Warning: It’s 9Mb.
 
 Dean, our content designer, has been a legend the past couple of weeks, spinning a few plates himself. We’ve sat together and really tried to hone this. We have research and insight driving this, but we’re still filling in some gaps with assumptions – which we’ll dump as ‘proven false’ or elevate to ‘proven true’ once we’ve tested the thing we’ve made.
 
