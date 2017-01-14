@@ -12,7 +12,7 @@ This prototype has been yanked together since I came back from the Christmas bre
 
 Why the stripped back minimum viable product? We want to improve what is already out there on nhs.uk.
 
-For Book an appointment with a/your GP we have a “vision” – something that pushes where this can really go – we feel would work well for users, where this could go.
+For Book an appointment with a/your GP we have a “vision” – something that pushes where this can really go – we feel would work well for users.
 
 Example: In last week’s notes I mentioned *Is there an appointment available at my GP’s?* as something we answer on-screen before asking who you are – like you might do when, say, booking tickets online for the cinema, or a train, or an aeroplane, and so on. The current journeys a user goes through ask who you are (sign in, basically) before allowing you to look for an appointment. It seems a bit back to front. Fixing that will take some work, and some of that work will involve talking to third parties.
 
