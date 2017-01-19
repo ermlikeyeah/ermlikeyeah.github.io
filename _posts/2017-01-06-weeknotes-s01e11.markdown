@@ -3,7 +3,6 @@ layout: post
 title: Weeknotes s01e11
 date: '2017-01-13 23:55:00'
 ---
-# Weeknotes e01s11
 Week two of 2017 is done and dusted, and it’s late on a Friday night as I type this. I can hear the bells of the church in Idle chime away eleven times. It’s been another jam-packed week.
 
 I think I have just about – right now – got a prototype together that works, to show as a contender for minimum viable product.  This is for a journey that can be loosely defined as “I think, after reading information, I have [a condition, such as type 2 diabetes] and want to make an appointment with my GP to talk about it”.
@@ -26,9 +25,9 @@ If you’re quite curious about some of the detail there’s a [high resolution 
 
 Dean, our content designer, has been a legend the past couple of weeks, spinning a few plates himself. We’ve sat together and really tried to hone this. We have research and insight driving this, but we’re still filling in some gaps with assumptions – which we’ll dump as ‘proven false’ or elevate to ‘proven true’ once we’ve tested the thing we’ve made.
 
-The content page is a starter for ten, similar to [the one](//beta.nhs.uk/conditions/type-2-diabetes/check-if-you-have-it) on the [NHS beta site](//beta.nhs.uk/). While this page isn’t the start of the user’s journey, it is a potential start of a user journey that we can shape explicitly.
+The condition/symptom content page is a starter for ten, similar to [the one](//beta.nhs.uk/conditions/type-2-diabetes/check-if-you-have-it) on the [NHS beta site](//beta.nhs.uk/). While this page isn’t the start of the user’s journey (unless they bookmark, that will start before they hit nhs.uk), it is a potential start of a user journey that we can shape explicitly.
 
-Even so there’s some tasty little features to get our heads round in here. Allowing the user to *Enter the name of their GP* can work on a few levels: the name of their doctor, the name of the surgery, the name of the practice, even the road it is on. We’ll try to cover that by having a search box that responds to all those options. Something very similar was looked at by the NHS alpha team – and the Register with a GP have also been looking at it. If we know this stuff in the NHS, we must be able to use it to make the user’s journey a lot simpler. If this feature works with users tit is something we can reuse across nhs.uk, as long as it is apt in context.
+Even so there’s some tasty little features to get our heads round in here. Allowing the user to *Enter the name of their GP* can work on a few levels: the name of their doctor, the name of the surgery, the name of the practice, even the road it is on. We’ll try to cover that by having a search box that responds to all those options. Something very similar was looked at by the NHS alpha team – and the Register with a GP team have also been looking at it. If we know this stuff in the NHS, we must be able to use it to make the user’s journey a lot simpler. If this feature works with users it is something we can reuse across nhs.uk, as long as it is apt in context. Patterns, eh.
 
 The last page in “our pages” is an info page. We’ve stripped it right back to provide just -about what is needed in this journey: Clear next steps for the user. Nothing else. There’s a couple of variations not covered by the journey above (including “What if this GP surgery has a ‘sister’ surgery?”), but nothing that will overload the page more. It’s basic contact information.
 
