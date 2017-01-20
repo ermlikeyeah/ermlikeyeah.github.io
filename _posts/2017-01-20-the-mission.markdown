@@ -13,7 +13,7 @@ A night as late as this is usually down to work. During the week it’s never le
 
 Some days there’s just not enough waking hours, is there? There’s stuff to do.
 
- Agency life trained me well.
+Agency life trained me well.
 
 The perennial “going the extra mile”, because the agency beast needed feeding. There was always deadlines. Deadlines needed to be met. Nobody wanted to say to the clients “No” or “Can it wait?” or “We’d need more time for that”. And the time we had with everything in the mix? Just about enough to do enough. A good job? Rarely. The best we could? Rarely. That mattered.  And that slack was between 5.30pm and 9am the next morning. And there was no overtime; Just the monthly wage.
 
@@ -39,13 +39,13 @@ I am lucky enough over the past couple of years to be in places that go about th
 
 And being part of that cross gov design community reminds me of being sat in the design studio at Brahm during the first nine years of this century: Working with people I trusted, admired, challenged me, consulted me, and there’s a few I call good friends. It’s everything community should be.
 
-There’s things that can be frustrating, that we considered in agency world. The idea of trying to have and contributing to a more lasting, self-sustaining culture (as much as one can). Higher wages. Not having to battle with the type of IT we experienced five years ago. (And five years ago seeming an age back.) Why are things as complicated when they don’t need to be?
+There’s things that can be frustrating, that we considered in agency world, we had in agency world. The idea of trying to have and contributing to a more lasting, self-sustaining culture (as much as one can). Higher wages. Not having to battle with the type of IT we experienced five years ago. (And five years ago seeming an age back.) Why are things as complicated when they don’t need to be?
 
 But still, years after leaving the agency game, I try to ghost into bed.
 
 Still I usually wake my wife.
 
-Usually I face her scorn. She’s grumpy because I have woke her. She’s grumpy because I am doing time I don’t get paid for. My wife is not alone in that scorn. It’s not a badge of honour. The scorners, they may have a point.
+Usually I face her scorn. She’s grumpy because I have woke her. She’s grumpy because I am doing time I don’t get paid for. She's grumpy because I did not go to bed at the same time as her. It’s not a badge of honour.
 
 But here’s the thing: The mission.
 
@@ -57,4 +57,4 @@ Anything extra we can do to make the work even better, yes.
 
 Anything extra that helps us get to where we are going faster, yes.
 
-These things matter. The mission matters. And I am on it.
+These things matter. The mission matters. And I am on it, with others. Those late nights, those things I am missing out on? The impact of this work will be worth it.
