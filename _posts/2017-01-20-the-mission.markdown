@@ -57,4 +57,4 @@ Anything extra we can do to make the work even better, yes.
 
 Anything extra that helps us get to where we are going faster, yes.
 
-These things matter. The mission matters. And we’re on it.
+These things matter. The mission matters. And I am on it.
