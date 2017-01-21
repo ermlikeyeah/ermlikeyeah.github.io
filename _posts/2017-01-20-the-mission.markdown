@@ -57,4 +57,4 @@ Anything extra we can do to make the work even better, yes.
 
 Anything extra that helps us get to where we are going faster, yes.
 
-These things matter. The mission matters. And I am on it, with others. Those late nights, those things I am missing out on? The impact of this work will be worth it.
+These things matter. The mission matters. And I am on it, with others. Those late nights, those things I am missing out on? The impact of this work will be worth it, won’t it? Won’t it?
