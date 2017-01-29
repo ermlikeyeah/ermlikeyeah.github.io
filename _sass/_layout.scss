@@ -213,7 +213,6 @@
     line-height: 1.3em;
     text-decoration: underline;
     color: $text-color;
-    margin-top: 0.25em;
     font-weight: $base-font-weight * 4;
 
 
@@ -230,13 +229,13 @@
  */
 .post-header {
     margin-bottom: $spacing-unit / 2;
+
 }
 
 .post-title {
     font-size: $base-font-size * 2.5;
     letter-spacing: 0;
     line-height: 1.3em;
-    margin-top: 0.25em;
 
 
     @include media-query($on-laptop) {

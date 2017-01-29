@@ -27,3 +27,6 @@ twitter_username: ermlikeyeah
 
 # Build settings
 markdown: kramdown
+
+# Gems
+# gems: [jekyll-paginate]
