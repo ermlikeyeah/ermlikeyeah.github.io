@@ -1,0 +1,54 @@
+---
+layout: post
+title: Weeknotes s01e13
+date: '2017-01-29 22:00:00'
+---
+## Week commencing Monday 23 January
+
+### Monday
+London: Assessor training at GDS.
+
+Chuffed to be able to do this, and thankful for the nudges. Wish I’d done it sooner. No real reason why other than had my head in the sand too much over the past six months on the Beta programme. The [service standard](//www.gov.uk/service-manual/service-standard) is a great thing, a great mindset. I am more than happy to support, in the work I do and helping others with their work.
+
+Good catch ups: On the train down with a friend at the BBC, at lunch talking lots of govvy stuff, and a quick jar before catching the train back with a learned mate in agency land. A cracking mind whirrer of a day, and a cracking way to start the week.
+
+### Tuesday
+Leeds: A few meetings. One going over the analytics with Kenny. Not a case of what’s going well, more seeing what is being used, how it’s being used, and a bit of why it is being used.
+
+We’re doing user research tomorrow, so some prep for that. Nothing too much, but enough.
+
+We know where we are going to be. We’re not guaranteed an internet connection. So I spent most of the afternoon hacking a prototype I’d pulled together so it’d run off a “local” data source. I ended up taking a flat file of data and pointing the prototype at that. It means the prototype can run off a device with no internet access though. It’s faking it, but it’s with a sense of being real.
+
+### Wednesday
+Morning: Doing stand-up user research sessions at a GP surgery. Fun things that popped up:
+
+1. People at this surgery like to walk in to make an appointment. They can see the queue ahead of them (unlike when they are constantly re-ringing on their phone). They tend to live close (catchment areas of a city surgery) so a walk isn’t that much of a problem. Do we tell people they can just walk into their surgery and make an appointment usually? No - we give them an address, a phone number, and try to get them to book online. One to chew over. Need to make sure people can succeed first time.
+2. Only one person we talked to made their appointment online.
+3. Some of the patients we talked to had been referred to this surgery for a minor operation.
+
+Afternoon: Did some design work following on from the morning session. Caught up on some of the stuff the other half of the NHS Beta ‘design’ team in Leeds – Alex, Sophie, and Dean – have been doing. [Lots of paper prototyping](//twitter.com/sophiedennis/status/824248142271053824), thinking things through. I highly approve. Also chuffed to see the three of them getting on so well.
+
+### Thursday
+A day off, down in London. Could crib this from my notes, but…
+
+I spent most of the day with the Parliamentary Digital Service. There's a great team there, that's not as little as I thought it'd be either. And even though it was a day on leave from NHS Beta I was more than happy to take an hour out talk to about the team I am in, how we are set up, the work we are doing, and how we are going about it.
+
+Talking through problems and solutions – some familiar, some shared – was worth Dan's putting [a picture of me looking so inflated out there]( //twitter.com/dasbarrett/status/824657055701237763).
+
+There’s some really interesting problems that team are looking at, and they might be my new favourite darlings of gov.
+
+If you're interested they [have a blog](//pds.blog.parliament.uk/2017/01/26/our-blogging-resolutions-for-2017/) and they use the hashtag [#teamPDS on Twitter](//twitter.com/hashtag/TeamPDS?src=hash).
+
+Thanks to Dan, Jamie, Jeanette, Lawrence, and anyone else who I spent time with.
+
+#### Friday
+Our programme director Karen came up and did a re-run of the plans for the programme in the short term and longer term. Great to see Karen spend time with us in London. Followed that up with a skills assessment each member of the team is having. A quick half hour brain dump with the team, before running out to lunch.
+
+Lunch, I caught up with Tim Straughan, who is now working at NHS England. A long, deep, and honest chat, but – as always with Tim – a great chat, lots of back and forth, like a great point in a tennis match.
+
+Some more design work in the aft, doing some tweaks to the work I’ve been on ahead of a research session on Monday.
+
+But generally a day at the end of a week that had and has me thinking a lot more beyond just the next couple of weeks.
+
+#### Other notes
+NHS Digital are looking for an interaction designer. [More details here](//www.jobs.nhs.uk/xi/vacancy/eccdfc1df382a3ebf1c618748001062f/?vac_ref=914495805).
