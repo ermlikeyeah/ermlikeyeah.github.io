@@ -46,7 +46,7 @@ I think old age starts at… (Not my reply by the way.) [[View on Instagram](//w
 Transport, reminding me of my time at HMRC, working in ‘real’ government. [[View on Instagram](//www.instagram.com/p/BQsfQoeAhZx/)]
 
 ![](/assets/2017-02-19-lego-wheelchair.jpeg)
-Lego wheelchair. ([More here](//gizmodo.com/legos-first-minifigure-in-a-wheelchair-is-embarrassingl-1755673015.) [[View on Instagram](//www.instagram.com/p/BQsnoceArhK/)]
+Lego wheelchair. ([More here](//gizmodo.com/legos-first-minifigure-in-a-wheelchair-is-embarrassingl-1755673015.)) [[View on Instagram](//www.instagram.com/p/BQsnoceArhK/)]
 
 ![](/assets/2017-02-19-signage.jpeg)
 Open source way-finding icons for refugees. [[View on Instagram](//www.instagram.com/p/BQsnzTWAAkI/)]
