@@ -34,31 +34,31 @@ I was reminded about last April, out in New York. Hard work, but really engaging
 This post is that collection. I put the images on [my Instagram account](//www.instagram.com/idlesi/) originally.
 
 ![](/assets/2017-02-19-what-is.jpeg)
-What is ‘good’ design? on the top floor of the Design Museum.
+What is ‘good’ design? on the top floor of the Design Museum. [[View on Instagram](//www.instagram.com/p/BQsdoJZA_7j/)]
 
 ![](/assets/2017-02-19-zx.jpeg)
-Sinclair ZX Spectrum, and a paddle in the bottom right.
+Sinclair ZX Spectrum, and a paddle in the bottom right. [[View on Instagram](//www.instagram.com/p/BQsdvbdgElP/)]
 
 ![](/assets/2017-02-19-too-old.jpeg)
-I think old age starts at… (Not my reply by the way.)
+I think old age starts at… (Not my reply by the way.) [[View on Instagram](//www.instagram.com/p/BQseO4-ArDQ/)]
 
 ![](/assets/2017-02-19-transport.jpeg)
-Transport, reminding me of my time at HMRC, working in ‘real’ government.
+Transport, reminding me of my time at HMRC, working in ‘real’ government. [[View on Instagram](//www.instagram.com/p/BQsfQoeAhZx/)]
 
 ![](/assets/2017-02-19-lego-wheelchair.jpeg)
-Lego wheelchair. ( [More here](//gizmodo.com/legos-first-minifigure-in-a-wheelchair-is-embarrassingl-1755673015.)
+Lego wheelchair. ([More here](//gizmodo.com/legos-first-minifigure-in-a-wheelchair-is-embarrassingl-1755673015.) [[View on Instagram](//www.instagram.com/p/BQsnoceArhK/)]
 
 ![](/assets/2017-02-19-signage.jpeg)
-Open source way-finding icons for refugees.
+Open source way-finding icons for refugees. [[View on Instagram](//www.instagram.com/p/BQsnzTWAAkI/)]
 
 ![](/assets/2017-02-19-samaritans.jpeg)
-MullenLowe’s excellent ad campaign for the Samaritans.
+MullenLowe’s excellent ad campaign for the Samaritans. [[View on Instagram](//www.instagram.com/p/BQsoB35AlUS/)]
 
 ![](/assets/2017-02-19-pokemon-go.jpeg)
-Pokemon Go? Pokemon no.
+Pokemon Go? Pokemon no. [[View on Instagram](//www.instagram.com/p/BQsoJeGAat7/)]
 
 ![](/assets/2017-02-19-better-done.jpeg)
-Better done than perfect. Erik Spiekermann [blogged about his work here](//spiekermann.com/en/new-posters/) .
+Better done than perfect. Erik Spiekermann [blogged about his work here](//spiekermann.com/en/new-posters/). [[View on Instagram](//www.instagram.com/p/BQsqNL1gsFu/)]
 
 ![](/assets/2017-02-19-eames.jpeg)
-“The Eames House, created specifically to meet the designers’ needs… was built with off-the shelf components.” Again, starting with the needs before finding an off-the-shelf solution – that meets those needs.
+“The Eames House, created specifically to meet the designers’ needs… was built with off-the shelf components.” Again, starting with the needs before finding an off-the-shelf solution – that meets those needs. [[View on Instagram](//www.instagram.com/p/BQsbSyrAfHY/)]
