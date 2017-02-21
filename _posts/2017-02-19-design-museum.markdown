@@ -7,7 +7,7 @@ We’ve been down to London for the weekend. I’ve finished off [a book](//www.
 
 ![](/assets/2017-02-19-kindle.jpeg)
 
-Today we went to the Design Museum. A first chance to visit the museum in its wonderful new building and last chances to see the [New Old](//designmuseum.org/things-to-do/talks-and-events/pop-up-exhibitions/new-old) and [Beazley Designs of the Year](//designmuseum.org/exhibitions/beazley-designs-of-the-year) exhibitions. A great place to go, and the kids got a lot out of it – fatherly apprehension I had dragged them around something against their will and would hold against me in later life abated as we left.
+Today we went to the Design Museum. A first chance to visit the museum in its wonderful new building and last chances to see the [New Old](//designmuseum.org/things-to-do/talks-and-events/pop-up-exhibitions/new-old) and [Beazley Designs of the Year](//designmuseum.org/exhibitions/beazley-designs-of-the-year) exhibitions. A great place to go, and the kids got a lot out of it – fatherly apprehension I had dragged them around something against their will and they would hold against me in later life abated as we left.
 
 I was reminded about last April, out in New York. Hard work, but really engaging. And I blogged about a particularly fun weekend I had, seeing a lot of designy things. Usually I splat these on Twitter or Instagram, but I liked the idea of compiling those artefacts into a blog post. Here’s [one of those posts](/cooper-hewitt-nyc/). And [here’s the other](/sunday-design-stuff-in-nyc/).
 
