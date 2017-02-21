@@ -3,7 +3,7 @@ layout: post
 title: The Design Museum
 date: '2017-02-19 22:00:00'
 ---
-We’ve been down to London for the weekend. I’ve finished off [a book](//www.instagram.com/p/BQr6pjJAy3C/) I started last summer and have never got round to finishing fully, read another from start to finish, and also started another. That last one - The Inevitable by Kevin Kelly – has [got me pretty excited already, just several pages in](//www.instagram.com/p/BQsPVb5A9S7/).
+We’ve been down to London for the weekend. I’ve finished off [a book](//www.instagram.com/p/BQr6pjJAy3C/) I started last summer and have never got round to finishing fully (that last chapter, man, but for completeness’ sake), read another from start to finish, and also started another, The Inevitable by Kevin Kelly, which has [got me pretty excited already, just several pages in](//www.instagram.com/p/BQsPVb5A9S7/).
 
 ![](/assets/2017-02-19-kindle.jpeg)
 
