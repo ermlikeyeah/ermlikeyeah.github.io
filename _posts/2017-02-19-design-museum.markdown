@@ -11,7 +11,7 @@ Today we went to the Design Museum. A first chance to visit the museum in its wo
 
 I was reminded about last April, out in New York. Hard work, but really engaging. And I blogged about a particularly fun weekend I had, seeing a lot of designy things. Usually I splat these on Twitter or Instagram, but I liked the idea of compiling those artefacts into a blog post. Here’s [one of those posts](/cooper-hewitt-nyc/). And [here’s the other](/sunday-design-stuff-in-nyc/).
 
-This post is that collection. I put the images on [my Instagram account](//www.instagram.com/idlesi/) originally.
+This post is a collection of The Things That Caught My Eye. I put the images on [my Instagram account](//www.instagram.com/idlesi/) originally.
 
 ![](/assets/2017-02-19-what-is.jpeg)
 What is ‘good’ design? on the top floor of the Design Museum. [[View on Instagram](//www.instagram.com/p/BQsdoJZA_7j/)]
