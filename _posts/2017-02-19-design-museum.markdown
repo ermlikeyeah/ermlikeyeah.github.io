@@ -41,4 +41,4 @@ Pokemon Go? Pokemon no. (Again, not my reply.) [[View on Instagram](//www.instag
 Better done than prfect poster, on display at the Beazley. Erik Spiekermann [blogged about his work here](//spiekermann.com/en/new-posters/). [[View on Instagram](//www.instagram.com/p/BQsqNL1gsFu/)]
 
 ![](/assets/2017-02-19-eames.jpeg)
-“The Eames House, created specifically to meet the designers’ needs… was built with off-the shelf components.” I love Charles and Ray anyhow. But again, starting with the needs before finding an off-the-shelf solution. Off-the-shelf is cool, but it has to be meet needs. [[View on Instagram](//www.instagram.com/p/BQsbSyrAfHY/)]
+“The Eames House, created specifically to meet the designers’ needs… was built with off-the shelf components.” I love Charles and Ray anyhow. But again, starting with the needs before finding an off-the-shelf solution. Off-the-shelf is cool, but it has to meet needs discovered first. [[View on Instagram](//www.instagram.com/p/BQsbSyrAfHY/)]
