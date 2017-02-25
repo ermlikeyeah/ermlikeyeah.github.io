@@ -27,8 +27,8 @@ Now, when someone joins the Slack at work they get a message from a Slackbot cal
 
 It’s small, it’s simple. It does just one thing: Says that message above. Nothing more. You cannot talk to it.
 
-But it’s something we can build on – or replace. I’ve not spent much time on it, half an hour, tops. If we come up with something ‘better’ we’ll move onto that. (And I hope we do.)
-
 For the time being we can sate the need of just knowing _who_ has joined us on Slack. And I’d quickly started and finished something, and something useful. And finishing something useful is one of the most satisfying feelings.
+
+It’s something we can build on – or replace. I’ve not spent much time on it, half an hour, tops. If we come up with something ‘better’ we’ll move onto that. (And I hope we do.)
 
 By the time the hack was working there was about a third of my mug of coffee left. It was cold. I don’t like cold coffee. Ah well.
