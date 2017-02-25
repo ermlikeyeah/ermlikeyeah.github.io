@@ -21,7 +21,7 @@ Over this coffee I was wondering when people join, how do they know they need to
 
 I remembered [18F’s on boardng Slackbot](//18f.gsa.gov/2015/12/15/how-bot-named-dolores-landingham-transformed-18fs-onboarding/). I’ve done some small Slackbots before. So, over that coffee I hacked together a little Slackbot with a little bit of Python, a quick bit of writing for an intro message, and stuck it on Heroku after a swift bit of set up in Slack’s admin. Oh, and a quick bit of Photoshop for the Slackbot’s avatar.
 
-Now, when someone joins the Slack at work they get a message from a Slackbot called Nye Bot (because the NHS, ain’t we).
+Now, when someone joins the Slack at work they get a message from a Slackbot called Nye Bot (because the NHS, ain’t we. [Nye Bevan](//en.wikipedia.org/wiki/Aneurin_Bevan)).
 
 ![](/assets/nyebot.jpg)
 
