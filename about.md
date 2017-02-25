@@ -10,7 +10,7 @@ This is my blog. I try to write here regularly about my work and the work I am i
 
 I am a highly experienced and successful strategist, designer (working on product, service, interaction, and experience), and maker of things, with nearly twenty years experience in "the industry".
 
-Currently I am working as a designer on [NHS beta](//beta.nhs.uk). I currently post weeknotes from my time working in this [on this blog](/). Prior to my current role I was an interaction designer at HMRC.
+Currently I am working as a designer on [NHS beta](//beta.nhs.uk). I currently post weeknotes from my time working there [on this blog](/). Prior to my current role I was an interaction designer at HMRC.
 
 I believe design is a process involving the team, and work should always be focused on the people we are doing it for. I do this through knowing through research, working as a team through collaboration, and doing by making.
 
@@ -30,4 +30,3 @@ If you want to talk, feel free! You can [get my contact details here](/contact).
 
 - [Me on Twitter](//www.twitter.com/ermlikeyeah)
 - [Me on LinkedIn](//uk.linkedin.com/in/siwilson/)
-- [My Pinboard feed](//feeds.pinboard.in/text/u:idlesi)
