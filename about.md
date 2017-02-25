@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi! I'm Si.
 
-This is my blog. I try to write regularly about my work and the work I am involved with here.
+This is my blog. I try to write here regularly about my work and the work I am involved with.
 
 I am a highly experienced and successful strategist, designer (working on product, service, interaction, and experience), and maker of things, with nearly twenty years experience in "the industry".
 
