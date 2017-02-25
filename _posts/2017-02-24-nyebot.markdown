@@ -5,11 +5,13 @@ date: '2017-02-24 23:00:00'
 ---
 I was looking around the edges of this blog last weekend, briefly, and remembered I had [a page for side projects](/side-projects). It was more something I pulled together a couple of years ago when I was doing a few small hacks and wanted to have a simple front door to them. (There’s plenty of other side projects that weren’t listed on there, like [Cod Almighty](///www.codalmighty.com/).)
 
-Looking at the page had me asking “Do I do hacks like those any more?” They were more self contained hacks. An idea, a concept that involved a bit of mashing. They never really looked that great, they were all slapped together with time restraints (lunch breaks and train trips seemed to feature regularly), and weren’t meant to be that stable, with all sort of fragilities in their set-up. But they served a purpose: Get an idea across. And I learnt something. Sometimes I learnt that the idea isn’t going to work. But I hadn’t wasted much time.
+Looking at the page had me asking “Do I do hacks like those any more?” They were more self-contained hacks. An idea, a concept that involved a bit of mashing. They never really looked that great, they were all slapped together with time restraints (lunch breaks and train trips seemed to feature regularly), and weren’t meant to be that stable, with all sort of fragilities in their set-up. But they served a purpose: Get an idea across. And I learnt something. Sometimes I learnt that the idea isn’t going to work. But I hadn’t wasted much time.
 
-Anyway, these days do I still do little hacks? Sort of, for work prototypes. Usually those hacks are just small bits to help a wider “fake it”. Can’t get access to the data from an API? Fake it by running it off a static JSON file. That sort of stuff. Not usually a neat self-contained small idea though.
+These days do I still do little hacks? Sort of, for work prototypes. Usually those hacks are just small bits to help a wider “fake it”. Can’t get access to the data from an API? Fake it by running it off a static JSON file. That sort of stuff. Not usually a neat self-contained small idea though.
 
-Anyway, over a coffee this morning I logged onto the work Slack to grab something. In the general channel was a glut of new people.
+Anyway, over a coffee this morning I logged onto the work Slack to grab something. The wider uptake of Slack over the past six months has been cheering. As a team we are spread all over the country and spread over a variety of programmes, services, and products, Slack just works for us getting on and doing stuff.
+
+As I logged on in the general channel was a glut of new people.
 
 We have some light rules for the work Slack. One of them is if you’re on there give your name, let us know in your profile where you usually work from and what you are working on, and upload a picture of you.
 
