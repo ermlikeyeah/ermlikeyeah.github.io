@@ -17,9 +17,9 @@ A slew of people with no pictures! No descriptions! And they’re just not sayin
 
 “Don’t be a stranger,” as the saying goes.
 
-Over this coffee I was wondering when people join, how do they know they need to provide these things? I thought Slack would have a built in welcome message for newcomers we could update. But a quick look through the Slack admin didn’t show anything obvious,. A Google search didn’t find anything either.
+Over this coffee I was wondering when people join, how do they know they need to provide these things? I thought Slack would have a built in welcome message for newcomers we could update. But a quick look through the Slack admin didn’t show anything obvious. A Google search didn’t find anything either.
 
-I remembered [18F’s on boardng Slackbot](//18f.gsa.gov/2015/12/15/how-bot-named-dolores-landingham-transformed-18fs-onboarding/). I’ve done some small Slackbots before. So, over that coffee I hacked together a little Slackbot with a little bit of Python, a quick bit of writing for an intro message, and stuck it on Heroku after a swift bit of set up in Slack’s admin. Oh, and a quick bit of Photoshop for the Slackbot’s avatar.
+I remembered [18F’s on boardng Slackbot](//18f.gsa.gov/2015/12/15/how-bot-named-dolores-landingham-transformed-18fs-onboarding/). I’ve done some small Slackbots before. So, over that coffee I hacked together a little Slackbot in Python, a quick bit of writing for an intro message, and stuck it on Heroku after a swift bit of set up in Slack’s admin. Oh, and a quick bit of Photoshop for the Slackbot’s avatar.
 
 Now, when someone joins the Slack at work they get a message from a Slackbot called Nye Bot (because the NHS, ain’t we. [Nye Bevan](//en.wikipedia.org/wiki/Aneurin_Bevan)).
 
