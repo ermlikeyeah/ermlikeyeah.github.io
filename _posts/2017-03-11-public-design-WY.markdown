@@ -3,7 +3,7 @@ layout: post
 title: Public Design WY
 date: '2017-03-11 19:30:00'
 ---
-Saturday Night Takeaway is on, and Steps are on TV. Before my brain seeps out of my ear, a quick post about something I am involved with planning.
+Saturday Night Takeaway is on and, my God, is that Steps? Before my brain seeps out of my ear, a quick post about something I am involved with planning.
 
 When I came back to work in Leeds at the NHS last summer I really wanted to settle in quickly – and then look how we could get the NHS work I was on more involved with the wider government “transformation” work going on. Also I wanted to get the NHS’s design community talking, both within itself and to the wider world. Getting [the NHS design community talking](http://www.ermlikeyeah.com/getting-people-together/) was pretty easy. And we get to update the cross-government designers on how we’re getting ion at every cross-gov design meetings. Thumbs up emoji here.
 
