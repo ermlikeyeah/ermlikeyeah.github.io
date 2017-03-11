@@ -17,4 +17,4 @@ Like a lot of the stuff I’ve helped run in the past it’ll be more DIY than p
 
 In a week’s time we’ll have sorted somewhere to have this and who’ll be “leading from the front” (we’re open to talks as much as workshops, so whatever). It – a get-together about design in the public sector in West Yorkshire – will be happening around the end of the month/start of April as well. That is it for now.
 
-If you’re interested in leading from the front or just coming along, let me know. My details are [here](/contact). I’ll be updating with more info within the next week.
+If you’re interested in leading from the front or just coming along, feel free to get in touch. My details are [here](/contact). I’ll be updating with more info within the next week.
