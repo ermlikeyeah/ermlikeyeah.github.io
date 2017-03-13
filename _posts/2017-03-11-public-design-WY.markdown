@@ -25,6 +25,6 @@ It’ll be free to get in. We won’t go looking for sponsorship. You’ll proba
 
 In a week’s time we’ll have sorted somewhere to have this and who’ll be “leading from the front”. (We’re open to talks as much as workshops, so whatever – just no pitching, please.)
 
-It – a get-together about design in the public sector in West Yorkshire – will be happening around the end of the month/start of April as well. That is it for now.
+It – a get-together about design in the public sector in West Yorkshire – will be happening around Wednesday 29 March (we are aiming for that day - there might be a little wiggle room due to availability of people and places). That is it for now.
 
 If you’re interested in leading from the front or just coming along, there is [a Meetup page set up](https://www.meetup.com/Public-Design-WY) already and [a holding event](https://www.meetup.com/Public-Design-WY/events/238358051/) set up. And feel free to get in touch. My details are [here](/contact). I’ll be updating with more info within the next week.
