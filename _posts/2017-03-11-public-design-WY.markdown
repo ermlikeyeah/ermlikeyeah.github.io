@@ -28,3 +28,5 @@ In a week’s time we’ll have sorted somewhere to have this and who’ll be �
 It – a get-together about design in the public sector in West Yorkshire – will be happening around Wednesday 29 March (we are aiming for that day - there might be a little wiggle room due to availability of people and places). That is it for now.
 
 If you’re interested in leading from the front or just coming along, there is [a Meetup page set up](https://www.meetup.com/Public-Design-WY) for you to follow already and [a holding event page](https://www.meetup.com/Public-Design-WY/events/238358051/). And feel free to get in touch. My details are [here](/contact). I’ll be updating with more info within the next week.
+
+This blog has been verified by Rise: R7e9b0cc43426d2be3ba96c193de87589
