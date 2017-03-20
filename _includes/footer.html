@@ -10,33 +10,20 @@
       <div class="footer-col">
 
         <p>
-          <a href="https://github.com/ermlikeyeah/ermlikeyeah.github.io/issues/new?title=Issue%20with%20page%20{{ page.path }}">Report an issue with this page</a> on Github<br />
-          <a href="https://github.com/ermlikeyeah/ermlikeyeah.github.io/blob/master/{{ page.path }}">View this page</a> on Github<br />
-          <a class="rss-subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}">View this blog's RSS feed</a>
-
+          <a href="https://github.com/ermlikeyeah/ermlikeyeah.github.io/blob/master/{{ page.path }}">View this page's source code</a> or <a href="https://github.com/ermlikeyeah/ermlikeyeah.github.io/issues/new?title=Issue%20with%20page%20{{ page.path }}">report an issue</a>.<br />
+          <a class="rss-subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}">View this blog's RSS feed</a>.
         </p>
 
       </div>
 
+    </div>
+
+    <div class="footer-col-wrapper">
+
 
       <div class="footer-col">
 
-        <p>{{ site.description }}<br />
-          <ul class="footer-list">
-          {% for my_page in site.pages %}
-            {% if my_page.title %}
-
-            {% if my_page.exclude_from_nav != true %}
-
-            <li><a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
-
-            {% endif %}
-
-            {% endif %}
-          {% endfor %}
-        </ul>
-        </p>
-
+          <p>{{ site.description }}</p>
 
 
 

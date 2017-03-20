@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Simon Wilson's blog
+title: Simon Wilson
 email: simoncwilson@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  The web log of Simon Wilson. Usually thoughts on digital-enabled strategy and design (experience, service, product, and interaction).
+  Simon Wilson: Strategist, designer – service, experience, product, and interaction design – and maker of people-centred digital things.
 baseurl: "" # the subpath of your site, e.g. /blog
 permalink: /:title
 permalink: /:title/

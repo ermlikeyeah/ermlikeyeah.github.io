@@ -7,8 +7,15 @@
 
     {% include header.html %}
 
+
+
     <div class="page-content">
       <div class="wrapper">
+        {% if page.url == "/" %}
+          {% include about.html %}
+        {% endif %}
+
+
         {{ content }}
       </div>
     </div>

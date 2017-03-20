@@ -12,9 +12,18 @@ layout: default
             <div class="post-header">
               <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-                <h2>
+              {% if page.url == "/" %}
+                <h3 class="post-title">
+              {% else %}
+                <h2 class="post-title">
+              {% endif %}
                   <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+              {% if page.url == "/" %}
+                </h3>
+              {% else %}
                 </h2>
+              {% endif %}
+
               </div>
 
 

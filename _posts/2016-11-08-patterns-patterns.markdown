@@ -23,7 +23,7 @@ We took time out, a couple of weeks to consolidate where we were at. We pulled t
 
 Anyway, I met another friend the other day. We laughed at how we’ve moved on, as people, and as “an industry”. We’d both had a few roles since we worked together, both admittedly “to just pay the bills”. We talked about how it seemed the spotlight these days was on guidelines, and especially patterns. I was mindful of the stuff I’d told you above, but fueled by the “keep the reference up to date as you go along”.
 
-We talked about the patterns stuff at the BBC, gov.uk some of the stuff the Co-op is giving us a glimpse of (like everyone seems to), Facebook, what we’re looking to do on NHS.UK, and on and on. Starting off with something, making something, testing, learning, documenting by adding/editing/deleting. And round and round it goes.
+We talked about the patterns stuff at the BBC, gov.uk, some of the stuff the Co-op is giving us a glimpse of (like everyone seems to), Facebook, what we’re looking to do on NHS.UK, and on and on. Starting off with something, making something, testing, learning, documenting by adding/editing/deleting. And round and round it goes.
 
 Patterns are a thing of the moment, but one we’re glad of.
 
