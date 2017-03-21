@@ -3,31 +3,34 @@ layout: post
 title: Patterns, patterns
 date: '2016-11-08 05:00:00'
 ---
+## 0
 I’ve done that thing – when the days start to get shorter and the days get colder, at that point of the year where one is weary and needs a bit of a shot in the arm to keep going until the inevitable enforced end of year break – I seek solace in lunchtimes to talk about worky stuff with some friends more than ever. Warm the cockles, as it were.
 
-Several I caught up with recently, we centred our chats around some consistent themes, by accident than design. Some patterns even.
+Several of the people I caught up with recently, we centred our chats around some consistent themes – by accident than design. Some patterns even.
 
-One lunch we talked about the work we’d done on brands. Or rather the work we’d done - air quote klaxon - “brands”. More we did logo work or identity work, and then handed it over. Our brand guidelines were more - air quotes time again - “brand guidelines”.
+## 1
+One lunch we talked about the work we’d done on brands. Or rather the work we’d done on - air quote klaxon - “brands”. More we did logo work or identity work, and then handed it over. Our brand guidelines were more - air quotes time again - “brand guidelines”.
 
-Brand is verbalised connections that people make from the interactions with an identity. We were usually right at the beginning of that process, coming up with something “new”. Or “rebranding”, so picking up from someone else’s years of knowledge - or more often years of neglect. Y’know, time to “consolidate the brand”.
+Brand is verbalised connections that people make from the interactions with an identity. Brand isn’t something you can really control. You can try to engineer, but not really control. Set some shit up, let it go. We were usually right at the beginning of that “branding” process, coming up with something “new”. Or “rebranding”, so picking up from someone else’s years of knowledge - or more often years of neglect. Y’know, time to “consolidate the brand”.
 
-On other work we did the advertising, usually picking up the skimpy “brand guidelines”. In agency world, money is time, and time is a pressing deadline. That’s all the time we had. That’s all they’re paying for. At the tail-end of the noughties this usually meant at least 24 pages of guidance, and usually about three pages for “web based executions”, which were marked more wide-sweeping in the mediums they showed – and far less detailed on the instructions.
+On other work we did the advertising, usually picking up the skimpy existing “brand guidelines” done elsewhere. In agency world, money is time, and time is a pressing deadline. That’s all the time we had. That’s all they’re paying for. At the tail-end of the noughties this usually meant at least 18 pages of guidance, and usually about three pages for “web based executions”, which were marked more wide-sweeping in the mediums they showed – and far less detailed on the instructions.
 
-We had been the “brand guardians” for a few things though. Not many but enough. We did work, we got to see the response. It was the sort of stuff that made me feel I was in a Reeves Rosser world.
+We had the wider remit of being the “brand guardians” for a few things. Not many but enough. We did work, we got to see the response. It was the sort of stuff that made me feel I was in a Reeves Rosser world: Research, analysis, insight, understanding, knowing what works.
 
 (True fact: I spent much of the second half of the noughties wanting to become a full time planner, partly inspired by the way we tried to do work at Brahm. But this coincided nicely with Leeds’s great pre-recession agency cutbacks – and the move back towards just doing what marketing managers/departments asked for rather than seeing if it was actually needed and/or would actually work)
 
 After a few years all the stuff we did (and we did _a lot_) for Quite A Big Company was hanging together by a consistent ‘language’ (graphically and content). The guidelines put together years ago? Threads of that stuff was still there, but it’d moved on. Way, way on. At any one time there was at least six designers working on that stuff. There’s no way it could have stayed still.
 
-We took time out, a couple of weeks to consolidate where we were at. We pulled together the stuff we knew – through references and examples – and ideas of where it could go next, either as aspirations or even gaps in our understanding. As we went along we were a bit “Why didn’t we do this sooner?” More importantly we said we’d keep what we were doing up to date as we went along. Take stock every month when we could and add/edit/delete/edit as needed. It sat as a PDF on the company’s shared drive. (This is about 2008.)
+We took time out, a couple of weeks to consolidate where we were at. We pulled together the stuff we knew – through references and examples – and ideas of where it could go next – either as aspirations or even gaps in our understanding. As we went along we were a bit “Why didn’t we do this sooner?” More importantly we said we’d keep what we were doing up to date as we went along. Take stock every month when we could and add/edit/delete/edit as needed. It sat as a PDF on the company’s shared drive. (This is about 2008.)
 
+## 2
 Anyway, I met another friend the other day. We laughed at how we’ve moved on, as people, and as “an industry”. We’d both had a few roles since we worked together, both admittedly “to just pay the bills”. We talked about how it seemed the spotlight these days was on guidelines, and especially patterns. I was mindful of the stuff I’d told you above, but fueled by the “keep the reference up to date as you go along”.
 
 We talked about the patterns stuff at the BBC, gov.uk, some of the stuff the Co-op is giving us a glimpse of (like everyone seems to), Facebook, what we’re looking to do on NHS.UK, and on and on. Starting off with something, making something, testing, learning, documenting by adding/editing/deleting. And round and round it goes.
 
 Patterns are a thing of the moment, but one we’re glad of.
 
-As we ran started to run out of time, my mate told me about his current assignment.
+As we started to run out of time, my mate told me about his current assignment.
 
 “Yeah,” he said, looking down at his drink. He picked it up, had a sup and put it back down before continuing. He tells me about where he is. He’s working on this thing that is going to go on for quite a while. It all sounds like Good Stuff.
 
