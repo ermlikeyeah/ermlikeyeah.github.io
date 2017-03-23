@@ -66,3 +66,7 @@ I [replied](//twitter.com/ermlikeyeah/status/844833959611588609) "As seats canno
 Their [response](//twitter.com/northernassist/status/844837349238358017): "We are building new trains to help rectify this issue."
 
 TL;DR – Until these new trains are built and on the lines getting in halfway along this train line saves 5% of the cost of an end-to-end journey, with a massively decreased chance of sitting.
+
+In other words, it feels to me like getting on the train later in the rush hour journey, and halfway along the line to Leeds, is punished by having to stand on the train and not having anything like any proportional monetary saving on either level.
+
+Still, I get to work, eh,
