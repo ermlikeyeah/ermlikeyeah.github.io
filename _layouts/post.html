@@ -4,8 +4,8 @@ layout: default
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    
-    <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished" class="post-meta">{{ page.date | date: "%b %-d, %Y" }}</time>
+
+    <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished" class="post-meta">{{ page.date | date_to_long_string }}</time>
     <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
 
   </header>
@@ -22,14 +22,14 @@ layout: default
   <div class="PageNavigationPrevious">
     {% if page.previous.url %}
     <strong>&larr; Previous post</strong><br />
-      <div class="PageNavDate">{{page.previous.date  | date: "%b %-d, %Y"}}</div>
+      <div class="PageNavDate">{{page.previous.date  | date_to_long_string}}</div>
       <a href="{{page.previous.url}}">{{page.previous.title}}</a>
     {% endif %}
   </div>
   <div class="PageNavigationNext">
     {% if page.next.url %}
     <strong>Next post &rarr;</strong><br />
-    <div class="PageNavDate">{{page.next.date  | date: "%b %-d, %Y"}}</div>
+    <div class="PageNavDate">{{page.next.date  | date_to_long_string}}</div>
       <a href="{{page.next.url}}">{{page.next.title}}</a>
     {% endif %}
   </div>
