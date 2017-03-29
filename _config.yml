@@ -9,7 +9,7 @@
 title: Simon Wilson
 email: simoncwilson@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Simon Wilson: Strategist, designer – service, experience, product, and interaction design – and maker of people-centred digital things.
+  Simon Wilson: service, user experience and interaction designer and maker of people-centred digital things.
 baseurl: "" # the subpath of your site, e.g. /blog
 permalink: /:title
 permalink: /:title/
