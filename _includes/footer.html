@@ -41,9 +41,9 @@
           </li>
           {% endif %}
 
-          {% if site.pinboard_username %}
+          {% if site.linkedin_username %}
           <li>
-            {% include pinboard.html username=site.pinboard_username %}
+            {% include linkedin.html username=site.linkedin_username %}
           </li>
           {% endif %}
 
@@ -53,19 +53,17 @@
           </li>
           {% endif %}
 
-          {% if site.linkedin_username %}
-          <li>
-            {% include linkedin.html username=site.linkedin_username %}
-          </li>
-          {% endif %}
-
           {% if site.github_username %}
           <li>
             {% include github.html username=site.github_username %}
           </li>
           {% endif %}
 
-
+          {% if site.pinboard_username %}
+          <li>
+            {% include pinboard.html username=site.pinboard_username %}
+          </li>
+          {% endif %}
 
         </ul>
 
