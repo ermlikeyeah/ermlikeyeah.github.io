@@ -49,7 +49,9 @@ Maybe my issue is the use of *the regions*. It’s not just about London. There�
 
 As people we exist in the world, where digital is an accepted, almost expected.  We use digital means to communicate. This is not just not just “digital transformation” thing. It is a real world thing. We use digital a lot across gov to collaborate too (which can save time and money, sort of important in the public sector, where we want to get stuff done): email lists, Slack, whichever of Google Hangouts/Skype/WebEx we can all get onto. Lots of this stuff happens because the Modern World and we work like the modern world does in gov. It’s not just about being in the same physical room.
 
-Anyway, on the train down I’ve cobbled together some commemorative tongue-in-cheek sticker designs, one for London people who travel out “the regions” and people from “the regions” who travel to London.
+Anyway, I hope I have struck the right constructive tone I was aiming for there.
+
+On the train down to London this morning I cobbled together some commemorative tongue-in-cheek sticker designs, one for London people who travel out “the regions” and people from “the regions” who travel to London.
 
 ![](/assets/i-got-on-a-train-stickers.jpg)
 
