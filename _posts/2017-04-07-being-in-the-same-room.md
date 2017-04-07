@@ -7,7 +7,7 @@ There’s been a recent Government Digital Service (GDS) roadshow. Nice enough i
 
 At the mo there’s a lot of obvious “reaching out” and “listening” happening publicly between GDS and other bits of gov.  I guess the new(ish) senior leadership team will want to make some statements of intent (through actions) about ways of working, even if it is reiterating *We’ll keep doing this*.
 
-A blog post written by Kevin Cunnington, head of GDS, went up yesterday about this. You can [read the blog post here](https://gds.blog.gov.uk/2017/04/06/on-the-road-with-gds/).
+A blog post written by Kevin Cunnington, head of GDS, went up yesterday about the roadshow. You can [read the blog post here](https://gds.blog.gov.uk/2017/04/06/on-the-road-with-gds/).
 
 Writing blog posts is useful. And writing and publishing good quality blog posts  – that are thoughtful, considered, honest – is a sign of good culture to me.
 
