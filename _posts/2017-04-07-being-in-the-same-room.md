@@ -3,8 +3,6 @@ layout: post
 title: Being in the same room
 date: '2017-04-07 09:00:00'
 ---
-# Being in the same room
-
 There’s been a recent Government Digital Service (GDS) roadshow. Nice enough idea.
 
 At the mo there’s a lot of obvious “reaching out” and “listening” happening publicly between GDS and other bits of gov.  I guess with the new(ish) senior leadership team will some statements of intent (through actions) about ways of working, even if it is reiterating *We’ll keep doing this*.
