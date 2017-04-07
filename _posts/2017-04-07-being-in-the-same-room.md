@@ -51,7 +51,7 @@ As people we exist in the world, where digital is an accepted, almost expected. 
 
 Anyway, I hope I have struck the right constructive tone I was aiming for there.
 
-On the train down to London this morning I cobbled together some commemorative tongue-in-cheek sticker designs, one for London people who travel out “the regions” and people from “the regions” who travel to London.
+On the train down to London this morning I cobbled together some commemorative tongue-in-cheek sticker designs, one for  people from London who travel to “the regions”, and one for people from “the regions” who travel to London.
 
 ![](/assets/i-got-on-a-train-stickers.jpg)
 
