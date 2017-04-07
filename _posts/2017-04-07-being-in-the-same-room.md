@@ -13,7 +13,8 @@ Writing blog posts is useful. And writing and publishing good quality blog posts
 
 In the post Kevin shares ”some of what I learned from the roadshow.” First up:
 
-> *People are happy to see GDS outside London*
+> **People are happy to see GDS outside London**
+>
 > Just the act of getting on a train and leaving London for the regions showed we were committed to working collaboratively and the organisation is a credible transformation partner.
 
 Which I had to read three times to check I had read it correctly.
