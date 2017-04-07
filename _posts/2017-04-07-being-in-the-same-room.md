@@ -52,4 +52,4 @@ Anyway, on the train down I’ve cobbled together some commemorative tongue-in-c
 
 ![](/assets/i-got-on-a-train-stickers.jpg)
 
-If you want one (or several) [let me know](/contact) . If there’s any interest I’ll get some printed off next week.
+If you want one (or several) [let me know on this form](https://goo.gl/forms/RPDElGKDgBJLR8qi2). If there’s any interest I’ll get some printed off next week.
