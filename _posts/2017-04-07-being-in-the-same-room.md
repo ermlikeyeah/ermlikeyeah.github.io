@@ -5,7 +5,7 @@ date: '2017-04-07 09:00:00'
 ---
 There’s been a recent Government Digital Service (GDS) roadshow. Nice enough idea.
 
-At the mo there’s a lot of obvious “reaching out” and “listening” happening publicly between GDS and other bits of gov.  I guess with the new(ish) senior leadership team will want to make some statements of intent (through actions) about ways of working, even if it is reiterating *We’ll keep doing this*.
+At the mo there’s a lot of obvious “reaching out” and “listening” happening publicly between GDS and other bits of gov.  I guess the new(ish) senior leadership team will want to make some statements of intent (through actions) about ways of working, even if it is reiterating *We’ll keep doing this*.
 
 A blog post written by Kevin Cunnington, head of GDS, went up yesterday about this. You can [read the blog post here](https://gds.blog.gov.uk/2017/04/06/on-the-road-with-gds/) .
 
