@@ -20,6 +20,7 @@ In the post Kevin shares ”some of what I learned from the roadshow.” First u
 Which I had to read three times to check I had read it correctly.
 
 The subtitle: *People are happy to see GDS outside London*.
+
 *Just the act of getting on a train*.
 
 *Leaving London*.
