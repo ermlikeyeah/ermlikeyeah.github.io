@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Listening not hearing
+title: Listening, not hearing
 date: '2017-04-10 00:15:00'
 ---
 I am running on the path alongside the canal. My steps aren’t usually the lightest but today they feel heavier than usual. I am not really concentrating on my running, on a sort of autopilot..
@@ -33,7 +33,7 @@ Ting ting ting ting ting ting ting ting–A rider on a bike is suddenly going pa
 
 Ting ting ting ting ting ting ting ting ting ting ting ting.
 
-I slow down. The rider slows down. I cup my ear, trying to ignore the rail track warning. The rider is agitated.
+I slow down. The rider slows down. I cup my ear, trying to ignore the rail track warning. The rider is agitated. He is shouting at me.
 
 “Mate, you not hear my bell? It means get out of the way.”
 
@@ -41,7 +41,7 @@ Ting ting ting ting ting ting ting ting ting ting ting ting.
 
 I didn’t hear his bike’s bell. The sound of the bell must have got lost in the sound of the rail track warning. I just didn’t hear it.
 
-I am lost of words. I thought I was sticking to one side of the path, leaving enough room for someone, something to pass. I feel like I’ve done something wrong because I didn’t hear something. Scolded for being deaf to a signal.
+I am lost of words. I thought I was sticking to one side of the path, leaving enough room for someone, something to pass. I feel like I’ve done something wrong, scolded because I didn’t hear something.
 
 In the couple of seconds it takes me to work out what has happened, the rider has picked up his pace and is moving away.
 
