@@ -3,7 +3,7 @@ layout: post
 title: Listening, not hearing
 date: '2017-04-10 00:15:00'
 ---
-I am running on the path alongside the canal. My steps aren’t usually the lightest but today they feel heavier than usual. I am not really concentrating on my running, on a sort of autopilot..
+I am running on the path alongside the canal. My steps aren’t usually the lightest but today they feel heavier than usual. I am not really concentrating on my running, on a sort of autopilot.
 
 My head is fuzzy and full with work thoughts. Coming for a run was supposed to clear them out – or at least give me a break from them. I get stuck in a thought loop. I circle a problem a few times. Time to break out of it.
 
