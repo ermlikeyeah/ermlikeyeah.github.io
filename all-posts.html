@@ -1,18 +1,12 @@
 ---
-layout: default
+layout: page
+title: Writing
 ---
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
+  {% for post in site.posts %}
+    <p>
+      <span class="post-meta">{{ post.date |  date: "%-d %B %Y" }}</span><br />
+        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </p>
 
-          <span class="page-meta">{{ post.date |  date: "%-d %B %Y" }}</span>
-
-            <h2>
-              <a class="page-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-            </h2>
-
-
-      </li>
     {% endfor %}
-  </ul>
