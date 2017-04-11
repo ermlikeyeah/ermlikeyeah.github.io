@@ -4,33 +4,66 @@
 @charset "utf-8";
 
 
+//$serif-font: 'Playfair Display', serif;
+//$serif-font: 'Cabin', serif;
+$serif-font: 'Arvo', serif;
 
-// Our variables
-// Our variables
-$base-head-family: 'Rubik', sans-serif;
-$base-font-family: 'Rubik', sans-serif;
+$sans-serif-font: 'Noto Sans', sans-serif;
+//$sans-serif-font: 'Source Sans Pro', sans-serif;
+
+$bookend-font: $serif-font;
+
+$black: #000;
+$off-black: #333;
+$off-white: #fdfdfd;
+$red: #c53702;
+$light-grey: #cccccc;
+$yellow: #e2d700;
+$dark-blue: #0f3287;
+
+$base-font-family: $sans-serif-font;
+$base-text-color: $off-black;
 $base-font-size:   20px;
-$base-font-weight: 200;
-$small-font-size:  $base-font-size * 0.875;
-$base-line-height: 2em;
+$base-line-height: $base-font-size * 1.2;
+$base-font-weight: 400;
+$strong-font-weight: $base-font-weight * 4;
 
-$spacing-unit:     30px;
+$base-spacing-unit:     32px;
 
-$text-color:       #333;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$small-font-size:  $base-font-size * 0.80;
+$small-line-height: $small-font-size * 1.2;
 
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
+$h1-font-size: $base-font-size * 2;
+$h1-line-height: $base-font-size * 2.2;
+$h2-font-size: $base-font-size * 1.6;
+$h3-font-size: $base-font-size * 1.4;
+$h4-font-size: $base-font-size;
+
+$base-background-color: $off-white;
+
+$base-head-font-family: $serif-font;
+$base-head-background-color: $off-black;
+$base-head-text-color: $off-white;
+
+$link-text-color: $base-text-color;
+$link-highlight-color: $red;
+
+$site-header-background-color: $black;
+$site-header-foreground-color: $off-white;
+$site-header-font-family: $bookend-font;
+
+$site-footer-background-color: $light-grey;
+$site-footer-foreground-color: $off-black;
+$site-footer-font-family: $sans-serif-font;
+
+$site-crosspagenav-background-color: $off-white;
+$site-crosspagenav-foreground-color: $off-black;
+
 
 // Width of the content area
 $content-width:    800px;
-
-$on-palm:          600px;
-$on-laptop:        800px;
-
-
+$on-palm:          640px;
+$on-laptop:        935px;
 
 // Use media queries like this:
 // @include media-query($on-palm) {
@@ -44,7 +77,6 @@ $on-laptop:        800px;
         @content;
     }
 }
-
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)

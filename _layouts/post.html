@@ -1,38 +1,42 @@
 ---
 layout: default
 ---
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+<article itemscope itemtype="http://schema.org/BlogPosting">
 
-  <header class="post-header">
+  <div class="page-header">
 
-    <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished" class="post-meta">{{ page.date | date_to_long_string }}</time>
-    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+    <div class="wrapper">
 
-  </header>
+      <h1 >{{ page.title }}</h1>
 
-  <div class="post-content" itemprop="articleBody">
-    {{ content }}
+      <time datetime="{{ page.date | date_to_xmlschema }}" class="page-meta">{{ page.date | date_to_long_string }}</time>
 
+    </div>
 
   </div>
 
-  {{ page.categories | join ', ' }}
+  <div class="wrapper">
 
-  <div class="PageNavigationLeftArrow"></div>
-  <div class="PageNavigationPrevious">
+  <div class="page-content">
+  {{ content }}
+  </div>
+
+  <div class="CrossPageNavigation">
+  <div class="CrossPageNavigationLeftArrow"></div>
+  <div class="CrossPageNavigationPrevious">
     {% if page.previous.url %}
     <strong>&larr; Previous post</strong><br />
-      <div class="PageNavDate">{{page.previous.date  | date_to_long_string}}</div>
       <a href="{{page.previous.url}}">{{page.previous.title}}</a>
     {% endif %}
   </div>
-  <div class="PageNavigationNext">
+  <div class="CrossPageNavigationNext">
     {% if page.next.url %}
     <strong>Next post &rarr;</strong><br />
-    <div class="PageNavDate">{{page.next.date  | date_to_long_string}}</div>
       <a href="{{page.next.url}}">{{page.next.title}}</a>
     {% endif %}
   </div>
+  </div>
 
+</div>
 
 </article>
