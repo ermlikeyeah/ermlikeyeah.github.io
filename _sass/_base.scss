@@ -112,6 +112,7 @@ h6 {
 h1 {
     font-size: $h1-font-size;
     line-height: $h1-line-height;
+    margin-bottom: $h1-font-size*0.5;
     @include media-query($on-palm) {
       font-size: $h1-font-size*0.8;
       line-height: $h1-line-height*0.8;
@@ -121,6 +122,7 @@ h2 {
     font-size: $h2-font-size;
     line-height: $h2-line-height;
     margin-top: $base-spacing-unit*2;
+    margin-bottom: $h2-font-size*0.5;
     @include media-query($on-palm) {
       font-size: $h2-font-size*0.8;
       line-height: $h2-line-height*0.8;
@@ -151,7 +153,6 @@ h4 {
 a {
     color: $link-text-color;
     text-decoration: underline;
-    font-weight: $base-font-weight*2;
     &:visited {
         color: $link-text-color;
     }
