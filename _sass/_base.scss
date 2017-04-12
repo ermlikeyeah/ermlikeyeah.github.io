@@ -1,99 +1,123 @@
 /**
  * Reset some basic elements
  */
-body, h1, h2, h3, h4, h5, h6,
-p, blockquote, pre, hr,
-dl, dd, ol, ul, figure {
+blockquote,
+body,
+dd,
+dl,
+figure,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+hr,
+ol,
+p,
+pre,
+ul {
     margin: 0;
     padding: 0;
 }
-
-
-
 /**
  * Basic styling
  */
 body {
     font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
     color: $base-text-color;
+    font-weight: $base-font-weight;
     background-color: $base-background-color;
     -webkit-text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
     -webkit-font-feature-settings: "kern" 1;
     -moz-font-feature-settings: "kern" 1;
     -o-font-feature-settings: "kern" 1;
     font-feature-settings: "kern" 1;
     font-kerning: normal;
 }
-
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
-h1, h2, h3, h4, h5, h6,
-p, blockquote, pre,
-ul, ol, dl, figure,
-%vertical-rhythm {
+%vertical-rhythm,
+blockquote,
+dl,
+figure,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ol,
+p,
+pre,
+ul {
     margin-bottom: $base-spacing-unit;
 }
-
-
-
 /**
  * Images
  */
 img {
-    max-width: 100%;
+    max-width: 150%;
     vertical-align: middle;
-
-    @include media-query($on-palm) {
-      width: 150%;
-   }
-
+    overflow: auto;
+    @include media-query($on-laptop) {
+      max-width: 100%;
+    }
 }
-
-
-
 /**
  * Figures
  */
 figure > img {
     display: block;
 }
-
 figcaption {
     font-size: $small-font-size;
 }
-
-
-
 /**
  * Lists
  */
-ul, ol {
+ol,
+ul {
     margin-left: $base-spacing-unit;
 }
-
 li {
-    > ul,
-    > ol {
-         margin-bottom: 0;
+     > ol,
+    > ul {
+        margin-bottom: 0;
     }
-
 }
-
-
-
 /**
  * Headings
  */
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     font-family: $base-head-font-family;
 }
-
 h1 {
     font-size: $h1-font-size;
     line-height: $h1-line-height;
 }
-
+h2 {
+    font-size: $h2-font-size;
+    line-height: $h2-line-height;
+    margin-top: $base-spacing-unit*2;
+}
+h3 {
+    font-size: $h3-font-size;
+    line-height: $h3-line-height;
+    margin-top: $base-spacing-unit*2;
+}
+h4 {
+    font-size: $h4-font-size;
+    line-height: $h4-line-height;
+    margin-top: $base-spacing-unit*2;
+}
 
 /**
  * Links
@@ -102,111 +126,87 @@ a {
     color: $link-text-color;
     text-decoration: underline;
     font-weight: $base-font-weight * 2;
-
     &:visited {
         color: $link-text-color;
     }
-
     &:hover {
         color: $link-highlight-color;
         text-decoration: underline;
         background: #dee0e2;
     }
 }
-
-
 /**
  * Paragraph type
  */
-
 p {
-  font-size: $base-font-size;
+    font-size: $base-font-size;
 }
-
 /**
- * strong tag
+ * Strong tag
  */
 strong {
-  font-weight: $base-font-weight * 4;
+    font-weight: $base-font-weight * 4;
 }
-
-
 /**
  * Blockquotes
  */
 blockquote {
-    font-family: $base-font-family;
+    font-family: $secondary-font-family;
     color: $base-text-color;
     margin: 40px 0;
     border-left: 4px solid $base-text-color;
     padding-left: $base-spacing-unit;
     font-size: $base-font-size;
-    letter-spacing: 0px;
+    letter-spacing: 0;
     font-style: none;
-
     > :last-child {
         margin-bottom: 0;
     }
-
 }
-
-
-
 /**
  * Code formatting
  */
-pre,
-code {
+code,
+pre {
     font-size: 15px;
     border: 1px solid $off-black;
     border-radius: 3px;
     background-color: $off-white;
 }
-
 code {
     padding: 1px 5px;
 }
-
 pre {
     padding: 8px 12px;
     overflow-x: auto;
-
     > code {
         border: 0;
         padding-right: 0;
         padding-left: 0;
     }
 }
-
-
-
 /**
  * Wrapper
  */
 .wrapper {
     max-width: -webkit-calc(#{$content-width} - (#{$base-spacing-unit} * 2));
-    max-width:         calc(#{$content-width} - (#{$base-spacing-unit} * 2));
+    max-width: calc(#{$content-width} - (#{$base-spacing-unit} * 2));
     margin-right: auto;
     margin-left: auto;
     padding-right: $base-spacing-unit;
     padding-left: $base-spacing-unit;
     @extend %clearfix;
-
     @include media-query($on-laptop) {
         max-width: -webkit-calc(#{$content-width} - (#{$base-spacing-unit}));
-        max-width:         calc(#{$content-width} - (#{$base-spacing-unit}));
+        max-width: calc(#{$content-width} - (#{$base-spacing-unit}));
         padding-right: $base-spacing-unit / 2;
         padding-left: $base-spacing-unit / 2;
     }
 }
-
-
-
 /**
  * Clearfix
  */
 %clearfix {
-
     &:after {
         content: "";
         display: table;

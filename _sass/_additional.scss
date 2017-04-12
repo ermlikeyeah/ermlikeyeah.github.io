@@ -1,33 +1,24 @@
 /**
  * Previous and Next styling
  */
- .CrossPageNavigation {
-
-   background-color: $site-crosspagenav-background-color;
-   color: $site-crosspagenav-foreground-color;
-   padding-bottom: $base-spacing-unit*3;
-
-  }
-
- .CrossPageNavigationPrevious {
-
-   max-width: 40%;
-   float: left;
-
-   @include media-query($on-palm) {
-     font-size: $small-font-size;
-     line-height: $small-line-height;
-   }
- }
-
- .CrossPageNavigationNext {
-
-   max-width: 40%;
-   float: right;
-
-   @include media-query($on-palm) {
-     font-size: $small-font-size;
-     line-height: $small-line-height;
-   }
-
- }
+.CrossPageNavigation {
+    background-color: $site-crosspagenav-background-color;
+    color: $site-crosspagenav-foreground-color;
+    padding-bottom: $base-spacing-unit*3;
+}
+.CrossPageNavigationPrevious {
+    max-width: 40%;
+    float: left;
+    @include media-query($on-palm) {
+        font-size: $small-font-size;
+        line-height: $small-line-height;
+    }
+}
+.CrossPageNavigationNext {
+    max-width: 40%;
+    float: right;
+    @include media-query($on-palm) {
+        font-size: $small-font-size;
+        line-height: $small-line-height;
+    }
+}
