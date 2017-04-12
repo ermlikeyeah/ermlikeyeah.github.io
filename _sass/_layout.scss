@@ -36,6 +36,9 @@
     &:not(:last-child) {
         margin-right: 20px;
     }
+    a {
+      margin-left: $base-spacing-unit*0.5;
+    }
 }
 /**
  * Page header

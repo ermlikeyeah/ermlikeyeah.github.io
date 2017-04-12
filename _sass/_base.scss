@@ -27,6 +27,7 @@ body {
     font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
     color: $base-text-color;
     font-weight: $base-font-weight;
+    line-height: $base-line-height;
     background-color: $base-background-color;
     -webkit-text-size-adjust: 100%;
     -webkit-font-smoothing: antialiased;
@@ -83,10 +84,8 @@ ul {
     margin-left: $base-spacing-unit;
 }
 li {
-     > ol,
-    > ul {
-        margin-bottom: 0;
-    }
+    padding-left: $base-spacing-unit;
+    padding-bottom: $base-spacing-unit*0.5;
 }
 /**
  * Headings
