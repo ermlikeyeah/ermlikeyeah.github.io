@@ -3,7 +3,7 @@ layout: post
 title: Public Design WY number 1 is go
 date: '2017-04-12 00:01:00'
 ---
-A few weeks back I [wrote about trying out Public Design WY](2017-03-11-public-design-WY). Originally the plan was to hold it on Wednesday 29 March. Due to a few things (work, holidays, Article 50, general burying heads under pillows) we put it off.
+A few weeks back I [wrote about trying out Public Design WY](/public-design-WY). Originally the plan was to hold it on Wednesday 29 March. Due to a few things (work, holidays, Article 50, general burying heads under pillows) we put it off.
 
 We now have a date, a time, and a space:
 
