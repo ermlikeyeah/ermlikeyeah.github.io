@@ -25,13 +25,13 @@ ul {
  */
 body {
     font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
-    @include media-query($on-palm) {
-      font-size: $base-font-size*0.8;
-    }
-
     color: $base-text-color;
     font-weight: $base-font-weight;
     line-height: $base-line-height;
+    @include media-query($on-palm) {
+      font-size: $base-font-size*0.8;
+      line-height: $base-line-height*0.8;
+    }
     background-color: $base-background-color;
     -webkit-text-size-adjust: 100%;
     -webkit-font-smoothing: antialiased;
@@ -86,10 +86,17 @@ figcaption {
 ol,
 ul {
     margin-left: $base-spacing-unit;
+    @include media-query($on-palm) {
+        margin-left: $base-spacing-unit*0.8;
+    }
 }
 li {
     padding-left: $base-spacing-unit;
-    padding-bottom: $base-spacing-unit*0.5;
+    padding-bottom: $base-spacing-unit*0.8;
+    @include media-query($on-palm) {
+        padding-left: $base-spacing-unit*0.8;
+        padding-bottom: $base-spacing-unit*0.6;
+    }
 }
 /**
  * Headings
