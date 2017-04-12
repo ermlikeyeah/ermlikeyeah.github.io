@@ -41,6 +41,12 @@
     }
 }
 /**
+ * Site and page bottom padding
+ */
+.site-footer {
+  padding-bottom: $base-spacing-unit*4;
+}
+/**
  * Page header
  */
 .page-header {
@@ -62,4 +68,7 @@
     font-size: $base-font-size;
     color: $off-white;
     font-weight: $base-font-weight;
+}
+.smaller-type {
+    font-size: $small-font-size;
 }
