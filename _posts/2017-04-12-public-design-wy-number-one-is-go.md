@@ -17,7 +17,7 @@ When: Thursday 4 May, from 6pm until no later than 8pm. We will be going for a "
 
 What will be there: A series of front-of-room led sessions, from talks to workshops.
 
-Who is it for: Anyone who is interested in design in the public sector. That is "design" as a wide view. And we are looking at the public sector, again as a wide view – wider than just in gov – to reflect the breadth of public design work in the region.
+Who is it for: Anyone who is interested in design for the public. That is "design" as a wide view. And we are looking at designing for the public, again as a wide view – wider than just in gov – to reflect the breadth of public design work in the region.
 
 Public Design WY is free to attend. You just need to tell us you want to come. You can do that over at [the session's page on Meetup](https://www.meetup.com/Public-Design-WY/events/239151881/). Just indicate you want to come. Spaces are limited. We will also publish any further updates there.
 
