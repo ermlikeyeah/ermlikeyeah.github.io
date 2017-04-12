@@ -7,6 +7,9 @@
     background-color: $site-bookend-background-color;
     color: $site-bookend-foreground-color;
     font-size: $base-font-size;
+    @include media-query($on-palm) {
+        font-size: $base-font-size*0.8;
+    }
     // Positioning context for the mobile navigation icon
     position: relative;
     a {

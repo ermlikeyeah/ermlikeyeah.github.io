@@ -25,6 +25,10 @@ ul {
  */
 body {
     font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
+    @include media-query($on-palm) {
+      font-size: $base-font-size*0.8;
+    }
+
     color: $base-text-color;
     font-weight: $base-font-weight;
     line-height: $base-line-height;
@@ -101,21 +105,37 @@ h6 {
 h1 {
     font-size: $h1-font-size;
     line-height: $h1-line-height;
+    @include media-query($on-palm) {
+      font-size: $h1-font-size*0.8;
+      line-height: $h1-line-height*0.8;
+    }
 }
 h2 {
     font-size: $h2-font-size;
     line-height: $h2-line-height;
     margin-top: $base-spacing-unit*2;
+    @include media-query($on-palm) {
+      font-size: $h2-font-size*0.8;
+      line-height: $h2-line-height*0.8;
+    }
 }
 h3 {
     font-size: $h3-font-size;
     line-height: $h3-line-height;
     margin-top: $base-spacing-unit*2;
+    @include media-query($on-palm) {
+      font-size: $h3-font-size*0.8;
+      line-height: $h3-line-height*0.8;
+    }
 }
 h4 {
     font-size: $h4-font-size;
     line-height: $h4-line-height;
     margin-top: $base-spacing-unit*2;
+    @include media-query($on-palm) {
+      font-size: $h4-font-size*0.8;
+      line-height: $h4-line-height*0.8;
+    }
 }
 
 /**
@@ -124,7 +144,7 @@ h4 {
 a {
     color: $link-text-color;
     text-decoration: underline;
-    font-weight: $base-font-weight * 2;
+    font-weight: $base-font-weight*2;
     &:visited {
         color: $link-text-color;
     }
@@ -135,16 +155,10 @@ a {
     }
 }
 /**
- * Paragraph type
- */
-p {
-    font-size: $base-font-size;
-}
-/**
  * Strong tag
  */
 strong {
-    font-weight: $base-font-weight * 4;
+    font-weight: $base-font-weight*4;
 }
 /**
  * Blockquotes
