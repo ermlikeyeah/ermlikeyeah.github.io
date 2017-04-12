@@ -5,7 +5,7 @@ date: '2017-04-12 00:01:00'
 ---
 A few weeks back I [wrote about trying out Public Design WY](/public-design-WY).
 
-We are looking to organise a get-together in West Yorkshire about design for the public.
+We are looking to organise a get-together in West Yorkshire about design and designing for the public.
 
 Originally the plan was to hold it on Wednesday 29 March. Due to a few things (work, holidays, Article 50, general burying heads under pillows) we put it off.
 
