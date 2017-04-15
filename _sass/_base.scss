@@ -183,6 +183,10 @@ blockquote {
     > :last-child {
         margin-bottom: 0;
     }
+    @include media-query($on-palm) {
+      font-size: $base-font-size*0.8;
+      line-height: $base-line-height*0.8;
+    }
 }
 /**
  * Code formatting

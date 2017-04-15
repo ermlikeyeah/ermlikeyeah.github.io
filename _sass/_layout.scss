@@ -53,9 +53,8 @@
  * Page header
  */
 .page-header {
-    background-color: $base-head-background-color;
     color: $base-head-text-color;
-    padding: $base-spacing-unit*3 0 $base-spacing-unit;
+    padding: $base-spacing-unit*2 0 0 0;
 }
 /**
  * Page content
@@ -69,7 +68,7 @@
 }
 .page-meta {
     font-size: $small-font-size;
-    color: $off-white;
+    color: $off-black;
     font-weight: $base-font-weight;
 }
 .smaller-type {
