@@ -11,7 +11,7 @@ date: '2015-09-05 07:40:00'
 <ul>
   {% for post in site.posts limit: 5 %}
           <li>
-            <span class="post-meta">{{ post.date | date: "%-d %B %Y" }}</span><br />
+            {{ post.date | date: "%-d %B %Y" }}<br />
               <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
           </li>
   {% endfor %}

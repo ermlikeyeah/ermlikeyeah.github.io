@@ -5,7 +5,7 @@ title: Writing
 
   {% for post in site.posts %}
     <p>
-      <span class="post-meta">{{ post.date |  date: "%-d %B %Y" }}</span><br />
+      {{ post.date |  date: "%-d %B %Y" }}<br />
         <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
     </p>
 
