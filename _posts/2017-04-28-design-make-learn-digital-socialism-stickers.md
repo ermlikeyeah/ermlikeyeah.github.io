@@ -5,7 +5,7 @@ date: '2017-04-12 00:01:00'
 ---
 A couple of new stickers I have had printed.
 
-![Design, Make, Learn and digital socialism stickers](design-make-learn-digital-socialism.jpg)
+![Design, Make, Learn and digital socialism stickers](/assets/design-make-learn-digital-socialism.jpg)
 
 The first carries a Design-Make-Learn loop. These were designed a couple of weeks back during my sabbatical.
 
