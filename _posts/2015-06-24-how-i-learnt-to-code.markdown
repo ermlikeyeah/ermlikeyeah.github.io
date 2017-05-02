@@ -61,7 +61,7 @@ So my program could've been:
 And while I didn't do the `HELLO WORLD` thing I did learn about loops a different way!
 
 `10 PRINT “MY NAME IS SIMON”
-20 GOTO 20`
+20 GOTO 10`
 
 On my screen - a TV the computer was plugged into - the computer printed MY NAME IS SIMON over and over and over and over (like a monkey with a miniature cymbal) until I forced the program to stop.
 
