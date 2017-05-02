@@ -58,7 +58,7 @@ ol,
 p,
 pre,
 ul {
-    margin-bottom: $base-spacing-unit;
+    margin-bottom: $base-spacing-unit*0.5;
 }
 /**
  * Images
@@ -86,16 +86,13 @@ figcaption {
 ol,
 ul {
     margin-left: $base-spacing-unit;
-    @include media-query($on-palm) {
-        margin-left: $base-spacing-unit*0.8;
-    }
 }
 li {
-    padding-left: $base-spacing-unit*0.5;
-    padding-bottom: $base-spacing-unit*0.8;
+    padding-left: $base-spacing-unit*0.25;
+    padding-bottom: $base-spacing-unit*0.25;
     @include media-query($on-palm) {
         padding-left: $base-spacing-unit*0.25;
-        padding-bottom: $base-spacing-unit*0.6;
+        padding-bottom: $base-spacing-unit*0.25;
     }
 }
 /**
@@ -112,7 +109,7 @@ h6 {
 h1 {
     font-size: $h1-font-size;
     line-height: $h1-line-height;
-    margin-bottom: $h1-font-size*0.5;
+    margin-bottom: $base-spacing-unit*1;
     @include media-query($on-palm) {
       font-size: $h1-font-size*0.8;
       line-height: $h1-line-height*0.8;
@@ -122,7 +119,7 @@ h2 {
     font-size: $h2-font-size;
     line-height: $h2-line-height;
     margin-top: $base-spacing-unit*2;
-    margin-bottom: $h2-font-size*0.5;
+    margin-bottom: $base-spacing-unit*1;
     @include media-query($on-palm) {
       font-size: $h2-font-size*0.8;
       line-height: $h2-line-height*0.8;
@@ -132,6 +129,7 @@ h3 {
     font-size: $h3-font-size;
     line-height: $h3-line-height;
     margin-top: $base-spacing-unit*2;
+    margin-bottom: $base-spacing-unit*1;
     @include media-query($on-palm) {
       font-size: $h3-font-size*0.8;
       line-height: $h3-line-height*0.8;
@@ -141,6 +139,7 @@ h4 {
     font-size: $h4-font-size;
     line-height: $h4-line-height;
     margin-top: $base-spacing-unit*2;
+    margin-bottom: $base-spacing-unit*1;
     @include media-query($on-palm) {
       font-size: $h4-font-size*0.8;
       line-height: $h4-line-height*0.8;
@@ -177,7 +176,6 @@ blockquote {
     margin: 40px 0;
     border-left: 4px solid $base-text-color;
     padding-left: $base-spacing-unit;
-    font-size: $base-font-size;
     letter-spacing: 0;
     font-style: none;
     > :last-child {
@@ -193,7 +191,6 @@ blockquote {
  */
 code,
 pre {
-    font-size: 15px;
     border: 1px solid $off-black;
     border-radius: 3px;
     background-color: $off-white;

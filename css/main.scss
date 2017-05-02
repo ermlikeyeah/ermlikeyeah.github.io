@@ -4,14 +4,8 @@
 @charset "utf-8";
 
 
-//$serif-font: 'Playfair Display', serif;
-//$serif-font: 'Cabin', serif;
-$serif-font: 'Arvo', serif;
-
-$sans-serif-font: 'Noto Sans', sans-serif;
-//$sans-serif-font: 'Source Sans Pro', sans-serif;
-
-$bookend-font: $serif-font;
+$sans-serif-font: Helvetica, Arial, sans-serif;
+$serif-font: Arvo, serif;
 
 $black: #000;
 $off-black: #333;
@@ -23,16 +17,17 @@ $dark-blue: #0f3287;
 
 $base-font-family: $sans-serif-font;
 $secondary-font-family: $serif-font;
+$bookend-font: $sans-serif-font;
+
 $base-text-color: $off-black;
-$base-font-size:   20px;
-$base-line-height: $base-font-size * 1.4;
+$base-font-size:   22px;
+$base-line-height: 1.6;
 $base-font-weight: 400;
 $strong-font-weight: $base-font-weight * 4;
 
 $base-spacing-unit: 32px;
-
 $small-font-size:  $base-font-size * 0.80;
-$small-line-height: $small-font-size * 1.2;
+$small-line-height: 1.6;
 
 $h1-font-size: $base-font-size * 1.8;
 $h1-line-height: $base-font-size * 2;
@@ -45,7 +40,7 @@ $h4-line-height: $base-font-size * 1.4;
 
 $base-background-color: $off-white;
 
-$base-head-font-family: $secondary-font-family;
+$base-head-font-family: $base-font-family;
 $base-head-background-color: $off-black;
 $base-head-text-color: $off-black;
 
@@ -54,7 +49,7 @@ $link-highlight-color: #2b8cc4;
 
 $site-bookend-background-color: $black;
 $site-bookend-foreground-color: $off-white;
-$site-bookend-font-family: $secondary-font-family;
+$site-bookend-font-family: $bookend-font;
 
 $site-crosspagenav-background-color: $off-white;
 $site-crosspagenav-foreground-color: $off-black;
