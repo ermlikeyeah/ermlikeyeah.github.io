@@ -79,7 +79,7 @@ Now in 2015 we usually don’t see that. We interact through more visual means. 
 
 If we want to "do the code" we usually have to launch something to let us do that, an MS Dos prompt, Terminal, or some such.
 
-The distinction between code and technology is important. Technology isn’t just about coding - and also coding isn’t just about technology. But being able to code the technology isn't as simple now as it was for me back in 1987, especially when you throw in all the devices and languages out there now. It *is* overwhelming - but there's no reason why it should be. Programming, coding exists in places you might not realise as well, such in spreadsheets (like Excel).
+The distinction between code and technology is important. Technology isn’t just about coding - and also coding isn’t just about technology. But being able to code the technology isn't as simple now as it was for me back in 1987 when I had just the one language in front of me – especially when you throw in all the devices and languages out there now. It *is* overwhelming - but there's no reason why it should be. Programming, coding exists in places you might not realise as well, such in spreadsheets (like Excel).
 
 Coding for me was fun - and still is fun. It helps me, it lets me make things. I don't consider myself a "professional coder". I've learnt off my own back, learning and doing in-between all sorts of other stuff. (And I still learn and do it in-between all sorts of other stuff.) My code is not lean, not optimised and what have you (and this has been ruthlessly pointed out to me by "better coders" in the past), but my code does a job. I still get a thrill when I upload a piece of PHP code to a web server and my program runs.
 
