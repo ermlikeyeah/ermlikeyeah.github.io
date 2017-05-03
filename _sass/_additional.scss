@@ -12,7 +12,10 @@
 .CrossPageNavigationPrevious {
     max-width: 40%;
     float: left;
+    margin-bottom: $base-spacing-unit*1;
     @include media-query($on-palm) {
+        width: 100%;
+        max-width: 100%;
         font-size: $small-font-size;
         line-height: $small-line-height;
     }
@@ -20,7 +23,11 @@
 .CrossPageNavigationNext {
     max-width: 40%;
     float: right;
+    margin-bottom: $base-spacing-unit*1;
+
     @include media-query($on-palm) {
+        width: 100%;
+        max-width: 100%;
         font-size: $small-font-size;
         line-height: $small-line-height;
     }
