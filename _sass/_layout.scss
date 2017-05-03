@@ -6,7 +6,7 @@
     font-family: $bookend-font;
     background-color: $site-bookend-background-color;
     color: $site-bookend-foreground-color;
-    font-size: $base-font-size;
+    font-size: $small-font-size;
     @include media-query($on-palm) {
         font-size: $base-font-size*0.8;
     }
@@ -47,6 +47,7 @@
  * Site and page bottom padding
  */
 .site-footer {
+  padding-top: $base-spacing-unit;
   padding-bottom: $base-spacing-unit*4;
 }
 /**

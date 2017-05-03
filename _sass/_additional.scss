@@ -4,9 +4,8 @@
 .CrossPageNavigation {
     background-color: $site-crosspagenav-background-color;
     font-family: $site-crosspagenav-font;
+    font-size: $small-font-size;
     color: $site-crosspagenav-foreground-color;
-    padding-bottom: $base-spacing-unit*3;
-    margin-bottom: $base-spacing-unit*2;
 
 }
 .CrossPageNavigationPrevious {
@@ -16,8 +15,6 @@
     @include media-query($on-palm) {
         width: 100%;
         max-width: 100%;
-        font-size: $small-font-size;
-        line-height: $small-line-height;
     }
 }
 .CrossPageNavigationNext {
@@ -28,7 +25,5 @@
     @include media-query($on-palm) {
         width: 100%;
         max-width: 100%;
-        font-size: $small-font-size;
-        line-height: $small-line-height;
     }
 }
