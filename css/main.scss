@@ -21,13 +21,14 @@ $bookend-font: $sans-serif-font;
 
 $base-text-color: $off-black;
 $base-font-size:   22px;
-$base-line-height: 1.6;
+$base-line-height: 38px;
 $base-font-weight: 400;
 $strong-font-weight: $base-font-weight * 4;
 
+$small-font-size:  19px;
+$small-line-height: 32px;
+
 $base-spacing-unit: 32px;
-$small-font-size:  $base-font-size * 0.80;
-$small-line-height: 1.6;
 
 $h1-font-size: $base-font-size * 1.8;
 $h1-line-height: $base-font-size * 2;
