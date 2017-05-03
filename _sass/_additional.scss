@@ -3,8 +3,11 @@
  */
 .CrossPageNavigation {
     background-color: $site-crosspagenav-background-color;
+    font-family: $site-crosspagenav-font;
     color: $site-crosspagenav-foreground-color;
     padding-bottom: $base-spacing-unit*3;
+    margin-bottom: $base-spacing-unit*2;
+
 }
 .CrossPageNavigationPrevious {
     max-width: 40%;

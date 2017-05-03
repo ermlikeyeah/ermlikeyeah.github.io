@@ -5,7 +5,7 @@
 
 
 $sans-serif-font: Helvetica, Arial, sans-serif;
-$serif-font: Arvo, serif;
+$serif-font: Georgia, serif;
 
 $black: #000;
 $off-black: #333;
@@ -15,8 +15,8 @@ $light-grey: #cccccc;
 $yellow: #e2d700;
 $dark-blue: #0f3287;
 
-$base-font-family: $sans-serif-font;
-$secondary-font-family: $serif-font;
+$base-font-family: $serif-font;
+$secondary-font-family: $sans-serif-font;
 $bookend-font: $sans-serif-font;
 
 $base-text-color: $off-black;
@@ -40,7 +40,7 @@ $h4-line-height: $base-font-size * 1.4;
 
 $base-background-color: $off-white;
 
-$base-head-font-family: $base-font-family;
+$base-head-font-family: $secondary-font-family;
 $base-head-background-color: $off-black;
 $base-head-text-color: $off-black;
 
@@ -51,6 +51,7 @@ $site-bookend-background-color: $black;
 $site-bookend-foreground-color: $off-white;
 $site-bookend-font-family: $bookend-font;
 
+$site-crosspagenav-font: $secondary-font-family;
 $site-crosspagenav-background-color: $off-white;
 $site-crosspagenav-foreground-color: $off-black;
 
