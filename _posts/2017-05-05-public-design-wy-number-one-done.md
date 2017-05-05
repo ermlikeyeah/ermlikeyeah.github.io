@@ -17,10 +17,8 @@ Lastly, also a big thanks to [Futurelabs in Leeds](http://futurelabs.org.uk) for
 
 There's a Twitter Moment with the all the tweets I am aware of. [See it here](https://twitter.com/i/moments/860369811288842242). Feel free to add your own into that.
 
-And finally, Public Design WY will return. #2 is going to be on Tuesday 13 June, again at Futurelabs. All the info and saying you want to come will be [over on Meetup](https://www.meetup.com/Public-Design-WY/events/239747499/) again.
+And finally, Public Design WY will return. #2 is going to be on Tuesday 13 June, again at Futurelabs in Leeds. All the info and saying you want to come is [over on Meetup](https://www.meetup.com/Public-Design-WY/events/239747499/) again.
 
-And #3 is also planned. We'll be at [DHEZ in Bradford](http://www.dhez.org), pencilled in for Wednesday 12 July.
-
-There won't be one in August, but we'll be back in September with #4, in Leeds.
+And #3 is also planned, for Wednesday 12 July. We'll be at [DHEZ / Digital Catapult Centre Yorkshire in Bradford](http://www.dhez.org). Again, there's [a Meetup page](https://www.meetup.com/Public-Design-WY/events/239752118/) for all the info and saying you want to come along.
 
 Hopefully see you at one of those!
