@@ -49,4 +49,4 @@ I have did grabs of the screens.
 
 [View a high resolution version of those screens.](/assets/butlins-canvas.png)
 
-Anyway. Humph. That exclusion of `Please note that the service is not transferable to a different device.` feels pretty sneaky.
+Anyway. That exclusion of `Please note that the service is not transferable to a different device.` feels pretty sneaky. Humph.
