@@ -1,0 +1,52 @@
+---
+layout: post
+title: Logging into Skegness Butlins wifi
+date: '2017-05-05 00:01:00'
+---
+We are staying at Skegness Butlins.
+
+I've got stuff to do while we are here. That stuff is on a computer. I'll need to send stuff. I will need to access the wifi.
+
+Using my iPhone I connect to the wifi. I need to choose an option.
+
+1. Connect to 30 minutes of free wifi
+2. Use a voucher code to connect to the wifi
+3. Pay as you go for the wifi
+4. I've pre-paid for the wifi
+
+I don't know how 2 and 4 compare, but I haven't bought any internet access. And I am going to need more than half an hour today, and more over the weekend. I plump for 3.
+
+I read the page. I choose a "tariff" (£15 for four days), give some details (name, home address, email address), and go to the next screen. I provide some payment details. I click submit. Job done.
+
+I then decide to connect my Macbook to the wifi. I get the same four options.
+
+1. Connect to 30 minutes of free wifi
+2. Use a voucher code to connect to the wifi
+3. Pay as you go for the wifi
+4. I've pre-paid for the wifi
+
+Ah. I must have just bought a voucher code to connect to the internet. I click the option.
+
+In smaller type I see `Please note that the service is not transferable to a different device.`
+
+I open my email on the phone. I look at the email from Virgin, the wifi provider. I cannot clearly see a "voucher code". I look again. Nope. Nothing. Hmmm.
+
+I go back a page. I take in the options.
+
+Maybe it is option 4:  I've pre-paid for the wifi.
+
+Nope. And again `Please note that the service is not transferable to a different device.`
+
+I go back to the options.
+
+I click on option 1: Connect to 30 minutes of free wifi. This doesn't tell me the service is not transferable. But also this option is for limited access does not requires a financial transaction.
+
+I revisit option 3: Pay as you go for the wifi. Maybe I missed the `Please note that the service is not transferable to a different device.` I didn't.
+
+I have captured the screens from this.
+
+![](/assets/butlins-canvas.png)
+
+[View a high resolution version of those screens.](/assets/butlins-canvas.png)
+
+Anyway. Humph. That exclusion of `Please note that the service is not transferable to a different device.` feels pretty sneaky.
