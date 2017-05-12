@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Logging into Skegness Butlins wifi
-date: '2017-05-05 00:01:00'
+date: '2017-05-12 23:30:00'
 ---
 We are staying at Skegness Butlins.
 
