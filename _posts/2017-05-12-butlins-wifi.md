@@ -43,7 +43,7 @@ I click on option 1: Connect to 30 minutes of free wifi. This doesn't tell me th
 
 I revisit option 3: Pay as you go for the wifi. Maybe I missed the `Please note that the service is not transferable to a different device.` I didn't.
 
-I have captured the screens from this.
+I have did grabs of the screens.
 
 ![](/assets/butlins-canvas.png)
 
