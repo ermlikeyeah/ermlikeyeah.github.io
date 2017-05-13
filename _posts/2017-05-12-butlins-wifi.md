@@ -45,9 +45,9 @@ I revisit option 3: Pay as you go for the wifi. Maybe I missed the `Please note 
 
 No warning to users along the journey, from the initial page to registration and payment, they are paying for wifi access for one device – in a moment when many people won't think whether they can log on with another device. And in a place where families come to stay, there's a strong likelihood of there being more than one device. It's a fatal omission.
 
-I have did grabs of the screens.
+I did grabs of the screens.
 
-![](/assets/butlins-canvas.png)
+![Canvas of the screens for the wifi registration process at Butlins](/assets/butlins-canvas.png)
 
 [View a high resolution version of those screens.](/assets/butlins-canvas.png)
 
