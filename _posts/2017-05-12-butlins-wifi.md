@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Logging into Skegness Butlins wifi
+title: Butlins wifi and not stating the terms of your transaction
 date: '2017-05-12 23:30:00'
 ---
 We are staying at Skegness Butlins.
@@ -41,7 +41,9 @@ I go back to the options.
 
 I click on option 1: Connect to 30 minutes of free wifi. This doesn't tell me the service is not transferable. But also this option is for limited access does not requires a financial transaction.
 
-I revisit option 3: Pay as you go for the wifi. Maybe I missed the `Please note that the service is not transferable to a different device.` I didn't. It's not there. No warning to users, and in a moment when many people won't think whether they can log on with another device. And in a place where families come to stay, there's a strong likelihood of there being more than one device.
+I revisit option 3: Pay as you go for the wifi. Maybe I missed the `Please note that the service is not transferable to a different device.` I didn't. It's not there. I nip back to the landing page. Nothing there either.
+
+No warning to users along the journey, from the initial page to registration and payment, they are paying for wifi access for one device – in a moment when many people won't think whether they can log on with another device. And in a place where families come to stay, there's a strong likelihood of there being more than one device. It's a fatal omission.
 
 I have did grabs of the screens.
 
