@@ -41,7 +41,7 @@ I go back to the options.
 
 I click on option 1: Connect to 30 minutes of free wifi. This doesn't tell me the service is not transferable. But also this option is for limited access does not requires a financial transaction.
 
-I revisit option 3: Pay as you go for the wifi. Maybe I missed the `Please note that the service is not transferable to a different device.` I didn't.
+I revisit option 3: Pay as you go for the wifi. Maybe I missed the `Please note that the service is not transferable to a different device.` I didn't. It's not there. No warning to users, and in a moment when many people won't think whether they can log on with another device. And in a place where families come to stay, there's a strong likelihood of there being more than one device.
 
 I have did grabs of the screens.
 
@@ -49,4 +49,4 @@ I have did grabs of the screens.
 
 [View a high resolution version of those screens.](/assets/butlins-canvas.png)
 
-Anyway. That exclusion of `Please note that the service is not transferable to a different device.` feels pretty sneaky. Humph.
+Anyway. That exclusion of `Please note that the service is not transferable to a different device.` feels pretty sneaky, dark, even cynical money making omission. Humph.
