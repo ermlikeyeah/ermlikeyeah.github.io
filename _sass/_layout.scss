@@ -62,7 +62,7 @@
  */
 .page-content {
     padding: $base-spacing-unit 0;
-    width: 66%;
+    width: 80%;
     @include media-query($on-palm) {
         width: 100%;
     }
