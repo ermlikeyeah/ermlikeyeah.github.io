@@ -39,7 +39,7 @@ An example:
 
 > How have you filled in your name recently? Is it several boxes, one for `First name` and another for `Last name`? Is it several boxes, one for `First name` and another for `Surname`? Is it one box for `Your name`? Was it something else? Did the form ask you to provide your gender? How? Was that actually important? What happened if you left a box empty? Did the page tell you? How did the page tell you? Did the box go a different colour? Was there a message telling you what you need to? How did it say it? Where was that message? Did the page reload before it told you this?
 
-Th pattern here is _A person providing their name_. Our design solution to that is what we record as a pattern.
+The pattern here is _A person providing their name_. Our design solution to that is what we record as a pattern.
 
 So, a design pattern is not just a record of “how it looks”. Patterns note the interaction, the experience. They are not a thing just for “websites”.
 
