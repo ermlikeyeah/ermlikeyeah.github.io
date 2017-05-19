@@ -5,7 +5,7 @@ date: '2017-05-18 13:30:00'
 ---
 I am at Leeds GovJam, helping run things.
 
-There are many great things about doing this. One of them is the most excellent company I get to keep helping out. It's fun to talk design with those guys and gals.
+There are many great things about doing this. One of them is the most excellent company I get to keep helping out. It's fun to talk design with those guys and gals. I don't get much of that these days.
 
 At lunch [Kathryn](//twitter.com/IamKathrynGrace) and I were talking shop. We got onto personas. We both agreed that personas are a starting point. Once you get testing your ideas with people personas should drift off into the sunset.
 
