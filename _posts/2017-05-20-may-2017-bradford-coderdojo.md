@@ -33,9 +33,13 @@ As their work grows our students are really having to think about the content th
 
 ![](/assets/may-2017-bradford-coder-dojo-planning.jpg)
 
+One student used her first piece of Javascript, learning about web browser history and how a little bit of code can take a user one page back in their browser history. This means she only needed one Wrong Answer page rather than lots of Wrong Answer pages!
+
 Next month we are going to put some of the work online, which a few of the students are excited by!
 
-Last month we brought back the show and tells. With the three rooms it gives all our attendees a chance to see what has gone on across the morning. The show and tells get across quickly there a lot of ways you can get into coding, and the awesome work our students do in just a couple of hours. The openness and honesty of the young people who share their work is amazing. They all feel they have made progress, and sometimes tell us when things were harder and slower than they wanted.
+Last month we brought back the show and tells. With the three rooms it gives all our attendees a chance to see what has gone on across the morning.
+
+The show and tells get across quickly there a lot of ways you can get into coding, and the awesome work our students do in just a couple of hours. The openness and honesty of the young people who share their work is amazing. They all feel they have made progress, and sometimes tell us when things were harder and slower than they wanted.
 
 ![](/assets/may-2017-bradford-coderdojo-show-and-tell.jpg)
 
