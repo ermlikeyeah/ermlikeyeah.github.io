@@ -35,13 +35,13 @@ A *design pattern* is a record of a design. It’s a guide to elements of your d
 
 An example:
 
-> You are on a website and need to provide your name, address, and telephone number for something to be delivered to your home. How you provide your name is a pattern.
+> You are on a website and need to provide your name, address, and telephone number for something to be delivered to your home. How you provide your name is a pattern we are looking for.
 
 > How have you filled in your name recently? Is it several boxes, one for `First name` and another for `Last name`? Is it several boxes, one for `First name` and another for `Surname`? Is it one box for `Your name`? Was it something else? Did the form ask you to provide your gender? How? Was that actually important? What happened if you left a box empty? Did the page tell you? How did the page tell you? Did the box go a different colour? Was there a message telling you what you need to? How did it say it? Where was that message? Did the page reload before it told you this?
 
-The pattern here is _A person providing their name_. Our design solution to that is what we record as a pattern.
+The pattern here is _A person providing their name_. Our design solution to that problem is what we record as a pattern.
 
-So, a design pattern is not just a record of “how it looks”. Patterns note the interaction, the experience. They are not a thing just for “websites”.
+So, a design pattern is not just a record of “how it looks” or just “the visual design”. Patterns note the interaction, the experience. Also they are not just a thing for “websites”.
 
 More intriguingly, the dictionary continues with the following about “patterns”:
 
@@ -49,9 +49,9 @@ More intriguingly, the dictionary continues with the following about “patterns
 
 Simply, that is the aim of design patterns. To be an example.
 
-Patterns start small. We design something. We record what we have designed. And as we learn more, as improvement happens the design work evolves – and so does the pattern. The pattern recorded evolves.
+Patterns start small. We design something. We record what we have designed. And as we learn more, as improvements happen the design work evolves — and so does the pattern. The pattern recorded evolves.
 
-By recording a design pattern we create a reference for the future to adopt, to adapt – for those continuing the work and others how may need to reference it.
+By recording a design pattern we create a reference for the future to adopt, to adapt — for those continuing the work and others who may need to reference it.
 
 So, what makes a good pattern? I think it is important to know what good looks like. For design patterns and their library to be useful they need some conditions, some acceptance criteria. I believe in the following being recorded:
 
@@ -78,33 +78,33 @@ Underlining all that I recommend the following principles:
 * Honesty. Say it as it is in your patterns’ commentary. This isn’t marketing. Patterns help make things better. Patterns are also a thing that need to be better.
 * Little, often. Record regularly as you go along.
 * Start early. And start as you mean to go on. Putting this off will create a bigger problem later.
-* Don’t wait for permission.
-* Patterns are an outcome of your communities, from communities of practice to the team that are focused on the product. Disparate, separate teams will share, discuss, understand, agree - and disagree - their work.
+* Don’t wait for permission. (Although cover, even a mandate, from above no matter how flat your organisaton’s structure is always helpful.)
+* Patterns are an outcome of your communities, from communities of practice to the team that are focused on the product. Disparate, separate teams will share, discuss, understand, agree — and disagree — work.
 * Find what works. And find what doesn’t work. Acknowledge both. A pattern always needs to be tested. There is always the potential for improvement from new learning. When new research brings further supportive evidence, that’s just as valuable as corrective measures.
 * Use patterns to avoid being all over the fucking place: Go for consistency of experience.
 * Building patterns takes times.
 * Consistency takes time.
 * This is all about continual gradual improvement.
-* Make sure everyone understands why we have patterns – and support you.
+* Make sure everyone understands why we have patterns — and support you.
 * Use simple English to explain. Avoid jargon.
 * Communicate, clearly, to all involved.
 * Involve everyone.
 
-A library should give us a idea of what is good.  Design patterns are not just a record of what we have learnt to this point, but a thing we can use to plan the future, for foresight.
+A library should give us a idea of what is good. Design patterns are not just a record of what we have learnt to this point, but a thing we can use to plan the future, for foresight.
 
 I often get asked “Don’t our brand guidelines cover this?“ A design pattern library isn’t brand guidelines. Brand guidelines are usually a reference about the tone of an organisation. Design patterns should reflect the organisation in what they do and how they do. Hopefully a design patterns library will reflect the brand.
 
 Are design patterns a style guide? In a way, yes. A design patterns library will carry the elements of a style guide: Fonts, sizing, layout, and so on.
 
-A design pattern library isn’t a front-end code library – although the best design patterns library include and link off to examples in any front-end code library.
+A design pattern library isn’t a front-end code library — although the best design patterns library include and link off to examples in any front-end code library.
 
-Are design pattern libraries for everyone?
+Are design pattern libraries for everyone? Understand your needs.
 
 Does a “small product” need something so in-depth? Maybe not.
 
-But anything of weight – a large product, a number of products, particularly over a spread organisation – yes. Want consistency in your approach to making your organisation’s products and services? That’s why you should do patterns. They make all your things better by making your making better.
+But anything of weight — a large product, a number of products, particularly over a spread organisation — yes. Want consistency in your approach to making your organisation’s products and services? That’s why you should do patterns. They make all your things better by making your making better.
 
-Feel you need patterns and not doing them already? Start small. Look at problem you have solved already and unpack your works. Take an hour out as a team to huddle to record it. And you’re off.
+Feel you need patterns and not doing them already? Start small. Look at problem you have solved already and unpack your work. Take an hour out as a team to huddle to record it. And you’re off.
 
 Doing patterns already? Remind yourself of them. Check they are fit for purpose.
 

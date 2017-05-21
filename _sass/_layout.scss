@@ -56,12 +56,18 @@
 .page-header {
     color: $base-head-text-color;
     padding: $base-spacing-unit*2 0 0 0;
+    margin: auto;
+    width:80%;
+    @include media-query($on-palm) {
+        width: 100%;
+    }
 }
 /**
  * Page content
  */
 .page-content {
     padding: $base-spacing-unit 0;
+    margin: auto;
     width: 80%;
     @include media-query($on-palm) {
         width: 100%;

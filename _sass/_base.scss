@@ -64,7 +64,7 @@ ul {
  * Images
  */
 img {
-    max-width: 150%;
+    max-width: 105%;
     vertical-align: middle;
     overflow: auto;
     @include media-query($on-laptop) {
@@ -109,7 +109,7 @@ h6 {
 h1 {
     font-size: $h1-font-size;
     line-height: $h1-line-height;
-    margin-bottom: $base-spacing-unit*1;
+    margin-bottom: $base-spacing-unit;
     @include media-query($on-palm) {
       font-size: $h1-font-size*0.8;
       line-height: $h1-line-height*0.8;
@@ -119,6 +119,7 @@ h2 {
     font-size: $h2-font-size;
     line-height: $h2-line-height;
     margin-bottom: $base-spacing-unit*1;
+    font-weight: 400;
     @include media-query($on-palm) {
       font-size: $h2-font-size*0.8;
       line-height: $h2-line-height*0.8;
@@ -127,7 +128,8 @@ h2 {
 h3 {
     font-size: $h3-font-size;
     line-height: $h3-line-height;
-    margin-bottom: $base-spacing-unit*1;
+    margin-bottom: $base-spacing-unit;
+    font-weight: 400;
     @include media-query($on-palm) {
       font-size: $h3-font-size*0.8;
       line-height: $h3-line-height*0.8;
@@ -136,7 +138,8 @@ h3 {
 h4 {
     font-size: $h4-font-size;
     line-height: $h4-line-height;
-    margin-bottom: $base-spacing-unit*1;
+    margin-bottom: $base-spacing-unit;
+    font-weight: 400;
     @include media-query($on-palm) {
       font-size: $h4-font-size*0.8;
       line-height: $h4-line-height*0.8;
