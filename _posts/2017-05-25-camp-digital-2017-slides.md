@@ -5,7 +5,7 @@ date: '2017-05-25 11:00:00'
 ---
 Hi.
 
-If you came to my session at Camp Digital yesterday, thanks. [Let me know](/contact) what you thought, good and not-so-good.
+If you came to my session at Camp Digital yesterday, thanks. Feel free to [let me know](/contact) what you thought, good and not-so-good.
 
 Yesterday was the only time I will be doing that session.
 
