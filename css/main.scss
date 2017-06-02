@@ -26,22 +26,25 @@ $base-font-weight: 400;
 $strong-font-weight: $base-font-weight * 4;
 
 $small-font-size:  18px;
-$small-line-height: 28px;
+$small-line-height: 26px;
 
 $base-spacing-unit: 32px;
 
 $h1-font-size: $base-font-size * 1.8;
 $h1-line-height: $base-font-size * 2;
+
 $h2-font-size: $base-font-size * 1.4;
 $h2-line-height: $base-font-size * 1.6;
+
 $h3-font-size: $base-font-size * 1.2;
 $h3-line-height: $base-font-size * 1.4;
+
 $h4-font-size: $base-font-size;
 $h4-line-height: $base-font-size * 1.2;
 
 $base-background-color: $off-white;
 
-$base-head-font-family: $secondary-font-family;
+$base-head-font-family: $base-font-family;
 $base-head-background-color: $off-black;
 $base-head-text-color: $off-black;
 
