@@ -44,3 +44,5 @@ The show and tells get across quickly there a lot of ways you can get into codin
 ![](/assets/may-2017-bradford-coderdojo-show-and-tell.jpg)
 
 We are always looking for more young people to come along, as well as mentors. If you are interested, there is more information at [the Bradford CoderDojo website](//bradford-coderdojo.github.io). Feel free to [get in touch](/contact) if you want to know more.
+
+[Tickets for the next CoderDojo are available on Eventbrite](https://www.eventbrite.co.uk/o/bradford-coderdojo-12826457072)
