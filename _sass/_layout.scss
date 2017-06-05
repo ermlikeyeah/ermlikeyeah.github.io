@@ -4,28 +4,15 @@
 .site-bookend {
     padding: $base-spacing-unit*0.5 0;
     font-family: $bookend-font;
-    background-color: $site-bookend-background-color;
-    color: $site-bookend-foreground-color;
-    font-size: $small-font-size;
+    font-size: $base-font-size;
+    font-weight: $base-font-weight*2;
+
     @include media-query($on-palm) {
         font-size: $base-font-size*0.8;
     }
     // Positioning context for the mobile navigation icon
     position: relative;
-    a {
-        text-decoration: underline;
-        font-weight: $base-font-weight;
-        text-transform: none;
-        color: $off-white;
-        &:visited {
-            color: $off-white;
-        }
-        &:hover {
-            color: $black;
-            text-decoration: underline;
-            background-color: #2b8cc4;
-        }
-    }
+
 }
 .site-title {
     line-height: $base-line-height;
@@ -44,11 +31,21 @@
     }
 }
 /**
+ * Site and page header padding
+ */
+.site-header {
+  border-bottom: 4px solid $off-black;
+  padding-top: $base-spacing-unit;
+  padding-bottom: $base-spacing-unit;
+}
+/**
  * Site and page bottom padding
  */
 .site-footer {
+  border-top: 4px solid $off-black;
+  margin-top: $base-spacing-unit;
   padding-top: $base-spacing-unit;
-  padding-bottom: $base-spacing-unit*4;
+  padding-bottom: $base-spacing-unit;
 }
 /**
  * Page header

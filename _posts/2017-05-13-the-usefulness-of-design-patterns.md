@@ -3,7 +3,7 @@ layout: post
 title: The usefulness of design patterns
 date: '2017-05-13 21:00:00'
 ---
-## Why would you want your teams to put work into and work with a design patterns library?
+Why would you want your teams to put work into and work with a design patterns library?
 
 ![Screen grab of the scene in Zoolander when Muguatu says That Hansel's so hot right now](/assets/so-hot-right-now.jpg)
 

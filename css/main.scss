@@ -4,7 +4,7 @@
 @charset "utf-8";
 
 
-$sans-serif-font: Helvetica, Arial, sans-serif;
+$sans-serif-font: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 $serif-font: Georgia, serif;
 
 $black: #000;
@@ -23,10 +23,10 @@ $base-text-color: $off-black;
 $base-font-size:   22px;
 $base-line-height: 38px;
 $base-font-weight: 400;
-$strong-font-weight: $base-font-weight * 4;
+$strong-font-weight: $base-font-weight * 2;
 
 $small-font-size:  18px;
-$small-line-height: 26px;
+$small-line-height: 28px;
 
 $base-spacing-unit: 32px;
 
