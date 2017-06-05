@@ -3,7 +3,7 @@
  */
 .CrossPageNavigation {
     background-color: $site-crosspagenav-background-color;
-    font-family: $site-crosspagenav-font;
+    font-family: $base-font-family;
     font-size: $base-font-size;
     color: $site-crosspagenav-foreground-color;
     @include media-query($on-palm) {
