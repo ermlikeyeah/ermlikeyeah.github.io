@@ -32,7 +32,7 @@
 .site-header {
   font-family: $bookend-font;
   font-weight: $base-font-weight*2;
-  border-bottom: 4px solid $off-black;
+  border-bottom: 4px solid $light-grey;
   padding-top: $base-spacing-unit;
   padding-bottom: $base-spacing-unit;
   @include media-query($on-palm) {
@@ -47,7 +47,7 @@
  * Site and page bottom padding
  */
 .site-footer {
-  border-top: 4px solid $off-black;
+  border-top: 4px solid $light-grey;
   margin-top: $base-spacing-unit;
   padding-top: $base-spacing-unit;
   font-family: $sans-serif-font;
