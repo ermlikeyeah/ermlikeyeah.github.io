@@ -39,7 +39,7 @@
   padding-bottom: $base-spacing-unit;
   @include media-query($on-palm) {
     padding-top: $base-spacing-unit*0.8;
-    padding-bottom: $base-spacing-unit*0.8; 
+    padding-bottom: $base-spacing-unit*0.8;
   }
 }
 /**
@@ -50,6 +50,11 @@
   margin-top: $base-spacing-unit;
   padding-top: $base-spacing-unit;
   padding-bottom: $base-spacing-unit;
+  @include media-query($on-palm) {
+    margin-top: $base-spacing-unit*0.8;
+    padding-top: $base-spacing-unit*0.8;
+    padding-bottom: $base-spacing-unit*0.8;
+  }
 }
 /**
  * Page header
