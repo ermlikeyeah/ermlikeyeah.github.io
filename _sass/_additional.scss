@@ -6,6 +6,9 @@
     font-family: $site-crosspagenav-font;
     font-size: $base-font-size;
     color: $site-crosspagenav-foreground-color;
+    @include media-query($on-palm) {
+    font-size: $base-font-size*0.8;
+    }
 }
 .CrossPageNavigationPrevious {
     max-width: 40%;
