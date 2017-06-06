@@ -56,7 +56,7 @@ By recording a design pattern we create a reference for the future to adopt, to 
 So, what makes a good pattern? I think it is important to know what good looks like. For design patterns and their library to be useful they need some conditions, some acceptance criteria. I believe in the following being recorded:
 
 * A name.
-* An explanation of what the pattern: What does it do?
+* An explanation of what the pattern is: What does it do?
 * An example – or better *examples*. Show the thing, either as screen grabs (static, animated GIFs, or video) and wherever possible link to the pattern in another library (say, a production library or a Github repo) and/or showing it “in the wild”.
 * Context: How did the pattern come to be? What problem is it solving? Who is it designed to work for?
 * Guidance for use: Say where it should be used, and where it could be used, and why. Are there any technical factors? (The most common is the differences between device screen sizer and the user’s input methods). Environmental factors, be they emotions, motivations, behaviours, should also be noted.
