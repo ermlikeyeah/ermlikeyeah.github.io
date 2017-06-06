@@ -78,7 +78,7 @@ Underlining all that I recommend the following principles:
 * Honesty. Say it as it is in your patterns’ commentary. This isn’t marketing. Patterns help make things better. Patterns are also a thing that need to be better.
 * Little, often. Record regularly as you go along.
 * Start early. And start as you mean to go on. Putting this off will create a bigger problem later.
-* Don’t wait for permission. (Although cover, even a mandate, from above no matter how flat your organisaton’s structure is always helpful.)
+* Don’t wait for permission. (Although cover, even a mandate, from above no matter how flat your organisation’s structure is always helpful.)
 * Patterns are an outcome of your communities, from communities of practice to the team that are focused on the product. Disparate, separate teams will share, discuss, understand, agree — and disagree — work.
 * Find what works. And find what doesn’t work. Acknowledge both. A pattern always needs to be tested. There is always the potential for improvement from new learning. When new research brings further supportive evidence, that’s just as valuable as corrective measures.
 * Use patterns to avoid being all over the fucking place: Go for consistency of experience.
