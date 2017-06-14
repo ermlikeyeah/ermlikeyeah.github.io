@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Public Design WY number 2 is done
-date: '2017-06-14 00:01:00'
+date: '2017-06-14 00:08:00'
 ---
 After [the first Public Design WY](/public-design-wy-number-one-done/), the only way forward was a second!
 
