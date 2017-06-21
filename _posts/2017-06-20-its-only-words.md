@@ -69,9 +69,13 @@ If design in these situations is humanising technology, people need to know that
 
 I find this particularly unusual in the supermarkets sector, where brand and tone of voice are always part of their proposition. Supermarkets rely on their customers, and they’re all fighting for their market share. The marketing plays a part in that. Any potential customer that says “Where shall I shop today?” can be swayed.
 
-Marketing messages and the actual experience of shopping can come undone at the “end” of a shopping trip. And these checkouts dent those experience.
+Marketing messages and the actual experience of shopping can come undone at the “end” of a shopping trip. And these checkouts dent those experiences.
 
-These checkouts, to me, reflect what a supermarket thinks of its customers -  and how the supermarket sees technology, especially at the “business end” of the experience, the actual cash transaction. This experience is integral. How does using these machines *feel*? Forgetting the supermarket’s ‘brand’”, do these checkouts reflect the projected character of the supermarkets you shop at? They reflect a lack of considering the people that choose to go to that shop. They reflect a lack of considering the people that choose to pay for their shopping using those… machines.
+These checkouts, to me, reflect what a supermarket thinks of its customers -  and how the supermarket sees technology, especially at the “business end” of the experience, the actual cash transaction. This experience is integral. How does using these machines *feel*? Forgetting the supermarket’s ‘brand assets’ (the logo, the colours, the picture of the member of staff in that supermarket’s uniform) do these checkouts reflect the way these supermarkets talk with you in other ways?
+
+At a checkout run by another person. In the aisles when you ask a member of staff where can you find such and such. At customer services when you take something back. On the posters hanging from the ceiling. In the ad you saw on TV last night in the ad break of Corrie.
+
+These checkouts don't for me, they reflect a lack of considering the people that choose to go to that shop. They reflect a lack of considering the people that _choose_ to pay for their shopping using those… machines. That choice shouldn't be punished by a lesser experience. It will always be a less human experience, but that doesn't stop it from trying to be consistent. Technology limits are too often an excuse for not bothering. The real problem with technology is it is technology: you can program it to do things. It just takes a little effort and thought.
 
 My local Sainsbury’s self service checkout user interface feels careless, lazy, corners have been cut. Maybe the software could only be reskinned so far. Maybe there was a deadline. Maybe there budget restraints. Who knows.
 
