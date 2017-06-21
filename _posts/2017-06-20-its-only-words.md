@@ -75,7 +75,7 @@ These checkouts, to me, reflect what a supermarket thinks of its customers -  an
 
 At a checkout run by another person. In the aisles when you ask a member of staff where can you find such and such. At customer services when you take something back. On the posters hanging from the ceiling. In the ad you saw on TV last night in the ad break of Corrie.
 
-These checkouts don't for me, they reflect a lack of considering the people that choose to go to that shop. They reflect a lack of considering the people that _choose_ to pay for their shopping using those… machines. That choice shouldn't be punished by a lesser experience. It will always be a less human experience, but that doesn't stop it from trying to be consistent. Technology limits are too often an excuse for not bothering. The real problem with technology is it is technology: you can program it to do things. It just takes a little effort and thought.
+These checkouts don't for me, they reflect a lack of considering the people that choose to go to that shop. They reflect a lack of considering the people that _choose_ to pay for their shopping using those… machines. That choice shouldn't be punished by a lesser experience. It will always be a less human experience, but that doesn't stop it from trying to be consistent. Technology limits are too often an excuse for not bothering. The real problem with technology is it is technology: You can program it to do things, you can change what it does. It just takes a little effort and thought.
 
 My local Sainsbury’s self service checkout user interface feels careless, lazy, corners have been cut. Maybe the software could only be reskinned so far. Maybe there was a deadline. Maybe there budget restraints. Who knows.
 
