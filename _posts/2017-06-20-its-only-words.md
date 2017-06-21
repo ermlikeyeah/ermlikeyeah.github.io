@@ -23,7 +23,7 @@ The content could reflect the context more here to be simpler, more clearer. Som
 
 >You’ve scanned one new bag already. How many other bags did you use?
 
->You haven’t scanned any new bags. How many bags have you scanned?
+>You haven’t scanned any new bags. How many bags have you used?
 
 The user can then choose from:
 
