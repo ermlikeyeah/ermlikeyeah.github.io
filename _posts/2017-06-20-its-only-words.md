@@ -85,4 +85,4 @@ All it took was me valuing the experiences of users, valuing the customers as th
 
 ---
 
-Do you have a problem with checkouts? Share it on Twitter as a tweet, pictures, a blog post, or something else. Use [the hashtag #problemwithcheckouts](https://twitter.com/search?q=%40problemwithcheckouts&src=typd) if you can.
+Do you have a problem with checkouts? Share it on Twitter as a tweet, pictures, a blog post, or something else. Use [the hashtag #problemwithcheckouts](https://twitter.com/search?q=%23problemwithcheckouts) if you can.
