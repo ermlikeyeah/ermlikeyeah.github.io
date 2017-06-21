@@ -82,3 +82,7 @@ My local Sainsbury’s self service checkout user interface feels careless, lazy
 But the stuff I am picking up on here isn’t that difficult to solve. It’s just words, you know. They’re easy to replace on-screen. The hard bit is making sure what goes there is worked through, what goes there works. It isn’t difficult. I half-worked this through on my ten minute drive home, then while I put the small shop away, and now as I’ve just banged this post out.
 
 All it took was me valuing the experiences of users, valuing the customers as they hand their money over. That shouldn’t be a big ask.
+
+---
+
+Do you have a problem with checkouts? Share it on Twitter as a tweet, pictures, a blog post, or something else. Use [the hashtag #problemwithcheckouts](https://twitter.com/search?q=%40problemwithcheckouts&src=typd) if you can.
