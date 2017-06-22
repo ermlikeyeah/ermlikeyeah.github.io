@@ -67,7 +67,7 @@ I could go on a bit more, but I won’t. You get the picture. In a nutshell the 
 
 If design in these situations is humanising technology, people need to know that a given technology will help them, will guide them when needed, clearly. A lot of these experiences are replacing an actual person. There needs to be some sort of understandable, unambiguous commentary.
 
-I find this particularly unusual in the supermarkets sector, where brand and tone of voice are always part of their proposition. Supermarkets rely on their customers, and they’re all fighting for their market share. The marketing plays a part in that. Any potential customer that says “Where shall I shop today?” can be swayed.
+I find this particularly unusual from the supermarkets sector, where brand and tone of voice are always part of their proposition. Supermarkets rely on their customers, and they’re all fighting for their market share. The marketing plays a part in that. Any potential customer that says “Where shall I shop today?” can be swayed.
 
 Marketing messages and the actual experience of shopping can come undone at the “end” of a shopping trip. And these checkouts dent those experiences.
 
