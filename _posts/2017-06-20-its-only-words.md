@@ -1,6 +1,6 @@
 ---
 layout: post
-title: It's only words
+title: It's only words&#58; the carelessness of a supermarket’s self service checkout user interface
 date: '2017-06-20 00:22:30'
 ---
 The self service checkouts at my local Sainsbury’s recently got a refreshed user interface.
