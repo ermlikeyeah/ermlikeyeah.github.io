@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Weeknotes s02e10
+title: Weeknotes s02e01 and s02e02
 date: '2017-07-06 09:00:00'
 ---
 ## For weeks commencing Monday 3 July and Monday 10 July
