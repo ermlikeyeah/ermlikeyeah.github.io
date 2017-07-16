@@ -139,7 +139,7 @@ h3 {
 h4 {
     font-size: $h4-font-size;
     line-height: $h4-line-height;
-    margin-bottom: $h4-font-size;
+    margin-bottom: $h4-font-size * 0.5;
     font-weight: 600;
     @include media-query($on-palm) {
       font-size: $h4-font-size*0.8;
