@@ -1,0 +1,99 @@
+---
+layout: post
+title: Weeknotes s02e10
+date: '2017-07-06 09:00:00'
+---
+## For weeks commencing Monday 3 July and Monday 10 July
+(So these are probably fortnightnotes, but let’s just roll with it, yeah?)
+
+### Prelude
+My last open week notes were back [at the beginning of March](http://www.ermlikeyeah.com/weeknotes-s01e18/), ending off a period of about 18 weeks.
+
+I write notes most days about what I’ve been doing (work, non-work, and not work), and have habitually done end-of-week run-throughs to take stock. I thought lifting the work stuff out and putting them online would be, simply, a good thing to do.
+
+I stopped publishing (but kept writing) because I felt the notes I was publishing were skipping out the bigger problems we were facing, just publishing the “good stuff”.  I wasn’t lying, but enough removed I didn’t feel I was giving an honest reflection of what was actually going on.  A product propagandist, [as Matt Jukes put it](https://productforthepeople.xyz/the-importance-of-being-open-92f81eaee7f9).
+
+Also, and I don’t like these to be personal so I’ll highlight this skimpily enough: Richard Pope recently [published a post](http://blog.memespring.co.uk/2017/07/01/gds-retrospective-4/) about the mental health effects doing this sort of work. Richard’s piece along with a few other people talking about this really chimed. Be mindful of yourself, but also be mindful of other people.
+
+So, anyway, the beginning of July, I am giving this another go. It’ll definitely be a limited four week run before I scoot off at the end of July for some time off. Again these will be an omnibus of just the NHS.UK related bits from my daily notes. There shouldn’t be anything personal in there.
+
+### Research
+
+Monday 3 July and Tuesday 4 were technically the last two days of a sprint.  Even though we don’t have a user researcher on the “primary care” team at the moment, I really wanted us to hit the end of the sprint having tested our work with people. That shouldn’t stop us. Multi-disciplinary people in multi-displinary teams for the win, eh.
+
+#### Scotland users
+
+Monday was a long and late one.
+
+The NHS.UK transition/transformation/transwhatever I work on is funded by NHS England.  It’s the argument used for “This service is for England only”.  And it’s therefore the easy argument for people to say “Why bother with those that aren’t English?”
+
+I disagree. People’s digital habits are not inhibited by the public sector accountancy nuances/politics, public sector department splittings, or differentiating branding.
+
+People go onto Google. They search for Some Thing. If it’s medical thang there’s a strong chance the NHS.UK domain will come top or near-top in search results. If they’re in the UK there’s very strong chance they’ll click ’n’ learn on NHS.UK. NHS.UK is the NHS website for the United Kingdom. That’s a strong place to be for the thing you’re working on.
+
+The NHS is A Thing to the public – not Thousands of Splintered Nodes.
+We need to be aware of people’s real world habits, not the financial flow of the country’s health services.
+
+On one of the services we’re working on at the moment we are seeing a decent number of people entering Scotland postcodes - even though we flag up this is an “England only” service. What’s going on there? Are people not seeing the message? Are people not reading the message? Do they still think the service will help them? How are they getting there in the first place? What can we do to help them?
+
+So Monday evening was spent talking through and about a service with ten people who lived in Scotland, via video calls, email, and web chats.
+
+This is important: If we cannot build a service that meets their needs as people living in a bit of the United Kingdom that isn’t England, we at least do the right thing and point them to something that can help in that journey.
+
+Spending time listening to and talking to people is always useful feedback and should go some way to helping us understand how we can deal with any “England only” services further along NHS.UK’s “transition”. And by doing it out of hours means not on the clock of the paymasters. BIG WINK.
+
+#### Pop-up research at Leeds central library
+
+Tuesday was end-of-sprint ceremonies day. Monday night was solo running. Tuesday was a chance to get the team involved. It’s more to do, but we need to learn how we’re getting on from people who aren’t in the team.
+
+The gang at Leeds central library are always accommodating when we ask if we can nip over to do some pop-up research, spend some time getting a couple of minutes with people at the library. We’re pretty clear of the limits of pop-up research, but on smaller services where we are testing something along the lines of “Can you use this to [do something]?” we’re cool.
+
+We spoke to 12 people in an hour. Our biggest barriers came not only from the iPad autocorrecting (a few people didn’t see the iPad autocorrected what they typed), but also when people misspell but don’t realise they are misspelling.
+
+It was a good session though, and to head into the office to immediately run the sprint’s retro with that in the bag was a good feeling.
+
+#### Research is good – but don’t forget analysis and how that affects things
+
+Doing the research is one thing, but so is analysis and sharing the outcomes with the team. We did this over several sessions.
+
+One was an hour-long remote call where we reviewed the two sessions. I had typed up the notes/Post Its into a digital document so we could all refer to the same thing as we reviewed.
+
+The second session was a half hour prioritisation session. Here’s some problems. How chewy are they? Which ones can we deal with quickly? Which ones have greater dependency (on, say, more/better data)? We even “sorted” a couple of problems in the session: having people for various roles there meant we could talk through a solution which we put into place that afternoon.
+
+### Interaction design on primary care finders
+
+We’ve done some work on Additional Instructions. Some people call it “warnings”, some people call it “errors”. I am calling it Additional Instructions for the time being. I will blog about this in the coming weeks, and some of this work merges in with the work I am doing on design patterns.
+
+### Standards, principles, patterns
+
+We are looking at standards for working on NHS.UK at the moment, and not just on design. Consistency in our approach to creating accessible services that users can trust to get through first time is vital. We need to all be cool with how we work and why we work that way.
+
+#### Cross NHS.UK standards
+
+For the cross-NHS.UK stuff we set off a few weeks back having a small team do a big brain dump into a Trello board. Trello’s perfect for this: versatile and forcing “themes” through columns, easy to add detail and shift stuff round – and a tool people seem to be comfortable using wherever they are with a computer.
+
+We had a long lunch session to get people from various roles together to see how they viewed standards, how they shape our work, and how we can shape them (even “external ones”). It’s good fun being part of the team leading this, getting the conversation, keeping the conversation ticking.
+
+#### NHS.UK design standards, principles, elements, and patterns
+
+We’re also getting the design house into order. We’ve got some decent stuff together, but we’re now testing it well with some new designers coming in. A great chance for some scrutiny and progression.
+
+We had a great session with some of those new designers to understand their needs coming in, and how we can iterate what we as “design references” to help those coming in – and those already here. And by “iterate” I mean “make better” not just “change”. I’ll blog about this in more detail in the coming weeks.
+
+Everyone is agreement that patterns are _evidence based solutions_ not just the first thing that goes onto screen. The process of Starting Something New, Understanding What Works For Users, and then Documenting What Works is getting there (and fast again). Next week we’re going to dig a little into Evolving An Existing Pattern. Process, but just enough to ensure to not get in the way and make sure things are cool before being made openly available.
+
+Lots of quick and good progress. And cheering the work the design community are already on with (and will keep getting on with, because this stuff should never sit still) will be held up in a meet early next week as an example of a community pressing on. Good good.
+
+### Community
+
+The Leeds designers have been having a fortnightly design catch-up to share their work and thoughts. I think we’ve had six now. The first few were a warm up, but the most recent couple have been spot on, designers sharing work in various states of progress and some really healthy, constructive conversations going on. Designers can easily get marooned in teams amongst developers, and knowing that there’s a regular window to be open and honest amongst a supportive community is the least we can do.
+
+We’re getting a similar session for the London based NHS.UK designers going as well.
+
+And knowing there’s always the option off tapping on someone else’s shoulder for a second opinion is a thing everyone knows they can do. Look after your people, innit.
+
+There’s also now a weekly cross-NHS.UK designers meet to knit the various threads together. It’s getting there.
+
+I am hyper-aware that while there is a healthy desire in NHS Digital to make Design a Thing, this doesn’t mean putting design on a pedestal. Designing is the process and design is the outcome of the accumulative efforts of many people and their skills. Designers should be collaborators and instigators, working across silos, using their expertise to guide not dominate. The standards, principles, elements and patterns work will help with that (is my hope). And [Matt](https://twitter.com/mattedgar)’s massively helping here - the advantages of having a head of design and having Matt about.
+
+There’s lot of interviews going on for more interaction designers, and I’ve been in some of them. We want to bring in good people, and we try to make interviews that mix of seriousness and playfulness we try to have while doing work. Interviews should be a two-way thing. It’s a chance for those we interview to interview us too. We should learn from these chats something about ourselves.
