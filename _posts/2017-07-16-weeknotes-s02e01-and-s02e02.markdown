@@ -7,15 +7,17 @@ date: '2017-07-06 09:00:00'
 (So these are probably fortnightnotes, but let’s just roll with it, yeah?)
 
 ### Prelude
-My last open week notes were back [at the beginning of March](http://www.ermlikeyeah.com/weeknotes-s01e18/), ending off a period of about 18 weeks.
+My last open week notes were back [at the beginning of March](http://www.ermlikeyeah.com/weeknotes-s01e18/), ending off a period of about 18 weeks of weeknotes around the NHS.UK Beta work.
 
-I write notes most days about what I’ve been doing (work, non-work, and not work), and have habitually done end-of-week run-throughs to take stock. I thought lifting the work stuff out and putting them online would be, simply, a good thing to do.
+I habitually write notes most days about what I’ve been doing (work, non-work, and not work), and do an end-of-week run-through to take stock. I thought lifting the work stuff out and putting them online would be, simply, a good thing to do. For the most part they were.
 
-I stopped publishing (but kept writing) because I felt the notes I was publishing were skipping out the bigger problems we were facing, just publishing the “good stuff”.  I wasn’t lying, but enough removed I didn’t feel I was giving an honest reflection of what was actually going on.  A product propagandist, [as Matt Jukes put it](https://productforthepeople.xyz/the-importance-of-being-open-92f81eaee7f9).
+I stopped publishing (but kept writing) the notes because I felt what I published was skipping out the bigger problems we were facing. It was just the “good stuff”.  I wasn’t lying, but enough removed I didn’t feel I was giving an honest reflection of actuality.  A product propagandist, [as Matt Jukes put it](https://productforthepeople.xyz/the-importance-of-being-open-92f81eaee7f9).
 
-Also, and I don’t like these to be personal so I’ll highlight this skimpily enough: Richard Pope recently [published a post](http://blog.memespring.co.uk/2017/07/01/gds-retrospective-4/) about the mental health effects doing this sort of work. Richard’s piece along with a few other people talking about this really chimed. Be mindful of yourself, but also be mindful of other people.
+In the background all the goings-ons were effecting me. I don’t like these notes to be personal so I’ll highlight this skimpily enough: Richard Pope recently [published a post](http://blog.memespring.co.uk/2017/07/01/gds-retrospective-4/) about the mental health effects doing this sort of work. Richard’s piece along with a few other people talking about this really chimed after my recent experiences. Be mindful of yourself, but also be mindful of other people.
 
-So, anyway, the beginning of July, I am giving this another go. Change has happened so give change a chance. This will definitely be a limited four week run before I scoot off at the end of July for some time off. Again these will be an omnibus of just the NHS.UK related bits from my daily notes. There shouldn’t be anything personal in there.
+So, anyway, the beginning of July, I am giving this another go. Change has happened so I am giving change a chance. This will definitely be a limited four week run before I scoot off at the end of July for some time off. Again these will be an omnibus of just the NHS.UK related bits from my daily notes. I may opt to not include the “rawer” notes. There shouldn’t be anything personal in these. If you read them and they’re useful, let me know. If they’re not, opt out of reading.
+
+Let’s crack on.
 
 ### Research
 
@@ -44,7 +46,9 @@ Spending time listening to and talking to people is always useful feedback and s
 
 #### Pop-up research at Leeds central library
 
-Tuesday was end-of-sprint ceremonies day. Monday night was solo running. Tuesday was a chance to get the team involved. It’s more to do, but we need to learn how we’re getting on from people who aren’t in the team.
+As mentioned Tuesday was the last day of the sprint. We usually have agile ceremonies this day. There was a morning left. And there were still people to do some research with. It’s possibly cutting it too fine, but we need to learn how we’re getting on from people who aren’t in the team.
+
+Monday night was solo running. Tuesday was a chance to get the team involved.
 
 The gang at Leeds central library are always accommodating when we ask if we can nip over to do some pop-up research, spend some time getting a couple of minutes with people at the library. We’re pretty clear of the limits of pop-up research, but on smaller services where we are testing something along the lines of “Can you use this to [do something]?” we’re cool.
 
@@ -54,7 +58,7 @@ It was a good session though, and to head into the office to immediately run the
 
 #### Research is good – but don’t forget analysis and how that affects things
 
-Doing the research is one thing, but so is analysis and sharing the outcomes with the team. We did this over several sessions.
+Doing the research is one thing, but it’s nothing without some analysis and sharing the outcomes with the team. We did this over several sessions.
 
 One was an hour-long remote call where we reviewed the two sessions. I had typed up the notes/Post Its into a digital document so we could all refer to the same thing as we reviewed.
 
@@ -63,6 +67,8 @@ The second session was a half hour prioritisation session. Here’s some problem
 ### Interaction design on primary care finders
 
 We’ve done some work on Additional Instructions. Some people call it “warnings”, some people call it “errors”. I am calling it Additional Instructions for the time being. I will blog about this in the coming weeks, and some of this work merges in with the work I am doing on design patterns.
+
+Early pro tip: It’s good to pair up with a front-ender and work this stuff through between the two of you.
 
 ### Standards, principles, patterns
 
@@ -98,4 +104,6 @@ I am hyper-aware that while there is a healthy desire in NHS Digital to make Des
 
 There’s lot of interviews going on for more interaction designers, and I’ve been in some of them. We want to bring in good people, and we try to make interviews that mix of seriousness and playfulness we try to have while doing work. Interviews should be a two-way thing. It’s a chance for those we interview to interview us too. We should learn from these chats something about ourselves.
 
-It was heartening at the end of the week to see one of the other designers, Ben, bravely taking some paper prototypes round the office to get some quick feedback on his design ideas. Progress. Onwards.
+It was heartening at the end of the week to see one of the other designers, Ben, bravely taking some paper prototypes round the office to get some quick feedback on his design ideas.
+
+Progress. Onwards.
