@@ -15,11 +15,11 @@ I stopped publishing (but kept writing) because I felt the notes I was publishin
 
 Also, and I don’t like these to be personal so I’ll highlight this skimpily enough: Richard Pope recently [published a post](http://blog.memespring.co.uk/2017/07/01/gds-retrospective-4/) about the mental health effects doing this sort of work. Richard’s piece along with a few other people talking about this really chimed. Be mindful of yourself, but also be mindful of other people.
 
-So, anyway, the beginning of July, I am giving this another go. It’ll definitely be a limited four week run before I scoot off at the end of July for some time off. Again these will be an omnibus of just the NHS.UK related bits from my daily notes. There shouldn’t be anything personal in there.
+So, anyway, the beginning of July, I am giving this another go. Change has happened so give change a chance. This will definitely be a limited four week run before I scoot off at the end of July for some time off. Again these will be an omnibus of just the NHS.UK related bits from my daily notes. There shouldn’t be anything personal in there.
 
 ### Research
 
-Monday 3 July and Tuesday 4 were technically the last two days of a sprint.  Even though we don’t have a user researcher on the “primary care” team at the moment, I really wanted us to hit the end of the sprint having tested our work with people. That shouldn’t stop us. Multi-disciplinary people in multi-displinary teams for the win, eh.
+Monday 3 July and Tuesday 4 were technically the last two days of a sprint.  Even though we don’t have a user researcher on the “primary care” team at the moment, I really wanted us to hit the end of the sprint having tested our work with people. That shouldn’t stop us. Multi-disciplinary people in multi-disciplinary teams for the win, eh.
 
 #### Scotland users
 
@@ -76,9 +76,9 @@ We had a long lunch session to get people from various roles together to see how
 
 #### NHS.UK design standards, principles, elements, and patterns
 
-We’re also getting the design house into order. We’ve got some decent stuff together, but we’re now testing it well with some new designers coming in. A great chance for some scrutiny and progression.
+We’re also getting the design house into order. We’ve got some decent stuff together, but we’re now testing it with some new designers coming in. A great chance for some scrutiny and progression.
 
-We had a great session with some of those new designers to understand their needs coming in, and how we can iterate what we as “design references” to help those coming in – and those already here. And by “iterate” I mean “make better” not just “change”. I’ll blog about this in more detail in the coming weeks.
+We had a productive session with some of those new designers to understand their needs coming in, and how we can iterate what we as “design references” to help those coming in – and those already here. And by “iterate” I mean “make better” not just “change”. I’ll blog about this in more detail in the coming weeks.
 
 Everyone is agreement that patterns are _evidence based solutions_ not just the first thing that goes onto screen. The process of Starting Something New, Understanding What Works For Users, and then Documenting What Works is getting there (and fast again). Next week we’re going to dig a little into Evolving An Existing Pattern. Process, but just enough to ensure to not get in the way and make sure things are cool before being made openly available.
 
@@ -97,3 +97,5 @@ There’s also now a weekly cross-NHS.UK designers meet to knit the various thre
 I am hyper-aware that while there is a healthy desire in NHS Digital to make Design a Thing, this doesn’t mean putting design on a pedestal. Designing is the process and design is the outcome of the accumulative efforts of many people and their skills. Designers should be collaborators and instigators, working across silos, using their expertise to guide not dominate. The standards, principles, elements and patterns work will help with that (is my hope). And [Matt](https://twitter.com/mattedgar)’s massively helping here - the advantages of having a head of design and having Matt about.
 
 There’s lot of interviews going on for more interaction designers, and I’ve been in some of them. We want to bring in good people, and we try to make interviews that mix of seriousness and playfulness we try to have while doing work. Interviews should be a two-way thing. It’s a chance for those we interview to interview us too. We should learn from these chats something about ourselves.
+
+It was heartening at the end of the week to see one of the other designers, Ben, bravely taking some paper prototypes round the office to get some quick feedback on his design ideas. Progress. Onwards.
