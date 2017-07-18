@@ -51,4 +51,4 @@ Thanks to:
 
 Public Design #4 is already booked in. There's no meet in August, but we'll be back on Tuesday 12th September at Futurelabs in Leeds. We are working out the details of the meet at the moment, but we'll let you know later in August. You can register to come along [over at Meetup](https://www.meetup.com/Public-Design-WY/events/241720125/). And we are going to try to do another Public Design WY in Bradford soon after. Fingers crossed!
 
-Thanks for all your support so far.
+Thanks for all your support so far. Have a great summer. See you in September!
