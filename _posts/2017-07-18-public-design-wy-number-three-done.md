@@ -45,7 +45,7 @@ The slides I did for the meet are [on Google Drive](https://docs.google.com/pres
 Thanks to:
 
 * [Ian Sharp](https://twitter.com/IanDSharp) and Katie Miller at [DHEZ](http://dhez.org).
-* [Dominic Campbell](https://twitter.com/dominiccampbell), [Matt Skinner](https://twitter.com/Skinner_M), Alex Leslie and Jan Blum from [FutureGov](http://www.wearefuturegov.com). FutureGov do good (https://www.twitter.com/FutureGov)[Twitter] and [Instagram](https://www.instagram.com/futuregov/).
+* [Dominic Campbell](https://twitter.com/dominiccampbell), [Matt Skinner](https://twitter.com/Skinner_M), Alex Leslie and Jan Blum from [FutureGov](http://www.wearefuturegov.com). FutureGov do good [Twitter](https://www.twitter.com/FutureGov) and [Instagram](https://www.instagram.com/futuregov/). Worth following.
 * [Helen Valentine](https://twitter.com/hemvalentine) from Bradford council.
 * Everyone that came. I asked if you’d come – and you did. It makes it worth it.
 
