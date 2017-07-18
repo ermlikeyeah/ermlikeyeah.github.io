@@ -49,4 +49,6 @@ Thanks to:
 * [Helen Valentine](https://twitter.com/hemvalentine) from Bradford council.
 * Everyone that came. I asked if you’d come – and you did. It makes it worth it.
 
-Public Design #4 is already booked in, for Tuesday 12th September at Futurelabs in Leeds. We are working out the details of the meet at the moment, but we'll let you know later in August. You can register to come along [over at Meetup](https://www.meetup.com/Public-Design-WY/events/241720125/). And we are going to try to do another Public Design WY in Bradford soon after.
+Public Design #4 is already booked in. There's no meet in August, but we'll be back on Tuesday 12th September at Futurelabs in Leeds. We are working out the details of the meet at the moment, but we'll let you know later in August. You can register to come along [over at Meetup](https://www.meetup.com/Public-Design-WY/events/241720125/). And we are going to try to do another Public Design WY in Bradford soon after. Fingers crossed!
+
+Thanks for all your support so far.
