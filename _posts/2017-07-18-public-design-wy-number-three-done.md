@@ -15,7 +15,9 @@ The sessions were a great dive into how Bradford council is shaping its services
 
 ![Alex and Jan talking about their work with Bradford council](/assets/public-design-wy-futuregov.jpg)
 
-We heard from Alex Leslie and Jan Blum from FutureGov about the service design work they’ve been helping Bradford Council with around social housing. Bringing design thinking into the council, designing round people's individual needs, working collaboratively as a collective team to prototype ideas, and being pragmatic as designers were strong points that came through. And the FutureGov team weren't talking about what they wanted to do – this was talking about what they had done.
+We heard from Alex Leslie and Jan Blum from FutureGov about the service design work they’ve been helping Bradford Council with around social housing.
+
+Bringing design thinking into the council, designing round people's individual needs, working collaboratively as a collective team to prototype ideas, and being pragmatic as designers were strong points that came through. And the FutureGov team weren't talking about what they wanted to do – this was talking about what they had done.
 
 ![Helen Valentine talking about her content work on Bradford council's website](/assets/public-design-wy-helen-valentine.jpg)
 
@@ -32,7 +34,9 @@ Helen's session provoked some great support on Twitter when I shared her thought
 
 >Write content for everyone, whatever their situation and their abilities or disabilities.
 
-It's a challenge, but Helen and the team are making headway and gaining support. Helen also closed off her session asking for help and advice for things she can do or use to further this work. It was heartening that Helen knew she could ask this at the meet, and people responded.
+It's a challenge, but Helen and the team are making headway and gaining support.
+
+Helen also closed off her session asking for help and advice for things she can do or use to further this work. It was heartening that Helen knew she could ask this at the meet, and people responded.
 
 If you are curious about the It Looks Like A Frozen Sausage post I wrote that started my chat with the team working on the Bradford council website you [can read it](http://www.ermlikeyeah.com/it-looks-like-a-frozen-sausage/). You can also [learn more](http://www.ermlikeyeah.com/local-gov-sticker/) about the stickers I did for the council's web team to mark the launch of their beta site earlier last year.
 
