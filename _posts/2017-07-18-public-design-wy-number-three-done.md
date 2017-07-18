@@ -25,8 +25,8 @@ Helen Valentine gave us a great session on the challenges, reliefs, and joy of c
 
 Some things Helen talked about:
 
-* Thew council's [https://www.bradford.gov.uk/app](app)
-* A post [https://bradfordmdc.wordpress.com/2016/08/19/we-are-ready-to-switch-off-our-old-website/](We Are Ready To Switch Off Our Old Website)
+* Thew council's [app](https://www.bradford.gov.uk/app)
+* A post [We Are Ready To Switch Off Our Old Website](https://bradfordmdc.wordpress.com/2016/08/19/we-are-ready-to-switch-off-our-old-website/)
 * Some great notes on [Reviewing Content For Our New Website](https://bradfordmdc.wordpress.com/2016/01/22/reviewing-content-for-our-new-website/)
 * Al Freeman's post on [Google Is Our Homepage](https://albfreeman.wordpress.com/2015/02/26/google-is-our-homepage/)
 
