@@ -38,7 +38,7 @@ It's a challenge, but Helen and the team are making headway and gaining support.
 
 Helen also closed off her session asking for help and advice for things she can do or use to further this work. We are really trying to make these meets a place where collaboration and sharing happen. It was heartening that Helen knew she could ask for this at the meet, and people responded.
 
-Another other side is hearing how the meets are helping people with their work. I have heard several people talk about what they learnt at Phil Sherry's session on accessibility at [Public Design WY #2] and how they are already on making things better at their workplaces. Thumbs up.
+Another other side is hearing how the meets are helping people with their work. Several people have told about what they learnt at Phil Sherry's session on accessibility at [Public Design WY #2], and how they are already on making things better at their workplaces. Thumbs up.
 
 If you are curious about the It Looks Like A Frozen Sausage post I wrote that started my chat with the team working on the Bradford council website you [can read it](http://www.ermlikeyeah.com/it-looks-like-a-frozen-sausage/). You can also [learn more](http://www.ermlikeyeah.com/local-gov-sticker/) about the stickers I did for the council's web team to mark the launch of their beta site earlier last year.
 
