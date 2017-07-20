@@ -7,8 +7,8 @@ Getting a shed was the best idea. It is currently my standards-principles-elemen
 
 ![](/assets/shed-nhs-uk-patterns-workshop.jpg)
 
-We are short of wall space at work – and short of time during the day to get this stuff done. Standards-principles-elements-patterns help us make consistently designed services. We need these to be done and decent.
+We are short of wall space at work – and short of time during the working day to get this stuff done. Standards-principles-elements-patterns help us make consistently designed services. We need these to decent, and done.
 
-And if you are going to do this stuff out-of-hours, you might as well set up shop somewhere comfortable.
+If you are going to do this stuff out-of-hours, you might as well set up shop somewhere comfortable.
 
 So I have.
