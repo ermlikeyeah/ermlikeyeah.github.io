@@ -3,7 +3,7 @@ layout: post
 title: Weeknotes s02e03
 date: '2017-07-21 20:30:00'
 ---
-## ## For week commencing Monday 17 July
+## For week commencing Monday 17 July
 
 ### Prelude
 
@@ -34,7 +34,7 @@ We are struggling for wall space in the office and during the day we’re doing 
 
 I put up a spare fold-out table and laid out all the pieces of paper, in all their forms. And I worked through them, cutting then down, cutting stuff out, sticking them up on the walls of the shed as rough prototypes. I made notes on the paper prototypes, putting up stickies with other points, and then sat with my MacBook and referred to the paper prototypes to organise an in-browser prototype.
 
-It took a few hours, but it was worth the effort. I put the picture on Twitter and it has clocked up about 80 likes as I type this. My tweets delete over time, so here’s the shed.
+It took a few hours, but it was worth the effort. I put the picture on Twitter and it has clocked up about 80 likes as I type this. My tweets delete over time, so here’s the shed:
 
 ![My shed is better than yours](/assets/shed-nhs-uk-patterns-workshop.jpg)
 
@@ -46,6 +46,8 @@ Graham and Karl used their experiences as designers newly arrived to NHS.UK and 
 Trilly, a product owner, also reviewed the in-browser prototype. Having it in front of us helped us talk round some potentially tricky situations, especially around “So, is this just going to be a design manual for the time being?”, “How do we make this clear this is just for NHS.UK not the whole wider NHS?”, and “What digital service standard are we going to refer to?”
 
 Today, I got [Dean V](https://twitter.com/DeanVipond) to have a quick look with me as well. I’ve felt fried all day, but another indicator this is moving in the right direction meant I could slink off home reasonably content.
+
+Here is a little snippet:
 
 ![The design manual](/assets/nhsuk-design-manual-draft.jpg)
 
