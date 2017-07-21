@@ -1,0 +1,74 @@
+---
+layout: post
+title: Weeknotes s02e03
+date: '2017-07-21 20:30:00'
+---
+## ## For week commencing Monday 17 July
+
+### Prelude
+
+It’s Friday night. I’m frazzled. But still enough juice in the tank to pick through my notes to bring you some weeknotes from NHSbetaland.
+
+### Primary care finders
+
+Wednesday we had an “inception session” for primary care finders. (“Inception session” may give me scope for cheap movie references, but I hate the term “inception session”. You do enough work to get the inception session sorted the idea of ‘inception’ for the team is well gone. There must be a better description.)
+
+A lot of prep went into organising the day, and just being able to get a good spread of people in the room was a challenge. But we did it.
+
+![Trilly, Joe, and Rob - who is knocking a bottle over](/assets/primary-care-inception.jpg)
+
+
+In a room for the best part of the day were people with a lot of knowledge about the product and service landscape around NHS primary care. There were a lot of useful demos of various NHS services: like 111 Online, looking at some of the innovative work being done at “local level” to help connects patients to the care they need, the usefulness of data, the challenges of slurping up data that can be used as useful info (altho the idea of central datasets shaped to an agreed standard and updated through a collective approach with other bodies has to be the winner), what’s occurring in the wider “market”, where do apps come in?, do apps come in?. I could go on. It was all good stuff, and with some bright minds in the room driving it.
+
+At the end of the day was the best outcome: An understanding of what “primary care” could mean to some patients of the NHS, how they think about services, and a decent idea of how to start digging even deeper.
+
+There’s other chats we need to have to build up our understanding, but we got a good wedge under our belts this week.
+
+### Standards, principles, patterns
+
+A big leap forward with this this week, one of the more heartening outcomes from doing these notes, seeing the progress from first thing Monday until last thing Friday.
+
+It’s always better to have something to gather round and discuss, rather than talking about ideas in people’s heads. Getting the idea down into something tangible always nets better conversations. And getting the design standards-principles-patterns into some form to talk round was needed. There were a lot of bits and pieces here and there – they just needed pulling together. Just.
+
+We are struggling for wall space in the office and during the day we’re doing a lot already. So at the end of Monday I gathered all the print-outs and notes and took them home – and went to my work shed.
+
+I put up a spare fold-out table and laid out all the pieces of paper, in all their forms. And I worked through them, cutting then down, cutting stuff out, sticking them up on the walls of the shed as rough prototypes. I made notes on the paper prototypes, putting up stickies with other points, and then sat with my MacBook and referred to the paper prototypes to organise an in-browser prototype.
+
+It took a few hours, but it was worth the effort. I put the picture on Twitter and it has clocked up about 80 likes as I type this. My tweets delete over time, so here’s the shed.
+
+![My shed is better than yours](/assets/shed-nhs-uk-patterns-workshop.jpg)
+
+With that in the bag ahead of a hectic couple of days around inception (see above), I could rest my mind until Thursday when I spent some time with Graham and Karl in London, two of our interaction designers on NHS.UK.
+
+I offered up the prototype for them to review and talk about. Both Graham and Karl brought in some excellent thoughts from their experience. The manual should reflect how we do work, not be an aspirational manifesto of where we want to go to.
+
+Graham and Karl used their experiences as designers newly arrived to NHS.UK and their solid previous experiences to provide some great input.
+Trilly, a product owner, also reviewed the in-browser prototype. Having it in front of us helped us talk round some potentially tricky situations, especially around “So, is this just going to be a design manual for the time being?”, “How do we make this clear this is just for NHS.UK not the whole wider NHS?”, and “What digital service standard are we going to refer to?”
+
+Today, I got [Dean V](https://twitter.com/DeanVipond) to have a quick look with me as well. I’ve felt fried all day, but another indicator this is moving in the right direction meant I could slink off home reasonably content.
+
+![The design manual](/assets/nhsuk-design-manual-draft.jpg)
+
+It’s a relief to be at the stage where it is becoming a magnet for collectivism after the lonesome push to drag it together. And it’s driven by the needs of users.  There’s still a bit to do, but we can see the shape of the manual now and it’s not far off being something we can share wider within the team. That’s when the real work starts.
+
+Already it feels maybe – just maybe – the bigger challenge is getting wider understanding the maintenance of this manual and contributing to patterns needs everyone’s input, not just that of a team “leading the manual”, and the acceptance to let that happen. But let’s see. I hope I am wrong here.
+
+### Community
+
+More recruiting stuff this week. I talked to five designers over the week interested in the work NHS Digital is doing, and it was fun to double up with [Matt](https://twitter.com/mattedgar) today for one of those chats.
+
+I also started to have a good look around for a user researcher or two to come and work on NHS.UK with me and the rest of the with the primary care team. We need a good ‘un, fast! If you know someone who’d fancy it [give me a shout](/contact)!
+
+Thursday I had a useful get-together with the designers in London (some of which I covered in the standards-principles-patterns bit of these notes). We had a little design review as well, and seeing interaction designers and content designers talk through work in a such a well natured and constructive way makes me do OK signs inside.
+
+### Postscript
+
+I got round to getting a sticker idea out of my head and onto screen while I ate lunch. I haven't done anything designery other than work the past month and a half. I might finish this sticker off soon. I like the sentiment behind it.
+
+![Fix the basics](/assets/fix-the-basics-mock-up.jpg)
+
+Yesterday marked the second anniversary of starting at HMRC. I had a couple of beers on the train back from London. Joining up to do public stuff is one of the best decisions I have made. I have really enjoyed the two years.
+
+![Train beers](/assets/2-years-beers.jpg)
+
+Cheers!
