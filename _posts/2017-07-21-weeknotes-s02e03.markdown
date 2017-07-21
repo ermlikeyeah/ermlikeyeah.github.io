@@ -40,37 +40,40 @@ It took a few hours, but it was worth the effort. I put the picture on Twitter a
 
 With that in the bag ahead of a hectic couple of days around inception (see above), I could rest my mind until Thursday when I spent some time with Graham and Karl in London, two of our interaction designers on NHS.UK.
 
-I offered up the prototype for them to review and talk about. Both Graham and Karl brought in some excellent thoughts from their experience. The manual should reflect how we do work, not be an aspirational manifesto of where we want to go to.
+I offered up the prototype for them to review and talk about. Both Graham and Karl brought in some excellent thoughts from their experience.
 
-Graham and Karl used their experiences as designers newly arrived to NHS.UK and their solid previous experiences to provide some great input.
+Graham and Karl used their experiences as designers newly arrived to NHS.UK and their solid previous experiences to provide some great input. The manual should reflect how we do work, not be an aspirational manifesto of where we want to go to. These guys are helping making sure we keep it real.
+
 Trilly, a product owner, also reviewed the in-browser prototype. Having it in front of us helped us talk round some potentially tricky situations, especially around “So, is this just going to be a design manual for the time being?”, “How do we make this clear this is just for NHS.UK not the whole wider NHS?”, and “What digital service standard are we going to refer to?”
 
-Today, I got [Dean V](https://twitter.com/DeanVipond) to have a quick look with me as well. I’ve felt fried all day, but some queries and nods from Dean were another indicator this is moving in the right direction, and meant I could slink off home reasonably content with the week's work.
+Today I got [Dean V](https://twitter.com/DeanVipond) to have a quick look with me as well. I’ve felt fried all day, but some queries and nods from Dean were another indicator this is moving in the right direction, and meant I could slink off home reasonably content with the week's work.
 
-Here is a little snippet of the manual. Nothing too special, but feels like it's the start of something that _works_:
+Here is a little snippet of the manual. Nothing too much, nothing too special, but feels like it's the start of something that _works_:
 
 ![The design manual](/assets/nhsuk-design-manual-draft.jpg)
 
-It’s a relief to be at the stage where it is becoming a magnet for collectivism after the lonesome push to drag it together. And it’s driven by the needs of users.  There’s still a bit to do, but we can see the shape of the manual now and it’s not far off being something we can share wider within the team. That’s when the real work starts.
+It’s a relief to be nearly at the stage where it is becoming a magnet for collectivism after the lonesome push to drag it together. And it’s driven by the needs of users.  There’s still a bit to do, but we can see the shape of the manual now and it’s not far off being something we can share wider within the team. That’s when the real work starts.
 
 Already it feels maybe – just maybe – the bigger challenge is getting wider understanding the maintenance of this manual and contributing to patterns needs everyone’s input, not just that of a team “leading the manual”, and the acceptance to let that happen. But let’s see. I hope I am wrong here.
 
-### Community
+### Design community
 
 More recruiting stuff this week. I talked to five designers over the week interested in the work NHS Digital is doing, and it was fun to double up with [Matt](https://twitter.com/mattedgar) today for one of those chats.
 
 I also started to have a good look around for a user researcher or two to come and work on NHS.UK with me and the rest of the with the primary care team. We need a good ‘un, fast! If you know someone who’d fancy it [give me a shout](/contact)!
 
-Thursday I had a useful get-together with the designers in London (some of which I covered in the standards-principles-patterns bit of these notes). We had a little design review as well, and seeing interaction designers and content designers talk through work in a such a well natured and constructive way makes me do OK signs inside.
+Thursday I had a useful get-together with the designers in London (some of which I covered in the standards-principles-patterns bit of these notes). We had a little design review as well, and seeing interaction designers and content designers talk through work in such a well natured and constructive way makes me do OK signs inside.
 
 ### Postscript
 
-I got round to getting a sticker idea out of my head and onto screen while I ate lunch. I haven't done anything designery other than work the past month and a half. I might finish this sticker off soon. I like the sentiment behind it.
+I got round to getting a sticker idea out of my head and onto screen while I ate lunch. I haven't done anything designery other than work the past month and a half. I might finish this sticker off soon. I like the sentiment behind it. We have a lot of basics to fix first.
 
 ![Fix the basics](/assets/fix-the-basics-mock-up.jpg)
 
-Yesterday marked the second anniversary of starting at HMRC. I had a couple of beers on the train back from London. Joining up to do public stuff is one of the best decisions I have made. I have really enjoyed the two years.
+Yesterday marked the second anniversary of starting at HMRC. I had a couple of beers on the train back from London to celebrate. Joining to do public stuff is one of the best decisions I have made. I have really enjoyed the two years. Thanks if you have been a part of that.
 
 ![Train beers](/assets/2-years-beers.jpg)
+
+That is it for this week. Until next week...
 
 Cheers!
