@@ -45,9 +45,9 @@ I offered up the prototype for them to review and talk about. Both Graham and Ka
 Graham and Karl used their experiences as designers newly arrived to NHS.UK and their solid previous experiences to provide some great input.
 Trilly, a product owner, also reviewed the in-browser prototype. Having it in front of us helped us talk round some potentially tricky situations, especially around “So, is this just going to be a design manual for the time being?”, “How do we make this clear this is just for NHS.UK not the whole wider NHS?”, and “What digital service standard are we going to refer to?”
 
-Today, I got [Dean V](https://twitter.com/DeanVipond) to have a quick look with me as well. I’ve felt fried all day, but another indicator this is moving in the right direction meant I could slink off home reasonably content.
+Today, I got [Dean V](https://twitter.com/DeanVipond) to have a quick look with me as well. I’ve felt fried all day, but some queries and nods from Dean were another indicator this is moving in the right direction, and meant I could slink off home reasonably content with the week's work.
 
-Here is a little snippet:
+Here is a little snippet of the manual. Nothing too special, but feels like it's the start of something that _works_:
 
 ![The design manual](/assets/nhsuk-design-manual-draft.jpg)
 
