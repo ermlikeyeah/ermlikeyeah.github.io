@@ -35,7 +35,7 @@ Thursday, in my last hour in the office, we had a team huddle, half as a brain d
 
 ### Standards, principles, patterns
 
-No shed time this week. Plenty of getting what we have into shape. Lots of going through stuff who will use what has been pulled together: Five sessions with different designers (interaction and content designers).
+No [shed time](/shed-patterns-workshop) this week. Plenty of getting what we have into shape. Lots of going through stuff who will use what has been pulled together: Five sessions with different designers (interaction and content designers).
 
 The short version of this: We’ve got this into decent shape. And we just need one more sentence and we’re going to get it out there for the wider NHS.UK team to use, to refer to, to contribute to, to keep making it better as a manual. We’ve scrutinised the manual, there’s things we have made better, there are things we want to know more about. That was always the intention: this will never be perfect. Done is better than nothing, but don’t put any old crap out there. That’ll be a good month ahead of when I thought we would.
 
