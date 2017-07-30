@@ -1,0 +1,62 @@
+---
+layout: post
+title: Weeknotes s02e04
+date: '2017-07-30 06:30:00'
+---
+## For week commencing Monday 24 July
+
+### Prelude
+
+After [weeks 1 and 2](http://www.ermlikeyeah.com/weeknotes-s02e01-and-s02e02/) and [week 3](http://www.ermlikeyeah.com/weeknotes-s02e03/) this is the last week of a limited four week run of weeknotes from my experiences on the NHS.UK “beta” programme. Thank you for reading so far.
+
+### Primary care finders
+
+I started the week checking over the latest version of the [Book a GP Appointment Online service](https://beta.nhs.uk/book-a-gp-appointment/) that was pushed to the publicly available beta. I know it was OK tech-wise, but I just wanted to go through some journeys with it actually out there.
+
+Before we push something to any publicly available web address I - and you might do the same - go through any journey in my head as part of the designing and the making. As we make I get the chance to go through the journey flicking between tabs to simulate the actual journey. We’re making something real, for sure, but still there is a degree of “faking it here”.
+
+When we push some new stuff out there I just want to make sure it’s OK when it is all joined up. We might have a “product” we have worked on but it’s only when we’ve released something, brand new or another version, we get to try it in situ. Getting something out there is what we are working towards it’s worth taking the time to check through our part of the journey at least several times, trying to it from several different “personas”. Anyway, it’s out there, and I need to get a co-design session together to iron out some of the design kinks with users.
+
+On Monday I had a fun time with some of our friends at NHS England talking about NHS.UK - where it was, where it is, where it can go - and the primary care work I am involved with. It was one of those sessions when there is so much to say in the limited time we had. But it was long enough to say enough to set up some “Let’s continue this” chats.
+
+Despite email and all the other digital comms tools we have, I still believe the most effective way to get people helping you out is to get in a room with them and tell them about what you are doing, field some questions, give some answers and non-answers (“we don’t know, but we want to”), and see where it goes.
+
+One of the NHS.UK objectives is “the patient shouldn’t have to work out how to negotiate their way through the NHS”. As the designers and makers of services we need to still do a bit of working out how to negotiate our way through the NHS to make that happen. Meetings like this one are great. Less fumbling about in a poorly lit room, more the lights are on. As my half hour came to a close I already had two offers of wanting to talk further - and talk about working together. Job done. Thanks to Tim Straughan for the invite in the first place.
+
+Also: This meeting was further proof (not that it was needed) that work beers pay off. Tim and I met a few months back for a chat over a couple of ales, and off that pieced together how Tim could help link the work I was on with the sometimes black box that is NHS England. Long live work beers!
+
+The bulk of the week was around getting some focus on our Get Primary Care discovery. (It’ll have a better name soon, because that’s why we are doing research.)
+
+As we’re looking at something that is very wide, narrowing our focus will help us make initial progress, quicker. Emma (one of our content designers) and I have been writing problem statements. (18f have [a pretty snappy guide](https://lean-product-design.18f.gov/2-problem-statement/) to this.) Framing these around symptoms and conditions has been our driver. Towards the end of the week we were circling around two sexual health conditions - thrush and chlamydia - to map out who we can talk to to understand this further, from medical and patient perspectives, from national and some localised views. Lots of tasty stuff to tap into.
+
+Thursday, in my last hour in the office, we had a team huddle, half as a brain dump, half as a what to do next session. As one of the team was not in the office we were all “remote”. (There’s [a good 18f piece](https://18f.gsa.gov/2015/10/15/best-practices-for-distributed-teams/) on this, which we pretty much agree with.) It was a slightly empty feeling having put a lot into getting us to that point to find a lot of the more chewy stuff - chatting to healthcare professionals and patients (past and potential) - was about to hit while I was off. The team should enjoy what is in front of them for the coming weeks.
+
+(On a side note, we are still looking for really good user researchers to join us do this work. [Get in touch](/contact) if you are one or know someone!)
+
+### Standards, principles, patterns
+
+No shed time this week. Plenty of getting what we have into shape. Lots of going through stuff who will use what has been pulled together: Five sessions with different designers (interaction and content designers).
+
+The short version of this: We’ve got this into decent shape. And we just need one more sentence and we’re going to get it out there for the wider NHS.UK team to use, to refer to, to contribute to, to keep making it better as a manual. We’ve scrutinised the manual, there’s things we have made better, there are things we want to know more about. That was always the intention: this will never be perfect. Done is better than nothing, but don’t put any old crap out there. That’ll be a good month ahead of when I thought we would.
+
+A grand effort all round. There’s the roots of some collectivism happening here.
+
+### Community
+
+I had a good hour long session with Stuart, the interaction designer on the Register with a GP online service. We’re looking at forms, form styles, form elements whatever you want to call them across the services both of us are working on. Across the two services we are looking two slightly different ways “additional information” is presented. We need to test this one-on-one with users to understand what works - and more importantly what can be better. Having two designers on two different services means we can look wider at what works – and more importantly what doesn’t work.
+
+Explaining to Stuart the structure of the NHS and how the various nodes of it link up (and don’t link up) _and then_ trying to negotiate our way round the bits we need sometimes feel likes we need our own version of sort of AR or VR hack to visualise it. Or Professor X’s Cerebro.
+
+The designers in Leeds got together on Thursday for our fortnightly session. Richard went through his team’s developer tools project. Some interesting stuff from designing in context came through: The service Richard is on is for people, organisations, and businesses making health apps. That’s a different mandate to the patient/carer facing stuff, say, I am working on. All interesting stuff. And great designers can feel they can share their work. That’s tribute to the designers who show their work and also to the rest of the designers being so understanding and helpful.
+
+One of the more interesting chats across the design community - and that’s _design as a whole_ not just as interaction designers - over the past few weeks has been how we represent _design things_ against _design roles_. Example1: Does, say, an interaction designer create _interaction design styles_? Example 2: Or is it a case that an interactions designers creates, say, _user interface styles_? Good to see this discussed, across the wider NHS.UK team through Slack, and in the right spirit.
+
+I missed the unconference on Tuesday because there was lots to do before I broke up on Thursday.
+
+### Postscript
+
+So, that’s it. The limited run over. I have pieced this week’s notes together sat in New York, where I am for a few weeks, [sat with the model](https://www.instagram.com/p/BXIF3q5g23e/) for the [Always Be In Beta sticker](http://www.ermlikeyeah.com/gov-patches/).
+
+Three months ago I promised myself that I would just focus on the short term. I knew I was going away for a break on Thursday 27 July. Three months to think not much further than that date, get my head down, try and get as much done as I could. Then in my break look back and start planning a lot further ahead.
+
+This run of weeknotes wasn’t part of the short term plan back then, but a cut-off made me think publishing them would be doable. If you’ve read them I hope they’ve at least given you an insight into where some of the NHS.UK work is at and going. I hope they get across that lots has been done and there’s lots left to do.
