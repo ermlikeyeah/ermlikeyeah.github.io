@@ -3,10 +3,10 @@ layout: post
 title: Making a simple dashboard for our discovery
 date: '2017-09-13 21:00:00'
 ---
-I am currently working on a chlamydia discovery at NHS Digital. We’re looking to understand the needs of people who
+I am currently working on a chlamydia discovery at NHS Digital. We’re looking to understand the needs of people who:
 
-1. could get chlamydia,
-2. have chlamydia,
+1. could get chlamydia
+2. have chlamydia
 3. have had chlamydia
 4. are effected by people who have chlamydia
 
