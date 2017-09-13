@@ -44,4 +44,4 @@ As the next couple of weeks go on we’ll keep updating it, and even adding to i
 
 If you’re interested you can find a copy of the dashboard [on Google Slides](https://docs.google.com/presentation/d/15dz6aI76mI9p3eutbWtg6TV1L_0Hs8E-z_zj7Bj8l6A/edit#slide=id.p).
 
-If you’ve also done a simple dashboard while you’ve been in discovery phase of a project it’d be great to hear from you. You can email me from [the contact page](/contact) or reach me on Twitter. I am [@ermlikeyeah](https://twitter.com/ermlikeyeah).
+If you’ve also done a simple dashboard while you’ve been in discovery phase of a project it’d be great to hear from you – especially if you found the dashboard went down well! You can email me from [the contact page](/contact) or reach me on Twitter. I am [@ermlikeyeah](https://twitter.com/ermlikeyeah).
