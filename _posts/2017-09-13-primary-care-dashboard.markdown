@@ -30,9 +30,9 @@ Why Google Slides? It’s easy enough to use, it’s a tool most people will be 
 
 It’s also easy to share the dashboard with other people interested in our work - we just send them a web address so they can look. Making a dashboard and making it easy to access increases our transparency, makes us more open - and hopefully come across as more approachable.
 
-We could have just used Post Its on a wall, but as tactile as that is, you need to be in the office to see that. It’s a busy time as a team so hopping into the Google Slides deck can be done at a desk of the team member’s convenience.
+We could have just used Post Its on a wall, but as tactile as that is, you need to be in the office to see that. It’s a busy time as a team so hopping into the Google Slides deck can be done at a desk* of the team member’s convenience.
 
-At the moment we have one zero to raise: 0 people from outside our  team have been involved in interviews.
+At the moment we have one zero to raise: 0 people from outside our team have been involved in interviews.
 
 Getting people outside of your team involved in research is always a winner. You get a good chance of getting new thoughts and voices heard, it helps to spread the load of the work, and there’s also the chance the people coming to help you will learn something, from knowledge to a skill.
 
@@ -45,3 +45,5 @@ As the next couple of weeks go on we’ll keep updating it, and even adding to i
 If you’re interested you can find a copy of the dashboard [on Google Slides](https://docs.google.com/presentation/d/15dz6aI76mI9p3eutbWtg6TV1L_0Hs8E-z_zj7Bj8l6A/edit#slide=id.p).
 
 If you’ve also done a simple dashboard while you’ve been in discovery phase of a project it’d be great to hear from you – especially if you found the dashboard went down well! You can email me from [the contact page](/contact) or reach me on Twitter. I am [@ermlikeyeah](https://twitter.com/ermlikeyeah).
+
+*other places to work are available
