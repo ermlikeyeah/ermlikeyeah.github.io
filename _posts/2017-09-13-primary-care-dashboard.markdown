@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Making a simple dashboard
+title: Making a simple dashboard for our discovery
 date: '2017-09-13 21:00:00'
 ---
 I am currently working on a chlamydia discovery at NHS Digital. We’re looking to understand the needs of people who
@@ -16,9 +16,9 @@ Late last week I opened up Google Slides and cobbled together in ten minutes a d
 
 I fed in some of my own needs, gave it the slightest layout work, and shared it with the rest of the team asking *What’s missing?*.
 
-We huddled, added in a couple more metrics we were keeping an eye on, and gathered the stats we needed to make sure it was accurate. I _had to_ mess with the colours a little, and we were “live”.
+We huddled, added in a couple more metrics we were keeping an eye on and wanted to keep an eye on. We then gathered the stats we needed to make sure it was accurate, realistic. I _had to_ mess with the colours a little, and we were “live”.
 
-As a team we’re trying to update the dashboard at the start of every day, so it reflects where we got the previous day.  We put a couple of zeroes on there to encourage us to ensure they’re not zero for too much longer.
+As a team we’re trying to update the dashboard at the start of every day, so it reflects where we got to the previous day.  We put a couple of zeroes on there to encourage us to ensure they’re not zero for too much longer. From zero to hero, or something.
 
 At the moment while we talk to people and gather their thoughts and experiences, the dashboard is the thing that shows our work so far. (We will get other outputs over the next couple of weeks when we start to map users journeys and understand the designs of services.)
 
