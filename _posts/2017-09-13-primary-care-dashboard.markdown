@@ -36,7 +36,7 @@ At the moment we have one zero to raise: 0 people from outside our  team have be
 
 Getting people outside of your team involved in research is always a winner. You get a good chance of getting new thoughts and voices heard, it helps to spread the load of the work, and there’s also the chance the people coming to help you will learn something, from knowledge to a skill.
 
-We’ve got a research analysis session on Friday and we’re trying to encourage colleagues from outside our team to join us. I’m looking forward to it. We’ll create a good environment for them to come into.
+We’ve got a research analysis session on Friday and we’re trying to encourage colleagues from outside our team to join us. I’m looking forward to it. We’ll create a good environment for them to come into. It should then be a fun few hours together pulling out insights and recognising themes.
 
 The dashboard has already been useful at our show and tell on Tuesday, when I could end our show and tell with a grab of the dashboard: “This is where we are up to.”
 
