@@ -28,7 +28,7 @@ You can view a copy of the dashboard [on Google Slides](https://docs.google.com/
 
 Why Google Slides? It’s easy enough to use, it’s a tool most people will be comfortable with. You add and changes words. You can change the font, the font size, the font colour. You can move stuff about. If you want to keep it a little structured tables make creating a layout grid easy enough. It’s also something the whole team can get access to and add to themselves, fast. And it also saves automatically! What more do you want? Why would we choose anything else?
 
-It’s also easy to share the dashboard with other people interested in our work - we just send them a web address so they can look. Making a dashboard and making it easy to access increases our transparency, more open - and hopefully come across as more approachable.
+It’s also easy to share the dashboard with other people interested in our work - we just send them a web address so they can look. Making a dashboard and making it easy to access increases our transparency, makes us more open - and hopefully come across as more approachable.
 
 We could have just used Post Its on a wall, but as tactile as that is, you need to be in the office to see that. It’s a busy time as a team so hopping into the Google Slides deck can be done at a desk of the team member’s convenience.
 
