@@ -14,7 +14,7 @@ Tax credits has a fairly tight deadline for us to get the service available to t
 
 I am fortunate to be part of an intra-city government design community in Newcastle, with HMRC and DWP both working on digital transformation from the city.
 
-And we are also fortunate to be a part of the wider government design community. Cross government learning and sharing is carried in a number of ways, from chat on the cross governement email list, Slack, discussing design patterns on Hackpad, pooling our code on Github, and – of course – the [digital by default service manual](http://www.designcouncil.org.uk/news-opinion/video-what-service-design).
+And we are also fortunate to be a part of the wider government design community. Cross government learning and sharing is carried in a number of ways, from chat on the cross government email list, Slack, discussing design patterns on Hackpad, pooling our code on Github, and – of course – the [digital by default service manual](http://www.designcouncil.org.uk/news-opinion/video-what-service-design).
 
 Before Christmas, I arranged an experience mapping exercise for one of our weekly community meeting at HMRC. Partly I was quietly pushing to get us thinking wider, thinking more about [service design](http://www.designcouncil.org.uk/news-opinion/video-what-service-design). The room was full of our designers, all hustling, bustling, doing stuff together with smiles on their faces, sharing their thinking and listening to what their colleagues though. Great stuff, and great to be a part of.
 
