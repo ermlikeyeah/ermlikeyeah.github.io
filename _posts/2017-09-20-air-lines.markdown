@@ -27,4 +27,4 @@ It took me two minutes of Paul Mijksenaar talking for me to realise it _was Paul
 
 * If you want to learn more about the signage at Amsterdam Schiphol airport, there’s [a great case study on the Mijksenaar website](http://www.mijksenaar.com/project/amsterdam-airport-schiphol/).
 
-* I filled some time at this week’s NHS Digital designers huddle in Leeds with a short talk and discussion based on this post. I slapped the slides together while I had lunch. I didn’t mention airline livery. I have made the slide deck available for everyone as [a Google Slides deck] (https://docs.google.com/presentation/d/1Nn0_6e4mVHYUdu6WzbTAheIPhjWX84nh4altnRxhPkM/edit?usp=sharing).
+* I filled some time at this week’s NHS Digital designers huddle in Leeds with a short talk and discussion based on this post. I slapped the slides together while I had lunch. I didn’t mention airline livery. I have made the slide deck available for everyone as [a Google Slides deck](https://docs.google.com/presentation/d/1Nn0_6e4mVHYUdu6WzbTAheIPhjWX84nh4altnRxhPkM/edit?usp=sharing).
