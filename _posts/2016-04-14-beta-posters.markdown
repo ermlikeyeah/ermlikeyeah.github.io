@@ -3,7 +3,7 @@ layout: post
 title: Always be in beta posters
 date: '2016-04-14 07:30:00'
 ---
-In [yesterday's post on some new stickers](/2016-04-13-gov-patches), I included an image of some posters we've got up in the Newcastle HMRC office.
+In [yesterday's post on some new stickers](/gov-patches), I included an image of some posters we've got up in the Newcastle HMRC office.
 
 ![](/assets/always-be-in-beta-posters.jpg)
 
