@@ -66,9 +66,9 @@ The structure for the five days is based on the generally adopted model (which y
 
 It’s the weekend as I tap this, a break before our last three days. It’s a good break, it’s a good place to have a break.
 
-We’ve come through two days with a focus from that massive map I was looking at a weeke ago.
+We’ve come through two days with a focus from that massive map I was looking at a week ago.
 
-![](/assets/chlamydia-map.jpg)
+![](/assets/chlamydia-focus.jpg)
 
 Design sprints can sometimes be seen and experienced as messy, chaotic, and tiring.
 
