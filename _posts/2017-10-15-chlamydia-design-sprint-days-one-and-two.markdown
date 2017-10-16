@@ -7,7 +7,7 @@ Since the start of September it’s been foot full down with our discovery into 
 
 We’ve been - as [Eliot Hill](https://twitter.com/eliothill)’s [excellent posters](https://github.com/eliothill/service-design-posters) put it - [exploring the problem space](https://github.com/eliothill/service-design-posters/blob/master/Discovery.jpg) so we can then move on to [testing options with hypotheses](https://github.com/eliothill/service-design-posters/blob/master/Alpha.jpg).
 
-We’ve interviewed 30 patients, pushing hard to make sure we spoke a diverse range of people. We have also spoken to a good range of professionals who provide and support healthcare services. We’ve analysed everything we heard and got it down as a map, which we digitalised.
+We’ve interviewed 30 patients, pushing hard to make sure we spoke a diverse range of people. We have also spoken to a good range of professionals who provide and support healthcare services. We’ve analysed everything we heard and got it down as a map, which we digitalised (using Google Draw, because it just _worked_).
 
 Space in the office is at a premium so last weekend I printed off the map of our work, as a poster made up from sheets of A4, so the text on the map was just-readable. The map was 2.37 metres long and 1.05 metres high. Here it is:
 
@@ -17,7 +17,7 @@ We captured people’s thoughts and emotions as well, so we didn’t just create
 
 ![](/assets/chlamydia-steps.jpg)
 
-We have initially found there are 14 points of most journeys if the patient follows their treatment through to completion. (Sometimes there are 13 points; one person we interviewed had 22 points.) We will review this regularly as we speak to more people.
+We have initially found most journeys have 14 points if the patient follows their treatment through to completion. (Sometimes there are 13 points. One person we interviewed had 22 points.) We will review this regularly as we speak to more people.
 
 That is a lot to focus on. That is a lot to get unfocussed on.
 
@@ -40,7 +40,7 @@ There was another rule as facilitator I set myself:
 
 Take everyone along, leave no-one behind. Set the scene, explain what we are going to do. It’s teaching and it’s coaching.
 
-The structure for the five days is based on the generally adopted model (which you can read about in various places online and in the [Sprint book](https://www.amazon.co.uk/Sprint-Solve-Problems-Test-Ideas/dp/150112174X).)
+The structure for the five days is based on the generally adopted design sprint model, with tweaks for the team and problem. (You can read about in various places online and in the [Sprint book](https://www.amazon.co.uk/Sprint-Solve-Problems-Test-Ideas/dp/150112174X).)
 
 #### Day 1: Understand the problem together
 
@@ -72,6 +72,6 @@ We’ve come through two days with a focus from that massive map I was looking a
 
 Design sprints can sometimes be seen and experienced as messy, chaotic, and tiring.
 
-They don’t have to be with the right structuring and the right moderation from the facilitator and the decision maker in the team. Start with a lot, work you way through steadily, each exercise cutting down what is in front of you.
+They don’t have to be with the right structuring and the right moderation from the facilitator and the decision maker in the team. You start with a lot, but work you way through, steadily, each exercise cutting down what is in front of you.
 
 We’ve three days left to take our ideas around the problem, agree a singular structured approach to the problem, prototype it, and test it to learn more.
