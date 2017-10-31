@@ -9,7 +9,7 @@ We’ve been - as [Eliot Hill](https://twitter.com/eliothill)’s [excellent pos
 
 We’ve interviewed 30 patients, pushing hard to make sure we spoke a diverse range of people. We have also spoken to a good range of professionals who provide and support healthcare services. We’ve analysed everything we heard and got it down as a map, which we digitalised (using Google Draw, because it just _worked_).
 
-Space in the office is at a premium so last weekend I printed off the map of our work, as a poster made up from sheets of A4, so the text on the map was just-readable. The map was 2.37 metres long and 1.05 metres high. Here it is:
+Space in the office is at a premium so last weekend I printed off the map of our work, as a poster made up from sheets of A4, so the text on the map was just-readable. Over 450 Post its reduced to a map that was 2.37 metres long and 1.05 metres high. Here it is:
 
 ![](/assets/chlamydia-em-for-scale.jpg)
 
