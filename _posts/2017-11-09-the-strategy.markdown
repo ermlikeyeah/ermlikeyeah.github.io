@@ -23,4 +23,6 @@ I scribbled down this:
 
 >The strategy is finding out what people need, designing it so it works against what you understand, and then making it. And then keep learning from that to keep making it better for everyone.
 
-What would you say?
+It’s a starter. It feels good enough based on my thinking now. I am putting it out there. I will come back into a week and see if I can make better.
+
+My question to you: How would you elaborate “delivery”?
