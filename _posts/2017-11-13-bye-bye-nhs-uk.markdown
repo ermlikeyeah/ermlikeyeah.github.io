@@ -21,7 +21,7 @@ The past few months I have frequently been saying “You’ve got this” more a
 
 I am leaving a growing, energetic, curious, and talented design community. I am leaving teams that are getting on doing work by getting on together. I am leaving an organisation that feels like it wants to get on making things better. It isn’t easy, but there is movement, lots of it.
 
-It would be amiss not to say thank you to Dan Sheldon, Nayeema Chowdhury, Alice Ainsworth, and Joe McGrath for [luring me from HMRC](/HMRC-ya/) in the first place, and to the NHS Beta team in Leeds I joined - Joe, Dominic Hamilton, Steve Hunt, Neil McLaughlin, and Ian Franklin – and the then-team in London – especially Mat Johnson and Matt Harrington – for being so welcoming. It seems a long, long time ago now. Since then I have worked some genuinely great people, good on every level.
+It would be amiss not to say thank you to Dan Sheldon, Nayeema Chowdhury, Alice Ainsworth, and Joe McGrath for [luring me from HMRC](/HMRC-ya/) in the first place, and to the NHS Beta team in Leeds I joined - Joe, Dominic Hamilton, Steve Hunt, Neil McLaughlin, and Ian Franklin – and the then-team in London – especially Mat Johnson and Matt Harrington – for being so welcoming. It seems a long, long time ago now. Since then I have worked with some genuinely good people, good on every level.
 
 I still stand by what I said when I joined: There is no greater mission to be involved with in the United Kingdom, maybe the world at the moment.  I will always have one eye on what is going on here. I am proud and chuffed to have worked on stuff that matters at this level, and would only leave for something that will push me further.
 
