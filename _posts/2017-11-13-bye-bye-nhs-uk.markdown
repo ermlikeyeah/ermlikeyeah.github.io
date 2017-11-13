@@ -21,7 +21,7 @@ I am leaving a growing, energetic, curious, and talented design community. I am 
 
 It would be amiss not to say thank you to Dan Sheldon, Nayeema Chowdhury, Alice Ainsworth, and Joe McGrath for luring me from HMRC in the first place, and to the NHS Beta team in Leeds I joined - Joe, Dominic Hamilton, Steve Hunt, Neil McLaughlin, and Ian Franklin – and the team in London – especially Mat Johnson and Matt Harrington – for being so welcoming. It seems a long, long time ago now.
 
-I still stand by what I said when I joined: There is no greater mission to be involved with in the United Kingdom at the moment.
+I still stand by what I said when I joined: There is no greater mission to be involved with in the United Kingdom at the moment. I will always have one eye on what is going on here.
 
 If you are a designer wanting to work on people centred problems, NHS Digital is looking for people like you. Talk to NHS Digital’s head of design, [Matt Edgar](https://twitter.com/mattedgar).
 
