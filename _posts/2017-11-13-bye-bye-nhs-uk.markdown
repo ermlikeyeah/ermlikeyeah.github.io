@@ -13,9 +13,9 @@ At the end of this week I am leaving the NHS.UK programme. I originally planned 
 
 There are still so many problems and challenges and things to make simpler, to make clearer, to make better that NHS Digital are involved with, and also across the wider public healthcare.
 
-But it’s hard “leading by example from the trenches” as an interaction designer. I planned to stay for six months and get things moving. I’ve stayed a year more than planned. Like any job I have done the stuff I was asked to do. There’s some stuff I was asked to do I haven’t had the chance to do. I’ve done stuff I wasn’t expecting or asked to do. Whatever I have done I’ve given it everything, and am proud of the stuff I have done. But I feel I have played my part in the role I was given.
+But it’s hard “leading by example from the trenches” as an interaction designer. I planned to stay for six months and get things moving. I’ve stayed a year more than planned. Like any job I have done the stuff I was asked to do. There’s some stuff I was asked to do I haven’t had the chance to do. I’ve done stuff I wasn’t expecting or asked to do. Whatever I have done I’ve given it everything, and am proud of the stuff I have done, and done with the people here.
 
-One of our [design principles](http://transformation.blog.nhs.uk/establishing-design-principles-for-nhs-uk) is “Get out of the way”. So I am. It is time to move on.
+I frequently keep saying “You’ve got this” – and that’s a good thing. And because of that I feel I have played my part in the role I was given. One of our [design principles](http://transformation.blog.nhs.uk/establishing-design-principles-for-nhs-uk) is “Get out of the way”. So I am. It is time to move on.
 
 I am leaving a growing, energetic, curious, and talented design community. I am leaving teams that are getting on doing work by getting on together. I am leaving an organisation that feels like it wants to get on making things better. It isn’t easy, but there is movement, lots of it.
 
