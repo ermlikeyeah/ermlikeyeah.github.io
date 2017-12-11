@@ -11,7 +11,7 @@ Usually these opportunities to share and teach have come as a friendly request t
 
 I’d like to talk about and share even more the work I do and have done, with the teams I’ve been a part of, and how we have done that work. I also want to have more conversations about what “design” is and can be.
 
-If you're in education — whether you’re a course leader, teacher, or student — and you’re interested in me coming into where you are, let’s have a chat. My details are the [contact page](/contact). I would love to help you.
+If you're in education — whether you’re a course leader, teacher, or student — and you’re interested in me coming into where you are or would like to come to where I work, let’s have a chat. My details are the [contact page](/contact). I would love to help you.
 
 And if you’re reading this and considering making a similar offer, do it.
 
