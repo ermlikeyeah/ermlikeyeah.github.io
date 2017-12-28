@@ -15,7 +15,7 @@ We also need to make sure we use fake correctly formatted data. That is we need 
 
 A few weeks back I was worried that I was using a possibly real NINO in some design work I was doing. I scrubbed the NINO and asked some colleagues over at HMRC if they knew of a list of fake NINOs we could use in our design work.
 
-No list existed, but some rules about what a National Insurance number wouldn’t contain came back. We have used these to create two tools very quickly, using [CodePen](https://codepen.io).
+No list existed, but some rules about what a National Insurance number wouldn’t contain came back. We have used these to create two tools very quickly, using [CodePen](https://codepen.io). (“Very quickly” being about an hour for both.)
 
 [Colin](https://twitter.com/htmlandbacon) made a quick tool to [generate a fake National Insurance number](https://codepen.io/htmlandbacon/full/vpXrgw/).
 
