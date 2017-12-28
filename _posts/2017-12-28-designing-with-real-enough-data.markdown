@@ -25,4 +25,4 @@ The tools are not perfect – but they are done. They didn’t take long to pull
 
 We’ve shared the tools with our fellow DWP designers and getting them all to check the NINOs in their design work.
 
-We’ll hopefully improve these two tools as we go along. And we’ll make sure we use the tools in future as well. WHich is handy for me, as I need to get a prototype running from seven different National Insurance numbers. I now know I can get seven “safe” NINOs to work with.
+We’ll hopefully improve these two tools as we go along. And we’ll make sure we use the tools in future as well. Which is handy for me, as I need to get a prototype running from seven different National Insurance numbers. I now know I can get seven “safe” NINOs to work with.
