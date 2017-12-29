@@ -21,7 +21,7 @@ No list existed, but some rules about what a National Insurance number wouldn’
 
 I created a quick tool for people to run the National Insurance numbers through to [Check if a National Insurance number is formatted correctly – or not](https://codepen.io/ermlikeyeah/full/gowjYL/).
 
-The tools are not perfect – but they are done. They didn’t take long to pull together and are helping us in the short term (as we’ve a lot on). I also got to have a go at some front-end coding in Javascipt again, which was a bonus.
+The tools are not perfect – but they are done. They didn’t take long to pull together, despite Colin being in Newcastle and me in Leeds (Slack for the win). And these tools are helping us in the short term (as we’ve a lot on). I also got to have a go at some front-end coding in Javascipt again, which was a bonus.
 
 We’ve shared the tools with our fellow DWP designers and getting them all to check the NINOs in their design work.
 
