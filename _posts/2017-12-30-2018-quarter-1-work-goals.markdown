@@ -6,7 +6,7 @@ date: '2017-12-30 08:00:00'
 
 We already have researchers, content designers, interaction designers, service designers, and front-end devs at our weekly “user centred design” meet. Get product owners in Leeds to come to and be involved with these meets – and anyone else who is interested and passing by.
 
-Get product owners involved with design decisions more.
+Get product owners involved with design decisions more. (Product owners hold the problems and focus the teams.)
 
 It’s not about just the designer doing user-centred design. It’s not about the user-centred design team within a product-service team doing the design. We’re not just about user-centred teams. We’re a user-centered organisation.
 
@@ -17,8 +17,6 @@ Be clear what design is, what interaction design is.
 Be clear where service design fits into DWP. And be clear what service designers can do within DWP (and DWP Digital): Let service designers be service designers (not filling in doing interaction design stuff).
 
 Design in the open.
-
-I must blog regularly.
 
 We need to continue with the design examples - not styles or assemblies or components or patterns or whatever - work that has picked up in December work we have got. See what we’ve got. See what others have got. Rationalise from there. Have a meet in February about this with as many people as needed from across the org.
 
@@ -38,13 +36,13 @@ On the outskirts of this, what can we do with the Digital Academy?
 
 Not every team is chock full of people at the peak of their powers. It’s about supporting them and making them better as well as the products/services we work on. Value our people as people, and what we can do to make them better: It's about who you are, what you can do and could do.
 
-Talk about work. Get out to the local universities. Invite in people interested in working for us and with us.
-
 We need to build our skills. Understand what every role brings to the things we work on, the team and the org. Share learnings and knowledge. Teach coding. Teach designing. Build a library of books. Build library of our learnings.
 
 Help those more junior than me. Support them whenever and wherever possible.
 
 Likewise, don't take being senior as an excuse to ignore people. Listen to others. Don’t be one of those designers who values empathy with our “external facing users” but is cloth-eared to people they work alongside.
+
+Talk about work. Get out to the local universities. Invite in people interested in working for us and with us.
 
 Already I have heard DWP Digital is there to do the web/tech/IT bit. Co-operation with colleagues further afield in DWP is essential. It’s not about power. It’s about appreciation of our skills and strengths to make things better collectively. 
 
@@ -58,7 +56,11 @@ STICKERS!
 
 POSTERS!
 
-Be a shit umbrella for my colleagues.
+Get across DWP Digital - not just in Leeds, but in Leeds would be great - is a place you can come to work and make things better so people benefit - including yourself.
+
+I must blog regularly.
+
+Be a shit umbrella for my colleagues, within the product/service I am on and wider.
 
 Less talking, more doing.
 
