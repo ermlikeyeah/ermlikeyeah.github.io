@@ -1,7 +1,7 @@
 
 ---
 layout: post
-title: Work goals for the first quarter of 2018 (draft at the mo)
+title: Work goals for the first quarter of 2018 - draft at the mo
 date: '2017-12-30 08:00:00'
 ---
 
