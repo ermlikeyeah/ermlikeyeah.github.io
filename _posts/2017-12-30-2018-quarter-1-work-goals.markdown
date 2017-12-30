@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Work goals for the first quarter of 2018 (draft at the mo)
-date: '2017-12-28 22:00:00'
+date: '2017-12-30 08:00:00'
 ---
 
 We already have researchers, content designers, interaction designers, service designers, and front-end devs at our weekly “user centred design” meet. Get product owners in Leeds to come to and be involved with these meets – and anyone else who is interested and passing by.
@@ -66,4 +66,4 @@ Work hard and be nice to people.
 
 Continual, gradual, improvement.
 
-Review this list in the middle of March 2018. Plan for the next three months (if I am still around).
+Review this list in the middle of March 2018. Plan for the next three months if I am tied down to stay longer.
