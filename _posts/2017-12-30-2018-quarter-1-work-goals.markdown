@@ -1,4 +1,10 @@
 
+---
+layout: post
+title: Work goals for the first quarter of 2018 (draft at the mo)
+date: '2017-12-30 08:00:00'
+---
+
 We already have researchers, content designers, interaction designers, service designers, and front-end devs at our weekly “user centred design” meet. Get product owners in Leeds to come to and be involved with these meets – and anyone else who is interested and passing by.
 
 Get product owners involved with design decisions more. (Product owners hold the problems and focus the teams.)
