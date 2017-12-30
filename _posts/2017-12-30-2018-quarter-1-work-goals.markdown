@@ -1,8 +1,3 @@
----
-layout: post
-title: Work goals for the first quarter of 2018 (draft at the mo)
-date: '2017-12-30 08:00:00'
----
 
 We already have researchers, content designers, interaction designers, service designers, and front-end devs at our weekly “user centred design” meet. Get product owners in Leeds to come to and be involved with these meets – and anyone else who is interested and passing by.
 
@@ -49,6 +44,14 @@ Already I have heard DWP Digital is there to do the web/tech/IT bit. Co-operatio
 The DWP people in Leeds already work with our DWP colleagues across the country. We can work closer with our public sector colleagues nearby to Leeds, be it NHS Digital, HMRC, Leeds Council, Bradford Council, our gov friends in Sheffield, and more. (I’m already setting up a cross-public services meet for Leeds based orgs.)
 
 More clear strategy. More tactics against a clear strategy. (The map is old but it always current. It’s a living thing. http://www.ermlikeyeah.com/the-map-is-a-living-thing/)
+
+Citizens are users. DWP staff are users too. Treating staff as an equal in designing products and services creates better service and outcomes for citizens. (There’s probably a sticker in this.)
+
+“Social security” is interesting, yes?
+
+The service I am working on will have launched a product by early March. This will hopefully be the start of continual gradual improvement for the whole service. (And recycle this work where possible, help other services as well.) The launch is just the start, as some wag once said.
+
+It’s hard to break away from the “Let’s just put a fresh new interface over the old system(s)”, but let’s have a go, eh.
 
 It's OK to say we are just working on a product. It's not OK to ignore that the product is part of a service.
 
