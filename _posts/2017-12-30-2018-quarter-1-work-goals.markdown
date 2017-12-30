@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Work goals for the first quarter of 2018 - draft at the mo
