@@ -8,9 +8,9 @@ I’ve been in my new role in the new place (DWP) for a month and a half now. Lo
 
 Just before Christmas I re-read something I wrote in September 2016, on [my problem with digital transformation](/my-problem-with-digital-transformation/). The post was response to something similar I’d written a year before, in 2015. That was a follow-up to more-similar two years before, in 2013. I pledged for 2018 to plan as that post as my measure for success.
 
-Here is my list of “goals” for the first quarter of 2018.
+Here is my list of “goals” for the first quarter of 2018, for the work I am doing and around.
 
-(Just to be clear, these are mine, not representative of any goals my workplace might have.)
+(Just to be clear, these are my goals, not representative of any goals my workplace might have.)
 
 #### User centred design isn’t just the work of designers
 
@@ -34,7 +34,7 @@ Understand and be clear where service design fits into DWP. And be clear what se
 
 #### Define our design examples
 
-We need to continue with the design examples — not styles or assemblies or components or patterns or whatever — work that has picked up in December work we have got. See what we’ve got. See what others have got. Rationalise from there. Need to continue to do this with the rest of the team.
+We need to continue with the design examples — not styles or assemblies or components or patterns or whatever — work that was picked up in December. See what we’ve got. See what others have got. Rationalise from there. Need to continue to do this with the rest of the team.
 
 ...and look at how this fits against all the other stuff happening across gov. ([Chris Taylor](https://twitter.com/ctdesign) at the Home Office lead a meet on case study work which seems very relevant to my immediate day-to-day needs.)
 
