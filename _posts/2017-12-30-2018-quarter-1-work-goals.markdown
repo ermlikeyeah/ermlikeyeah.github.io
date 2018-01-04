@@ -70,7 +70,7 @@ Likewise, don't take being senior as an excuse to ignore people. Listen to other
 
 Make sure my colleagues – designers, wider teams – feel, know I have their back.
 
-On the outskirts of this, what can we do with the Digital Academy? (Need to speak to Richard Gait.)
+On the outskirts of this, what can we do with the Digital Academy? (Need to speak to Richard Gunson.)
 
 #### Co-operation over silos
 
