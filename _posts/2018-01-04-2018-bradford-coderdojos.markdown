@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2018 Bradford CoderdoJos
+title: 2018 Bradford CoderDojos
 date: '2018-01-04 08:00:00'
 ---
 The first Bradford CoderDojo of 2018 is on Saturday 27 January.
