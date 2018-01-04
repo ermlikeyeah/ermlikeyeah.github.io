@@ -14,7 +14,7 @@ Here is my list of “goals” for the first quarter of 2018.
 
 #### User centred design isn’t just the work of designers
 
-It’s not about just the designer doing user-centred design – or just the “designers” in an organisation doing user-centred design. It’s not about a user-centred design team within a product/service team doing the design. It’s about everyone being user centred. DWP Digital is not just about user-centred teams. We’re [an organisation built around users’ needs (as Mayank [blogged earlier last year](https://dwpdigital.blog.gov.uk/2017/02/17/dwp-digital-delivering-the-government-transformation-vision/)).
+It’s not about just the designer doing user-centred design – or just the “designers” in an organisation doing user-centred design. It’s not about a user-centred design team within a product/service team doing the design. It’s about everyone being user centred. DWP Digital is not just about user-centred teams. We’re an organisation built around users’ needs (as [Mayank](https://twitter.com/mayankprakash) [blogged earlier last year](https://dwpdigital.blog.gov.uk/2017/02/17/dwp-digital-delivering-the-government-transformation-vision/)).
 
 We already have researchers, content designers, interaction designers, service designers, and front-end devs at our weekly “user centred design” meet. We need to get more of the “user centred team” involved — more people from around the organisation. The presence and involvement of product owners, business analysts, and delivery managers (possibly in that descending order) at our weekly Leeds meets is a key goal.
 
