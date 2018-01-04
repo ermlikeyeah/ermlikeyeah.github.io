@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2018 Bradford Coderdojos
+title: 2018 Bradford CoderdoJos
 date: '2018-01-04 08:00:00'
 ---
 The first Bradford CoderDojo of 2018 is on Saturday 27 January.
@@ -22,6 +22,6 @@ We also have the schedule for the Bradford CoderDojos in 2018.
 * 22nd September
 * 13th October
 * 27th November
-*15th December
+* 15th December
 
 Hopefully see some of you and your kids at a dojo soon! (Hopefully more than one.)
