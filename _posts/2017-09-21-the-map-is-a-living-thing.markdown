@@ -3,7 +3,7 @@ layout: post
 title: The map is a living thing
 date: '2017-09-21 22:15:00'
 ---
-![](/assets/twin-peaks-map.jpg)
+![Screen grab from Twin Peaks showing Hawk and Truman looking at a map](/assets/twin-peaks-map.jpg)
 
 Episode eleven of the new series of Twin Peaks, Hawk tells Truman:
 
