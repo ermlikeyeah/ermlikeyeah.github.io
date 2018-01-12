@@ -11,7 +11,7 @@ Throughout the sprint you will have no doubt benefited from the sharing of other
 
 Put your antenna up.
 
-You listen for signals coming in, sure. And you’ve probably benfitted from them, be it code from elsewhere to design patterns. But just as important: Make sure you send signals out.
+You listen for signals coming in, sure. And you’ve probably benfited from them, be it code from elsewhere to design patterns. But just as important: Make sure you send signals out.
 
 Usually being an agile team means you work in cycles, in sprints. As you close a sprint give yourself, give your team time to look wider. What can they share? What have they learnt? What are they unsure about? What came in that was useful? What came in they have questioned? What is new they have discovered?What are they sure about?
 
