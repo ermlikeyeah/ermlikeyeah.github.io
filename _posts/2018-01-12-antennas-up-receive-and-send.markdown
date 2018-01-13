@@ -17,7 +17,7 @@ Usually being an agile team means you work in cycles, in sprints. As you close a
 
 It’s about flow, it’s about balance. Don’t be about one way traffic. Don’t always be receiving. Make sure you send out too. Find the time, ensure the time is there for you to transmit out. Usually all it takes is an hour a cycle to put out to those around your team.
 
-And if you’re a product owner, take the onus, lead by example, make sharing a thing you value and your team does. Give them the time to do this, even a task every sprint. Those antennas are already up. Send as many signals out as you receive. Give as much as you take. Somewhere, sometime another team will benefit the way you did when you started receiving.
+And if you’re a product owner, take the onus, lead by example, make sharing a thing you value and your team does. Give them the time to do this, a task every sprint, even a sprint goal. Those antennas are already up. Send as many signals out as you receive. Give as much as you take. Somewhere, sometime another team will benefit the way you did when you started receiving.
 
 ---
 
