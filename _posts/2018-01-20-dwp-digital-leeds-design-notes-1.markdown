@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DWP Digital Leeds design notes #1
+title: DWP Digital Leeds design notes, number 1
 date: '2018-01-20 12:00:00'
 ---
 ## UR and design sessions in Leeds
