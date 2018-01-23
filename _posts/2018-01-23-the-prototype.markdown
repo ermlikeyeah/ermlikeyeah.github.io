@@ -3,8 +3,6 @@ layout: post
 title: “The prototype”
 date: '2018-01-23 16:00:00'
 ---
-# “The prototype”
-
 It’s a phrase that can mean one thing to one person, another thing to another person.
 
 “The prototype.”
