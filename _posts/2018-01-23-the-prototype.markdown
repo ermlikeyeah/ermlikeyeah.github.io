@@ -9,7 +9,6 @@ It’s a phrase that can mean one thing to one person, another thing to another 
 
 _The_ prototype. A singular thing. Strange that, to me, given “prototype” can mean so many things to so many people.
 
-
 In a session last week the DWP Digital user research and design community [identified](/dwp-digital-leeds-design-notes-1/) 43 different _types_ of “prototype” they had made and used.
 
 With the varying levels of richness, breadth of approach and detail that [different types of prototyping](/a-short-note-about-prototyping/) bring singling out _the_ prototype seems unfair, limiting, and confusing.
