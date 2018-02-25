@@ -10,13 +10,13 @@ On Monday we held the first Leeds gov design meet at [ODI Leeds](https://odileed
 
 And a massive thank you to the four people who led the sessions:
 
-* Pete Smith, from NHS Digital, on _Simple improvements to patient referral letters_.
+* [Pete Smith](https://twitter.com/twoshedz), from NHS Digital, on _Simple improvements to patient referral letters_
 
-* Ellie Craven, from GDS, on _When free text is the enemy of data quality_.
+* [Ellie Craven](https://twitter.com/Ellayanor), from GDS, on _When free text is the enemy of data quality_
 
-* James Johnson, from DWP, on _Solving complex policy problems using design tools and techniques_.
+* [James Johnson](https://twitter.com/designandpolicy), from DWP, on _Solving complex policy problems using design tools and techniques_
 
-* Caroline Jarrett, from Effortmark, _reviewing a form_ with everyone in the room
+* [Caroline Jarrett](https://twitter.com/cjforms), from Effortmark, _reviewing a form_ with everyone in the room
 
 ![James Johnson leading his session](/assets/leeds-gov-design-1-2.jpg)
 *James Johnson*
