@@ -13,4 +13,4 @@ A couple of people have asked if they can have it as a PDF, so while I was sorti
 
 Get it as [a PDF](/assets/continual gradual improvement - a4 - artwork.pdf) (which will scale fine to A3) or [a JPG](/assets/continual gradual improvement - 3200px - screen.jpg).
 
-And maybe drop me a line if you stick it up somewhere.
+And if you stick it up somewhere, maybe [drop me a line](/contact).
