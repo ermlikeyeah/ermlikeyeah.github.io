@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Continual gradual improvement posters
+title: Continual gradual improvement poster
 date: '2018-03-27 22:30:00'
 ---
 Just before Christmas I did some posters at work that said "Continual Gradual Improvement". Grind 'til we shine and all that, yeah?
