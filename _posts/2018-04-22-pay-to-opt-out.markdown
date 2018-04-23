@@ -33,4 +33,4 @@ The third, on the form provided by the local council, this bit to be filled in b
 
 The school having to pay £35 if the organisation/business feels it is unable to offer a future place, after the child looking for a placement has found one.
 
-There is an unhealthy mix of crowd-sourcing through young people and then penalising the places that offer them a place for opting out here. I will go as far as saying this is bad design.
+There is an unhealthy mix of crowd-sourcing through young people and then penalising the places that offer them a place for opting out here. This is bad design.
