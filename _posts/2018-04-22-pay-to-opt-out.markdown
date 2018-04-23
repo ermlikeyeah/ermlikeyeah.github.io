@@ -31,6 +31,8 @@ The third, on the form provided by the local council, this bit to be filled in b
 
 >I understand there will be a charge of £35 to the school for companies unwilling to go on the database and offer future placements.
 
-The school having to pay £35 if the organisation/business feels it is unable to offer a future place, after the child looking for a placement has found one.
+That is the school having to pay £35, if the organisation/business offering a placement this year feels it is unable to offer a future place, after a 14 or 15-year-old has found that placement. That is the school having to pay £35 to not go on a database. £35 to opt out.
 
-There is an unhealthy mix of crowd-sourcing through young people and then penalising the places that offer them a place for opting out here. This is bad design.
+Add in the crowd-sourcing of this database through young people's efforts to find their own work experience placement?
+
+This is really bad design.
