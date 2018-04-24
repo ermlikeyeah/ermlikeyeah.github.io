@@ -31,7 +31,7 @@ The third, on the form provided by the local council, this bit to be filled in b
 
 >I understand there will be a charge of £35 to the school for companies unwilling to go on the database and offer future placements.
 
-That is the school having to pay £35, if the organisation/business offering a placement this year feels it is unable to offer a future place, after a 14 or 15-year-old has found that placement. That is the school having to pay £35 to not go on a database. £35 to opt out.
+That is the school having to pay £35, if the organisation/business offering a placement this year feels it is unable to offer a future place, after a 14 or 15-year-old has found that placement. That is the school having to pay £35 so some other organisation or business does not go on a database. Nothing to opt in. £35 to opt out.
 
 Add in the crowd-sourcing of this database through young people's efforts to find their own work experience placement?
 
