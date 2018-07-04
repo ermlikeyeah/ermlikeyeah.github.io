@@ -111,9 +111,9 @@ We are working through pulling together our own design examples “manual”, wh
 
 ![An animation showing the manual](/assets/dwp-design-examples-1-11.gif)
 
-We regularly ask if the way we are doing all this works for us. We can adapt and change as and when we need to.
+We regularly ask if the way we are doing all this works for us. We can adapt and change as and when we need to. At the moment we are making some solid progress – and it is something we are fitting in around the main work we do.
 
-So, very recently the gov.uk design system launched. People has asked us, quite rightly, why are DWP Digital doing their own design examples thing?
+So, some of you may know that very recently the [gov.uk design system](https://design-system.service.gov.uk) launched. People has asked us, quite rightly, why are DWP Digital doing their own design examples thing?
 
 I answer because we are part of the gov designer feedback loop. Over the years as designers on gov services we have taken stuff from the gov.uk design patterns. When we – designers sat in the various gov departments – have found something that works better than what we have borrowed, we have pushed that back into the wider gov.uk work
 
@@ -125,7 +125,7 @@ So, this work we are showing you is not a thing we are showing because it is don
 
 For me, at DWP Digital we need to make we do start with the needs of the users. We need to make sure that we understand the user needs and we meet those needs through our design work. That is what makes a pattern: the application of design components in a certain context that meets a user need. And research and testing plays a big part in that.
 
-We are planning out fifth design example get-together, and we are also going to look at how we can do smaller sessions remotely more regularly.
+We are planning out fifth design examples get-together, and we are also going to look at how we can do smaller sessions remotely more regularly.
 
 ![Animation of Run the Jewels spreading love](/assets/rtj.gif)
 
