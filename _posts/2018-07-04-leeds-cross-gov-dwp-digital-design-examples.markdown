@@ -32,9 +32,7 @@ Patterns. Patterns. Patterns. Patterns. Patterns. Patterns. Patterns. Patterns. 
 
 This is me every time I hear that.
 
-![CAPTION](/assets/brad.gif)
-
-BRAD PITT GIF
+![Looping animation of Brad Pitt being poked in the eyes, from the film Burn After Reading](/assets/brad.gif)
 
 Patterns is every poke in the eye.
 
@@ -62,15 +60,13 @@ To get this going at DWP Digital we did a pilot to try something that involved p
 
 Here we are in that room.
 
-PIC OF ROOM
-
-![CAPTION](/assets/.jpg)
+![DWP Digital designers in a room working together](/assets/dwp-design-examples-1-1.jpg)
 
 We asked anyone coming to bring along print-outs of some stuff from their services. One of those things was examples of “search” in services. In groups we analysed what we had and presented back to the rest of the room
 
+![DWP Digital designers in a room listening to colleagues presenting their work](/assets/dwp-design-examples-1-2.jpg)
 
-![CAPTION](/assets/.jpg)
-PIC OF WALL
+![An example of what the groups pulled together](/assets/dwp-design-examples-1-3.jpg)
 
 It went OK, maybe even well. It didn’t go badly. So we’ve tried to hold them monthly.
 
@@ -83,17 +79,13 @@ We’ve had four so far:
 
 Here we are at the second meet-up in Leeds.
 
-![CAPTION](/assets/.jpg)
-
-PIC
+![DWP Digital designers at the second meet-up](/assets/dwp-design-examples-1-4.jpg)
 
 To help us make best use of the day together and so we can make continual gradual progress we have kept going sharing what we are going to be looking at in advance. And whatever is brought along is examples of work.
 
 Sometimes this is harder than people think to work through. Here some of us at that second meet-up again.
 
-![CAPTION](/assets/.jpg)
-
-PIC OF COLIN FROWNING
+![DWP Digital designers working through some examples. There's some concentrating faces.](/assets/dwp-design-examples-1-5.jpg)
 
 We’re not looking to reduce every _thing_ down to one. We are looking to understand what works and what doesn’t work. Get rid of the stuff that doesn’t work. Make sure more the stuff that does work is used more – and most importantly we are testing that stuff so we know it works and continues to work.
 
@@ -101,51 +93,40 @@ We make sure we involve the whole team.
 
 After every meet we make sure there is a write up which is shared, through Slack.
 
-![CAPTION](/assets/.jpg)
-
-PIC OF PDF
+![Thumbnails of the pages shared around](/assets/dwp-design-examples-1-6.jpg)
 
 We use GitHub to organise our list of stuff to work through.
 
-![CAPTION](/assets/.jpg)
+![A screen grab of the backlog on GitHub](/assets/dwp-design-examples-1-7.jpg)
 
-GITHUB PIC 1
-![CAPTION](/assets/.jpg)
+![Another screen grab, this time of the Kanban board showing the status of the design example](/assets/dwp-design-examples-1-8.jpg)
 
-GITHUB PIC 2
-![CAPTION](/assets/.jpg)
-
-GITHUB PIC 3
+![Another screen grab, this time of some outcomes from a meeting added to a card on a GitHub issue](/assets/dwp-design-examples-1-9.jpg)
 
 And the design examples channel on our Slack is really active: 49 people are members of that channel at the moment.
 
-![CAPTION](/assets/.jpg)
+![A screen grab of our design examples Slack channel](/assets/dwp-design-examples-1-10.jpg)
 
-PIC OF SLACK
+We are working through pulling together our own design examples “manual”, which Craig Abbott has pulled a first go of.
 
-We are working through our own design examples “manual”, which Craig Abbott has pulled a first go of.
-
-![CAPTION](/assets/.jpg)
-
-GIF HERE
+![An animation showing the manual](/assets/dwp-design-examples-1-11.gif)
 
 We regularly ask if the way we are doing all this works for us. We can adapt and change as and when we need to.
 
 So, very recently the gov.uk design system launched. People has asked us, quite rightly, why are DWP Digital doing their own design examples thing?
 
-I answer because we are part of the gov designer feedback loop. Over the years as designers on gov services we have taken stuff from the gov.uk design patterns. When we have found something that moves the wider gov.uk work forward we have shared from the departments most of us sit in.
+I answer because we are part of the gov designer feedback loop. Over the years as designers on gov services we have taken stuff from the gov.uk design patterns. When we – designers sat in the various gov departments – have found something that works better than what we have borrowed, we have pushed that back into the wider gov.uk work
 
-This will continue.
+This will continue with the new gov design system.
 
+An example: The work we have done at DWP Digital around tabs has fed into the gov.uk design system.
 
-For me, at DWP Digital we need to make sure that we understand the user need. That is what makes a pattern: the application of design components in a certain context that meets a user need.
+So, this work we are showing you is not a thing we are showing because it is done. It is something we are in the middle of. It is something we are doing. It is something we are working on and will continue to work on.
 
-All this
+For me, at DWP Digital we need to make we do start with the needs of the users. We need to make sure that we understand the user needs and we meet those needs through our design work. That is what makes a pattern: the application of design components in a certain context that meets a user need. And research and testing plays a big part in that.
 
 We are planning out fifth design example get-together, and we are also going to look at how we can do smaller sessions remotely more regularly.
 
-Pic from recent meet
-![CAPTION](/assets/.jpg)
+![Animation of Run the Jewels spreading love](/assets/rtj.gif)
 
-
-Thank you for everyone at DWP Digital present and past, designer and non-designer, who has helped us get this far. We will keep doing it.
+Thank you to everyone at DWP Digital present and past, designer and non-designer, who has helped us get this far. We will keep doing it.
