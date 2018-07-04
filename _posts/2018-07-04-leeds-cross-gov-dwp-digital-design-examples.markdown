@@ -87,9 +87,9 @@ Sometimes this is harder than people think to work through. Here some of us at t
 
 ![DWP Digital designers working through some examples. There's some concentrating faces.](/assets/dwp-design-examples-1-5.jpg)
 
-We’re not looking to reduce every _thing_ down to one. We are looking to understand what works and what doesn’t work. Get rid of the stuff that doesn’t work. Make sure more the stuff that does work is used more – and most importantly we are testing that stuff so we know it works and continues to work.
+We’re not looking to reduce every _thing_ down to one. We are looking to understand what works and what doesn’t work. Get rid of the stuff that doesn’t work. Make sure more the stuff that does work is used more often – and most importantly we are testing that stuff so we know it works and continues to work.
 
-We make sure we involve the whole team.
+We make sure we involve the whole team, whether they were at the meets or not.
 
 After every meet we make sure there is a write up which is shared, through Slack.
 
@@ -125,8 +125,8 @@ So, this work we are showing you is not a thing we are showing because it is don
 
 For me, at DWP Digital we need to make we do start with the needs of the users. We need to make sure that we understand the user needs and we meet those needs through our design work. That is what makes a pattern: the application of design components in a certain context that meets a user need. And research and testing plays a big part in that.
 
-We are planning out fifth design examples get-together, and we are also going to look at how we can do smaller sessions remotely more regularly.
-
-![Animation of Run the Jewels spreading love](/assets/rtj.gif)
+We are planning out fifth design examples get-together. It is not easy for many of our designers to the get the meet-ups, so we are also going to look at how we can do smaller sessions remotely more regularly. Keeping as many people as possible involved is so important as well as seeing as much work as possible.
 
 Thank you to everyone at DWP Digital present and past, designer and non-designer, who has helped us get this far. We will keep doing it.
+
+![Animation of Run the Jewels spreading love](/assets/rtj.gif)
