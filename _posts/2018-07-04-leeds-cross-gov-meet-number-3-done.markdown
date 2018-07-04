@@ -25,8 +25,8 @@ We are looking at doing a fourth meet in September.
 Things we are looking for for future meets:
 
 * People to run sessions. Sessions can be a talk, a show and tell, a workshop: anything you want as long as it has a gov or public sector slant.
-* Places to host the meets. It would be great to have the meets in places where gov and public sector work happens. If you work somewhere that can host an event.
+* Places to host the meets. It would be great to have the meets in places where gov and public sector work happens.
 
-If you want to help with either [drop me a line](/contact).
+If you want to help with either request [drop me a line](/contact).
 
 If you want to stay in touch about the Leeds gov design meets, we have [a web page](http://ermlikeyeah.com/leedsgovdesign/). On that page are details of how to subscribe by email to the Leeds Gov Design Google Group so you can get updates by email. You can also follow [@LeedsGovDesign](https://www.twitter.com/LeedsGovDesign) on Twitter.
