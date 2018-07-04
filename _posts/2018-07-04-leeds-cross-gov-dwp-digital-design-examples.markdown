@@ -44,7 +44,7 @@ Patterns. Poke.
 
 Patterns. Patterns. Patterns. Patterns. Patterns. Patterns. Patterns. Patterns. Patterns. Patterns. Patterns. Patterns. Patterns. Patterns. Patterns. Patterns. Patterns. Patterns. Patterns. Patterns. Patterns. Patterns. Patterns. Patterns. Patterns. Patterns. Patterns. Patterns. Patterns.
 
-Poke. Poke, Poke, Poke.
+Poke. Poke. Poke. Poke.
 
 Poke after poke after painful poke.
 
