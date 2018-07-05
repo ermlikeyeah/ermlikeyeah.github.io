@@ -79,7 +79,7 @@ We’ve had four so far:
 
 Here we are at the second meet-up in Leeds.
 
-![DWP Digital designers at the second meet-up](/assets/dwp-design-examples-1-4.jpg)
+![DWP Digital designers at the second meet](/assets/dwp-design-examples-1-4.jpg)
 
 To help us make best use of the day together, so we can make continual gradual progress, we have made we have a theme, a focus for the meets and share that focus in advance. That focus is always examples of work which people bring along.
 
