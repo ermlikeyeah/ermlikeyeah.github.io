@@ -3,7 +3,7 @@ layout: post
 title: DWP Digital design examples session for Leeds gov design meet number 3
 date: '2018-07-04 22:00:00'
 ---
-At the third Leeds cross gov design meet, Chris Hanson and I did a short session on the DWP Digital design examples. Here is a brief write up of the session we did. I did the first half, Chris took over to talk about the actual work we have been doing.
+At the third Leeds cross gov design meet, [Chris Hanson](https://twitter.com/nosnaHsirhC) and I did a short session on the DWP Digital design examples. Here is a brief write up of the session we did. I did the first half, Chris took over to talk about the actual work we have been doing.
 
 ---
 
