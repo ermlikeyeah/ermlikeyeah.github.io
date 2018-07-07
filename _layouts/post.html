@@ -18,6 +18,11 @@ layout: default
   {{ content }}
   </div>
 
+  {% if post.tags.size > 0 %}
+    Tag{% if post.tags.size > 1 %}s{% endif %}:
+    {{ post.tags | sort | join: ", " }}
+  {% endif %}
+  
   <div class="CrossPageNavigation">
   <div class="CrossPageNavigationPrevious">
     {% if page.previous.url %}
