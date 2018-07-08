@@ -2,6 +2,7 @@
 layout: post
 title: Chlamydia primary care design sprint, days one and two
 date: '2017-10-15 10:30:00'
+tags: [NHS Digital, NHS beta]
 ---
 Since the start of September it’s been foot full down with our discovery into NHS chlamydia primary care services.
 

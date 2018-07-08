@@ -2,6 +2,7 @@
 layout: post
 title: Leeds gov design meet number 1, done - and looking forwards
 date: '2018-02-25 08:00:00'
+tags: [Leeds gov design]
 ---
 ![Ellie Craven leading her session](/assets/leeds-gov-design-1-1.jpg)
 *Ellie Craven leading her session*

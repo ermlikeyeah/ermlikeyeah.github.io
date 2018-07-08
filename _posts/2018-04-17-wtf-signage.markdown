@@ -2,6 +2,7 @@
 layout: post
 title: WTF signage
 date: '2018-04-17 22:00:00'
+tags: [signage]
 ---
 I love looking out for signage.
 

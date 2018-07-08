@@ -2,6 +2,7 @@
 layout: post
 title: The map is a living thing
 date: '2017-09-21 22:15:00'
+tags: [Twin Peaks, maps]
 ---
 ![Screen grab from Twin Peaks showing Hawk and Truman looking at a map](/assets/twin-peaks-map.jpg)
 

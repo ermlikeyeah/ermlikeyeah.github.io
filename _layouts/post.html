@@ -16,13 +16,22 @@ layout: default
 
   <div class="page-content">
   {{ content }}
+
+  <hr>
+
+  <p>
+    {% if page.tags %}
+  This post tagged with:<br />
+  {% for tag in page.tags %}
+  		<a href="/tags/#{{ tag }}">{{ tag }}</a>
+  {% endfor %}
+  {% endif %}
+</p>
+
   </div>
 
-  {% if post.tags.size > 0 %}
-    Tag{% if post.tags.size > 1 %}s{% endif %}:
-    {{ post.tags | sort | join: ", " }}
-  {% endif %}
-  
+
+
   <div class="CrossPageNavigation">
   <div class="CrossPageNavigationPrevious">
     {% if page.previous.url %}

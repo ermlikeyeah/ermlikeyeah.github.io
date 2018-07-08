@@ -2,6 +2,7 @@
 layout: post
 title: New year, new eyes on your work
 date: '2018-01-02 07:00:00'
+tags: [critiques, design tools]
 ---
 December is rarely a steady month, usually a slow one for some, or a too-frantic one for others.
 

@@ -5,7 +5,7 @@ title: Blog
 
   {% for post in site.posts %}
     <p>
-      {{ post.date |  date: "%-d %B %Y" }}<br />
+      <div class="page-meta">{{ post.date |  date: "%-d %B %Y" }}</div>
         <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
     </p>
 

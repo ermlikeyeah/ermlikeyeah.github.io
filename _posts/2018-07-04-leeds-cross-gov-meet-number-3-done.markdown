@@ -2,7 +2,7 @@
 layout: post
 title: Leeds gov design meet number 3, done
 date: '2018-07-04 09:00:00'
-tags: [TEST, another-test, yet-another-test, bananas]
+tags: [Leeds gov design, DWP Digital]
 ---
 Yesterday - Tuesday 3 July - we had the third Leeds cross gov design meet. (Following on from [the first](/leeds-gov-design-1-done/) and [the second](/leeds-cross-gov-meet-number-2-done/).)
 

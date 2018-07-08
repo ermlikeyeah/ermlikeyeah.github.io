@@ -2,6 +2,7 @@
 layout: post
 title: Leeds cross gov design meet number 2
 date: '2018-04-04 20:00:00'
+tags: [Leeds gov design]
 ---
 A couple of months back we held the first Leeds cross gov design meet at ODI Leeds. We had excellent sessions from Ellie Craven from GDS, Pete Smith from NHS Digital, James Johnson from DWP, and Caroline Jarrett from Effortmark. I wrote a post just afterwards. You can [read it here](/leeds-gov-design-1-done/).
 

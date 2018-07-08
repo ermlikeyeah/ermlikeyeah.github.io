@@ -2,10 +2,11 @@
 layout: post
 title: The strategy is...
 date: '2017-11-09 08:00:00'
+tags: [digital transformation, delivery]
 ---
 I was chatting to someone the other day about how to get work done, processes, and all that stuff. It’s easy to lose countless minutes – maybe hours – waxing lyrical about it at the expense of getting stuff done. But our point was just-enough process is important: The spine to getting stuff done.
 
-Our discussion springboarded off the mentioning a phrase used a lot around public service digital transformtion:
+Our discussion springboarded off the mentioning a phrase used a lot around public service digital transformation:
 
 >The strategy is delivery.
 

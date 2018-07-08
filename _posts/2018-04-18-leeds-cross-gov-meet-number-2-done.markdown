@@ -2,6 +2,7 @@
 layout: post
 title: Leeds gov design meet number 2, done
 date: '2018-04-18 22:30:00'
+tags: [Leeds gov design]
 ---
 Leeds gov design meet number 1 was on Monday 19 February. You can read about it [here](/leeds-gov-design-1-done/).
 

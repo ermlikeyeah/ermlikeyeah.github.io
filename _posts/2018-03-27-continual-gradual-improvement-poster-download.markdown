@@ -2,6 +2,7 @@
 layout: post
 title: Continual gradual improvement poster
 date: '2018-03-27 22:30:00'
+tags: [DWP Digital]
 ---
 Just before Christmas I did some posters at work that said "Continual Gradual Improvement". (Grind 'til we shine and all that, yeah?) I opened Illustrator, laid this is out (pretty roughly), printed it a few times on A3, and hung them - all in the last hour of work before Christmas.
 

@@ -2,6 +2,7 @@
 layout: post
 title: Getting out of the way
 date: '2017-11-13 15:00:00'
+tags: [NHS Digital, NHS beta]
 ---
 Last Thursday I attended an excellent (and by that I mean “productive”) session in London around design principles in digital health and care services, led by work happening out of NHS Digital.
 

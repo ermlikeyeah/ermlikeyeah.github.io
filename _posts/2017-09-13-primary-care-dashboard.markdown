@@ -2,6 +2,7 @@
 layout: post
 title: Making a simple dashboard for our discovery
 date: '2017-09-13 21:00:00'
+tags: [NHS Digital, NHS beta, design tools, dashboard]
 ---
 I am currently working on a chlamydia discovery at NHS Digital. We’re looking to understand the needs of people who:
 

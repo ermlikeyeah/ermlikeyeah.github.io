@@ -2,6 +2,7 @@
 layout: post
 title: Work goals for the first quarter of 2018
 date: '2017-12-30 08:00:00'
+tags: [DWP Digital]
 ---
 
 I’ve been in my new role in the new place (DWP) for a month and a half now. Lots to take in.

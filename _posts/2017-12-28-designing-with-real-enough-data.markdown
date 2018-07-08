@@ -2,6 +2,7 @@
 layout: post
 title: Designing with real enough data
 date: '2017-12-28 22:00:00'
+tags: [DWP Digital]
 ---
 At DWP a lot of people searches seem to be based around an individual’s National Insurance Number (usually called a “NINO” within the government).
 

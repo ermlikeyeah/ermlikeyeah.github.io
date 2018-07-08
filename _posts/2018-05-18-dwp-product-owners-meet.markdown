@@ -2,6 +2,7 @@
 layout: post
 title: DWP product owners meet
 date: '2018-05-18 21:00:00'
+tags: [DWP Digital]
 ---
 I did a session today at the DWP product owners meet on designing. I was given half an hour. I am sure I overran. Anyway.
 

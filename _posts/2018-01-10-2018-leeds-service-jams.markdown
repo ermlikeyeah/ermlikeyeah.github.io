@@ -2,6 +2,7 @@
 layout: post
 title: Looking ahead to service jams in Leeds during 2018
 date: '2018-01-10 21:00:00'
+tags: [Leeds Service Jams, Leeds Service Jam 2018, jamming]
 ---
 Hello (going left to right) from [Lisa](https://twitter.com/lisajjeffery), [Emma](https://twitter.com/em606), [Marie](https://twitter.com/mariecheungsays), and me!
 

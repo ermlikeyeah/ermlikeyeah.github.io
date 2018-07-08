@@ -2,6 +2,7 @@
 layout: post
 title: Broadacre 2017
 date: '2017-09-26 07:30:00'
+tags: [MoMA, Frank Lloyd Wright, cities, Broadacre City, prototyping, civic design]
 ---
 I was at the [Museum of Modern Art](http://moma.org) (MoMA) in New York a couple of months back. There was (and still is until the end of September 2017) an excellent Frank Lloyd Wright exhibition on.
 

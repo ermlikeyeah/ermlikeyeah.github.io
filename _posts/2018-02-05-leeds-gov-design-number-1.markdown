@@ -2,6 +2,7 @@
 layout: post
 title: Leeds gov design meet number 1
 date: '2018-02-05 19:30:00'
+tags: [Leeds gov design]
 ---
 We're going to hold a meet-up in Leeds for people designing government things, whether they are products or services or whatever you want to call them.
 

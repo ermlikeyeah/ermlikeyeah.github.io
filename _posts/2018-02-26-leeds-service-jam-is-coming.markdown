@@ -2,6 +2,7 @@
 layout: post
 title: Leeds Service Jam 2018 is coming
 date: '2018-02-26 20:00:00'
+tags: [Leeds Service Jams, Leeds Service Jam 2018, jams]
 ---
 I was looking through my Eventbrite history at the weekend. Aside from realising I’d set up over 50 events using Eventbrite 2010, I stumbled across some old memories. Events at Old Broadcasting House (ODH) for one. Amongst the others was remembering the Service Design Thinks meets that used to be at ODH.
 

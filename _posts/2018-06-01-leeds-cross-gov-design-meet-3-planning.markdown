@@ -2,6 +2,7 @@
 layout: post
 title: Planning Leeds cross gov design meet number 3
 date: '2018-06-01 08:00:00'
+tags: [Leeds gov design]
 ---
 Having said a short while back that [Leeds cross gov design meet number 2](/leeds-cross-gov-meet-number-2-done/) would be the last I could sort, I have some time to sort number 3. It is nice to be able to keep them going.
 
