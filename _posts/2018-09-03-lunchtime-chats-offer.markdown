@@ -19,3 +19,5 @@ The only limitation: You have to be someone working on a public service. Sorry. 
 All you have to do is drop me an email. My email address is listed on the [contact page of this website](/contact). Just make sure the subject line of your email is clear. And in your email take a mo to let me know who you are, what you’re doing (your role, what you work in, where you are), and how a chat could help you. I’ll get back to you within a couple of days.
 
 I hope this offer appeals to some of you out there, and helps you.
+
+If you are someone else who wants to offer up some time for similar chats, I have set up a quick [Google Sheet](https://docs.google.com/spreadsheets/d/1-8HmcjcUm2729irQqDYgrUt02JccJvjWVmHUr6-VW3c/edit?usp=sharing). If you want to be added just [drop me a line](/contact).
