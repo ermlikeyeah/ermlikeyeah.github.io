@@ -18,7 +18,11 @@ If you went to a restaurant and saw a menu that said just “the food” would y
 
 The problem with prototypes is they always need context. The good thing about prototypes is they always need context.
 
-My solution: Ban “the prototype”.
+The other problem with prototypes is it too easy to mistake them as the finished thing. Prototypes should be quick to make, cheap to make. That means they can be one of many things.
+
+My solution:
+
+Ban “the prototype”.
 
 Be clear what is the problem you want to solve.
 
@@ -36,6 +40,8 @@ Then write down on a stickie what you are doing and how you are doing it.
 
 Then on another stickie write down why you are doing it this way, as a reminder of the conditions.
 
-Then you never need to use “the prototype” again. You can just use the first stickie to describe what you have done.
+All quick, all cheap, and altogether better to gather round to discuss.
+
+You will never need to use “the prototype” again. And you can just refer back to the first stickie to describe what you have done.
 
 Down with “the prototype”. Up with prototypes!
