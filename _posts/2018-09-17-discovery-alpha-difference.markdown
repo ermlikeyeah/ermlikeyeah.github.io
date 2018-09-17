@@ -2,7 +2,7 @@
 layout: post
 title: Discovery then alpha. Always.
 date: '2018-09-17 18:30:00'
-tags: [discovery, alpha]
+tags: [discovery, alpha, process]
 ---
 Your regular reminder of the difference between the discovery and alpha phases of projects.
 
@@ -10,10 +10,10 @@ I know there's lots of words around this so it's hard to stay focused, so here's
 
 [Discovery](https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works):
 
-![](/assets/service-manual-grab-disco.jpg)
+![A grab from the gov.uk service manual, showing an opening section from the page on discovery](/assets/service-manual-grab-disco.jpg)
 
 [Alpha](https://www.gov.uk/service-manual/agile-delivery/how-the-alpha-phase-works)
-![](/assets/service-manual-grab-alpha.jpg)
+![A grab from the gov.uk service manual, showing an opening section from the page on alpha](/assets/service-manual-grab-alpha.jpg)
 
 Not clear?
 
