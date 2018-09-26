@@ -4,8 +4,6 @@ title: Leeds gov design meet number 4, done
 date: '2018-08-26 21:00:00'
 tags: [Leeds gov design]
 ---
-# Leeds cross gov design meet number 4 done
-
 ![Waiting for the meet to get going](/assets/leeds-cross-gov-design-meet-4.jpg)
 
 A couple of weeks back we held the fourth Leeds cross gov design meet. It was the biggest turn out yet, with 30 people turning up. Here’s some of them:
