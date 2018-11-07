@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Leeds gov design meet number 4, done
-date: '2018-08-26 21:00:00'
+date: '2018-09-26 21:00:00'
 tags: [Leeds gov design]
 ---
 ![Waiting for the meet to get going](/assets/leeds-cross-gov-design-meet-4.jpg)
