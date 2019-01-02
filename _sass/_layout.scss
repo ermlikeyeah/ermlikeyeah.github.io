@@ -9,11 +9,22 @@
     }
     // Positioning context for the mobile navigation icon
     position: relative;
+
+    // Font colours
+    color: $site-bookend-foreground-color;
+
+    a {
+      color: $site-bookend-foreground-color;
+      // text-decoration: none;
+    }
 }
 .site-title {
     line-height: $base-line-height;
     margin-bottom: 0;
     float: left;
+    a {
+      text-decoration: none;
+    }
 }
 .site-nav {
     float: right;
@@ -31,24 +42,23 @@
  * Site and page header padding
  */
 .site-header {
+  background: $base-head-background-color;
   font-family: $bookend-font;
   font-weight: $base-font-weight*2;
-  border-bottom: 4px solid $light-grey;
+  // border-bottom: 4px solid $light-grey;
   padding-top: $base-spacing-unit;
   padding-bottom: $base-spacing-unit;
   @include media-query($on-palm) {
     padding-top: $base-spacing-unit*0.8;
     padding-bottom: $base-spacing-unit*0.8;
   }
-  a {
-    text-decoration: none;
-  }
 }
 /**
  * Site and page bottom padding
  */
 .site-footer {
-  border-top: 4px solid $light-grey;
+  // border-top: 4px solid $light-grey;
+  background: $base-head-background-color;
   margin-top: $base-spacing-unit;
   padding-top: $base-spacing-unit;
   font-family: $sans-serif-font;
