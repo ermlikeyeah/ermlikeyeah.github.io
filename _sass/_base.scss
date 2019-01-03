@@ -112,8 +112,8 @@ h1 {
     margin-bottom: $h1-font-size;
     font-weight: $base-font-weight*1.5;
     @include media-query($on-palm) {
-      font-size: $h1-font-size*0.8;
-      line-height: $h1-line-height*0.8;
+      font-size: $h1-font-size*0.6;
+      line-height: $h1-line-height*0.6;
     }
 }
 h2 {
