@@ -16,6 +16,10 @@
     a {
       color: $site-bookend-foreground-color;
       // text-decoration: none;
+      &:hover {
+          color: $site-bookend-background-color;
+      }
+
     }
 }
 .site-title {
