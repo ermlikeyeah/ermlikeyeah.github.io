@@ -1,0 +1,20 @@
+---
+layout: post
+title: Weeknotes s03e02 - week commencing Monday 7 January 2019
+date: '2019-01-07 6:00:00'
+tags: [weeknotes, weeknotes s03]
+---
+
+Monday
+
+Slack status:
+
+![](/assets/07-01-2019-prototyping.png)
+
+## Coming up
+
+xxx
+
+## Ch-Check it out
+
+xxx
