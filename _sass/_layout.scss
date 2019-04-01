@@ -23,7 +23,7 @@
     }
 }
 .site-title {
-    line-height: $base-line-height;
+//    line-height: $base-line-height;
     margin-bottom: 0;
     float: left;
     a {
@@ -32,7 +32,7 @@
 }
 .site-nav {
     float: right;
-    line-height: $base-line-height;
+//    line-height: $base-line-height;
     font-weight: 400;
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
@@ -48,7 +48,6 @@
 .site-header {
   background: $base-head-background-color;
   font-family: $bookend-font;
-  font-weight: $base-font-weight*2;
   // border-bottom: 4px solid $light-grey;
   padding-top: $base-spacing-unit;
   padding-bottom: $base-spacing-unit;
@@ -99,7 +98,4 @@
 }
 .smaller-type {
     font-size: $small-font-size;
-}
-.more-link {
-    font-family: $secondary-font-family;
 }
