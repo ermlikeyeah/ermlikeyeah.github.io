@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Olympics book in Berlin
+title: 1976 Olympics book in Berlin
 date: '2019-04-02 14:00:00'
 tags: [posters, manifestos]
 ---
