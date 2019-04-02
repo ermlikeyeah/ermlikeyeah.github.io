@@ -27,4 +27,4 @@ I grabbed me some of those sheets and had them stuck to the shed whiteboard sinc
 
 {% include image.html url="/assets/ual-design-school-manifesto.jpg" description="The two tear sheets I grabbed: Point 7 and the overall manifesto" %}
 
-I bloody love that seventh point. From the corridor of UAL to the corridor of uncertainty. Always in that ain't we.
+I bloody love that seventh point. From the corridor of UAL to the corridor of uncertainty. Always in that corridor of uncertainty ain't we.
