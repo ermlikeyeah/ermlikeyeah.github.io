@@ -2,7 +2,7 @@
 layout: post
 title: 1976 Olympics book in Berlin
 date: '2019-04-02 14:00:00'
-tags: [posters, manifestos]
+tags: [Olympics, 1970s]
 ---
 Over on Kickstarter there's a project I've pledged to support, a [book on the design team for the 1972 Olympics](https://www.kickstarter.com/projects/munich72/munich-72-the-visual-output-of-otl-aichers-dept-xi/description), Dept. XI.
 
