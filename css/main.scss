@@ -28,24 +28,26 @@ $bookend-font: $sans-serif-font;
 $base-text-color: $off-black;
 
 $base-font-size: 22px;
-$base-font-weight: 400;
+$base-font-weight: 500;
 $strong-font-weight: $base-font-weight * 1.5;
 
 $small-font-size:  18px;
+$line-height-ratio: 1.4;
 
+$base-line-height: $base-font-size * $line-height-ratio;
 $base-spacing-unit: 32px;
 
 $h1-font-size: $base-font-size * 1.8;
-//$h1-line-height: $h1-font-size * $line-height-ratio;
+$h1-line-height: $h1-font-size * $line-height-ratio;
 
 $h2-font-size: $base-font-size * 1.4;
-//$h2-line-height: $h2-font-size * $line-height-ratio;
+$h2-line-height: $h2-font-size * $line-height-ratio;
 
 $h3-font-size: $base-font-size * 1.2;
-//$h3-line-height: $h3-font-size * $line-height-ratio;
+$h3-line-height: $h3-font-size * $line-height-ratio;
 
 $h4-font-size: $base-font-size;
-//$h4-line-height: $h4-font-size * $line-height-ratio;
+$h4-line-height: $h4-font-size * $line-height-ratio;
 
 $base-background-color: $off-white;
 
