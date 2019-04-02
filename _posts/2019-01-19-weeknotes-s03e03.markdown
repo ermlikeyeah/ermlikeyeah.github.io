@@ -1,0 +1,113 @@
+---
+layout: post
+title: Weeknotes week commencing Monday 14 January 2019
+date: '2019-01-19 17:00:00'
+tags: [weeknotes, weeknotes s03]
+---
+## Worky stuff
+
+Monday was working from the shed. Some product design work. Some graphic design. Sorting some new stickers. Reprinting some old ones. And a long video call with a user researcher who has recently joined join the project I am assigned to — Janine — giving an overview, the main shape of the project. After the best part of a year having a little bit of a user researcher here and there to go with the team’s “best efforts” (me doing it/fitting it in, the business analysts taking some investigatory work on) it feels a little strange having someone else pick up driving the user research. In some ways it feels like a handover.
+
+{% include image.html url="/assets/2019-01-19-1.png" description="Me working from the shed on Monday. I am doing a thumbs up because it was a thumbs up kind of day. I hate pictures of me. I hate posing for pictures. I hate taking selfies." %}
+
+One of the minuses of working from home on a Monday is missing out on the the Leeds design community meets. On the other hand with everything else I’ve had on I have not actually been to a community meet for a couple of months. The Leeds design community has mapped out its Monday meets for the next couple of months, the members of the community getting together to organise. The shape of the design community in Leeds has changed in my 14 months at DWP. [Rebekah](https://twitter.com/BeksVB) and [Emilene](https://twitter.com/EmileneCoventry) — two people the chance to work with was so appealing, two people with bags of experience — have moved on, but others have stepped up recently. Cheering to see.
+
+Even though I was remote, I wasn’t alone: The DWP Digital design community is spread across the country. We use Slack to talk together. There is always some grounded openness from the team, but Monday seemed to kickstart a week of particularly keen curiosity and sharing. The Manchester based designers have spent some time getting a workflow together, focusing on ideas and hypotheses, and were giving it a go. There were also some good discussions about collecting “addresses” and how/whether we indicate someone DWP staff are working with has particular needs.
+
+Tuesday: A day trip to Blackpool. Amongst the few laughs was a lot more serious business, catching up with the designers there — mainly hour long one-on-ones — and reviewing a team’s progress (and doing a quick half hour design workshop to explore some possibilities). It feels in the nine months since I first started my fortnightly trips to Blackpool things have come on: I can hear and I can feel the positive changes in process, approaches to work, and outcomes. It feels more… mature. More teams are embracing being user-centred, not just leaning on the user researcher and designer to lead it. Product owners like [Debbie](https://twitter.com/DebBlanch44) make this happen.
+
+Being in Blackpool I missed the cross gov design meet. Coming back to gov from NHS Digital I wanted to make sure I regularly went to the cross gov design meets. I’ve been to none in 14 months. Sad face. Twitter let me catch up with one of our service designers, [Jacinta](https://twitter.com/jacintamellejam), talking about helping people in crisis. Excellent.
+
+Wednesday: Picking up going through the product I am on with Janine, the user researcher. I had my weekly one-to-one with one of the interaction designers in Leeds, [Richard](https://twitter.com/srich_2017). I’ve really enjoyed my time with Rich over the months. There’s a comfortable at-ease in our sessions which makes them constructive and fun. Seeing Rich come on the last year has been rewarding too.
+
+For my lunch break I nipped out to do a design review with a couple of friends who were looking for another set of eyes on their design work.
+
+I spent a few hours reading some outputs from an earlier discovery.
+
+The plan for Thursday was to bring some detail and clarity to lots of vagueness, flicking between planning research sessions the next day and getting some longer term strategic stuff worked through. Eeeeee.
+
+To help clear the fog we needed another show and tell. Last week we had a show and tell for the first time in ages and I did a little nudging to have another this week too. We’re in the middle of pulling a massive feature together. It might not end up being shipped in a way we are *totally* happy with, but there is the bones of something solid there, something to be alright about which we can improve. Working with people who are OK showing off something that might trip over due to a code issue is something I never take for granted. It isn’t easy having all eyes on you with the uncertainty the code will hang together and even worse when things break down. I am lucky to work with some brave and egoless developers who will have a go showing their work off.
+
+{% include image.html url="/assets/2019-01-19-2.png" description="One of the developers I work with giving a demo of the work he’d been doing, along with other members of the team." %}
+
+Prep for the user research sessions the next day was the main goal. Lots of reckons, assumptions, and even — ahem — wants have gone into the design work. We had questions and we needed answers! How much do you show your proposed designs? How much does the design work invite conversation (or put off coversation)? We did some changes to the design work to help with the conversations planned.
+
+{% include image.html url="/assets/2019-01-19-3.png" description="On a video call with James, Mark, and Janine (who was on the other end of the line). We are trying to work out where we are up to ahead of user research sessions the next day." %}
+
+An example: We hypothesised based on behaviours elsewhere around the product replaying whether letters go to the citizen or an appointee would be enough for the staff to know a letter would be created with the address of the citizen or the appointee on. “This letter will go to the customer” as a statement. However we wanted to talk with the staff and felt this statement would be read or skimmed over, so agreed to change the statement to a question in the prototype. This would make the attendees of the research sessions interact on screen and be a visual prompt to talk about what could work there.
+
+{% include image.html url="/assets/2019-01-19-4.png" description="A grab of a statement we changed to a question to encourage discussion in the research sessions." %}
+
+I had a chat about what is “a proper discovery” and what isn’t.
+
+A problem popped up in what we were actually making: A situation had popped up from staff using the live product: We needed to ask for a further question in those occasional situations. Five of us huddled for ten minutes and went through the scenario. We talked through some possible interface approaches. The team already had some ideas. Because time was short – mine and the team’s to get this made, to get this fixed even – with the team there I sketched something for them to refer to.
+
+{% include image.html url="/assets/2019-01-19-5.jpg" description="A picture of the sheet of A3 paper with my scribblings on." %}
+
+I went through the sketch after scribbling it to see if anyone understood. Two team members did, so they could use that as a reference to get on. A business analyst wrote a full story and later on when I got the chance I created neater visual references.
+
+{% include image.html url="/assets/2019-01-19-6.png" description="A grab of a better visual I pull together for the team." %}
+
+The comfort of the team again.
+
+I ended up working well into Thursday night (after a trip to the gym) doing tweaks to the prototype we were going to use the next day, slotting in the narratives had come up during the day, intending to test with. Way less than ideal but when is it ever. On pulling together the stimulus, when I think I have got the stimulus for research sessions ready I go through it with the discussion guide. If I find a problem I correct it and then go back a step or two in the guide and go again. When I get to the end I always, always have another run through from the start of the guide. If I didn’t I probably wouldn’t get to sleep or be up early to check everything is OK. Closure before bedtime is a big deal for me.
+
+After waiting weeks for this Friday to come because of the design examples meet, I had to give the trip to London a miss. A shame but a) great the design examples meet happened, b) through Slack some of the posse there sent me updates.
+
+Back in the office, I didn’t stand in the way of Janine — the user researcher — and James — a business analyst — running the remote user research sessions. I had a lot of bits and bobs to do while the sessions went on. I sat next to James most of the day to see how the sessions were getting on and how he was getting on with them. Mid-afternoon, once the sessions were over, I joined Janine and James for a call to see what they felt were the main successes and main problems. I noted them down. Janine is going to do some deeper analysis, but there’s a starter for next week.
+
+One of the bits and bobs for the day was meeting [Simon McKinnon](https://twitter.com/simon_mckinnon), the interim Chief Digital and Information Office at DWP Digital, was in Leeds. Tracy — the delivery manager on my project — and I gave Simon a short profile of our team’s work. The comms team put a neat little video of Simon in Leeds [on Twitter](https://twitter.com/dwpdigital/status/1086309297670238212?s=21).
+
+The day and the working week ended with the team I am on making a release. Staff had gone home so we kicked into action. By mid-evening the release was done, with most of the team having offered help and support through Slack. That release has just gone out as I hit publish on these weeknotes.
+
+## Non-worky stuff
+
+Finished the first season of Runaways. Yeah. Liked that.
+
+I don’t support Leeds United but I found the furore over their manager’s research methods fascinating.
+
+[High Life](https://www.youtube.com/watch?v=AtOwfo1ypOw) looks ACE.
+
+Random thought: *trust* is the not same as *a belief you will receive a service* (let alone a good service).
+
+I enjoyed reading [the rationale for the new Slack identity](https://slackhq.com/say-hello-new-logo). Would’ve been a good brief if it was that well-formed at the start of the project. I also enjoyed seeing Pentgram share [some of their working through](https://www.pentagram.com/work/slack?rel=sector&rel-id=12). I enjoyed reading someone writing that the new identity “isn’t iconic”. It is literally an icon, you doughnut.
+
+## Ch-check it out
+
+I read a lot of pieces this week. There was also a high percentage of really good stuff in there. Here’s the good stuff.
+
+Chris Thompson’s January of elephant drawings he is [sharing on Twitter](https://twitter.com/mrcthompson/status/1086366932926980096).
+
+Jeanette Clement over at Parliament on [Understanding services through user needs](https://pds.blog.parliament.uk/2019/01/11/understanding-services-through-user-needs%E2%80%AF/)
+
+[BEM for everyone else](https://medium.com/@davehouse_80809/bem-for-everyone-else-89ccc8ad66f2)
+
+[If care is priceless, why do we treat it as worthless?](https://medium.com/doteveryone/https-medium-com-doteveryone-if-care-is-priceless-why-do-we-treat-it-as-worthless-9101f66a423a)
+
+David Ayre on [A constant work in progress](https://blog.wearefuturegov.com/a-constant-work-in-progress-fe2e88e1ac50)
+
+Anna Shipman's [JFDI](https://www.annashipman.co.uk/jfdi/finding-next-level-job.html)
+
+[The ‘Amen break’ is the ultimate design pattern](https://uxdesign.cc/the-amen-break-is-the-ultimate-design-pattern-53701e79e461)
+
+Co-op Digital on [We are not our users: we should not tell them how to feel](https://digitalblog.coop.co.uk/2019/01/17/we-are-not-our-users-we-should-not-tell-them-how-to-feel/)
+
+[Rethinking the Housing Experience with San Francisco’s Government and Residents](https://www.frogdesign.com/designmind/rethinking-the-housing-experience-with-san-franciscos-government-and-residents/), from Frog
+
+[Design guidelines for mobile date-pickers](https://uxdesign.cc/design-guidelines-for-mobile-date-pickers-8e8d87026215)
+
+[Service Design and UX Design: What’s the Difference?](http://trydesignlab.com/blog/service-design-ux-design-what-is-the-difference/)
+
+[Product Management and Society](https://medium.com/digitalhks/product-management-and-society-a253eb8f3678)
+
+Jarrod Spool on [Jobs To Be Done: An Occasionally Useful UX Gimmick](https://articles.uie.com/jobs-to-be-done-an-occasionally-useful-ux-gimmick/)
+
+[Clarity and shared direction](https://www.localwelcome.org/blog/2019/1/18/clarity-and-shared-direction)
+
+[Observational research: 5 tips for improving your approach  ](https://hodigital.blog.gov.uk/2019/01/18/observational-research-5-tips-for-improving-your-approach%E2%80%AF%E2%80%AF/)
+
+[Martin Scorsese's favourite films](https://mubi.com/lists/martin-scorseses-favorite-films)
+
+## Coming up
+
+Monday: Analysis of the research sessions, identify next steps, get on with some of that (design) work. Review everything with a content designer. Later on in the week there’s also doing interviews, being on an assessment panel, a trip to Newcastle for our regular interaction design meet, and a day off/out in Nottingham for New Adventures. Phew.

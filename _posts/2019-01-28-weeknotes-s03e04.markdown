@@ -1,0 +1,31 @@
+---
+layout: post
+title: Weeknotes week commencing Monday 21 January 2019
+date: '2019-01-29 17:00:00'
+tags: [weeknotes, weeknotes s03]
+---
+A bit of everything week: Attending an assessment as a design assessor (and the associated prep beforehand and write-up afterwards). Helping with job interviews. Setting up a day of user research sessions (which meant doing some design work and then setting up a prototype as a stimulus). Floating in to help a couple of things with some “quick design work”, and filling in because people were away. Saying goodbye to [James](https://twitter.com/JamesCapiche). Some [Leeds gov design](http://eventbrite.co.uk/e/leeds-gov-design-meet-7-…) prep. Lots and lots of stuff and lots and lots of context switching. I had to give [New Adventures](https://newadventuresconf.com/) and our own interaction design meet a miss. (I am thankful some of the design team shared what was going on at the latter through Slack.)
+
+It was the week I realised that most of my work for the last few weeks has been more “managery” stuff than “designery” stuff. I am not going to get tied up in a practitioner versus manager argument in my head. I’ve been running away from being back in that situation for five or six years. If it helps more people become better designers, and more people understand the possibilities of designing to shape their products and services, and helps more people make better designed products and services, whatever.
+
+I gave up drinking just after Christmas. I wasn’t getting smashed every time I got the chance, but I thought giving it up might help a couple of things (blood pressure, remove some more head fuzz). Over the last 20 years the end of the working week has usually meant a drink — Or two. Or three. — to see in the weekend. This meant it was normal to see out the working week with a heightened sense of Excitement! or Love! or burying disappointment. I’ve also been back running more regularly, on most days, and now running isn’t painful, now running is something I just get on with I find when I am running is when my mind is most calm. I feel measured and focused. I feel the most measured and focused for a long long time. Doing a bit of everything is making me think. And I have the time and headspace to think.
+
+A week with some interesting chats about service design (What is service design? What is good service design? A look through a really good example of service design.). Yet more talk about how research can help us make better decisions. (Rather than research helps us make better decisions, unfortunately, but the hope, eh.) Off the back of that what is good product strategy? How deep should a team go when they are discovering? All good problems. Enjoying seeing how some have had a go at solving them.
+
+Over on Twitter [Tom Read](https://twitter.com/thommeread), the chief digital officer at the Ministry of Justice, was [openly showing](https://twitter.com/thommeread/status/1088520016889348103) he was having Quite The Week. I have a lot of time for Tom, feels he is “one of us”, been in the trenches of grunt work, a mucker in. (As opposed to the CDO who has been an exec all their life and not worked their way through the rough and smooth of delivering some thing. Way too many of them at the top.of the tree.) Tom’s tweets and a few other things have me still wondering are — or have swayed towards being — way more reactive rather than proactive. Have we wrestled all the way to being agile (with a lower case A) so we are Delivering without thinking of enough safety nets? It’s like brushing teeth: you don’t just give them the littlest of sweeps: You do it at least twice a day, going over them all, for about 90 seconds. Just enough. That analogy needs some work. But there’s a pragmatic middle ground between Just Get The Thing Out There! and Yes, But Before You Launch This Have You Thought About Yet Another Thing.
+
+Watched the [Fyre festival documentary on Netflix](https://www.netflix.com/title/81035279). “Disruption” and “entrepreneur” popped up a few times during it. Shudder. The line between constructive disruption based on experience and skill versus just flat out (over-)promising, blagging, *it’ll work out, somehow* was exposed. (Turns out the latter is fraud, end of, in the context of the Fyre documentary.) Plenty of that in the world of digital, though. *Bring me solutions not problems* rung out. Hear a bit too much of that still. Starting with problems means embracing problems, boss people. There was some people- and job-shaming on Twitter about the documentary’s talking heads. I dunno. People are caught into the moment. People have bills to pay. People would rather have a job to pay the bills. Ideals over empathy, huh? It’s easy to preach from ivory towers, I guess. Be the change you want to see. 🤔😉
+
+## Ch-check it out
+
+Jon Kolko's [A Strategic Storytelling Tutorial](http://www.themoderniststudio.com/2019/01/07/the-mechanics-of-strategic-storytelling/)
+
+Jordan Hatch on [Organising around users](https://jordanh.net/posts/organising-around-users/)
+
+[Should we measure if a digital service is a good citizen of the web?](http://mrdudders.posthaven.com/should-we-measure-if-a-digital-service-is-a-good-citizen-of-the-web)
+
+[Maintenance and Care: A working guide to the repair of rust, dust, cracks, and corrupted code in our cities, our homes, and our social relations.](https://placesjournal.org/article/maintenance-and-care/?cn-reloaded=1)
+
+[Ghost branded generics: Why does the cost of generic atorvastatin vary?﻿](https://ebmdatalab.net/ghost-branded-generics-why-does-the-cost-of-generic-atorvastatin-vary%EF%BB%BF/)
+
+[Razors, pitchforks and the importance of energy over purpose](https://thechallengerproject.com/blog/2019/razors-pitchforks-and-purpose)
