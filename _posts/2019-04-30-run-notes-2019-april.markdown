@@ -18,7 +18,7 @@ Vary the runs away from lots and lots of tread milling.
 
 #### The words
 
-I entered the month suffering from a hurty hamstring after playing basketball late in March. I had planned to run 120km in April and wanted to reach that – so a tentative start to the month, more at a nursing pace for runs. I still clocked 23km for week 1.
+I entered the month suffering from a hurty hamstring after playing basketball late in March. I had planned to run 120km in April and wanted to reach that – so I took a tentative start to the month, more at a nursing pace for runs to ease in. I still clocked 23km for week 1.
 
 I had planned some variety in the type of runs I did so picked that up after this initial “safety week”.
 
