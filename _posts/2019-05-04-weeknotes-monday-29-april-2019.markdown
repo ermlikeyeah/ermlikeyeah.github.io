@@ -60,4 +60,4 @@ All the amazing events at Leeds Digital Festival that were focused for and aroun
 
 #### Exit mood
 (Inspired by [Joanne Rewcastle](https://twitter.com/joannerewcastle)’s regular end of week tweet.)
-Confident we are moving forward in the right way.
+Tough, tough week. But confident we are moving forward in the right way in the right direction.
