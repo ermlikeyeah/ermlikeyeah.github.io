@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Weeknote for Monday 29 April to Friday 3 May
+title: Weeknote for Monday 29 April 2019 to Friday 3 May 2019
 date: '2019-05-04 8:45:00'
 tags: [weeknotes]
 ---
