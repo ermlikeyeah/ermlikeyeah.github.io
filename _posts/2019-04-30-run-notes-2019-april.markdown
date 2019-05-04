@@ -10,11 +10,19 @@ tags: [running]
 
 I hit my running target for the year - 320km - in March, so a few months ahead of schedule. I revised my goal for the year ahead - to 1092km - recorded in [my little tracking spreadsheet](https://www.icloud.com/numbers/0cWhQqgPDF2FKXSnUdB79lWVw#2019_running).
 
-#### Goal(s) for April 2019
 
-Run 120km.
+#### The goals and numbers for the month (April)
 
-Vary the runs away from lots and lots of tread milling.
+Distance goal for the month: 120 kilometres
+Total distance run for the month: 124.7 kilometres
+At the end of the month, total distance run for the year: 451.43 kilometres
+
+(You can look at [my simple Numbers spreadsheet](https://www.icloud.com/numbers/0cWhQqgPDF2FKXSnUdB79lWVw#2019_running) that helps me keep track.)
+
+Ran [my fastest 10km](https://www.strava.com/activities/2301128691) (although on a treadmill), at 51:02, [rah](https://www.instagram.com/p/BwFwnkCFJVa/). Had had a particularly shitty day at work and yes there’s a pattern about length of run and speed of run against shitiness of day at work.
+
+Goal: Vary the runs away from lots and lots of tread milling. (More on that to follow.)
+
 
 #### The words
 
@@ -38,30 +46,19 @@ I’ve been trying to read a few books abut running. In April I read [What I Tal
 
 I set up [an account on Strava](https://www.strava.com/athletes/41247532), fed by my Nike Run Club account. Makes runs shareable. Some nice analysis in Strava too. See how it goes. Feel free to follow me. I’m not very competitive with this running lark. A personal best for me is just getting out running every couple of days and not hating it.
 
-#### The numbers for the month (April)
-
-Total distance run for the month: 124.7 kilometres
-
-Total distance run for the year: 451.43 kilometres
-
-(You can look at [my simple Numbers spreadsheet](https://www.icloud.com/numbers/0cWhQqgPDF2FKXSnUdB79lWVw#2019_running) that helps me keep track.)
-
-Ran [my fastest 10km](https://www.strava.com/activities/2301128691) (although on a treadmill), at 51:02, [rah](https://www.instagram.com/p/BwFwnkCFJVa/). Had had a particularly shitty day at work and yes there’s a pattern about length of run and speed of run against shitiness of day at work.
-
 #### Next month goals
 
-Run 120km
+Run at least 120 kilometres
 
-Run eight 10kms
+Eight runs of at least 10 kilometres
+
+At least six weekday morning runs over the month
+
+Try to only have eight days in the month off running
 
 Run a half marathon
-
-At least two weekday morning runs per week
-
-Try to only have four days in the month off running
+I’ve entered the [Leeds half marathon](https://www.runforall.com/events/half-marathon/leeds-half-marathon/). Not thinking of it as anything special, just a new course with a couple of big differences: some climbs and lots of other people. I don’t see running as a social thing. It’s a me thing, so running with lots of other people is not going to be fun. If I get round in two and a half hours I would be happy. Ahead of the race I find it strange there’s no obvious to find route data to download, just the route as image. I just thought with the rise of running apps and tracking using mobile devices route data would more easily find and consumable. Assumptions, eh.
 
 Enjoy it all - when I don’t take a step back, think why and change or avoid in future
 
-I’ve entered the [Leeds half marathon](https://www.runforall.com/events/half-marathon/leeds-half-marathon/). Not thinking of it as anything special, just a new course with a couple of big differences: some climbs and lots of other people. I don’t see running as a social thing. It’s a me thing, so running with lots of other people is not going to be fun. If I get round in two and a half hours I would be happy. Ahead of the race I find it strange there’s no obvious to find route data to download, just the route as image. I just thought with the rise of running apps and tracking using mobile devices route data would more easily find and consumable. Assumptions, eh.
-
-So, hopefully I’ll be writing again having passed 571 kilometres for the year so far. 🤞🏼
+Hopefully I’ll be writing again having passed 571 kilometres for the year so far. 🤞🏼
