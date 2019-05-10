@@ -19,7 +19,7 @@ Andy, Sam, and Jo got some good pointers about the structure of the product they
 
 Ending the week reviewing where Thursday took us was fun. I am basically – and emphasis on _basic_ – using a spreadsheet to make a matrix that allows me to get across what we know/have, what we don’t have, what we need to look into more, and a suggestion of priority. Some colours here and there to show that and that’s next week set up.
 
-I moved the research planning board/chart hung up in the Leeds office away from the corner of the office. It’s now on the boards near where we usually sit: Easier for us to get access to but also there’s a lot of footfall so more visible to our team – and other teams.
+We moved the research planning board/chart hung up in the Leeds office away from the corner of the office. It’s now on the boards near where we usually sit: Easier for us to get access to but also there’s a lot of footfall so more visible to our team – and other teams.
 
 #### What next?
 
