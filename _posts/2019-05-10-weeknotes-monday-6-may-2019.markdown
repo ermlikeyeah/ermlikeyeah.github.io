@@ -13,7 +13,7 @@ Planning was solid, some clear goals and then some clear tasks to help us meet t
 
 Wednesday was elaboration of planning and show and tell. It’s important at show and tell to be clear to people who are interested in what we are doing about 1. What we did, and 2. Why we did it. (Usually not in that order: scene set then delve into outcomes.) Jo, Sam, and Lisa did excellent work getting across the two pieces of work they’ve been focused on, and by showing the work we’ve done. Tangibles for the win.
 
-All day Thursday was on-site working through the service, evaluating how comfortable we all are with the make up of it. I wasn’t looking for a complete picture, but was looking for what we knew, what we needed to delve into. What are the steps? What is the outcome we are looking for in each step? What is the output from each step? Some stuff is down already, as process maps or checklists. Some stuff is in people’s heads. We need to just get it all visible. I came up with a laboured analogy about a relay race, and knowing who is running and what their running style is. When we’re racing we just need to know the baton gets passed on, but while we\'e training we need to work on each runner’s approach so we can be comfortable we’ll get the baton. I know. It needs work, OK?
+All day Thursday was on-site working through the service, evaluating how comfortable we all are with the make up of it. I wasn’t looking for a complete picture, but was looking for what we knew, what we needed to delve into. What are the steps? What is the outcome we are looking for in each step? What is the output from each step? Some stuff is down already, as process maps or checklists. Some stuff is in people’s heads. We need to just get it all visible. I came up with a laboured analogy about a relay race, and knowing who is running and what their running style is. When we’re racing we just need to know the baton gets passed on, but while we’re training we need to work on each runner’s approach so we can be comfortable we’ll get the baton. I know. It needs work, OK?
 
 Andy, Sam, and Jo got some good pointers about the structure of the product they are designing and are moving to get them firmed up already. They’re using a spreadsheet as it’s easy to edit and move things around. They can then use that as the basis to update an in-browser prototype.
 
@@ -23,7 +23,7 @@ I moved the research planning board/chart hung up in the Leeds office away from 
 
 #### What next?
 
-Pick up the service designing next week. A couple of days booked out to get that detail in place. Looking forward to it.
+Continue the service designing next week. A couple of days booked out to get that detail in place. Looking forward to it.
 
 We need to share our progress on the product with the immediate team. To help with that we need to continue to show our thinking as tangibles. Andy and Sam have that in hand with their prototyping plans.
 
@@ -32,7 +32,7 @@ I am hoping I find time to observing people, that Lisa has set up. I’ve a lot 
 
 #### Inspiration
 
-When I am focused on getting some specific thing continually chugging along I don’t tend to find much time to look outwards, so I haven’t had much chance to look at Twitter or any blog posts. I did find time to catch most of the European football semi-finals on Tuesday, Wednesday, and Thursday. And had a lovely run along the canal last night, even if it was a little cold. Good to clear the head after a brain bashing day.
+When I am focused on getting some specific thing continually chugging along I don’t tend to find much time to look outwards, so I haven’t had much chance to look at Twitter or any blog posts. I did find time to catch most of the European football semi-finals on Tuesday, Wednesday, and Thursday. And had [a lovely run along the canal](https://www.strava.com/activities/2354732134) last night, even if it was a little cold. Good to clear the head after a brain bashing day.
 
 #### Exit mood
 
