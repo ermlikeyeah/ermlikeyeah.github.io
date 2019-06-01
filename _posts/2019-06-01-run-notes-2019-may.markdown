@@ -4,9 +4,10 @@ title: Run notes for May 2019
 date: '2019-06-01 13:00:00'
 tags: [running]
 ---
-#### Distance run at the end of the previous month, April / goal for the year
+#### Figures at the end of the previous month, April 2019
 
-451.43 kilometres / 1092 kilometres
+Distance ran in April / distance ran for the year by the end of April / goal for the year
+124.7 kilometres / 451.43 kilometres / 1092 kilometres
 
 Recorded in [my little tracking spreadsheet](https://www.icloud.com/numbers/0cWhQqgPDF2FKXSnUdB79lWVw#2019_running).
 
