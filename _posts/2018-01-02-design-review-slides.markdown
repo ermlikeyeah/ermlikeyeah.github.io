@@ -6,7 +6,7 @@ tags: [critiques, design tools]
 ---
 December is rarely a steady month, usually a slow one for some, or a too-frantic one for others.
 
-Whether you’re stating the new year as a new you or an old you, take a little time out for a design review of some work you did in the closing stages of 2017.
+Whether you’re starting the new year as a new you or an old you, take a little time out for a design review of some work you did in the closing stages of 2017.
 
 (Note: I prefer “review” over “crit”, as “crit” is sometimes misread as being short for “criticism” and in some people’s minds that’s another work for “attack”. Remove ambiguity from the start.)
 
