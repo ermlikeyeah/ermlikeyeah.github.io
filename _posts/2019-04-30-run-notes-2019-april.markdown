@@ -2,7 +2,7 @@
 layout: post
 title: Run notes for April 2019
 date: '2019-04-30 23:00:00'
-tags: [running]
+tags: [running, run notes]
 ---
 #### Distance run at end of previous month (March)
 
