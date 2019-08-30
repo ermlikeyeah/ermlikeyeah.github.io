@@ -1,0 +1,47 @@
+---
+layout: post
+title: Weeknote for week 35 of 2019, week commencing 19 August 2019
+date: '2019-08-30 16:00:00'
+tags: [weeknotes]
+---
+*Bank holiday Monday*, always a fun day. Lovely and warm to me, but possibly alarmingly warm to others and the planet. Went indoor climbing indoors, where the warmth outside was felt inside as I rose to the top of the walls, like climbing was being a human thermometer. At the bottom comfortably warm, at the top where the heat had risen means clammy antecubital fossas.
+
+Monday marked a year of Getting My Body Better Step One (a year back I did a 2km run along the East River in New York where I told myself I will fix my body goddammit), so went out for [a celebratory run](https://www.strava.com/activities/2653585603). Eeee, I remember when celebration were about BOOZE and CAKE not moving faster than walking pace in 26 degree warmth. I wasn’t that bothered running in the heat, which felt like an indicator how far I’ve come since last August, along with doing 10km at a  _steady pace_  in 56 minutes and 9 seconds (nowt too fast). I broke up the usual routine of running along the canal towpath and back by crossing the river at the halfway point and going for an exploratory adventure. Must have stopped about six times to check which way to go at a fork. But! Running has got me out more and back to just seeing where I go.
+
+No BOOZE and CAKE but I did have a couple of non-booze beers afterwards (Brewdog alcohol free) and made paella, which is like a groovy Pot Noodle but made with mainly fresh foods not dried foods, rice instead of noodle, made in a pan instead of a plastic cup, soaks for half an hour rather than three minutes, and because paella is Spanish makes you think of, well, Spain and Spanishness, rather than [the snack of English tradesmen](https://www.youtube.com/watch?v=M8ey2kg8-WQ).
+
+Day 1 of _should have found half an hour to weed the garden but didn’t_.
+
+*Tuesday* worked from the shed. Humid, muggy, warm in the shed, but not like being in a sauna.
+
+Had some back trouble (nothing major) so thought standing not sitting would be better for me. Propped the desk in the shed higher using a storage box under each leg. Had a few remote sessions: For stand up I was stood up too. During workshops I was freely stood, while everyone else could be seen sat, slumped, even lurching on their chairs and stools. I had a lot of transposing from paper into something _digital_, and stood drinking coffee, _looking over_ what I was working through felt a lot lighter in my head as well as in my body.
+
+Had some nice chats about what makes a good user researcher, what makes good product culture (and what doesn’t), and started digging up some old notes and scribbling new plans. Didn’t actually add much new. But it’s nice to revisit what a good research-based design-driven product and service culture is like.
+
+Considered legging it to Grimsby for my first game of the season, the second round of the League Cup game - but also remembered I’d get back at gone 11pm and I need to get up at 5am the next day to drive to Newcastle. (I considered legging it to Grimsby on Saturday too, but took the boy climbing thinking it’d be a dull goalless draw and was massively wrong.) The game was called off. Phew.
+
+At about 5pm it started to rain for about five minutes, the odd patter on the roof. Man, the air was fresh. That just-rained feeling is more a smell than any other sense though, yeah?
+
+Decided to have a first go at cold brew coffee using my Aeropress, using [this method](https://youtu.be/XnqH7VFFlXE). Left it overnight and drank it on the drive up to Newcastle the next day. The method lead to tasty results.
+
+Day 2 of _should have found half an hour to weed the garden but didn’t_.
+
+*Wednesday* was a good on-site research session. Start with the people who deliver the service. What works, what doesn’t? They’ll tell you. They do it. They’ll also have fudges to get stuff done, tell you what is painful, and are some of the best navigators of internal processes. A cartographer’s dream and a goldmine for finding basics that need fixing.
+
+Lots of other workshops and reviews. Making slow, long work of mapping because of all the other things but need the other things to be happening so I can be mapping. But getting there.
+
+Was supposed to go for a run along the sea at Whitley Bay but left work at 7pm and I know I know work/life fail. But it was good to have some quiet time with some of the team working stuff out. Sarah even wrote [a smart little post](https://medium.com/@sarah.stokes/i-apologise-for-complaining-because-c3b27a4d521f) about our chat.
+
+*Thursday* was more mapping out journeys to get an idea of the flow of the service.
+
+Did [an introduction to service design show and tell](https://twitter.com/SarahRoseUR/status/1167112824176480256) to a surprisingly large audience. At the end I asked "Any questions?" The silence. Oh man. “Well, if you want to ask me anything and don’t want to say in front of everyone else just grab me afterwards or some other time." Had a couple of people I hadn’t met yet come to me afterwards and got a couple of follow up emails.
+
+*Friday* - today - was a shed day. I’ve politely put a couple fo design review sessions into sprints now and they might be a bind to some but today was one of those fruitful hours when people are together and they go deep and all come out with a lot more focus and understand. Session sleek these hopefully mean sessions preparing stories for development will be more focused on doing what the sessions are set up for, not pseudo design reviews. People sure do turning any meeting into a improv design review huh.
+
+This [Marty Cagan post on product teams versus feature teams](https://svpg.com/product-vs-feature-teams/) is worth your time. High probability it is relatable as well if you work in “the industry".
+
+Day 3 of _should have found half an hour to weed the garden but didn’t_, because the kids wanted to watch Dora the Explorer. Which I am off to watch now. I am predicting I will give it [6 out of 10](https://www.imdb.com/user/ur25681432/ratings).
+
+Next week I’ll hopefully share some of the mapping I’ve been doing. It’s good to know more people understand what service design is, are thinking wider than a digital product, and we’re starting to get a proper idea of what the service is. Win win.
+
+Still don't have Slack back on my phone, by the way. All good.
