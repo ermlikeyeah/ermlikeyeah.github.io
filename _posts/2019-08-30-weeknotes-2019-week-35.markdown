@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Weeknote for week 35 of 2019, week commencing 19 August 2019
+title: Weeknote for week 35 of 2019, week commencing 26 August 2019
 date: '2019-08-30 16:00:00'
 tags: [weeknotes]
 ---
@@ -12,7 +12,7 @@ No BOOZE and CAKE but I did have a couple of non-booze beers afterwards (Brewdog
 
 Day 1 of _should have found half an hour to weed the garden but didn’t_.
 
-*Tuesday* worked from the shed. Humid, muggy, warm in the shed, but not like being in a sauna.
+*Tuesday* worked from the shed. It’s week 6 on NHS Jobs, working with [Difrent](https://difrent.co.uk) and [NHS BSA](https://www.nhsbsa.nhs.uk) as a service designer. Humid, muggy, warm in the shed, but not like being in a sauna.
 
 Had some back trouble (nothing major) so thought standing not sitting would be better for me. Propped the desk in the shed higher using a storage box under each leg. Had a few remote sessions: For stand up I was stood up too. During workshops I was freely stood, while everyone else could be seen sat, slumped, even lurching on their chairs and stools. I had a lot of transposing from paper into something _digital_, and stood drinking coffee, _looking over_ what I was working through felt a lot lighter in my head as well as in my body.
 
@@ -36,7 +36,7 @@ Was supposed to go for a run along the sea at Whitley Bay but left work at 7pm a
 
 Did [an introduction to service design show and tell](https://twitter.com/SarahRoseUR/status/1167112824176480256) to a surprisingly large audience. At the end I asked "Any questions?" The silence. Oh man. “Well, if you want to ask me anything and don’t want to say in front of everyone else just grab me afterwards or some other time." Had a couple of people I hadn’t met yet come to me afterwards and got a couple of follow up emails.
 
-*Friday* - today - was a shed day. I’ve politely put a couple fo design review sessions into sprints now and they might be a bind to some but today was one of those fruitful hours when people are together and they go deep and all come out with a lot more focus and understand. Session sleek these hopefully mean sessions preparing stories for development will be more focused on doing what the sessions are set up for, not pseudo design reviews. People sure do turning any meeting into a improv design review huh.
+*Friday* - today - was a shed day for me. I’ve politely put a couple of design review sessions into each of the last two sprints now. They might be a bind to some but with a large team they're important points to see where we are going with our designing, get the wider input of the team. Today was one of those fruitful hours when people are together, they go deep and all come out with a lot more focus and understanding _across the whole team's workflow_. Great work from [Scott](https://twitter.com/NoCarsScott) Sessions like these hopefully mean get-togethers preparing stories for development will be more focused on doing what the sessions are set up for, not pseudo design reviews. People sure do like to turn any meeting into a improv design review huh.
 
 This [Marty Cagan post on product teams versus feature teams](https://svpg.com/product-vs-feature-teams/) is worth your time. High probability it is relatable as well if you work in “the industry".
 
@@ -45,3 +45,5 @@ Day 3 of _should have found half an hour to weed the garden but didn’t_, becau
 Next week I’ll hopefully share some of the mapping I’ve been doing. It’s good to know more people understand what service design is, are thinking wider than a digital product, and we’re starting to get a proper idea of what the service is. Win win.
 
 Still don't have Slack back on my phone, by the way. All good.
+
+Not sure about this day by day approach to publishing notes.
