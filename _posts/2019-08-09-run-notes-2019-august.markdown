@@ -19,6 +19,8 @@ Run 100 kilometres. (I ran 70.6 kilometres, which was less than the desired 100 
 
 Enjoy it still. (I am, possibly the most in July than I did any time before.)
 
+Now up to 1013 kilometres ran this year. 1092 kilometres is the goal for 2019 so just 79 kilometres to go. 🙌🏼
+
 #### The words
 
 I knew coming into this month it’d be a bit different. [Last month’s 200 kilometres](https://www.ermlikeyeah.com/run-notes-2019-july/) left me feeling a bit wiped out at the start. And a holiday was around the corner. So I had a few days off from running. See out a couple of days of work, spend a couple of days travelling, and...
