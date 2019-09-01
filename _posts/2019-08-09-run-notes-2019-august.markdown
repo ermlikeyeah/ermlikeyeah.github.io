@@ -1,3 +1,11 @@
+---
+layout: post
+title: Run notes for August 2019
+date: '2019-09-01 08:00:00'
+tags: [running, run notes]
+---
+
+
 # Run notes for August 2019
 
 #### Where I was at the end of the previous month, [July 2019](https://www.ermlikeyeah.com/run-notes-2019-july/)
