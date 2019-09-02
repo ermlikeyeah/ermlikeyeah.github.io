@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Weeknote for week 34 of 2019, 19 August 2019 to 23 August 2019
+title: Weeknote for week 34 of 2019, 19 August to 23 August
 date: '2019-08-23 17:00:00'
 tags: [weeknotes]
 ---
