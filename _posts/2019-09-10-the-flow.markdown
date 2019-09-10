@@ -48,6 +48,8 @@ With the first use — and with the following subsequent familiarisation uses �
 
 User go along journeys from stage to stage, but the journey can often not be linear. Automated checkouts are one of the most obvious, most prevalent examples in our regular lives of operational flows that don’t reflect or respond to a user’s instinctual, even changing, familiarity with a process. It’s like someone has done a flow diagram for a first time user, that diagram is signed off, we sprinkle some “UX” (or UI, whatever) on top, and the machines are sent out. Stick. To. The. Process.
 
+Automated checkouts are not the only example.
+
 Every day someone stands by those machines to help. But I wanted to know how many times a day is that mistake, putting bags down first before tapping `Brought Your Own Bags`, made by people?
 
 Wait. Sorry. I’ll correct that because the people aren’t wrong: How many times a day do people put their bags down first before tapping `Brought Your Own Bags`?
