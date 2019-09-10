@@ -6,7 +6,7 @@ tags: [weeknotes]
 ---
 *For a change, pretty much a copy and paste of my Evernote doc for this week, with a couple of snips and a couple of non-work things slung at the end.*
 
-Lots of thoughts about delivery, what's "good enough", do we actually have a widespread "product mindset" in gov (and not just in digital teams)? See _a lot_ of _get something out there_. Talk talk of a product mindset. Where does the value come into this? What is a “good product”?
+Lots of thoughts about delivery, what's "good enough", do we actually have a widespread "product mindset" in gov (and not just in digital teams)? See _a lot_ of _get something out there_. Talk talk of a product mindset. Where does the value come into this? What is a “good product”? [Nice blog post here on value](https://medium.com/swlh/escape-the-trap-of-user-tests-focus-on-the-service-value-24f9a1efdce9).
 
 Be realistic about what can get done - by being explicit. A little planning up front isn’t anti-agile. A little order helps you know you are making progress. Don’t hide the detail.
 
