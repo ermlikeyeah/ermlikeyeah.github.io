@@ -22,6 +22,13 @@ I was also informed I am the third person to ask.
 
 I said if people were informed of the situation sooner, they could make a decision what they need to do – do there and then when they see the warning or be prepared to do something a little later. I got a shrug back.
 
-If anyone wants to know what I do for a living, it’s that conversation – there is a situation where a problem has been observed; is there something we can do to solve the problem?; here is a possible solution to the problem; could we implement this solution? –  around other scenarios, repeatedly. Sometimes people agree.
+If anyone wants to know what I do for a living, it’s that conversation, around other scenarios, repeatedly.
+
+* There is a situation where a problem has been observed.
+* Is there something we can do to solve the problem?
+* There is? Here is a possible solution to the problem.
+* Does it seem any good? Could we implement this solution?
+
+Sometimes people agree with the suggested solution put forward. And sometimes of that sometimes the solution is implemented.
 
 So now you know.
