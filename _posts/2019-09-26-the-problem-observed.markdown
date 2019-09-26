@@ -4,9 +4,9 @@ title: The problem observed
 date: '2019-09-26 12:00:00'
 tags: [design, public design, roads, roadworks, signage, user flow]
 ---
-We live on a crescent. A crescent is a road that is a loop: You go into the crescent off a feeding road, go up one way, and if you keep going you will find yourself back where you started the loop.
+The road we live on is a loop road. You go into the loop at the bottom off a feeder road, go up the loop one way, and keep going until you find yourself back where you started. If you want you can go the other way round. Whichever direction, keep going round, and you will be back where you began. Along the road on both sides are houses, meaning there is an ”island” in the middle of the loop with houses.
 
-At the midpoint of our crescent they are doing roadworks.
+At the midpoint of our road, our looped road, they are doing roadworks.
 
 {% include image.html url="/assets/2019-09-26-the-street.jpg" description="The street with the roadworks" %}
 
