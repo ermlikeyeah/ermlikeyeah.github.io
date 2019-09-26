@@ -27,7 +27,8 @@ If anyone wants to know what I do for a living, it’s that conversation, around
 * There is a situation where a problem has been observed.
 * Is there something we can do to solve the problem?
 * There is? Here is a possible solution to the problem.
-* Does it seem any good? Could we implement this solution?
+* Does the solution seem any good?
+* Could we implement this solution?
 
 Sometimes people agree with the suggested solution put forward. And sometimes of that sometimes the solution is implemented.
 
