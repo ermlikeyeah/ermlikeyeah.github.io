@@ -32,4 +32,4 @@ If anyone wants to know what I do for a living, it’s that conversation, around
 
 Sometimes people agree with the suggested solution put forward. And sometimes of that sometimes the solution is implemented.
 
-So now you know.
+That is what I do for a living. So now you know.
