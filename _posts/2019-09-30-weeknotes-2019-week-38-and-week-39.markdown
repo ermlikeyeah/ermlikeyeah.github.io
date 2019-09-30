@@ -50,7 +50,7 @@ One of the biggest barriers this sprint has been calendar alignment. It hasn't b
 
 Linked: Trust. And again, it’s not about Agile or new ways of working. It’s about how you _manage the work_ and _how you coach (not manage) the people doing that work_. Structure and order and responsibility and trust and respect, rather than rule and command.
 
-Highlight of the last fortnight: Catching up with Isabelle Andrews at the Department for Education, talking about how things are going on DfE's teachers jobs website. First, cross public services chats for the win. Secondly, a remote session. Thirdly, a rich chat with lots of nods at my end. Thanks, Isabelle!
+Highlight of the last fortnight: Catching up with Isabelle Andrews from the Department for Education, talking about how things are going on DfE's teachers jobs website. First, cross public services chats for the win. Secondly, a remote session. Thirdly, a rich chat with lots of nods at my end. Thanks, Isabelle!
 
 On a final note: Backlog _grooming_. Blueeerrrgghhh. I just hate that g-word. It's just so... wrong.
 
