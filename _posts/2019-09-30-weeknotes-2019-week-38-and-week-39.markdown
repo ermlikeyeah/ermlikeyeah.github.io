@@ -46,8 +46,12 @@ Being in a team at the mo that is focused on “delivery” (which is “making 
 
 Another side thought: How do we integrate design and development? It feels about there's still too much there are/is _the design team_ and _the dev team_. If we will play the Agile card, whatever happened to small nimble teams? I think I've worked on one in my time in and on public services the last four-and-a-bit years.
 
-One of the biggest barriers this sprint has been calendar alignment. It hasn't been the first time. Maybe you have experienced the same. If someone or a team is set a goal, what can be done so they can focus on that, give the best account of exploring the problem?
+One of the biggest barriers this sprint has been calendar alignment. It hasn't been the first time through my career. The Focus Is This (But All This Other Stuff You And The Others Will Have To Distract You). Maybe you have experienced the same. If someone or a team is set a goal, what can be done so they can focus on that, give the best account of exploring the problem?
 
 Linked: Trust. And again, it’s not about Agile or new ways of working. It’s about how you _manage the work_ and _how you coach (not manage) the people doing that work_. Structure and order and responsibility and trust and respect, rather than rule and command.
 
-On a final note: Backlog _grooming_. Blueeerrrgghhh. I just hate that g-word.
+Highlight of the last fortnight: Catching up with Isabelle Andrews at the Department for Education, talking about how things are going on DfE's teachers jobs website. First, cross public services chats for the win. Secondly, a remote session. Thirdly, a rich chat with lots of nods at my end. Thanks, Isabelle!
+
+On a final note: Backlog _grooming_. Blueeerrrgghhh. I just hate that g-word. It's just so... wrong.
+
+ps. Still not put Slack back on my phone. Life without Slack on my phone is better than life with Slack on my phone.
