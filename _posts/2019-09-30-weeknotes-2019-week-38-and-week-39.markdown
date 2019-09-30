@@ -20,19 +20,19 @@ When you have a mass of people pointing you to this and that that already exists
 
 In-between some other tasks I used [Mural](https://mural.co) to create a board to dump things people pointed me towards, things I found and thoughts, and used the board to craft some coherence. I went through it a few times with several team members and each time my understanding became clearer. We also hit a couple of things that were not commonly understood in the team which proved a great bit of reverse feedback. I made sure the Mural board was accessible by anyone in the team. It still is, and closing this sprint out I want to give it a tidy so it is useful in the future.
 
-{% include image.html url="/assets/2019-09-30-grab-2.gif" description="A brain dump of roles and they flow into one another" %}
+{% include image.html url="/assets/2019-09-30-grab-2.gif" description="A brain dump of roles and how they flow into one another" %}
 
 I strongly believe in flow first, sketch steps not screens. And the rougher the better, don't hung up on fidelity of execution but get a stronger fidelity of thinking. This allowed me to pull back away from what I had been shown as prototypes and told as, say, spreadsheets. I also had the chance to get clear the different types of users (because it's not about _users_ as an all encompassing collective noun – it's about what kind of user you are and what you are looking to do and why) and look at the flow between users and the overall structure of the digital part of the service.
 
-{% include image.html url="/assets/2019-09-30-grab-3.gif" description="A grab of an in-browser prototype which I have overlaid the three features on the screen" %}
+{% include image.html url="/assets/2019-09-30-grab-3.gif" description="A grab of an in-browser prototype. I have overlaid highlights for the three features" %}
 
 Using the [NHS Digital prototype kit](https://beta.nhs.uk/service-manual/prototyping-tools) and a lot of design work already done by interaction designer Helen and content designer Stu I was able to move away from just enough documenting to designing by making something usable quite quickly.
 
-{% include image.html url="/assets/2019-09-30-grab-5.jpg" description="A diagram I drew mid-sprint to show where our designs were contributing to a possible feature road map" %}
+{% include image.html url="/assets/2019-09-30-grab-5.jpg" description="A diagram I drew mid-sprint to show where our designs were contributing to a possible road map for this feature" %}
 
 This allowed me to iteratively explore thoughts and not alone, again sharing often got feedback on how our attempts at design fared: What we needed to improve on, what we needed to strip back, and what we should dump. It's harder work but it makes for better explored work, a better shared understanding of where we are at, a better product now, and a better idea of where the product could go (fingers crossed). And what's wrong with harder work anyway?
 
-{% include image.html url="/assets/2019-09-30-grab-4.gif" description="Showing how roles could develop over time" %}
+{% include image.html url="/assets/2019-09-30-grab-4.gif" description="Showing how the Choose A Role feature could - could - develop over time" %}
 
 Regularly changing and knowing why we were doing those changes allowed us to explore the wider picture of the journey. While stuff was being cut, it wasn't forever. And some stuff simplified, such as user roles. Bringing stuff back? Making improvements. For later.
 
