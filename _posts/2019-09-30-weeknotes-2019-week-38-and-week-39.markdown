@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Weeknote for weeks 38 and 39 of 2019: 9 September to 29 September
+title: Weeknote for weeks 38 and 39 of 2019, 16 September to 29 September
 date: '2019-09-30 09:00:00'
 tags: [weeknotes]
 ---
