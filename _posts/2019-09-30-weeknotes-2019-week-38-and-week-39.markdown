@@ -26,7 +26,7 @@ I strongly believe in flow first, sketch steps not screens. And the rougher the 
 
 {% include image.html url="/assets/2019-09-30-grab-3.gif" description="A grab of an in-browser prototype which I have overlaid the three features on the screen" %}
 
-Using the NHS Digital prototype kit and a lot of design work already done by interaction designer Helen and content designer Stu I was able to move away from just enough documenting to designing by making something usable quite quickly.
+Using the [NHS Digital prototype kit](https://beta.nhs.uk/service-manual/prototyping-tools) and a lot of design work already done by interaction designer Helen and content designer Stu I was able to move away from just enough documenting to designing by making something usable quite quickly.
 
 {% include image.html url="/assets/2019-09-30-grab-5.jpg" description="A diagram I drew mid-sprint to show where our designs were contributing to a possible feature road map" %}
 
