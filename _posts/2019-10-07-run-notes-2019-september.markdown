@@ -34,7 +34,7 @@ Goal: **Keep enjoying it!**
 
 A difficult month to be consistent with my runs.
 
-It wasn’t a terrible month for distance, knocking up 136 kilometres and for the week commencing 16 September I wracked up 55 kimometres.
+It wasn’t a terrible month for distance, knocking up 136 kilometres and for the week commencing 16 September I wracked up 55 kilometres.
 
 [My Strava log](https://www.strava.com/athletes/41247532/training/log?feature=last-4-weeks-calendar) shows I ran every Sunday, at least 10 kilometres. And I ran 15 times, which is once every two days. But that’s not quite how it played out. The middle of the weeks were barren with not a single run on a Wednesday or Thursday. To balance this a little I’ve been climbing midweek every week, but it would have been nice to do a little more. Too many longer stretches with no runs, I could have done with more smaller bits and pieces here and there. A run every three days at worst would have been nice. Something to aim for for October!
 
@@ -68,7 +68,7 @@ Actually, September seemed a bit more hilly than usual. Elevation was 1663m, whi
 
 Looking to the future, I bagged a place on the Percy Pud 10k in Sheffield in early December. Maybe a race is what I need to focus me a little more.
 
-Ive also been dabbling in some yoga to see if it can free up my legs a little. My hamstrings feel tight a bit so I’ve been giving it a go. Thanks to James Boardwell who seemed to be reading my mind pointing me towards [Run Better With Yoga](https://instagram.com/runbetterwithyoga?igshid=wenkdkq46iqi).
+I've also been dabbling in some yoga to see if it can free up my legs a little. My hamstrings feel tight a bit so I’ve been giving it a go. Thanks to James Boardwell who seemed to be reading my mind pointing me towards [Run Better With Yoga](https://instagram.com/runbetterwithyoga?igshid=wenkdkq46iqi).
 
 ### Goals for October
 
