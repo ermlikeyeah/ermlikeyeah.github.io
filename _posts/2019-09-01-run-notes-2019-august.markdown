@@ -5,7 +5,7 @@ date: '2019-09-01 08:00:00'
 tags: [running, run notes]
 ---
 
-#### Where I was at the end of the previous month, [July 2019](https://www.ermlikeyeah.com/run-notes-2019-july/)
+### Where I was at the end of the previous month, [July 2019](https://www.ermlikeyeah.com/run-notes-2019-july/)
 
 Target to run in 2019: 1092 kilometres
 
@@ -13,7 +13,7 @@ Total distance ran so far in 2019: 942 kilometres
 
 Recorded in [my little tracking spreadsheet](https://www.icloud.com/numbers/0cWhQqgPDF2FKXSnUdB79lWVw#2019_running).
 
-#### Goal(s) for July 2019
+### Goal(s) for July 2019
 
 Run 100 kilometres. (I ran 70.6 kilometres, which was less than the desired 100 kilometres, but more on that in the words.)
 
@@ -21,7 +21,7 @@ Enjoy it still. (I am, possibly the most in July than I did any time before.)
 
 Now up to 1013 kilometres ran this year. 1092 kilometres is the goal for 2019 so just 79 kilometres to go. 🙌🏼
 
-#### The words
+### The words
 
 I knew coming into this month it’d be a bit different. [Last month’s 200 kilometres](https://www.ermlikeyeah.com/run-notes-2019-july/) left me feeling a bit wiped out at the start. And a holiday was around the corner. So I had a few days off from running. See out a couple of days of work, spend a couple of days travelling, and...
 
@@ -41,7 +41,7 @@ But the first day upstate I [just went out](https://www.strava.com/activities/26
 
 Having avoided hill running I found [a neat 3km there-and-back on a nearby road](https://www.strava.com/activities/2606839418), which wasn’t fun on the way up but more fun on the way down. Five days later I [had another go](https://www.strava.com/activities/2618531715).
 
-After coming back down the 9D on my first upstate run, I chanced running along the 9D some more, to get a look at the Hudson River from the shore. I had my first experience of Not All Roads On Google Maps Are Public Roads, as someone came out of their house to tell me “I don’t want to interrupt your run but... this a private road.” I didn’t see any signs, on the way back up I didn’t see any signs. I’d [seen the shore](https://www.instagram.com/p/B1BrHZIHJgR/) by that point so huh. I got back to the 9D and headed down to the nature _preserve_. What felt like a worry about running the 9D was unfounded: A lot of drivers went past giving me and them a little more room, which I have rarely seen in the UK. One dude even said “keep going!” as they went past. (_Said_ not _shouted_.) 
+After coming back down the 9D on my first upstate run, I chanced running along the 9D some more, to get a look at the Hudson River from the shore. I had my first experience of Not All Roads On Google Maps Are Public Roads, as someone came out of their house to tell me “I don’t want to interrupt your run but... this a private road.” I didn’t see any signs, on the way back up I didn’t see any signs. I’d [seen the shore](https://www.instagram.com/p/B1BrHZIHJgR/) by that point so huh. I got back to the 9D and headed down to the nature _preserve_. What felt like a worry about running the 9D was unfounded: A lot of drivers went past giving me and them a little more room, which I have rarely seen in the UK. One dude even said “keep going!” as they went past. (_Said_ not _shouted_.)
 
 After the first trek into the nearby woods I had ordered some “proper” trail running shoes – my first – grabbing some New Balance Gobi v3, and [went out into the woods again](https://www.strava.com/activities/2609827104), this time heading south once I’d got out of the Wright estate (which was much easier having done it before) and touching on some of the [Appalachian Trail](https://en.m.wikipedia.org/wiki/Appalachian_Trail), before getting onto a road that eased down the mountain to the 9D.
 
@@ -67,7 +67,7 @@ Yesterday to close the month I went for a small steady run (3km-ish), a short br
 
 That was a good running month. Quality over quantity.
 
-#### Next month’s goals
+### Next month’s goals
 
 Go for a run five days every week. (Basically: Clock 20 runs in September.)
 

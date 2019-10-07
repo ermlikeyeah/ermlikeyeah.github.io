@@ -4,7 +4,7 @@ title: Run notes for June 2019
 date: '2019-07-06 13:00:00'
 tags: [running, run notes]
 ---
-#### Where I was at the end of the previous month, May 2019
+### Where I was at the end of the previous month, May 2019
 
 Target to run in 2019: 1092 kilometres
 
@@ -12,7 +12,7 @@ Total distance ran so far in 2019: 601.4 kilometres
 
 Recorded in [my little tracking spreadsheet](https://www.icloud.com/numbers/0cWhQqgPDF2FKXSnUdB79lWVw#2019_running).
 
-#### Goal(s) for June 2019
+### Goal(s) for June 2019
 
 👎🏼 Run at least 150 kilometres: Ran 141 kilometres, on 19 days out of 31, as had a knee niggle for the last week or so. So close though. Up to 742 kilometres ran this year, 68% of the way from the 1092 kilometres goal for 2019.
 
@@ -28,7 +28,7 @@ Recorded in [my little tracking spreadsheet](https://www.icloud.com/numbers/0cWh
 
 👎🏼 Weight below 13 stone: Not quite.
 
-#### The words
+### The words
 
 Bit of an up and down month, ending the month with a dot week due to a knee niggle.
 
@@ -45,7 +45,7 @@ I finished reading Scott Jurek’s [Eat and Run](https://www.amazon.co.uk/Eat-Ru
 
 Finally, I bought a couple of running vests to give my running T-shirts a break. Sorry in advance if you follow my running adventures on Strava or Instagram.
 
-#### Next month’s goals
+### Next month’s goals
 
 Run 160 kilometres. Working away a bit in July (near Newcastle) so there’s three challenges here:
 

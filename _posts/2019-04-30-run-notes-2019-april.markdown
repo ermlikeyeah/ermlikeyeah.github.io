@@ -4,14 +4,14 @@ title: Run notes for April 2019
 date: '2019-04-30 23:00:00'
 tags: [running, run notes]
 ---
-#### Distance run at end of previous month (March)
+### Distance run at end of previous month (March)
 
 326.73 kilometres
 
 I hit my running target for the year - 320km - in March, so a few months ahead of schedule. I revised my goal for the year ahead - to 1092km - recorded in [my little tracking spreadsheet](https://www.icloud.com/numbers/0cWhQqgPDF2FKXSnUdB79lWVw#2019_running).
 
 
-#### The goals and numbers for the month (April)
+### The goals and numbers for the month (April)
 
 Distance goal for the month: 120 kilometres
 Total distance run for the month: 124.7 kilometres
@@ -24,7 +24,7 @@ Ran [my fastest 10km](https://www.strava.com/activities/2301128691) (although on
 Goal: Vary the runs away from lots and lots of tread milling. (More on that to follow.)
 
 
-#### The words
+### The words
 
 I entered the month suffering from a hurty hamstring after playing basketball late in March. I had planned to run 120km in April and wanted to reach that – so I took a tentative start to the month, more at a nursing pace for runs to ease in. I still clocked 23km for week 1.
 
@@ -46,7 +46,7 @@ I’ve been trying to read a few books abut running. In April I read [What I Tal
 
 I set up [an account on Strava](https://www.strava.com/athletes/41247532), fed by my Nike Run Club account. Makes runs shareable. Some nice analysis in Strava too. See how it goes. Feel free to follow me. I’m not very competitive with this running lark. A personal best for me is just getting out running every couple of days and not hating it.
 
-#### Next month goals
+### Next month goals
 
 Run at least 120 kilometres
 

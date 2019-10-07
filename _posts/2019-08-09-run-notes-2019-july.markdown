@@ -5,7 +5,7 @@ date: '2019-08-09 21:00:00'
 tags: [running, run notes]
 ---
 
-#### Where I was at the end of the previous month, June 2019
+### Where I was at the end of the previous month, June 2019
 
 Target to run in 2019: 1092 kilometres
 
@@ -13,11 +13,11 @@ Total distance ran so far in 2019: 742 kilometres
 
 Recorded in [my little tracking spreadsheet](https://www.icloud.com/numbers/0cWhQqgPDF2FKXSnUdB79lWVw#2019_running).
 
-#### Goal(s) for June 2019
+### Goal(s) for June 2019
 
 👍🏼👍🏼 Run 160 kilometres. Actually ran 200 kilometres.
 
-👍🏼👍🏼 Look to do four 10 kilometre runs during the month (did seven) and try and have an average KM pace of below 5:45 for those runs (which averaged at 5:40, phew). 
+👍🏼👍🏼 Look to do four 10 kilometre runs during the month (did seven) and try and have an average KM pace of below 5:45 for those runs (which averaged at 5:40, phew).
 
 👍🏼👍🏼 Another half marathon distance (did two)
 
@@ -29,7 +29,7 @@ Recorded in [my little tracking spreadsheet](https://www.icloud.com/numbers/0cWh
 
 Now up to 942 kilometres ran this year. 1092 kilometres is the goal for 2019 so just the 150 kilometres to go. 🙌🏼
 
-#### The words
+### The words
 
 Week 1 of July wasn’t much. I had a week off between jobs which should have been the perfect time for some running free from the worries of squeezing it in before heading off for work or starting work or all the other time pressures we have. But I used it to do some house stuff (like building some steps in the garden), reading, and other stuff. [A 12km run in the countryside near Howden](https://www.strava.com/activities/2511034066) (which was [very bonnie](https://www.instagram.com/p/BznJ0--HRjY/)) before the town's show and I'd chalked up 17km for the week.
 
@@ -49,7 +49,7 @@ Reading [Running with the Kenyans](https://www.goodreads.com/book/show/13147812-
 
 Listened to [Professor Matthew Walker on sleep](https://pca.st/episode/b9add80f-d632-4e3a-8b8a-1166bfc0aecf). I’ve read his book on sleep a while back and have tried as much as possible to get in eight hours of sleep every night. And with that, running, and other stuff [I feel better](https://youtu.be/MaCZN2N6Q_I), crazy attempts at running 200km a month aside.
 
-#### Next month’s goals
+### Next month’s goals
 
 Run 100 kilometres. Nothing else: I am off away and cannot plan too much. I hope to get in a run along the East River in New York and running over a bridge over the river too, but other than that, see what comes.
 
