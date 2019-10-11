@@ -34,8 +34,10 @@ Talking which: Running. Got [run notes for September](/run-notes-2019-september/
 
 Saw Joker. “Liked’ isn’t the right word, nor “enjoyed”, but I appreciated it. Everyone is a critic (as well as a designer etc etc). Managed to finally start the second season of Dark too, dubbed this time not subtitles. I am such an culture traitor.
 
-[Formby National Trust](https://www.nationaltrust.org.uk/formby) is [pretty mega](https://www.instagram.com/p/B3R729Fn-RC/), btw.
+[Formby National Trust](https://www.nationaltrust.org.uk/formby) is [pretty mega](https://www.instagram.com/p/B3R729Fn-RC/).
 
 I recommend [Hurrell’s weeknotes](https://mhurrell.co.uk/prospects/weeknote-2/). He's on a sabbatical and don’t we know it. Good to hear when someone is using their time richly.
 
 The Wagatha Christie thing has made my year. Best storytelling teaching me about an app’s features yet. What? It’s not a clever marketing campaign to teach you about a function in Instagram stories? Dang. Still educational.
+
+Totally recommend not letting your cat out in your car, by the way. She pissed on the mat and I didn't realise for a couple of days. It has taken a lot to make the car smell not-cat-pissy again.
