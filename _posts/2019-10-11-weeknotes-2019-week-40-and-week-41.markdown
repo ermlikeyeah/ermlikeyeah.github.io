@@ -40,4 +40,4 @@ I recommend [Hurrell’s weeknotes](https://mhurrell.co.uk/prospects/weeknote-2/
 
 The Wagatha Christie thing has made my year. Best storytelling teaching me about an app’s features yet. What? It’s not a clever marketing campaign to teach you about a function in Instagram stories? Dang. Still educational.
 
-Totally recommend not letting your cat out in your car, by the way. She pissed on the mat and I didn't realise for a couple of days. It has taken a lot to make the car smell not-cat-pissy again.
+Totally recommend not letting your cat out in your car, by the way. She pissed on the mat and I didn't realise for a couple of days. At the time it was fun, aaawww look the cat is riding along with me! It has taken a lot to make the car smell not-cat-pissy again.
