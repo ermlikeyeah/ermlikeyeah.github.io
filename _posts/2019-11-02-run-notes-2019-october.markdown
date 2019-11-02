@@ -75,6 +75,8 @@ I am also doing climbing again, and watching a vid of Alex Honnold he talked abo
 
 I am looking ahead to 2020 in a lot of ways, including getting some running lined up. I’ve already got a place on the [Vale of York 10k](https://racebest.com/races/uygy6) and I am going to try [my first marathon, in Manchester](https://www.manchestermarathon.co.uk). The [Race to the Stones](https://www.racetothestones.com) 100km sounds like the kind of craziness this running lark encourages me to do. Dalby Forest looks [a fun place to run](https://www.forestryengland.uk/dalby-forest/running-trails-dalby-forest) so my eyes are peeled for whatever pops up there. To help plan I asked for some recommendations on Twitter and gathered the responses onto [a board on Miro](https://miro.com/app/board/o9J_kwPCuDI=/). I’ve started a list of runs I am doing in 2020 [in Evernote](https://www.evernote.com/l/ACgqrIMV4wFNBrZzFrWuq53eD0olrjSKbJM), which I have made openly available. I also have a [hit list of runs to do](https://www.evernote.com/l/ACjENOzV1QRHw5jl7sxc7IzNk6mtpB2RxPU) which is also openly available. If there’s any races or runs you recommend please me know!
 
+Found there is a word for how I feel when I go running. Surprisingly it's German. “Waldeinsamkeit”. Good, good word. Untranslatable to English apparently. Learn about it!
+
 ### Goals for November
 
 The running stretch goal for the year - 1302km - is within sight. That’s gonna be passed this month.
@@ -89,6 +91,6 @@ Try one of those park runs. I’ve registered.
 
 I am going to try writing and publishing weekly run notes. Not sure if they’ll keep this format but for a month I think they’ll be a worthwhile exercise, especially with the cold and rain. Might give me the chance to reflect weekly and plan the next week a little more. Shall see.
 
-Try and finally get my weight under 13 stone. Finally. Please. Finally. The running’s not about losing weight but I have an inkling if I can shed another half a stone I can be doing 10km closer to 45 minutes without needing a drugs test.
+Try and finally get my weight under 13 stone. Finally. Please. Finally. The running’s not about losing weight but I have an inkling if I can shed another half a stone I can be doing 10km closer to 45 minutes without needing a drugs test. Waldeinsamkeit!
 
 Enjoy it still!
