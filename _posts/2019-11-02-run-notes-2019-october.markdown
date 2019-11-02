@@ -77,7 +77,7 @@ I am looking ahead to 2020 in a lot of ways, including getting some running line
 
 ### Goals for November
 
-The running stretch goal for the year - 1302 - is within sight. That’s gonna be passed this month.
+The running stretch goal for the year - 1302km - is within sight. That’s gonna be passed this month.
 
 Going to try and run 150 kilometres this month. That’d put me on target for 1500 kilometres for the year.
 
@@ -89,6 +89,6 @@ Try one of those park runs. I’ve registered.
 
 I am going to try writing and publishing weekly run notes. Not sure if they’ll keep this format but for a month I think they’ll be a worthwhile exercise, especially with the cold and rain. Might give me the chance to reflect weekly and plan the next week a little more. Shall see.
 
-Try and finally get my weight under 13 stone. Finally. Please. Finally.
+Try and finally get my weight under 13 stone. Finally. Please. Finally. The running’s not about losing weight but I have an inkling if I can shed another half a stone I can be doing 10km closer to 45 minutes without needing a drugs test.
 
 Enjoy it still!
