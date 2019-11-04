@@ -71,3 +71,7 @@ Sunday I’ll be having off as I’m away at a gig Saturday night. This means a 
 I’ve added to some more runs to my list of runs [in Evernote](https://www.evernote.com/l/ACgqrIMV4wFNBrZzFrWuq53eD0olrjSKbJM) I am looking at and doing in 2020. The list is openly available for anyone to look at.
 
 I also have a [hit list of runs to do](https://www.evernote.com/l/ACjENOzV1QRHw5jl7sxc7IzNk6mtpB2RxPU) which is also openly available. If there’s any races or runs you recommend please me know!
+
+Question: How do you plan your running week?
+
+See you in a week!
