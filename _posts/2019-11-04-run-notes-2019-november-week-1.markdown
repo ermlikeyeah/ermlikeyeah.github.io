@@ -8,6 +8,10 @@ tags: [running, run notes]
 
 Total kilometres ran in 2019 before the start of the week: 1250.6 kilometres
 
+Distance recorded in [my little tracking spreadsheet](https://www.icloud.com/numbers/0cWhQqgPDF2FKXSnUdB79lWVw#2019_running).
+
+Feel free to [follow me on Strava](https://www.strava.com/athletes/41247532), where all my activities are shared.
+
 ### Friday 1 November
 
 On Friday I wrote [my run notes for October](/run-notes-2019-october/). I noted some goals for November. A little planning just helps. Some goals for the months. Then most weeks I add some detail, work out what running I plan to do for the coming week or two.
