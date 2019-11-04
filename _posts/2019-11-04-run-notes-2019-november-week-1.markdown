@@ -22,7 +22,7 @@ A great thing about where we live: There are lots of long roads nearby, a canal 
 
 Saturday mornings are usually when the dog needs A Bit Of A Walk. Earlier this year I’d take the dog along the canal, but after a couple of runs when Scrogs came back with poorly paw pads I had to rethink my Saturday mornings with her. The dog likes grass fields and woodland and over the past month or so I’ve been exploring the woodland north of the River Aire near us, specifically around Esholt Woods. It’s only been the past few weekends I have come to peace with going out with the dog to the woods and at a pace the dog is happy with.
 
-The past few weekends have also tended to be wet. This Saturday wasn’t any different. I am glad I have a pair of Nike Wildhorses for sloppy conditons!
+The past few weekends have also tended to be wet. This Saturday wasn’t any different. I am glad I have a pair of Nike Wildhorses for sloppy conditions!
 
 [View activity on Strava](https://www.strava.com/activities/2835054905).
 
@@ -30,7 +30,7 @@ The past few weekends have also tended to be wet. This Saturday wasn’t any dif
 
 #### Bradford City Runs 10km
 
-I only entered this 10km on Thursday, having seen the race when looking into some future races. There were a few races listed for the day – 5km, 10km, 10 miles, half a marathon – which all rely on the same 5km loop http://www.bradfordcityruns.co.uk/maps/maps.html.
+I only entered this 10km on Thursday, having seen the race when looking into some future races. There were a few races listed for the day – 5km, 10km, 10 miles, half a marathon – which all rely on [the same 5km loop](http://www.bradfordcityruns.co.uk/maps/maps.html).
 
 At the [Leeds Abbey Dash last week](https://www.strava.com/activities/2820478821/overview) I found being in a race made me grind through the kilometres in a way I’d not done before. Keep going, keep going, keep going. Racing amongst other people isn’t something I am too up on, the Abbey Dash and the Leeds half marathon all I have done.
 
@@ -66,7 +66,7 @@ I am working away for a few days of the week. This means two overnight stays in 
 
 Friday, I fancy a run out towards Esholt, which will probably be a long lunch affair. Down to over the river, along the track, and then onto the quiet roads through the village. Steady though because on Saturday I have another race, arrrgghh.
 
-Sunday I’ll be having off as I’m away at a gig Saturday night. This means a little planning for the weekend if I wanted to do a run: I’ve got a place on the Holly Hustle 11km in Meanwood https://racebest.com/races/v359c on the Saturday. Looks a bit dirtier than the road races of the past two weekends. Oooo, dirty.
+Sunday I’ll be having off as I’m away at a gig Saturday night. This means a little planning for the weekend if I wanted to do a run: I’ve got a place on [the Holly Hustle 11km in Meanwood](https://racebest.com/races/v359c) on the Saturday. Looks a bit dirtier than the road races of the past two weekends. Oooo, dirty.
 
 I’ve added to some more runs to my list of runs [in Evernote](https://www.evernote.com/l/ACgqrIMV4wFNBrZzFrWuq53eD0olrjSKbJM) I am looking at and doing in 2020. The list is openly available for anyone to look at.
 
