@@ -17,28 +17,30 @@ Feel free to [follow me on Strava](https://www.strava.com/athletes/41247532), wh
 A day resting from running. Spend most of the day stood at my desk and manage to nip in 15 minutes on the rower at the end of the working day, on medium-high resistance. I can feel my right leg tight after the previous day’s run.
 
 ### Tuesday
-Early start for a few days in Newcastle, my first since the clocks went back. I leave work later than planned and it’s dark by the time I check in to the hotel. I unpack and close off the working day before heading down too the gym. I nip the treadmill. I don’t feel down or elated, don’t feel like I need motivating to go either. I take the headphones and use them for a change. 30 minutes on the treadmill at a steady pace, nothing too strenuous, half an hour staring at my reflection in the window in front of the treadmill. I feel through my right leg as I run, checking it it hurts, is stiff. It feels alright-ish, but I keep the pace steady and don’t push it. It’s nice to get some movement in after a day of sitting in the car travelling and too many static position meetings (stop in one place, sat in one place).
+Early start for a few days in Newcastle, my first since the clocks went back. I leave work later than planned and it’s dark by the time I check in to the hotel. I unpack and close off the working day before heading down to the gym. I nip on the treadmill. I don’t feel down or elated, don’t feel like I need motivating to go either. I take the headphones and use them for a change. 30 minutes on the treadmill at a steady pace, nothing too strenuous, half an hour staring at my reflection in the window in front of the treadmill which is quite tedious. I feel through my right leg as I run, checking it it hurts, is it stiff? It feels alright-ish, but I keep the pace steady and don’t push it. It’s nice to get some movement in after a day of sitting in the car travelling and too many static position meetings (stop in one place, sat in one place).
 
-Over dinner I managed to watch Chelsea v Ajax and read through Runners World. Learnt about people using bullet journals for running.
+Over dinner I managed to watch Chelsea v Ajax and read through Runners World. Learnt about people using bullet journals for running. If you are curious there is [a post over on the Runners World website](https://www.runnersworld.com/training/g20844649/11-impressive-bullet-journal-designs-runners-are-using/).
 
-I have a think about how I can stretch myself over the coming days and weeks, but without breaking myself. I’ve got another 10km race lined up for Saturday, third consecutive weekend. That feels like stretching myself.
+I have a think about how I can stretch myself over the coming days and weeks, but without breaking myself. I’ve got another 10km race lined up for Saturday, a third consecutive weekend. That feels like stretching myself. Hopefully the race won’t break me.
 
 ### Wednesday
 
-Long day at work, with no fresh air from 8am until 6pm. Dull head at the end of that, not helped by walking out of work into darkness. A plodding 2.6km on the treadmill at the hotel and 15 minutes on the rowing machine.
+Long day at work, with no fresh air from 8am until 6pm. Dull head at the end of that, not helped by walking out of work into darkness. A plodding 2.6km on the treadmill at the hotel and 15 minutes on the rowing machine. Just not feeling it.
 
 Plan: Get to bed earlyish and get up earlyish to go for a street run.
 
 ### Thursday
 
-Planned to get to bed earlyish and get up earlyish to go for a street run. The plan worked out: Up at just before 6am, kit on, and out of the hotel for a bob down the Great North Road for a bit of get so far and then turn back. I gave my New Balance 880s a go. I had to cut it short because I had to pack and get to work (getting in early means I get a car park space and I needed to leave work early for the 2.5 hour drive back to Idle to take the lad climbing). But 4.3 kilometres was alright — and fun!
+Planned to get to bed earlyish and get up earlyish to go for a street run. The plan worked out: Up at just before 6am, kit on, and out of the hotel for a bob down the Great North Road for a bit of get-so-far-and-then-turn-back. I gave my New Balance 880s a go. I had to cut it short because I had to pack and get to work (getting in early means I get a car park space and I needed to leave work early for the 2.5 hour drive back to Idle to take the lad climbing). But 4.3 kilometres was alright — and fun! And surprisingly swifter than I expected.
 
 [View the activity on Strava](https://www.strava.com/activities/2847021164)
 
 ### Friday
-Nothing. I had thought about something at lunchtime, but my leg was aching a little, and I had a race tomorrow. I didn’t want to use anything I did today as an excuse for tomorrow. Work was a bit hectic as well, so maybe an unplanned day of total rest wasn’t the worst idea.
+
+Nothing. I had thought about something at lunchtime, but my leg was aching a little, and I have a race tomorrow. I don’t want to use anything I did today as an excuse for tomorrow. Work was a bit hectic as well, so maybe an unplanned day of total rest wasn’t the worst idea. (But a run is a good had clearer after a day of lots of context switching but ho hum.)
 
 ### Saturday
+
 [The Holly Hustle in Meanwood](https://racebest.com/races/v359c).
 
 I’ve not done a trail race yet, even though most of my running this year has had a stronger trail vibe than a road vibe. After road races the last couple of weekends a trail race felt a nice change for my third race in consecutive weekends. See how something less “pounding the streets” feels in comparison and see how my leisurely trail running shapes up on a course I’ve not decided and against the clock.
@@ -63,19 +65,18 @@ I stopped at the table so my race number could be taken. Something was written o
 
 Driving was my transport home. As my foot pushed down the accelerator on the car I could feel my leg tweak. I had to break off and get some supplies on the way home. Shorts, mud caked legs in Sainsbury’s. “I was just trying to work out the tattoos on your legs,” I was told as I stood at some shelves, “and then I realised it’s mud!”
 
-View the activity on Strava. https://www.strava.com/activities/2852024640
+[View the activity on Strava](https://www.strava.com/activities/2852024640)
 
-### ßSunday
+### Sunday
 Seventh day of the week and a day of rest.
 
-Booked myself onto the Elsecar 6.7 miles race on Sunday 15 December. http://www.itsgrimupnorthrunning.co.uk/grim-up-north-running-events/event/elsecar-running-festival-and-santa-dash-2019/id/78/do/details
+Booked myself onto the [Elsecar 6.7 miles race on Sunday 15 December](http://www.itsgrimupnorthrunning.co.uk/grim-up-north-running-events/event/elsecar-running-festival-and-santa-dash-2019/id/78/do/details).
 
 Bought a box for the boot of the car, just big enough to fit some mucky running shoes in. This feels a) practical, b) a step towards running being more of a fixture in my life.
 
-Had a little think about the week ahead. I have 10 kilometres to do and I’ve reached my running stretch goal for the year. That will be 1302 kilometres. At the start of the year I’d have been happy if I’d done 300 kilometres by the end of 2019.
+Had a little think about the week ahead. I have 10 kilometres left to do and I’ve reached my running stretch goal for the year. That will be 1302 kilometres. At the start of the year I’d have been happy if I’d done 300 kilometres by the end of 2019.
 
-I wondered if I should do [the Litton Birks Loop Fell Race](http://www.littondale.net/wordpress/events/litton-birks-loop-fell-race) next weekend.  Six quid including a chip butty! Amazing! Let’s just get through the next few days first, eh.
-
+I wondered if I should do [the Litton Birks Loop Fell Race](http://www.littondale.net/wordpress/events/litton-birks-loop-fell-race) next weekend.  Six quid including a chip butty! Amazing! Let’s just get through the next few days first, eh. And I have House Chores I could do with doing.
 
 ### The week in summary
 
