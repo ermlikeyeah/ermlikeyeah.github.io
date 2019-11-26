@@ -14,7 +14,7 @@ Feel free to [follow me on Strava](https://www.strava.com/athletes/41247532), wh
 
 ### The week in summary
 
-Just the two runs. It was going to be a good four but busyness and tiredness crept in. The plan for the week went to shit quite quickly. Gah and arrrggghhh.
+Just two runs. It was going to be a good four but busyness and tiredness crept in. The plan for the week went to shit quite quickly. Gah and arrrggghhh.
 
 {% include image.html url="/assets/2019-11-26-notebook.jpg" description="A grab from my notebook showing the planning for this week and how this week actually turned out." %}
 
