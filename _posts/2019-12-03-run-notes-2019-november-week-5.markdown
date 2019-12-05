@@ -52,9 +52,9 @@ At the end of Percy Pud I told the Nike Run Club app on my phone I was done and 
 
 I read something about more Chris McDougall books, so I’ll dig into one or two of those in the near future, probably Natural Born Heroes.
 
-And that brings an end to my month of doing run notes weekly. Looking back these notes have been best for me when I have noted _how I felt_. It’s an exercise worth doing if you don’t. Before your run, during your run, after your run. Run apps are very big on the “effort” but very little on how you felt. I totally recommend you try to record how you feel.
-
 Is it just me or did autumn pass by quickly? I dunno. All you runners with your Autumn Is The Best Season and cripes it went by fast.
+
+And that brings an end to my month of doing run notes weekly. Looking back these notes have been best for me when I have noted _how I felt_. It’s an exercise worth doing if you don’t. Before your run, during your run, after your run. Run apps are very big on the “effort” but very little on how you felt. I totally recommend you try to record how you feel.
 
 I’m not sure I have a reason to do my run notes for December weekly again. If you’ve read the weekly notes for November and got something from them that might be reason enough. I’d love to hear from you, and what has worked in these and what doesn’t.
 
@@ -75,7 +75,6 @@ That leaves 130 kilometres to run in December for a 1500KM year, wtf!
 Total kilometres ran in 2019 by the end of the week: 1380 kilometres
 
 That leaves 120 kilometres to run in the rest of December for a 1500KM year, wtf!
-
 
 ### Looking ahead
 
