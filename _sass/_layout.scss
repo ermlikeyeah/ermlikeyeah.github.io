@@ -65,6 +65,8 @@
   margin-top: $base-spacing-unit;
   padding-top: $base-spacing-unit;
   font-family: $sans-serif-font;
+  font-size: $small-font-size;
+  line-height: $small-line-height;
   @include media-query($on-palm) {
     margin-top: $base-spacing-unit*0.8;
     padding-top: $base-spacing-unit*0.8;

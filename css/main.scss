@@ -27,17 +27,19 @@ $bookend-font: $sans-serif-font;
 
 $base-text-color: $off-black;
 
-$base-font-size: 22px;
-$base-font-weight: 500;
+$base-font-size: 20px;
+$base-font-weight: 400;
 $strong-font-weight: $base-font-weight * 1.5;
+$line-height-ratio: 1.5;
 
-$small-font-size:  18px;
-$line-height-ratio: 1.4;
+$small-font-size: $base-font-size * 0.8;
+$small-line-height: $small-font-size * $line-height-ratio;
+
 
 $base-line-height: $base-font-size * $line-height-ratio;
 $base-spacing-unit: 32px;
 
-$h1-font-size: $base-font-size * 1.8;
+$h1-font-size: $base-font-size * 1.6;
 $h1-line-height: $h1-font-size * $line-height-ratio;
 
 $h2-font-size: $base-font-size * 1.4;

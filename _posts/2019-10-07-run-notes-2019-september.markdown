@@ -45,17 +45,11 @@ The hotel I usually stay at when working away has a gym and treadmills, but I’
 Lots of highlights the month with lots of Discoveries:
 
 * Starting the month with [10.18km in just under 54 minutes](https://www.strava.com/activities/2670004296).
-
 * [A first trek along the River Aire](https://www.strava.com/activities/2689896075) once I got to Rodley. On a previous run I saw a path just after the bridge behind the Railway pub so I thought I’d have a gander. A cracking little trail to get onto!
-
 * An [explore of the woods to the north of Calverley](https://www.strava.com/activities/2696665066).
-
 * Going over the river Aire closer to home I had my [first venture through Esholt Woods](https://www.strava.com/activities/2710148143), through Yeadon discovering the cycle way, and back down to the woods.
-
 * A [first run across to and through Esholt](https://www.strava.com/activities/2713637392), during a long lunch break.
-
 * An [after-work jaunt out towards Sunniside](https://www.strava.com/activities/2717565577) near Newcastle. Some nice road and track running (there’s loads of great tracks round Newcastle, a few seem to be over old rail routes). The last 20 minutes or so were in the pitch black, so I had my phone light on through its holder.
-
 * [Exploring the woods south of Calverley](https://www.strava.com/activities/2726789057).
 
 * A [Sunday 20k-er](https://www.strava.com/activities/2730078535), stitching together two loops I had tried, up to Yeadon through Esholt Woods then back down to the canal and out to Rodley and back along the Aire.
