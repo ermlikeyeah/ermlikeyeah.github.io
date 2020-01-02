@@ -51,9 +51,7 @@ Lots of highlights the month with lots of Discoveries:
 * A [first run across to and through Esholt](https://www.strava.com/activities/2713637392), during a long lunch break.
 * An [after-work jaunt out towards Sunniside](https://www.strava.com/activities/2717565577) near Newcastle. Some nice road and track running (there’s loads of great tracks round Newcastle, a few seem to be over old rail routes). The last 20 minutes or so were in the pitch black, so I had my phone light on through its holder.
 * [Exploring the woods south of Calverley](https://www.strava.com/activities/2726789057).
-
 * A [Sunday 20k-er](https://www.strava.com/activities/2730078535), stitching together two loops I had tried, up to Yeadon through Esholt Woods then back down to the canal and out to Rodley and back along the Aire.
-
 * Another combiner of loops, but this time cutting one loop down. And the second half I enjoyed [running along the Aire](https://www.strava.com/activities/2749696601), with the river running very high after the recent downpours. At one point the river was covering the path so I had to wade through. Also chance to give my new Nike Wildhorses out. Fun stuff!
 
 I read an interview with [Tom Evans](https://twitter.com/tomevansultra) saying not to swing your arms as much when going uphill, limiting the movement so your arms don’t go out in front of your chest. I tried it a few times in the second half of the month and combined with smaller strides my movement up hills seemed to _feel_ better.
