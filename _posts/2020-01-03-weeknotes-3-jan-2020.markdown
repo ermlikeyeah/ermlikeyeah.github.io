@@ -4,6 +4,8 @@ title: Weeknote for Friday 3 January 2020
 date: '2020-01-03 16:00:00'
 tags: [weeknotes]
 ---
+{% include weeknotes_2020_intro.html %}
+
 * I’ll publish these on a Friday every week. I’ll try not to make them too worky. There’s more to life than work, work doesn’t define me, work it girlf— Stop, Si.
 * There didn’t seem to be too much rain this week round these parts. Good [for running](https://www.strava.com/athletes/41247532). Helped me get that 1000 miles for 2019.
 * Following [a tweet thought](https://twitter.com/brendandawes/status/1213062578131341312), Brendan Dawes wrote a quick blog post, [It’s Good to Talk](http://brendandawes.com/blog/its-good-to-talk). Bren’s words resonated. A month back I was reflecting for the past couple of years I’d gone into my shell or stopped talking to many people or some such. Maybe my time at DWP had made me a recluse. Maybe working away a lot doesn’t help. Maybe holing myself away in the shed is a problem. But the cross gov design meet towards the end of the year was the perfect tonic, talking with people and about problems and about design. And the last Leeds gov design meet of 2019 was up there too. I managed to fit in a couple of video chats before the Christmas holiday, and jotted a list of four people I promised to talk to but never got round to. And in the new year I am going to work somewhere _different_ every fortnight. [Look sideways more](https://www.ermlikeyeah.com/look-sideways-more/) as, er, someone once said.
