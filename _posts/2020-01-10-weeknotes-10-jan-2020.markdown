@@ -4,6 +4,8 @@ title: Weeknote for Friday 10 January 2020
 date: '2020-01-10 16:00:00'
 tags: [weeknotes]
 ---
+{% include weeknotes_2020_intro.html %}
+
 * Ah. That Darkness Christmas song has gone away, finally.
 * On [Saturday’s run](https://www.strava.com/activities/2980350401) I was passed by the Brownlee brothers, who I didn’t really recognise at first. It wasn’t the first time they’d passed me over the past few months; I’ve seen them along the canal a couple of times now, and [learned](https://www.youtube.com/watch?v=BrWWLYnxTW8&t=28s) they run along there a bit. Maybe we need to reclassify the canal towpath now though, to Olympic training level standard or something. Should suggest it to [the Canal &amp; River Trust](https://canalrivertrust.org.uk) or Bradford Council. Must be a plaque in it at least.
 * I do a lot of cooking but not usually snacks or cakes or stuff like that. I love flapjack so thought flapjack would be a good one to do every weekend. Assumption: It’s quick to make. A [shout out on Twitter](https://twitter.com/ermlikeyeah/status/1213011595388956672?s=21) and I’ve three recipe suggestions to test: numbers [1](https://www.bbcgoodfood.com/recipes/yummy-golden-syrup-flapjacks), [2](https://www.deliaonline.com/recipes/collections/biscuits-and-cookies/flapjacks), and [3](https://twitter.com/freerange_inc/status/1213012484828712960?s=21). Blimey that’s a lot of sugar move-away-from-diabetes-me whispered, so [a spreadsheet](https://www.icloud.com/numbers/0KFZBIxnks0nkYo9aPPMtj67A#Flapjack) was useful to compare the recipes’ make-up. Baked number 1 anyway. Quick to mix the ingredients together, 15 minutes to bake, done. The assumption was proven. They were delicious, very mellow. Number 2 this coming weekend.
