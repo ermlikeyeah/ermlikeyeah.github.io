@@ -40,3 +40,5 @@ A thread on Twitter on [how they design the New York Times cover](https://twitte
 [2020: A new decade of service](https://medium.com/@joelbaileyuk/2020-a-new-decade-of-service-832f0a333732), which is a smashing reminder of the point of services from Joel Bailey. Thanks for writing it, Joel.
 
 ps. [Scott Smith](https://twitter.com/NoCarsScott). You are fucking great.
+
+{% include weeknotes_2020_outro.html %}

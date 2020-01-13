@@ -29,3 +29,5 @@ tags: [weeknotes, 2020 weeknotes]
 * [Artificial intelligence is no silver bullet for governance](https://www.ft.com/content/817cd3d6-b921-11e9-8a88-aa6628ac896c?shareType=nongift)
 * [The Hypothesis Prioritization Canvas](https://jeffgothelf.com/blog/the-hypothesis-prioritization-canvas/)
 * And finally, yeah whatever do I read again in Evernote but look what I found, this groovy little piece from 2013 from Iain Tait and Ben Malbon on [Prototyping for success, power and unlimited riches](https://www.thinkwithgoogle.com/intl/en-gb/marketing-resources/omnichannel/prototyping-for-success/). I loved it when I first read it and loved re-reading it earlier this week
+
+{% include weeknotes_2020_outro.html %}
