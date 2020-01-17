@@ -1,0 +1,48 @@
+---
+layout: post
+title: Weeknote for Friday 17 January 2020
+date: '2020-01-17 15:30:00'
+tags: [weeknotes, 2020 weeknotes]
+---
+{% include weeknotes_2020_intro.html %}
+
+* A rarity: Caught some live top flight football, and in the pub. Jamie Carragher interviewing is… just the same thing as _everyone is a designer_ innit. We could all do it, just a question of how well.
+* I saw out last weekend climbing, which I’ve not done enough the last month or so. I’ve got to the point I go and supervise others. But I managed to grab half an hour last weekend. Half an hour more than planned. And just great to be working my way up a reverse angle and hanging once I got onto the vertical! Also a reminder my arms are strong, but they’d appreciate me losing another stone. Noted.
+* On Monday I deleted Twitter from my phone. Slack went months ago. Instagram went about a month ago. Maybe less about less screen time, more what I do with my screen time. Haven’t missed Twitter tbh. No, say, stood in the kitchen scrolling through my timelines while the kettle boils. Leafed through a few magazines instead. Is that any better? At the mercy of what others have written in both situations.
+* Carrying on finishing things I’ve started I fitted in the last episodes of BBC’s Dracula. The first two episodes were excellent. The third felt… like it was from another show, maybe even this is where the idea for the show started and they worked backwards from there. It wasn’t awful, but felt a massive step change after the first two episodes. Good to see [Paul McGuigan](https://www.imdb.com/name/nm0006476/) keeping busy though.
+* There’s a Google Home in my kitchen, hooked up to my Spotify account. Making dinner, listening to tunes. Sometimes I ask it what the basketball scores were. It’s slightly less_ screen time. Wonder too much if I have a voice listening speaker should it be something not Google or Amazon? Anyway anyway on Sunday Spotify cuts off a couple of times while I am listening. “Your Spotify account is being used on another device.” Huh. Ask the fam. No one else is using it. I play again. Lasts a beat before cutting off. I log into my Spotify account. I find the home address on my account isn’t mine any more, somewhere in Dallas, Texas. 🤔 I change my password, correct the address — and here’s the thing. I receive no supporting form of comms to say “you have changed your password” or “you have changed your address”, a common pattern with other services. If I had I would’ve noticed this address change sooner. But when we say what does good look like? Some sort of _good patterns across the internet manual_ would be nice.
+* Anyway, twenty six years in from when I first heard it [Ill Communication](https://en.wikipedia.org/wiki/Ill_Communication) is still so so delicious, like a one band mix tape, weaving in and out of musical and lyrical styles. Oh boy, yes.
+* _Delicious_ is a great way to describe something, yeah? And _deliciousness_ is a good way of measuring things.
+* Reminded this week that the reviews on Yelp — y’know probably the thing that set Yelp apart when it launched, gave it that momentum, arguable actually what the product is in the way YouTube is basically a massive recommendation engine — were added as v late in the day feature.
+* “needless to say”. A good editor would make sure you didn’t need to use that. What you are saying would be needed. Remember that before you say _needless to say_.
+* Talking of editors, what does a good content designer make of birthday cards where everyone — and I mean everyone — uses the name of the person the card is for?
+* The [Atari arcade font](https://fontstruct.com/fontstructions/show/868156/atari_games_arcade) — the one used in Pacland and Klax and all that, not the chunk-o-rama from their early days — was quite the thing wannit.
+* I remembered I have quite a few activities logged in [Runkeeper](https://runkeeper.com/), which I used from 2011 through to 2016. In 2016 I got an Apple Watch, swapped the tracking service for my runs, and my Runkeeper has remained dormant — and forgotten it seems. And that’s something I used quite a bit (it pretty much logged my garden leave periods!). Should a service, do services have a commitment, legally or ethically, to remind you a few years down the line “You’ve not used this for a while. Do you to keep or delete your data/account?”
+* Related: I got an email from Zwift today titled “Your activity for 2019”. That’d be the one time I used Zwift to track something because I was curious how wearables had moved on in the four years since I really had a good poke at them.
+* 2020 has started with so many chats revolving around _the obsession to one common interface irrespective of audience/user differentiation_. It started to bubble in my work this week too. Not sure the chats swayed me in that direction, but it’s a pattern.
+* Nice to have a mo this week to take in how we skim lists of content and blocks with several lists of content, and how line height rhythm helps us take them in.
+* In a week of a few catch ups, it was so so good to catch up with the [NHS digital service manual](https://beta.nhs.uk/service-manual/) team earlier this week. It seems a long time since the first goes at the NHS digital service manual [was hung up in the shed](https://www.ermlikeyeah.com/shed-patterns-workshop/). It’s come a long way and from the time with the team they’re not resting on their laurels. Keep going.
+* You can now get a place for [Leeds gov design meet number 13](https://www.eventbrite.co.uk/e/leeds-gov-design-meet-13-tickets-90315567293). As usual: If you fancy doing a session or there’s something you want to see, drop me a line.
+* Too many rappers, and there's still not enough MCs. Truth.
+
+#### Decent reads
+
+[Fast projects](https://patrickcollison.com/fast)
+
+Dave Cunningham’s [openly honest take on his first six months as the DesignOps manager at Co-op][https://medium.com/@davecunningham/defining-designops-my-first-6-months-as-a-designops-manager-921285cc75c9]
+
+[Spaced is 21 years old](https://www.theguardian.com/tv-and-radio/2020/jan/11/the-stars-of-spaced-reunited-21st-anniversary-simon-pegg-jessica-hynes-edgar-wright-nick-frost). What?!
+
+[Ocean’s 14 plot right here etc etc](https://www.bloomberg.com/news/features/2020-01-14/how-nissan-s-carlos-ghosn-was-smuggled-out-of-japan)
+
+[Putting the serve into service](https://www.theguardian.com/food/2020/jan/15/restaurant-waiters-front-of-house-service-britain-respect)
+
+[Jack Sheppard’s neat take on process-first design systems](https://medium.com/mytake/process-first-design-systems-bdaeb10825f4)
+
+[Everyone should know a little bit about user-centred service design](https://medium.com/@teropsv/everyone-should-know-a-little-bit-about-user-centred-service-design-9f35673b9c92). Well, at least those working at NHS Digital. So great to see Tero and Rochelle making this happen.
+
+Know your market and look for adopters that can build a user base is one of a few good takeaways from [this Guardian piece on Strava](https://www.theguardian.com/news/2020/jan/14/kudos-leaderboards-qoms-how-fitness-app-strava-became-a-religion)
+
+The very smart (in all senses) James Johnson on [why “breaking down silos” misses the point](https://services.blog.gov.uk/2020/01/16/dont-break-your-silos-down-master-them/)
+
+{% include weeknotes_2020_outro.html %}
