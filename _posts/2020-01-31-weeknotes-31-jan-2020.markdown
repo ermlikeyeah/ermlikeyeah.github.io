@@ -1,0 +1,25 @@
+---
+layout: post
+title: Weeknote for Friday 31 January 2020
+date: '2020-01-31 13:00:00'
+tags: [weeknotes, 2020 weeknotes]
+---
+{% include weeknotes_2020_intro.html %}
+
+I inaugurated my daughter into the world of wearables. She’s got an elevated heart rate which reaches over 200bpm when she’s doing a bit of minor exercise, which the doctors reckon is fine. I’m a bit more _there’s possibly something to keep an eye on here_. She also wants to get fitter. She’s not unfit, but wants to do a bit more exercise, regularly, probably motivated by a trip to Spain in the summer to walk 120km in a week. Anyway anyway looking into getting her a tracking watch took me back a few years to when I was last playing and making physical products. Back then I was doing stuff like repurposing am old phone into a tracker for the dog, iterated on it a few times, and managed to sell the work on. Good times. Back then — what, maybe six years ago now? — any article about Fitbit explained explicitly _a Fitbit was a thing that you wore and it tracked you_. Now Fitbit is a recognised brand, a thing absorbed into wider awareness, consciousness. I remembered Jawbone’s UP, a visually really distinctive product, minimalist in its interface relying on the app to do the analytics. Wearables have come a long way in the last decade, but especially in the last five where they have become omnipresent but possibly also reverted to looking like the Casio digital watches we had as kids. Anyway, I got the daughter a Garmin. Long battery life (my pet peeve with my Apple Watch), looks cool apparently, and it’ll be ~fun~ interesting to go over the data and analyse her heart rate. And we’re collecting the data for a reason. (Unlike, say, the Amazon Kindle which seems to store every touch interaction I make with it for… _some reason_…)
+
+Doing a bit more map stuff at work this week. Not going to delve into that here, but we do mapping for Reasons (and there’s [a good video of Katherine and Louise from the Co-op talking about that](https://www.mindtheproduct.com/service-mapping-by-katherine-wastell-and-louise-nicholas/) — boss sneaks Katherine is wearing too if you need further persuading to watch). How often though do we use maps in service and product work to tell us where we are? I was reminded of things like the between-levels screen in games like Ghosts ’n’ Goblins.
+{% include image.html url="/assets/ghost-n-goblins-map.gif" description="A grab of the animated map from the video game Ghosts N Goblins, showing the levels one by one, side by side" %}
+How often do we take the chance between “levels” in our work to pull back a little from the steps in the journey we are on and remind ourselves where we are going? If you don’t, try it.
+
+The tea market in the UK is [apparently](https://www.bbc.co.uk/news/business-51309566) worth £667m a year. You know when you see a number of think _I thought it’d be more than that_. The population of the UK is about 67m people, so that’s roughly £10 per person. ONS [predicted](https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/projectedukadultpopulationfor2018) the adult population in 2018 at 52.4m, so that’s £12.73 per adult. With tea regularly brandished as a trophy of English life I assumed that for such deep token of culture its value — based on an  actual market — would be way more than a tenner per person.
+
+Coming to the end of the first month of 2020 and I have that 2000km running target for the year. I’m heading out after I publish this to get in 10km and nudge myself over 170km for the month, stay on track. This week I’ve done a lot of traveling, it’s been a frustrating few days, On your way home from a day away, when your train rolls in into Leeds 25 minutes late so you’ve missed your planned connection — that last little train journey back to your home station — and you get home later than planned, you’ve got chores to do first, you’ve got to get to bed because you’ve had some early starts and long days, the pinch point is the run. Even though you have planned you could fit it in. There was a half an hour to do one, but the train journey home denied me that time, took away that time. Twice. Outcomes.
+
+### Decent reads
+
+[Jeremy Keith’s Architects, gardeners, and design systems](https://adactio.com/journal/16369)
+
+[Ellie Craven on embracing the unknowns](https://www.dxw.com/2019/02/discovery-embracing-the-unknowns/)
+
+[The British Red Cross team testing ideas](https://medium.com/digital-and-innovation-at-british-red-cross/testing-a-rota-prototype-with-emergency-response-volunteers-e82a3253bc78)
