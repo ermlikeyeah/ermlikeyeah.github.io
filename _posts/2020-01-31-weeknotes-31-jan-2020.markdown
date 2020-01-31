@@ -23,3 +23,5 @@ Coming to the end of the first month of 2020 and I have that 2000km running targ
 [Ellie Craven on embracing the unknowns](https://www.dxw.com/2019/02/discovery-embracing-the-unknowns/)
 
 [The British Red Cross team testing ideas](https://medium.com/digital-and-innovation-at-british-red-cross/testing-a-rota-prototype-with-emergency-response-volunteers-e82a3253bc78)
+
+{% include weeknotes_2020_outro.html %}
