@@ -2,7 +2,7 @@
 layout: post
 title: Run note for January 2020
 date: '2020-02-01 08:45:00'
-tags: [running, run notes, run notes 2020]
+tags: [running, run notes, run notes 2020, month note]
 ---
 ### What did I set out to do in January?
 
@@ -32,7 +32,7 @@ tags: [running, run notes, run notes 2020]
 * Runs along the main roads at 9pm are more peaceful than I thought they’d be.
 * …But I also struggle getting to sleep before 11:15pm if I do them.
 * ‘[Sisu](https://en.wikipedia.org/wiki/Sisu)’, not just a Finnish word but a Finnish characteristic.
-* I read [Running to the Edge](https://www.goodreads.com/book/show/41880041-running-to-the-edge) and learned about Coach Bob Larsen and what he learned about running, the mix and the balance between science and creativity, and making sure you have a thoughtful approach to your work. It resonated with my running but also with my work.
+* I read [Running to the Edge](https://www.goodreads.com/book/show/41880041-running-to-the-edge) and learned about [Coach Bob Larsen](https://en.wikipedia.org/wiki/Bob_Larsen) and what he learned about running, the mix and the balance between science and creativity, and making sure you have a thoughtful approach to your work. It resonated with my running but also with my work.
 * If it looks like it is going to rain and you’re off on muddy trails err on the side of caution: Wear running shoes with suitable grip. (I made this mistake [last Sunday](https://www.strava.com/activities/3044605604). I should have known better to be honest.)
 * There is a difference between the heel and the sole of a shoe.
 * A couple of people have talked to me how my antics in 2019 motivated them to do more walking and running in 2020. I look forward to hearing about them!
