@@ -1,0 +1,33 @@
+---
+layout: post
+title: Work note for January 2020
+date: '2020-02-01 10:45:00'
+tags: [work note, work notes 2020, month note]
+---
+In the last couple of months of last year I started to have a big think about Where I Was Going With Work Stuff.
+
+I’ve been “working alone”, freelancing, for about four-and-a-half years now. That wasn’t really the plan.
+
+When I left Home in March 2014 I realised my view on “digital” was more about culture, mindsets, ways of working, etc, not just about websites, advertising, and SEO and things like that. I just didn’t feel aligned with any agencies I’d been talking to, and most importantly the people I’d been on boards with. In my post-Bloom period I thought Home was the best fit for that. They were — they are — a good business, but we weren’t right for each other.
+
+I spun up my own business and gave myself a few months to go out and do some talking and see where it goes. I had lots of great chats. I also had some really peculiar chats, usually with agency owners sniffing for gossip. But so many supportive people. Even now I look back and thankful for the offers and he advice. I got work too, that used my favourite skills. I found myself coaching senior staff at agencies. I found myself doing some solid research driven strategy work. I found myself helping some agencies take a wider view of where their own work fitted in. I found myself back doing some small service design assignments as a “drop in and jump back out” consultant, to give work a bit of focus and a kickstart. It was a bit floaty, it was hard to have a sense of belonging to any of the places (although one asked if I fancied joining full time), but I enjoyed it.
+
+I also started to get asked about helping with some larger project work, which was firmly _web stuff_. It felt a good opportunity to build a little team from. So, I did.
+
+About a year later I was wondering where I was going, where the business was going. Most of the work was web dev work and I felt we were just doing supplier work for other agencies. Cash, yes. Making use of our strengths, and our more uniquer strengths at that: no. When a couple of decent sized pieces of work I’d won, which were more strategy and research based, work I wanted us to do more of, which I wanted to do more of — which I’d sunk quite some time into winning — got pushed back again the business side hit. Keep the short term cash flow going doing yet more website delivery, which felt to me taking ourselves off a side road which I am not sure we’d ever come back off? Or just say “this is it”?
+
+It was it.
+
+People left the company. I had to get some cash into the company to sort a couple of things out. Now it was a company of one, just me, I decided I’d freelance for a bit to keep my bills paid and to tie the company up. I pulled together two versions of my CV which cut out a lot of the management and board stuff and focused on my doing skills, sell myself that way. Again some small bits and pieces here and there and soon after that I got the chance to join HMRC on a contract.
+
+I’ve not really stopped to think since. As 2019 was coming to an end I thought it’d be time to stop and to think. I am 44. I don’t just want to float from one contact to the next. I want to actually feel on a work level I belong to something more longer term.
+
+I reached out to a small number of people who I’d consider friends and briefly explained I could do with their critical thinking to help me. I’ve just been getting on the last few years and want to take some time to set myself some sort of roadmap, a loose one. Several of my friends have used a life or work coach to help them in the past. I didn’t think I was quite at that point, but was curious if it might be soon. At that moment I just wanted to take a step back and get the wider picture. Not one of my friends declined, and we had great catch ups. It helped my understand how I’ve developed, what opportunities I fancy and didn’t fancy, what I would be good at, what I’d be not so good at, and also recognise in some ways I had regressed. I took notes, grouped stuff together, made a document of focuses and avoidances.
+
+Off the back of one of those chats I realised something has been niggling away in my head for a few years, a situation I hadn’t closed off in my head. This was heightened at the end of last year when someone told me about a meeting I had with someone, a meeting linked to this niggling feeling. In reality the meeting never went how I was being told about by this someone, but hey here I was, being told how that meeting was and how did I feel about that? Being asked to respond to something that didn’t happen like that is just weird. I reached out to the person I had that meeting with, very tentatively, to see if they fancied a coffee. Earlier this month we had that chat, we talked longer than we’d put aside, and in the end I came away realising people’s perception of that event had been spun by the lenses of gossip to make the situation seem more dramatic than it was. I felt a little bad I hadn’t reached out sooner. Sometimes in business though you do just leave and never look back. Or think you can never look back. Our circles are smaller than we think.
+
+So, in January 2020 I am still “a business of one”, fulfilling a “service designer” role I was asked to do for another company. It’s a role on a good mission, bringing the NHS Jobs web service up to date. But I know it will end because it’s a contract role, there is literally an end date on the contract. And I am looking at what I do next, I have to. But I have focus. I have two routes.
+
+I’ve put in for some full time roles. I’ve already had a rejection — because I’ve been away from senior roles for too long compared to other candidates — but I was prepared for that. Some of my critical friends have continued their support.  One has swayed me away from something I thought was interesting, because they had an inside line on the org. Small circles remember. Several have been super supportive about another role. “That is you! Go for it!” isn’t a thing you hear too much when you are job hunter let alone work for yourself.
+
+If I don’t tie up a full time role elsewhere I’ll have to look at what I do with my own company. I have ideas there. I’d rather do them somewhere there is a mass and potential already, but roadmaps are guides not plans.
