@@ -51,7 +51,7 @@ When running along I don’t just stare at the horizon. I am regularly shifting 
 
 More times than I’d like to admit I found myself on private property. Not because I like the naughtiness of being on someone else’s land. Most of the time I’d not read the map right when I’d worked out a route. A couple of times I blame Google Maps.
 
-Having said that I did get an amazing view of the Hudson River by unknowingly venturing down a private road in up state New York last summer, so :shrug:
+Having said that I did get [an amazing view of the Hudson River](https://www.strava.com/activities/2609827104) by unknowingly venturing down a private road in up state New York last summer, so :shrug:
 
 ### The first _real_ race
 
