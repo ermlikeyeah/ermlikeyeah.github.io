@@ -2,6 +2,7 @@
 layout: post
 title: Motivations
 date: '2016-01-06 08:26:45'
+tags: [motivations, user centred, personas]
 ---
 
 Last week, I was having a chat with someone. (Hello, [Zuz](http://www.twitter.com/techforevil).) We were talking about agile/Agile and service design/Service Design. More on that bit another time.
@@ -24,7 +25,7 @@ Where are the desires, the wants, the needs in these?
 
 While we collect and build personas, while we research needs, rarely do we put the two together.
 
-This isn’t a delcaration that personas are hackeneyed. They’re a good base. Build on them.
+This isn’t a declaration that personas are hackneyed. They’re a good base. Build on them.
 
 Move them on, from *as a something* to provide context, put yourself in the situation, in the person's shoes, explore the *when I am here*.
 
