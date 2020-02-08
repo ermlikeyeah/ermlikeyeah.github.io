@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Weeknote for Friday 7 January 2020
+title: Weeknote for Friday 7 February 2020
 date: '2020-02-08 08:00:00'
 tags: [weeknotes, 2020 weeknotes]
 ---
