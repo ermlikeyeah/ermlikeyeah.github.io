@@ -1,0 +1,45 @@
+---
+layout: post
+title: Weeknote for Friday 7 January 2020
+date: '2020-02-08 08:00:00'
+tags: [weeknotes, 2020 weeknotes]
+---
+{% include weeknotes_2020_intro.html %}
+
+I’ve felt groggy most of this week, pretty bad chest infection, and only really started to feel with it on Thursday. Noticing the change from feeling foggy minded to being clear minded was obvious though. On Thursday I felt like everything joined up in my head, in a way it hadn’t for quite some time. Maybe having a little more time this week to think things through helped rather than _React! React! React!_. Trust the process and respect the process.
+
+Work-wise one of those weeks you get questioned a lot, scramble half an hour here and there to nudge things along, nod/give thumbs up to others’ work, find half a day to work through something, and keep checking people are OK and getting what they want from work. Probs a ‘good’ week though.
+
+Last weekend I published [a work note for January](https://www.ermlikeyeah.com/work-note-2020-january/) and [a run note for January](https://www.ermlikeyeah.com/run-note-2020-january/).
+
+Leeds Gov Design number 13 happened on Friday. Went well, as a ‘curator’ really enjoy asking people if they can do something and seeing what they do. Phil Hesketh talked about ethics, Ethics Kits and Consent Kit. I asked Imran Hussain from Defra if he could do something around _communities as services_ and _voila!_ he did. As it was Services Week I squeezed in a little service mapping exercise and used half an hour to talk about the work I’ve been involved with on NHS Jobs, mainly about asking yourself _what do you want a map to do?_, rather than being fixated on existing structures and tools. Start with your needs.
+
+I’ve been musing a lot on road maps (ones for work, not ones for driving your car along), especially as my time in _digital teams_ usually reduces these to a collection of user focused user stories or even more basic feature maps for digital products. Theory: If we position good service design (and a good service design) as sitting in the area where user needs, business requirements, and policy touch/crossover then how do we stay in touch with the problems from those angles? I shared a bit of this [on Twitter](https://twitter.com/ermlikeyeah/status/1225337249769848832) and the responses were interesting. I’ve been dribbling notes down over the last couple of months around and it’s going to be one of those I kick about next time I catch up with a couple mates in a similar area.
+
+Last weekend I told the Global Service Jam Leeds team I can't help with the jam this year. Setting up and running weekend gigs is tough, especially ones that last the whole weekend, you spend a lot of time away from your fam during the week because of work, and your fam do things at the weekend you want to see too. It was a difficult decision to say I can't do it – I've been involved with the Leeds jams for a few years and I still believe there's a lot of good in service designing – but in another way it wasn't difficult. Spending time with the fam is most important. You only live once. 🙏🏼 (And there’s the midweek Leeds Gov Jam to do too.)
+
+I got blood test results back this week, revealing my HbA1c level is still hovering around 50 mmol/mol, two years on from the first test that hinted I could be diabetic. 50 mmol/mol is described as _very high_. (If you want to know more about HbA1c I recommend the [Diabetes UK page](https://www.diabetes.co.uk/what-is-hba1c.html) on it. HbA1c being a longer term indicator of health is _fascinating_. There a lot of excellent clear content through the Diabetes UK site as well.) It’s down from the 55 mmol/mol reading from a year-and-a-half back so there’s positives. And I also found out my cholesterol is well down over the same two year period and everything else is Good. And, yes, I have spreadsheet with all this in, now.
+
+I had to log into SystmOne — which my GP’s surgery uses to _interface_ with patients through the internet — to look up previous test results and record them somewhere else. Instead of _a simple list of your previous tests_ SystmOne makes you choose two dates, forcing a date picker on you (no type in option available), let’s you know _ah! you need to limit your dates to a 60 period_ so you date picker date pick again and find there’s no tests in that period. I ended up scanning through my digital calendar for “test”, “blood” and “nurse” and jotting down dates and aaarrrggghhhh I want to know why TPP made that so bloody difficult. But, yes, I do have that spreadsheet with all this in, now.
+
+May I take a moment to dedicate this paragraph to draw your attention to your own health. I wish I’d proactively done the “health check at 40” thing rather than reactively finding out — maybe even accidentally finding out — at 42. Whatever your age find a little time to take a check if you haven’t recently.
+
+Not much running because of The Illness. 3km was all I could manage [last Sunday](https://www.strava.com/activities/3065791028), but turns out that was actually _quite fast_. Had a [fine 6km-er along the canal yesterday](https://www.strava.com/activities/3079857631). I didn’t feel 100% but much better and a decent pace too. Hoping for a bit more this weekend.
+
+Reading: I finished Scott Jurek’s [North](https://www.goodreads.com/book/show/34219858) and moved onto [Radical Help](https://www.goodreads.com/book/show/40274525). Thought I’d read it already. Turns out I haven’t. [Doing OK](https://www.goodreads.com/user_challenges/19557966) on the reading front this year though. Getting trains about a bit more has helped. I love reading, I don’t do enough. Your critical faculties are an amazing tool, even more amazing when your ability to critique is grounded in as much as you can absorb and merge into your existing thinking. Reading is the greatest window to widening your critical faculties. 
+
+Also reading: Looking at some loose loose cycle of _running book, design book, graphic novel, looser worky type book, fiction book_.
+
+This weekend I really should fix the gate in the garden and finish off [The End of the Fucking World](https://en.wikipedia.org/wiki/The_End_of_the_F***ing_World).
+
+### Things of note elsewhere
+
+Simon Hurst’s [The needs of user researchers](https://medium.com/@simon.hurst_92516/the-needs-of-user-researchers-5a710f1c5b19)
+
+[J.J. Foreman explaining design](https://twitter.com/berkun/status/1224404274152497152?s=20)
+
+[Sarah Drummond’s form follows function](https://medium.com/wearesnook/a-brief-history-of-form-follows-function-6b6484c8c961)
+
+[Paul Clarke on some recent shots taken in the Houses](https://paulclarke.com/photography/blog/the-eyes-have-it/)
+
+{% include weeknotes_2020_outro.html %}
