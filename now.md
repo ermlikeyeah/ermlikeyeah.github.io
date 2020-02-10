@@ -16,7 +16,7 @@ I have two upcoming speaking engagements:
 * A private one, on my running adventures in 2019
 * A public one, on accessible products and services, at the next Product People North in May 2020
 
-I currently have no spare time to take on any further mentoring. Sorry.
+I currently have no spare time to take on any further "full time" mentoring. Sorry. These people is enough at the no. If you just need an hour to chat with someone about work I could squeeze something in though. 
 
 If you are interested in how I can help you or your organisation please [get in touch](/contact).
 
