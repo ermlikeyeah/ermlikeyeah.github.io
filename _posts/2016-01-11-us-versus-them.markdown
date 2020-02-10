@@ -2,6 +2,7 @@
 layout: post
 title: Us versus them
 date: '2016-01-11 08:31:33'
+tags: [collaboration, disagreements over work, tribal culture, understanding]
 ---
 “This is going to be a fight.”
 
