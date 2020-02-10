@@ -29,11 +29,12 @@ In my free time I:
 3. watch films and sometimes get to watch TV programmes
 4. [read](https://www.goodreads.com/user/show/4156043-si-wilson)
 5. do gardening
-6. help teach service design at [Leeds Service Jams](//gsjleeds.wordpress.com) and [Leeds GovJams](//leedsgovjam.wordpress.com/)
-7. guide young people to design and make with code and technology at [Bradford CoderDojo](//bradford-coderdojo.github.io)
-8. am a part-time lecturer on design and communication at Leeds Beckett university
-9. write posts on [my blog](/all-posts/)
-10. still support Grimsby Town Football Club
-11. try to follow Brooklyn Nets, despite the five hour time difference
+6. walk the dog
+7. help teach service design at [Leeds Service Jams](//gsjleeds.wordpress.com) and [Leeds GovJams](//leedsgovjam.wordpress.com/)
+8. guide young people to design and make with code and technology at [Bradford CoderDojo](//bradford-coderdojo.github.io)
+9. am a part-time lecturer on design and communication at Leeds Beckett university
+10. write posts on [my blog](/all-posts/)
+11. still support Grimsby Town Football Club
+12. try to follow Brooklyn Nets, despite the five hour time difference
 
 <a href="/past/" class="more-link">What I have done in the past &rarr;</a>
