@@ -3,7 +3,6 @@ layout: post
 title: Us versus them
 date: '2016-01-11 08:31:33'
 ---
-
 “This is going to be a fight.”
 
 “It’s us versus them.”
