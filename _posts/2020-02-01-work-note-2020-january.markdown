@@ -2,7 +2,7 @@
 layout: post
 title: Work note for January 2020
 date: '2020-02-01 10:45:00'
-tags: [work note, work notes 2020, month note]
+tags: [work note, work notes, work notes 2020, month note]
 ---
 In the last couple of months of last year I started to have a big think about Where I Was Going With Work Stuff.
 
