@@ -7,7 +7,7 @@ permalink: /now/
 
 Currently I am contracting as a service designer for [Difrent](//difrent.co.uk) on the NHS Jobs project at [NHS BSA](//www.nhsbsa.nhs.uk), until May 2020. I am figuring out what I will be doing after that date.
 
-I write [week notes](/tags/#week%20notes) which sometimes mention work and a more specific [monthly work note](/tags/#work%20notes).
+I write [week notes](/tags/#weeknotes) which sometimes mention work and a more specific [monthly work note](/tags/#work%20notes).
 
 I coordinate the [Leeds gov design meets](/leedsgovdesign/), a regular meet-up for people in and around Leeds who are designing and making public services. I am organising the next [Leeds Gov Design](/leedsgovdesign) meet for early April 2020.
 
