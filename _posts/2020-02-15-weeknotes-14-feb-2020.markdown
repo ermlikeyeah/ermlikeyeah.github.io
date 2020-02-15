@@ -1,0 +1,43 @@
+---
+layout: post
+title: Weeknote for Friday 14 February 2020
+date: '2020-02-15 08:00:00'
+tags: [weeknotes, 2020 weeknotes]
+---
+{% include weeknotes_2020_intro.html %}
+
+Watched The Good Place, well _finished_ The Good Place. It was _good_ it ended and it was _good_ it ended well. It told its story. Is knowing when is enough that tricky a skill, especially — _especially_ — in television? That there’s only going to be that one season of _Watchmen_ was personally satisfying. Enough closure, some trails for a possible future, but contained enough and a mighty fine story told well. Big Little Lies, why oh why that second season? The first was so so on point. Why the need? Viewing figures? I could keep going on on on. But The Good Place knew its place and time and when to bow it. I’ll miss my regular viewings on new episodes of The Good Place, but most good things have an end. That what keeps them good.
+
+Also: Bad things can end too. Hang in there if you’re in that place and can’t find the door out.
+
+Deakins got his second Oscar, fuck yes. Keep going, Roger.
+ 
+Lots and lots of train time and waiting at stations time this week. Burrowing through Radical Help. Lots of good reminders in there _service as a means to an end v a service as the end itself_, do we create _a process or a relationship_ and _invitation to participate v ordered to participate_ in those, _talk with or at_? 
+
+Also managing to crack through the 150+ tabs I have built up in the browser on my phone. Yes. 150+. Some of them go back three years. Yes. Three years. The fail of reading about interesting stuff on the Twitters, opening them, and thinking _yeah, I’ll read that later_.
+
+Had a few moments this weeks that raised _reacting to surprise symptoms_ versus _finding (and fixing the root cause_.
+
+Had some nice workshoppy days at work.
+
+Felt I was less forgiving about some stuff this week. Not back into _don’t suffer fools lightly_ territory, but anyway. What does good look like, eh.
+
+Good chat this week about too much the product lifecycle being _seen_ as linear. We don’t talk/show enough about the forks and experiements we do underneath or concurrently — so too many people see it was one thing, step to step to step to step.
+
+Not much running as wanted this seven days. The storm over the weekend curtailed that (although managed to get 3km out before the rain really came down) and lots of travelling during the week reduced me to two runs out of five week days. I just need to be a bit firmer next week. Fancy trying a marathon distance jaunt. _Faster versus further though?_ I was mulling earlier this week (and not just about running). Distance it is on the running front.
+
+Being content isn’t always about happiness, yo.
+
+I had half an hour on Apple TV watching _music videos_. Video playlists as the new MTV2? I would be so there for that. Apple TV is a great example of _a hub_ or even _a dashboard_, a lovely layer that sits over the things you use to watch TV in its various places, surfacing them in one place. [The video for the Cure’s Close to Me](https://youtu.be/BjvfIJstWeg) is still 👌🏼.
+
+Down at the gym I saw a music video rip off of Scott Pilgrim’s battles (in the movie) against Todd and the twins. Such a shitty rip off too. At the end of the video there’s a title card. DIRECTED BY. I wouldn’t be so proud, mate. No idea who the band or song were. Feels a more important thing but hey. But I know right they still make music videos!
+
+Listened to a lot of HAIM. Could just keep listening to HAIM.
+
+Had a lot of grief from my MacBook this week which meant time in the Apple store. First time the service was great, quick _yeah we’ll sort that, leave it with us_. The second time was a longer visit but also good-in-a-different (as annoying as the repair has caused my Mac to die). The diagnostic stuff when your MacBook is hooked into the network and the iPad runs it all is close to magic. The guy who looked after me let me have a good look at the staff interface on their iPads and yeah design for context don’t just copy and paste interface approaches because it works in a different context and ding dong done.
+
+Looking forward to looking at some _proper design books_ next week. Phwoar. I miss chats about typography and kerning and form and stuff like that.
+
+My daughter is 17 now. Where did that time go etc etc? Life huh.
+
+{% include weeknotes_2020_outro.html %}
