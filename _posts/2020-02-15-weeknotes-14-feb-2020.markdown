@@ -6,7 +6,7 @@ tags: [weeknotes, 2020 weeknotes]
 ---
 {% include weeknotes_2020_intro.html %}
 
-Watched The Good Place, well _finished_ The Good Place. It was _good_ it ended and it was _good_ it ended well. It told its story. Is knowing when is enough that tricky a skill, especially — _especially_ — in television? That there’s only going to be that one season of _Watchmen_ was personally satisfying. Enough closure, some trails for a possible future, but contained enough and a mighty fine story told well. Big Little Lies, why oh why that second season? The first was so so on point. Why the need? Viewing figures? I could keep going on on on. But The Good Place knew its place and time and when to bow it. I’ll miss my regular viewings on new episodes of The Good Place, but most good things have an end. That what keeps them good.
+Watched The Good Place, well _finished_ The Good Place. It was _good_ it ended and it was _good_ it ended well. It told its story. Is knowing when is enough that tricky a skill, especially — _especially_ — in television? That there’s only going to be that one season of Watchmen was personally satisfying. Enough closure, some trails for a possible future, but contained enough and a mighty fine story told well. Big Little Lies, why oh why that second season? The first was so so on point. Why the need? Viewing figures? I could keep going on on on. But The Good Place knew its place and time and when to bow it. I’ll miss my regular viewings on new episodes of The Good Place, but most good things have an end. That what keeps them good.
 
 Also: Bad things can end too. Hang in there if you’re in that place and can’t find the door out.
 
@@ -20,7 +20,7 @@ Had a few moments this weeks that raised _reacting to surprise symptoms_ versus 
 
 Had some nice workshoppy days at work.
 
-Felt I was less forgiving about some stuff this week. Not back into _don’t suffer fools lightly_ territory, but anyway. What does good look like, eh.
+Felt I was less forgiving about some stuff this week. Not back into _don’t suffer fools lightly_ territory, but anyway. What does good look like, eh. Maybe _what does useful look like and what does acceptable look like_.
 
 Good chat this week about too much the product lifecycle being _seen_ as linear. We don’t talk/show enough about the forks and experiements we do underneath or concurrently — so too many people see it was one thing, step to step to step to step.
 
