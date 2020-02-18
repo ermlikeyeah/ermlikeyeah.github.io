@@ -1,0 +1,64 @@
+I"�!<h2 id="week-commencing-monday-27-february">Week commencing Monday 27 February</h2>
+
+<p>Episodes 14 through 16 will have to go down as “lost episodes”, like older series of Doctor Who. Episode 17 I was off from NHS Beta. I did a <a href="//www.ermlikeyeah.com/week-ending-19-feb/">quick general week ending note</a> between 16 and 17 though.</p>
+
+<p>A belated thanks from those “missing missives” to <a href="//www.twitter.com/StevieBYorks">Steve Blackburn</a> from Leeds City Council. Steve came in to <a href="//twitter.com/ermlikeyeah/status/829651905295040512">talk with the Leeds Beta team</a> about <a href="//datamillnorth.org">Data Mill North</a> . Putting public facing stuff out into the open is a thing I massively believe in, and it was fascinating to hear from Steve about how over the past 18 the Mills has moved on from just being Leeds Data Mill.</p>
+
+<h3 id="monday">Monday</h3>
+<p>When you’ve had a week off how do you get a summary of the pertinent points from Slack? And all the channels you are on? Spend the time trawling through the channels – or use it as an excuse for a bit of face-to-face time with the wider team?</p>
+
+<p>We did the latter, and I am glad we did. We used the afternoon to go through the enormous amount of  progress the team had made over the past week or so, “productionising”. It was also a good opportunity to go through being clear how we’ll iterate the work as it was at and what we were doing, piece by piece, so everyone was in common understanding. The natters brought up some stuff we hadn’t fully thought through as well. Even saying “We don’t know about that” is important. We can go and find out.</p>
+
+<p>We focused the sessions by putting print-outs of the journeys up on the wall and then going through the ‘screens’. Post Its were put up to raise questions and actions around those so there was a pretty clear – and widely seen – document. Some of the stuff could be easily dealt with, and a green marker meant we could put a big green tick through stuff we sorted. Good to see a rarer side of “pairing” happen, as our content designer Dean sat with Eva, one of the developers to iterating not just on-screen, but on the “productionised” service.</p>
+
+<p>With this being the last full day of the sprint it also helped with planning what is next.</p>
+
+<h3 id="tuesday">Tuesday</h3>
+<p>It was the fortnightly end-of-one-sprint-start-of-the-next-sprint Tuesday. That means the show and tell.</p>
+
+<p>We’ve had chats about whether the wider, more open show and tell that the Alpha team pushed (and rightly - do things in the open and all that) serves the needs of the teams doing the work now, going over the outcomes of the sprint. Are the show and tells too high level? This isn’t a new problem: We were thinking this in the summer.</p>
+
+<p>The open show and tells are now “showcases” – the headlines – and creating cross programme awareness.</p>
+
+<p>Afterwards we did our first intra-team show and tell, the Leeds posse having a deeper dive. Steve ably led this, and the session gave everyone the chance to see the work and the progress that had been made over the previous two weeks.</p>
+
+<p>I managed to wangle out of planning for an afternoon off. I still ended up working on the train down to London. We know there’s a lab on Monday and there’s a lot that needs to actually exist for us to get the most we can from the lab. We don’t want to cut corners in the things we test, so we’ll be cutting corners in our week.</p>
+
+<p>I got to work on a fake version of an existing GP appointment system. I didn’t want to rely on the train’s Wifi so I’d saved some static pages while attending some of the morning sessions. Two uninterrupted hours in the train systematically going through linking up some static pages was just the ticket.</p>
+
+<h3 id="wednesday">Wednesday</h3>
+
+<p>More stitching together the fake booking system and focusing on the minutiae of the upcoming lab on Monday - and the pop-up were doing the next day.</p>
+
+<p>Pop-up research sessions (not guerrilla sessions, etc etc) are not the be-all, but are great for some check on what you’re on with. They still need some prep though: What are we looking to learn? What don’t we know? What do we doubt? We have we changed? And you’re usually not going to spend a long time with the people you speak to. If you could ask them to give their response to one thing, what would it be? If they then had a bit more time, what next? And next? And how do you do that without it feeling like you are jumping all over the place? A little planning goes a long way.</p>
+
+<h3 id="thursday">Thursday</h3>
+
+<p>World Book Day. Early start to get in to sort some stuff out for the pop-up. It’d been a couple of head-down days, so taking a breather over breakfast to go through what we were going to use that day was vital. Find any loose ends I could, and tie them up.</p>
+
+<p>Libraries are always great places to go for pop-up sessions. A few people there, and a few that went to use the internet, be it reading the news, emailing relatives, or job searching. There are some who are there to even learn how to use the internet.</p>
+
+<p>We spent the morning at the library, did some analysis at lunch. Some good stuff came out of it. We weren’t the only people doing some research and testing at the library - Leeds council also had a team, doing more formal sessions upstairs. Good to have a chinwag and talk about our respective work, comparing our ways of working.</p>
+
+<p>We rolled back into the office to get on with work ahead of Monday’s lab. The stuff we are missing for Monday is starting to worry me.</p>
+
+<h3 id="friday">Friday</h3>
+
+<p>Man. Hectic. And as I tap this on the train home my head’s a bit hazy. So much done today. Some of us left late, and there’s still stuff to do over the weekend. But the lab is set up pretty well. Sophie’s pulled together some handy guides to keep a few facets of the lab focused and on-track, from the discussion guide to how the observers should be divvied up and working. It feels a too-wide breadth of stuff to cover in the lab, but we’ll see how it goes.</p>
+
+<p>There’s still stuff to do over the weekend. Doing it over the weekend in my own time will make me think twice and thrice how it will fit into already tight sessions. I know already I will be battling with the arduous printing process at work early on Monday though. I hate that printing process: logging on to a virtual desktop, transferring files from my Macbook onto Google Drive, logging into Google Drive through Chrome on the virtual desktop, downloading the files, setting up the print. Someone do some digital transformation to that process.</p>
+
+<p>Anyway, it’s the weekend.</p>
+
+<h3 id="looking-ahead">Looking ahead</h3>
+
+<p>Lab on Monday - as always the chance to not just test our thinking, but understanding people, what they need and what will work for them. When you’re working on something that can be seen to “already exists” you’ve got to stay focused in why you are doing it, knowing that what you are making solves human problems with as little friction as possible, not put IT barriers in the way. That’s the difference between “reskin” and “transformation”.</p>
+
+<p>We’re still a long way from being able to influence the whole journey, or journeys even. While we are focused on the “web channel”, we need to think wider and into non-digital channels as much as digital channels. Even if we cannot dictate the wider service design, we can be mindful of it, find weak points we smooth over, suggest what could be better – and ensure our channel has been thought through with the widest and closest perspectives, is inclusive in how it works, and can influence the wider service as a marker for approach and quality.</p>
+
+<h3 id="randoms">Randoms</h3>
+
+<p>Watched the <a href="//www.bbc.co.uk/programmes/b08fsbk9">Storyville Life, Animated</a> , about a person with autism who connected to the wider world through Disney films. Watching it so soon after I finished <a href="//www.amazon.co.uk/d/Books/Neurotribes-Legacy-Autism-Think-Smarter-People-Differently/1760113638">Neurotribes</a> as well. I recommend you take in both.</p>
+
+<p>Intriguing listening to people talk about the Nintendo Switch — and more so wanting to play the new Zelda game. After really getting into Rise of the Tomb Raider at the end of last year, that and Zelda have reminded me of that thing Iain Tait wrote about playing games more. I’d link to it but cannot find it any more. Anyway. That.</p>
+:ET

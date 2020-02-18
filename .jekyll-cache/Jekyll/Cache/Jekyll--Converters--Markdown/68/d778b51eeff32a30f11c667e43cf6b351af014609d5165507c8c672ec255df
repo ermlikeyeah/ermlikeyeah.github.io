@@ -1,0 +1,42 @@
+I"<p>Another Sunday, another little bit of a quick coding effort.</p>
+
+<p>Following <a href="//www.ermlikeyeah.com/amazon-lookup/">last weekend’s look up Amazon bestsellers in your library effort</a>, I received a number of responses. If you took the time out to contact me, thank you! It’s good to see something that’s me just having a play was described as “useful”!</p>
+
+<p>A few asked if it was possible to apply the same approach to Amazon wishlists. So I’ve had a go at that.</p>
+
+<p>Knowing I could have a chance of a spare half hour early evening, I did a little research while walking the dog. One of the first problems was Amazon wishlists are not like their bestseller pages - they do not provide readily formatted data for us to just pick up (the bestsellers has RSS/XML feeds we could just look up).</p>
+
+<p>However, HTML is data of its own kind, so I had a look at the code of a wishlist page (which you can do too - go to your wishlist page and select the <em>view code</em> option in your browser, if you’re curious) and found that all my wishlist entries had a little bit of information against them that indicated they were <em>wishlist items</em>: <code class="highlighter-rouge">a id="itemName_</code></p>
+
+<p>So I wrote a little bit of code that takes in the HTML code for my wishlist page. It then looks for all the lines with <code class="highlighter-rouge">a id="itemName_</code> on and stores a list of them.</p>
+
+<p>Unfortunately I was only working on the first page of my wishlist so this meant I only had my most recent 20 entries on my wishlist to work with. At the same time, this made life a little easier as it meant I was only working with 20 entries!</p>
+
+<p>I then extracted all the data on each line by pulling out anything that was between speech marks - there are four items per line. But I only needed to show the second and fourth: <em>the book name</em> and <em>the book’s URL on Amazon</em>.</p>
+
+<p>Knowing we only had 20 books’ details the program enters a loop, working through a book at a time to show stuff on screen for visitors to the web page.</p>
+
+<p>The loop displays the book name, simple enough. Then I wanted to create a URL to a library system. If you remember last week’s effort, we needed the ISBN number to feed into the library system. This is in the Amazon URL, so I wrote a little bit of code that lifted that 10 character code out of the URL and “spits it out” as part of a web link (to the Leeds libraries system).</p>
+
+<p>Last week I also discovered that Kindle books make up a big part of my wishlist and the library systems don’t seem to return those. Again I intriduced a “warning” - Kindle books seems to have an ISBN that starts with <em>B</em>, so the code runs a quick check. If the ISBN starts with B, put a little warning up.</p>
+
+<p>And that’s it! Total time spent: just less than an hour this time. (And not including the little bit of research while I was out with the dog.)</p>
+
+<p>You can view my wishlist by visiting <a href="http://www.studioofthings.com/books/amazon-wishlist.php?wishlist=39JNF1CTQYIJ1">www.studioofthings.com/books/amazon-wishlist.php?wishlist=39JNF1CTQYIJ1</a></p>
+
+<p>If you want to insert your wishlist, take the web address below. Do you see everything after<code class="highlighter-rouge">wishlist=</code>? Replace that with your wishlist ID. You can find by visiting your wishlist on Amazon. My wishlist URL is <code class="highlighter-rouge">http://www.amazon.co.uk/gp/registry/wishlist/39JNF1CTQYIJ1</code> You can see my wishlist ID is everything after that last <code class="highlighter-rouge">/</code>: <code class="highlighter-rouge">39JNF1CTQYIJ1</code>. Can you see that in the URL? That’s what you need to find and replace!</p>
+
+<p>So, if your wishlist ID is <code class="highlighter-rouge">ABCDEFGHIJKLM</code> you can create your look-up page with the URL <code class="highlighter-rouge">www.studioofthings.com/books/amazon-wishlist.php?wishlist=ABCDEFGHIJKLM</code></p>
+
+<p>If you live in Bradford you can force my system to search Bradford libraries, by adding <code class="highlighter-rouge">&amp;location=bradford</code> into the URL. So: <code class="highlighter-rouge">www.studioofthings.com/books/amazon-wishlist.php?wishlist=YourWishlistID&amp;location=bradford</code>.</p>
+
+<p>So, my wishlist look-up pushing a search into Bradford libraries’ system is <a href="http://www.studioofthings.com/books/amazon-wishlist.php?wishlist=39JNF1CTQYIJ1&amp;location=bradford">www.studioofthings.com/books/amazon-wishlist.php?wishlist=39JNF1CTQYIJ1&amp;location=bradford</a></p>
+
+<p>None of your data is taken and stored by this system, by the way. It just looks up your page “on the fly”, pulls out what it needs to show it, and that’s it. Nothing is squirreled away secretly.</p>
+
+<p>Likewise, any council library system that uses the Capita Discovery system can be “used”, like Barnsley’s. The Capita Discovery “location” for Barnsley is <code class="highlighter-rouge">barnsleymbc</code>. So the URL is <code class="highlighter-rouge">www.studioofthings.com/books/amazon-wishlist.php?wishlist=YourWishlistID&amp;location=barnsleymbc</code>. Maybe at some point I could get a list of all the libraries that use the Capita Discovery system.</p>
+
+<p>And that’s it. Thanks again if you replied last week. It was some of those replies that got me thinking about this latest “quick code”. I apologise again it isn’t the neatest and a little looser than last week’s, but I didn’t have loads of time (and partially on purpose). As a little “proof of concept” it does the job.</p>
+
+<p>As always let me know what you think, good and not-so-good! Get me on Twitter at <a href="//www.twitter.com/ermlikeyeah">www.twitter.com/ermlikeyeah</a>, and email at <a href="mailto:si@studioofthings.com">si@studioofthings.com</a>.</p>
+:ET

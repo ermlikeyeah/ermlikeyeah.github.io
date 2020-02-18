@@ -1,0 +1,30 @@
+I"�<p>After finding a little time <a href="/try-something-new-to-something-already-there/">Friday lunchtime to hack about with Bradford council’s website stylesheets</a>, I found myself with some unexpected downtime today as well.</p>
+
+<p>Towards the end of last week there were threats of thunderstorms across the UK. The <a href="http://www.bbc.co.uk/news/uk-28366535">storms were spectacular</a>.</p>
+
+<p>As the storms hit buildings down south we were wondering if it was safe, here in Bradford, to put the washing out.</p>
+
+<p>We’re not a tumble-drier owning family, and to repeat that there we’re a family. We get through clothes. So the warm weather means clothes can be washed, hung outside, and dry pretty quick at the mo. (Rather than, say, hung from the curtain rails in our bedroom.)</p>
+
+<p>I joked that this is the sort of situation that an every day widget on our phones could solve - an <em>actually useful</em> widget, that says to you “Yeah, you can hang your washing out, at least for the next four hours - but that’ll be enough with the current conditions to get everything up to a pair of jeans dry.”</p>
+
+<p>I joked. And yet I found myself at a little loose end, and still buzzing from having that quick play on Friday. What could I do? How hard could it be to wedge together a quick web-based prototype of this Can I Hang My Clothes Out idea?</p>
+
+<p>With no up-front research I had a quick scoot through the most popular (with Google anyway) available online weather sources: BBC, Sky, weather.com, the Met Office, and Yahoo!.</p>
+
+<p>I needed available data from these, which knocked Sky off the list straight away (no feeds). And for speed’s sake I didn’t want to mess around with registering with APIs - I just wanted a raw RSS/XML feed for Bradford for starters, just to get things going quickly.</p>
+
+<p>The feeds all offered different ranges of data: <a href="http://open.live.bbc.co.uk/weather/feeds/en/2654993/3dayforecast.rss">the BBC’s was the simplest files</a>, but also the least useful to me, providing just pre-written forecasts of the weather. I didn’t want those: I wanted data, I wanted numbers (temperatures! wind speeds!) and scenarios (“partly cloudly”!).</p>
+
+<p>I thought I would get the data in and on-screen quickly. I can honestly say I spent longer on this than I thought, just over an hour, yet discovering each feed’s strengths and weaknesses by playing with them, coding on the fly to parse (or try to parse) in PHP.</p>
+
+<p>For this experiment Yahoo! provided <a href="http://weather.yahooapis.com/forecastrss?w=13527&amp;u=c">the sweet combination of the type of data</a> I needed, along with its ease to parse. (SimpleXML was a Godsend.) I used some ECHO commmands to get the data I needed on screen quickly (<em>current temperature</em> and <em>current conditions</em>), and then hammered together some rough HTML and CSS to make the data more presentable (which I mainly ripped from another project, hence the handy icons in place already).</p>
+
+<p>I’ve put the project online so <a href="http://www.studioofthings.com/washingout/index.php">you can view it, off the Studio of Things’ web server</a>.</p>
+
+<p>What I have is a prototype, done in two hours. It was a frenetic and frantic couple of hours, I’ve created something that’s nowhere near complete and very make do as I had other stuff I <em>really needed</em> to get on with - but it was also rewarding, hacking against the clock.</p>
+
+<p>There’s stuff I can do to iterate it further, much further, and when I get some spare time over the coming weeks I’ll have little chips away at it. I tied up the work today by quickly setting up <a href="https://trello.com/b/O3V8Jfli/shall-i-hang-the-washing-out">a Trello board</a> with a brain dump of progressions to consider and my notebook has some doodles of visual stuff I want to explore.</p>
+
+<p>If you’re curious, you can <a href="http://www.studioofthings.com/washingout/index.php">view the experiment online here</a>, and <a href="https://trello.com/b/O3V8Jfli/shall-i-hang-the-washing-out">the project’s Trello board here</a>. Drop me a line with what you think, below or through the <a href="/contact">contact page</a>. And if there’s anything you’ve “had a quick crack at” recently let me know too!</p>
+:ET

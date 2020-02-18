@@ -1,0 +1,42 @@
+I"<p>A few weeks back we were looking into a new project.</p>
+
+<p>The old “Do we have to support IE8?” point came up.</p>
+
+<p>Chat with the client.</p>
+
+<p>Globally, IE accounts for just over half the “desktop” web traffic. IE8 is about 16%. This for a browser that is Microsoft is due to drop for support of in about seven months.</p>
+
+<p>According to the client’s website’s analytics platform IE8 accounts for a steady quarter of their traffic over the past three months - higher than the global amount.</p>
+
+<p>Our client also knows their own clients.</p>
+
+<p>We filter through the website data, find just over half of the IE8 users of the existing website are at their clients’ “locations”. Lazily math and to reiterate: 12.5% of the traffic to the client’s website is from their existing clients using IE8.</p>
+
+<p>My point?</p>
+
+<p>On the train back from London the other day I couldn’t avoid hearing a bevvy of agency types having some end-of-day “banter and drinks” on the way back to Leeds. I was stuck on one of the more frustrating later levels in <a href="http://weplaydots.com/twodots.html">Two Dots</a>. They were being boisterous. And - hey! - agency/studio rivalry/nosiness!</p>
+
+<p>“The client is still wanting their website to be IE8 compatible? This has been going on for weeks. We’ll have to do some design changes and some rebuild. They’ll have to pay extra for that support.”</p>
+
+<p>Turns out their client, that client’s website and the client’s web audience overall, has “higher than average” IE8 traffic.</p>
+
+<p>The project’s a month in and the agency is addressing “the IE8 issue” now, now they’re “just a couple of weeks off sign off - this will effect that.” The agency had hoped to avoid it, convince the client otherwise. “The designers will have a fit.”</p>
+
+<p>This is all wrong.</p>
+
+<p>The client has “dug in”. “This is important”. And can you blame them? Their audience is their business. As much as we love to look forward in this industry, we have to accept the now, which is driven by things that are merely <em>years</em> old - and make sure your audience gets your message.</p>
+
+<p>The idea of bolting on “IE8 support” to a build later? I am hearing this as an increasing standard practice. (And to bring some element of balance, we note at <a href="www.studioofthings.com">the studio</a> if we have to consider IE8 in the design and build we acknowledge there is <em>some</em> additional build and testing time - but we work its need up front.)</p>
+
+<p>For a lot of businesses, IE8 actually still supports their business. Our client from the start of this piece could equate the revenue from those clients against browser as a lazy metric. Sometimes just looking at the web analytics isn’t just enough either.</p>
+
+<p>As an industry we need to be less of the persuaders to avoid the “hassle” like those guys and gals on my train.</p>
+
+<p>Or we need to be presenting less idealism as an excuse to make a website, say, IE9 upwards (let along <a href="http://www.theverge.com/2015/4/29/8511169/microsoft-edge-official-name-internet-explorer-upgrade">Microsoft Edge</a>), because that will make people upgrade to a “modern browser”. (There are strong cases when idealism is just fine, by the way, as <a href="http://www.bryanjamesdesign.co.uk/">Bryan James</a>’s <a href="http://species-in-pieces.com/">Species in Pieces</a> showed. But read up on Bryan talking about making that piece for making that.)</p>
+
+<p>We always need to know, understand considerations up-front and design (to build) with them in mind - and that includes what IE8 can and can’t let us do.</p>
+
+<p>Y’know, do that analysis why at the start, put those needs into the brief at the start, so the designer - or even the developer - doesn’t “have a fit” when they are asked to reverse engineer later on. And the client doesn’t “have a fit” when you ask them to pay more.</p>
+
+<p>Oh, and agencies: Publicly can you come across as more being understanding, rather than those obnoxious tipsy dicks on the train?</p>
+:ET

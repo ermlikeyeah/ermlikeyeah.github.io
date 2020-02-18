@@ -1,0 +1,83 @@
+I"�<p>I remember the first time I did a bit of computer programming on my own computer.</p>
+
+<p>It was 1987. I was 11, maybe 12. My family lived in Riyadh, Saudi Arabia. My dad worked out there, because there were no jobs back home in Grimsby. Or no jobs that he could do. Or no jobs that paid well. Or whatever.</p>
+
+<p>We spent most of our days living in a villa on a compound. I am not going to pretend it was suppressive and bad. It wasn’t.</p>
+
+<p>While we couldn’t go out and about so much without my mum having to wrap up, the school day ended at lunch (although started somewhere near 7am), we had a swimming pool, I read loads (Orwell…), I watched loads of films (1987 was the year I saw <em>Ferris Bueller’s Day Off</em>, <em>the Goonies</em>, <em>Aliens</em>, <em>Hannah and Her Sisters</em>, and the Paul Schrader version of <em>Cat People</em> for the first time), and we had KFC at the end of my dad’s working week.</p>
+
+<p>One day, near Christmas of 1987, my mum bought me a Commodore 64. I say “me”, but I think it was really for all of us. I just got the most out of it.</p>
+
+<p>And, yes, my mum got it because it’d <a href="http://www2.b3ta.com/heyhey16k/">help with my homework</a>, somehow.</p>
+
+<p>The Commodore 64 came with a really good manual. And I do mean really good. It explained a lot about the machine and how to use it. It explained how to program the machine. It had to.</p>
+
+<p>If I wanted to load something from a disk drive I had to type in a command. I didn’t just put the disk into the drive and it loaded automatically, like a DVD would do these days.</p>
+
+<p>I had to type <code class="highlighter-rouge">LOAD “*”,8,1</code>.</p>
+
+<p>The disk drive would whirr, crank, and purr as it loaded in whatever it found not the floppy disk.</p>
+
+<p>So really, that was the first bit of computer programming I did. Getting the computer to load something. (It might have been Monopoly. My mum bought something recognisable. It was a couple of weeks before we chanced onto Winter Games from Epyx and my life was really changed.)</p>
+
+<p>A lot of people talk of the mystical/mythical <a href="https://en.wikipedia.org/wiki/%22Hello,_World!%22_program">HELLO WORLD</a> as their first piece of programming. I cannot remember doing that as mine. It had to be loading in the disk.</p>
+
+<p>After that? I got bored of Monopoly - and read the manual fully. Looking back it was an <em>excellent</em> manual, with a very engaging example based tone. I must have done the exercises in the manual one by one.</p>
+
+<p>Early on in the manual it introduces you to a programming language called BASIC. It was quite a simple language to learn. The first example of code (that didn’t load anything in) was very early on in the manual.</p>
+
+<p><code class="highlighter-rouge">PRINT “I LOVE MY COMMODORE”</code></p>
+
+<p>I typed this, hit the return key, and on screen the computer told me <code class="highlighter-rouge">I LOVE MY COMMODORE</code>.</p>
+
+<p>I also remember the first command that felt like I was making the computer “do my homework”. There was an example in the manual for a simple maths problem.</p>
+
+<p><code class="highlighter-rouge">PRINT 12 + 12</code></p>
+
+<p>I typed that in, hit the return key.</p>
+
+<p>The computer replied <code class="highlighter-rouge">24</code>. Fast! I gave it a few, admittedly simple, maths problems, possibly in the hope I’d catch it out, it’d get one wrong.</p>
+
+<p>I quickly learnt that instead of <code class="highlighter-rouge">x</code> for multiply I needed to use <code class="highlighter-rouge">*</code>.  For <code class="highlighter-rouge">÷</code> I needed <code class="highlighter-rouge">/</code>.</p>
+
+<p>I then learnt I could store values in <code class="highlighter-rouge">variables</code>.</p>
+
+<p><code class="highlighter-rouge">LET X = 28 + Y</code></p>
+
+<p>Put into <code class="highlighter-rouge">X</code> the sum of <code class="highlighter-rouge">28</code> and <code class="highlighter-rouge">Y</code>. And <code class="highlighter-rouge">Y</code> was a variable.</p>
+
+<p>So my program could’ve been:</p>
+
+<p><code class="highlighter-rouge">10 Y = 3
+20 LET X = 28 + Y
+30 PRINT X</code></p>
+
+<p>And while I didn’t do the <code class="highlighter-rouge">HELLO WORLD</code> thing I did learn about loops a different way!</p>
+
+<p><code class="highlighter-rouge">10 PRINT “MY NAME IS SIMON”
+20 GOTO 10</code></p>
+
+<p>On my screen - a TV the computer was plugged into - the computer printed MY NAME IS SIMON over and over and over and over (like a monkey with a miniature cymbal) until I forced the program to stop.</p>
+
+<p>From going through the early half of the Commodore 64 manual I learnt concepts then that shaped my coding:</p>
+
+<ul>
+  <li>How to display something</li>
+  <li>How to store information</li>
+  <li>How to manipulate information</li>
+  <li>How to loop</li>
+  <li>Think about the design of my computer program before I started.</li>
+</ul>
+
+<p>…which in short is everything you need to get up and running if you want to go “full code”. And a lot of these programs were simple, short. But they were done in an environment that presented me with no option but to type something in, allowing me manipulate my machine.</p>
+
+<p>Now in 2015 we usually don’t see that. We interact through more visual means. We click on icons to open apps. Clicking that icon is just telling the device you are using to launch a particular program of code.</p>
+
+<p>If we want to “do the code” we usually have to launch something to let us do that, an MS Dos prompt, Terminal, or some such.</p>
+
+<p>The distinction between code and technology is important. Technology isn’t just about coding - and also coding isn’t just about technology. But being able to code the technology isn’t as simple now as it was for me back in 1987 when I had just the one language in front of me – especially when you throw in all the devices and languages out there now. It <em>is</em> overwhelming - but there’s no reason why it should be. Programming, coding exists in places you might not realise as well, such in spreadsheets (like Excel).</p>
+
+<p>Coding for me was fun - and still is fun. It helps me, it lets me make things. I don’t consider myself a “professional coder”. I’ve learnt off my own back, learning and doing in-between all sorts of other stuff. (And I still learn and do it in-between all sorts of other stuff.) My code is not lean, not optimised and what have you (and this has been ruthlessly pointed out to me by “better coders” in the past), but my code does a job. I still get a thrill when I upload a piece of PHP code to a web server and my program runs.</p>
+
+<p>And that’s what matters most: <em>I</em> am getting a computer to do something for <em>me</em>, whether it is functional or (made up word alert) funtional.</p>
+:ET

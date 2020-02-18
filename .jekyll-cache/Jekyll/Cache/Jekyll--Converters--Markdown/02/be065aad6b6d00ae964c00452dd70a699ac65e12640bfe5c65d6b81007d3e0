@@ -1,0 +1,62 @@
+I"q<p>Somewhere, out there, I have a half-written piece about how playing video games in my youth, my fights with our family microwave, and my frustrations with DVD menus around the turn of the century have helped set up and shape my mental framework for looking at interfaces.</p>
+
+<p>That full piece may never see the light of day. (Although feel free to nudge me into action over at <a href="http://helpmewrite.co/people/idlesi/ideas">Help Me Write</a>.) In short the jist was <em>Don’t make something really fucking annoying to use</em>. There is one specific point in that piece that I don’t want to leave unaired and undiscussed.</p>
+
+<p>Let’s start here:</p>
+
+<blockquote>
+  <p>Supplier to client:<br />Here are the visuals of your website.</p>
+</blockquote>
+
+<p>These visuals are usually presented with a walk-through, a discussion about the visuals.</p>
+
+<p>“Let’s take you through our thinking.”</p>
+
+<p>“We have given your existing branding prominence in the website header section, per the brand guidelines.”</p>
+
+<p>“That’s just meaningless holding_ Loren Ipsum _copy.”</p>
+
+<p>“And now we’ve shown you the desktop version, here’s how that desktop visual will look through on a mobile device.”</p>
+
+<p>There’s a number of potential issues with all of these statements. But let’s concentrate on just one point.</p>
+
+<p>Usually these designs are displayed in a PDF. Or printed out. Or “in-browser” (as an exported image).</p>
+
+<p>Designs. Static designs. Static, flat, motionless designs. Pretty ain’t they?</p>
+
+<p>But representing movement in some way? Sometimes there might be a ‘before’ and ‘after’ visual to give you an idea. There also might be the suggestions of movement concepts, movement mechanisms with an annotation.</p>
+
+<p>“The images on the home rotate through.”</p>
+
+<p>“Click on the button and the form information is sent through.”</p>
+
+<p>“The button changes state on roll over.”</p>
+
+<p>“The user will use a slider to change the value.”</p>
+
+<p>“The information will be split with accordions.”</p>
+
+<p>“Click the link to go to the next item.”</p>
+
+<p>But is this enough for interactions? Interactions are an <em>animation</em> of some sort, a change of visual state. They are key part of a design, usually to get a user’s attention.</p>
+
+<p>“Yes, you clicked that button and I am detected it.”</p>
+
+<p>“Can you please make sure you fill in the form fields I have highlighted red.”</p>
+
+<p>“Look at this special offer!”</p>
+
+<p>“It’s been ten seconds. Let me gracefully slide in another picture into that area there, a picture that makes you feel we understand you as a person.”</p>
+
+<p>I raise it now due to the way interfaces - whether they are wireframes or designed visuals - are mainly created and then presented. And presenting on to ‘the client’ is the point they need to be fully understood.</p>
+
+<p>Design and designing in the modern world may be continually blurred with how we connect together so many fractured elements, but the human body and the human mind still needs an interface to connect with, and how that interface responds is vital for the mind to understand. It needs to be clear.</p>
+
+<p>For all the time spent caressing, nudging pixels around on-screen do yourself a favour and extend that thinking, give yourself some time to think about how the website will <em>flow</em> from a visual point of view.</p>
+
+<p>Animation has movement, but it also has a rhythm, a pattern, a structure of its own. For its derision, Flash offered designers an up-front view of the concept of a timeline and enforce an appreciation to animate as much as tickle pixels. Think: <a href="http://en.wikipedia.org/wiki/Musical_notation">musical notation</a>.</p>
+
+<p>On that note, sound can also be an interaction response, often overlooked on websites. (Is putting animation and sound together to form ‘video’ too much still?)</p>
+
+<p>Interactions are too overlooked, and yet are an integral part of the user experience. All I ask is next time you do design work and prep it to be presented, make sure you can get across the idea of what the interactions will be, even if it is embelishing more verbs on your descriptions. In your own way you’ve got to make sure your client understands, and everything associated with the project. Let your visuals be a clear interface to your thoughts on the experience you are looking to craft.</p>
+:ET

@@ -1,0 +1,43 @@
+I"�<p>Whatever you want to call them, here’s some little quick things on the side I’ve done in recent years. Most of them are quick hacks, pulled together initially in just a couple of hours. Some were improved from there. Apologies if they don’t work any more. Most have an accompanying blog post that talks about how they came to be.</p>
+
+<h2 id="look-up-scores-on-the-doors">Look up Scores on the Doors</h2>
+<p>I was curious what the Scores on the Doors on eateries near me were. This quick hack takes openly available data (from the Food Standards Agency) and does some simple analysis. Needs some design work and the code could do with some efficiencies – but it works. (And there’s some noted iterations.)</p>
+
+<ul>
+  <li><a href="http://www.studioofthings.com/dev/playground/livefoodauthorities.php">Have a look</a> (Beware: It’s a bit slow.)</li>
+  <li><a href="/view-your-local-scores-on-the-doors/">Read blog post about this</a></li>
+</ul>
+
+<h2 id="amazolibrarymash">Amazolibrarymash</h2>
+<p>Take an Amazon wishlist and then look it up against the catalogues of Bradford, Leeds, or North Yorkshire libraries.</p>
+
+<ul>
+  <li><a href="http://www.studioofthings.com/books/amazon-wishlist.php">Have a look</a></li>
+  <li><a href="/look-up-your-amazon-wish-list-in-a-local-library/">Read blog post about this</a></li>
+</ul>
+
+<h2 id="shall-i-hang-the-washing-out">Shall I Hang The Washing Out?</h2>
+<p>A quick web app that tries to answer the question “Shall I hang the washing out?” There’s a few things I’d really like to iterate on this, like saying “Yes” and “No” to the actual user need – but it’s got the data coming back to do that.</p>
+
+<ul>
+  <li><a href="http://www.studioofthings.com/washingout/index.php">Have a look</a></li>
+  <li><a href="/weathering-a-two-hour-hack/">Read blog post about version 1 of this</a></li>
+  <li><a href="/better-when-relevant/">Read blog post about version 2 of this</a></li>
+</ul>
+
+<h2 id="cities-of-something">Cities of Something</h2>
+<p>A “How much can I do at lunch?” from the back end of 2014, which pokes a little fun at how UK cities need to be seen as a city <em>of something</em>. Takes a list of UK cities, works its way through one-by-one, randomly chooses a phrase structure and drops in a randomly chosen word. On the train home I created a US version. It’s not the prettiest thing, mind. Does the job. Might revisit one day.</p>
+
+<ul>
+  <li><a href="http://cities.studioofthings.com">Have a look at the UK version</a></li>
+  <li><a href="http://cities.studioofthings.com?country=usa">Have a look at the US version</a></li>
+</ul>
+
+<h2 id="event-masher">Event Masher</h2>
+<p>Made to neatly show the combined events from Eventbrite, Lanyard, and Meetup when given a location (I made it centered on Leeds and Bradford). Most likely doesn’t actually work any more.</p>
+
+<ul>
+  <li><a href="http://www.studioofthings.com/eventmasher/">Have a look</a></li>
+  <li><a href="/hacking-together-a-data-masher/">Read blog post about this</a></li>
+</ul>
+:ET

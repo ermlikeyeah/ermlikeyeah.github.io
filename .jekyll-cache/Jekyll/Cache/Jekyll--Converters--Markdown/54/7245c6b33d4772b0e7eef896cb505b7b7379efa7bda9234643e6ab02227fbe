@@ -1,0 +1,66 @@
+I"�<p>The automatic checkouts at Morrisons have a welcome screen — the screen literally says <em>Welcome</em> so it must be a <em>welcome screen</em> — that offers you two options: <code class="highlighter-rouge">Start</code> and <code class="highlighter-rouge">I Brought My Own Bag</code>.</p>
+
+<p>(The automatic checkouts at other supermarkets might say the same or something alike in similar circumstances. Maybe pay attention next time you use an automated checkout to see what happens.)</p>
+
+<p>Choose one, user.</p>
+
+<p>Choose <code class="highlighter-rouge">Start</code> and you are straight onto scanning your shopping.</p>
+
+<p>Choose <code class="highlighter-rouge">I Brought My Own Bag</code> and the screen prompts you to <code class="highlighter-rouge">Place Your Bags</code>. A recorded voice from the machine instructs</p>
+
+<blockquote>
+  <p>Place bags in the bagging area and touch done when finished</p>
+</blockquote>
+
+<p><em>Please place your bags in the bagging scale and touch done when finished</em> the screen reads with an animation of someone placing a bag in the bagging area.</p>
+
+<p>Touch <code class="highlighter-rouge">Done</code> and you are onto scanning your shopping.</p>
+
+<p>Today, I approached the automated checkout, placed my basket down, took my shopping bag out of the basket, placed my shopping bag in the bagging area — and then I tapped <code class="highlighter-rouge">I Brought My Own Bag</code> on the screen.</p>
+
+<blockquote>
+  <p>Place bags in the bagging area and touch done when finished</p>
+</blockquote>
+
+<p>I had already done that so I tapped <code class="highlighter-rouge">Done</code>.</p>
+
+<blockquote>
+  <p>Unexpected item in the bagging area</p>
+</blockquote>
+
+<p>I sigh. I take my bag off and put it back on.</p>
+
+<blockquote>
+  <p>Unexpected item in the bagging area</p>
+</blockquote>
+
+<p>I dither. If I take my bag off and hit <code class="highlighter-rouge">Done</code> how do I get my bag into whatever equation the machine is using.</p>
+
+<p>I sigh. I look up. The red light on the machine isn’t on and I need help, so I step back to catch the attention of the attendant and wave with a meek raise of my eyebrows and a meek grimace. <em>Yeah, sorry, I’ve fucked up.</em>.</p>
+
+<p>The guy slides over, I say <em>Sorry</em>, and the guy says <em>Happens all the time — people are used to these things but the machines aren’t used to what the people now do. I am here to correct the machines</em> as he taps the screen and waves his magic bit of paper. I nod. I wobble my head a little. This guy is literally a hot fix. I want to say I understand, I try to avoid stuff like this happening at work every day, but it won’t help him, it’d be awkward explaining my jo— and thank you flying flamingoes someone else’s machine is talking so the guy moves on. I hear familiar bit of advice.</p>
+
+<blockquote>
+  <p>Unexpected item in the bagging area</p>
+</blockquote>
+
+<p>The attendant is at the other machine. <em>I never learn</em>, the woman at the other machine says, <em>I never learn that I need to wait before I put the bags down</em>. The words of the attendant playback in my head as I focus on my own shopping.</p>
+
+<p><em>Happens all the time — people are used to these things but the machines aren’t used to what the people now do. I am here to correct the machines.</em></p>
+
+<p>With the first use — and with the following subsequent familiarisation uses — the automated checkout flow is one that  — let’s give some credit here — makes some sense.</p>
+
+<p>User go along journeys from stage to stage, but the journey can often not be linear. Automated checkouts are one of the most obvious, most prevalent examples in our regular lives of operational flows that don’t reflect or respond to a user’s instinctual, even changing, familiarity with a process. It’s like someone has done a flow diagram for a first time user, that diagram is signed off, we sprinkle some “UX” (or UI, whatever) on top, and the machines are sent out. Stick. To. The. Process.</p>
+
+<p>Automated checkouts are not the only example.</p>
+
+<p>Every day someone stands by those machines to help. But I wanted to know how many times a day is that mistake, putting bags down first before tapping <code class="highlighter-rouge">Brought Your Own Bags</code>, made by people?</p>
+
+<p>Wait. Sorry. I’ll correct that because the people aren’t wrong: How many times a day do people put their bags down first before tapping <code class="highlighter-rouge">Brought Your Own Bags</code>?</p>
+
+<p>When we talk about considering the consequences of your design work this is what we mean. There is a deliberation in this process, we are making decisions what we put the user of the automated checkouts through. That is design. And it can be better. And it wouldn’t have taken much test to have realised that sooner.</p>
+
+<p>Over time we might not meet an experience that is one of <a href="https://www.youtube.com/watch?v=OKu3g757WVc">exquisite pleasure</a> but it should not be one that frustrates people and puts them off. If the experience does that is because we are starting small and testing our thinking, not because we’ve rolled out at scale and realising Do You Know How Much It Will Cost To Fix All Those Machines We Already Have In Our Stores?</p>
+
+<p>Until the automated checkouts at our local Morrisons are better spare a thought for the person who is there to help. If you feel irked, save that for the people who made the decisions to make the machines respond that way.</p>
+:ET

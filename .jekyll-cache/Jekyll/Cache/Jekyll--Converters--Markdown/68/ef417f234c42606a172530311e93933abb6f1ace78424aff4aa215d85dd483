@@ -1,0 +1,34 @@
+I"%<p>I was looking around the edges of this blog last weekend, briefly, and remembered I had <a href="/side-projects">a page for side projects</a>. It was more something I pulled together a couple of years ago when I was doing a few small hacks and wanted to have a simple front door to them. (There’s plenty of other side projects that weren’t listed on there, like <a href="///www.codalmighty.com/">Cod Almighty</a>.)</p>
+
+<p>Looking at the page had me asking “Do I do hacks like those any more?” They were more self-contained hacks. An idea, a concept that involved a bit of mashing. They never really looked that great, they were all slapped together with time restraints (lunch breaks and train trips seemed to feature regularly), and weren’t meant to be that stable, with all sort of fragilities in their set-up. But they served a purpose: Get an idea across. And I learnt something. Sometimes I learnt that the idea isn’t going to work. But I hadn’t wasted much time.</p>
+
+<p>These days do I still do little hacks? Sort of, for work prototypes. Usually those hacks are just small bits to help a wider “fake it”. Can’t get access to the data from an API? Fake it by running it off a static JSON file. That sort of stuff. Not usually a neat self-contained small idea though.</p>
+
+<p>Anyway, over a coffee this morning I logged onto the work Slack to grab something. The wider uptake of Slack over the past six months has been cheering. As a team we are spread all over the country and spread over a variety of programmes, services, and products, Slack just works for us getting on and doing stuff.</p>
+
+<p>As I logged on in the general channel was a glut of new people.</p>
+
+<p>We have some light rules for the work Slack. One of them is if you’re on there give your name, let us know in your profile where you usually work from and what you are working on, and upload a picture of you.</p>
+
+<p>A slew of people with no pictures! No descriptions! And they’re just not saying hi to us! Who are these people?! I sometimes say that its our job to humanise technology. Slack is a great conduit, and the contribution its users put in helps others reading and talking take out.</p>
+
+<p>“Don’t be a stranger,” as the saying goes.</p>
+
+<p>Over this coffee I was wondering when people join, how do they know they need to provide these things? I thought Slack would have a built in welcome message for newcomers we could update. But a quick look through the Slack admin didn’t show anything obvious. A Google search didn’t find anything either.</p>
+
+<p>I remembered <a href="//18f.gsa.gov/2015/12/15/how-bot-named-dolores-landingham-transformed-18fs-onboarding/">18F’s on boardng Slackbot</a>. I’ve done some small Slackbots before. So, over that coffee I hacked together a little Slackbot in Python, a quick bit of writing for an intro message, and stuck it on Heroku after a swift bit of set up in Slack’s admin. Oh, and a quick bit of Photoshop for the Slackbot’s avatar.</p>
+
+<p>Now, when someone joins the Slack at work they get a message from a Slackbot called Nye Bot (because the NHS, ain’t we. <a href="//en.wikipedia.org/wiki/Aneurin_Bevan">Nye Bevan</a>).</p>
+
+<p><img src="/assets/nyebot.jpg" alt="" /></p>
+
+<p>It’s small, it’s simple. It does just one thing: Says that message above. Nothing more. You cannot talk to it.</p>
+
+<p>For the time being we can sate the need of just knowing <em>who</em> has joined us on Slack. And I’d quickly started and finished something, and something useful. Sometimes you design and make something useful just like that [clicks fingers]. (Enabled by existing services like Slack, Heroku and APIs in this case, of course.)</p>
+
+<p>And finishing something useful is one of the most satisfying feelings.</p>
+
+<p>It’s something we can build on – or replace. I’ve not spent much time on it, half an hour, tops. If we come up with something ‘better’ we’ll move onto that. (And I hope we do.)</p>
+
+<p>By the time the hack was working there was about a third of my mug of coffee left. It was cold. I don’t like cold coffee. Ah well.</p>
+:ET

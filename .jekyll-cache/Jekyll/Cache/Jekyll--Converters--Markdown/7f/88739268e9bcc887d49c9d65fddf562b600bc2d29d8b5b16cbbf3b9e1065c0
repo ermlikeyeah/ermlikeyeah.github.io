@@ -1,0 +1,41 @@
+I"\
+<p>It’s a bank holiday Monday. I’ve got that hour I never usually find in my weekend to do some life admin. Yes, on bank holidays I usually end up doing some bank stuff.</p>
+
+<p>That also means it is the time when the inconsistencies presented when filling in forms online riles me.</p>
+
+<p>Today: Banking sort codes.</p>
+
+<p>On my card my sort code is printed <code class="highlighter-rouge">number number dash number number dash number number</code>. Something like <code class="highlighter-rouge">12-34-56</code>.</p>
+
+<p>What’s the sort code like on your card? Or on your bank statement? Or on screen on your online banking?</p>
+
+<p>Four times today, with four different online services, I have been asked to provide my sort code.</p>
+
+<p>On one the form was divided into three different spaces, for each of the three pairs of numbers for the sort code. That’s alright.</p>
+
+<p>The three others times: This.</p>
+
+<p>A label saying <em>sort code</em>, with a red asterisk indicating it is mandatory (which isn’t spelt out in one case, just the assumption the user will know what this means), and then a free text field.</p>
+
+<p><img src="/assets/sort-code-example.jpg" alt="" /></p>
+
+<p>I type in my sort code as on my card, my bank statement, my online banking screen.</p>
+
+<p><code class="highlighter-rouge">number number dash number number dash</code></p>
+
+<p>Next number? Nope. The free text field will not let me progress beyond entering the sixth character.</p>
+
+<p>On my card, on my bank statement, on my bank statement, on my online banking? There’s another two characters, two I need to pay for something.</p>
+
+<p>I sigh. I deleted the dashes and type in the last two numbers.</p>
+
+<p>I shouldn’t have to. What if I didn’t know that is what I supposed to do?</p>
+
+<p>It’s sloppy. And like a lot of things online it’s easy to fix. If it’s a free text field accept the six character all number form. And accept eight characters and do the “stripping” of non-numerical characters off-screen.</p>
+
+<p>And if you cannot, for whatever reason, allow more than six characters include a line informing the user “Enter only the six numbers of your sort code. Do not include any dashes or spaces.” It’s not hard.</p>
+
+<p>This is the sort of data entry hack normal people shouldn’t have to do. It’s infuriating. And the sort of thing that begs can we have some sort of standard pattern across the web for this sort of thing. In short: Please, for the love of God, just put a fucking stop to this? It is 2016. Users, consumers, customers, <em>people</em> deserve better.</p>
+
+<p>Anyway. Have a good bank holiday.</p>
+:ET

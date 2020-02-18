@@ -1,0 +1,41 @@
+I"<p>This weekend’s “hack” was inspired by my ritual Friday night trip to my local curry house to pick up a takeaway.</p>
+
+<p>The routine: I walk to the curry house, order the curry, nip to <a href="http://www.tripadvisor.co.uk/Restaurant_Review-g186408-d1318551-Reviews-Symposium_Ale_Wine_Bar-Bradford_West_Yorkshire_England.html">Symposium</a> for an ale while it cooks, pick up curry, go home, eat.</p>
+
+<p>On Friday I overheard a quick natter about the Score on the Door sticker.</p>
+
+<p>“How many of those do you think there are in Bradford?”</p>
+
+<p>If only there was a way to find out…</p>
+
+<p>The scores are a <a href="www.food.gov.uk">Food Standards Agency</a> standard. They are collected by the local authority and the FSA website holds <a href="http://ratings.food.gov.uk/">a searchable database</a> on all submitted scores. A little digging reveals they have <a href="http://ratings.food.gov.uk/open-data/en-GB">an API</a>. Which means we can get data, hopefully useful data.</p>
+
+<p>So, off we go.</p>
+
+<p>I was interested in Bradford. The FSA’s website holds files generated daily for each “location”. I found the file for Bradford, and wrote something in PHP that grabbed the file for Bradford (whose location code is 404), went through the file and gave me a total number of “entries” for that location.</p>
+
+<p>Looking closely at the data I found some venues were marked “exempt”, so I revised my code to remove the exempts from the total. This left <strong>3639</strong>. So curry house query answered.</p>
+
+<p>Also in the data was the ratings for each venue. So I added in some more code that built up “buckets” for each rating. The totals for Bradford were:</p>
+
+<ul>
+  <li>Exempt: 273</li>
+  <li>One: 193</li>
+  <li>Two: 133</li>
+  <li>Three: 334</li>
+  <li>Four: 621</li>
+  <li>Five: 2077</li>
+</ul>
+
+<p>I neatened that by getting the code to add on a percentage afterwards. Next: The program worked out an average based on the “live” venues for the location (ie. Bradford). Done!</p>
+
+<p>You can see the results for Bradford <a href="http://www.studioofthings.com/dev/playground/livefoodratings.php?locationcode=404">over here</a>. It runs off live data, so is a little slow but should return results within five seconds.</p>
+
+<p>I then realised that if I had the code for Bradford (404, remember), I could feed this program any location code. This turned out my biggest hassle - getting all the locations and their codes, mainly as accessing the API wasn’t too clearly documented. (This is often an issue.) Once I had access to the data, <a href="http://www.studioofthings.com/dev/playground/livefoodauthorities.php">displaying a list of locations and linking to the earlier program was simple</a>.</p>
+
+<p>And to finish it off I added some detail so you could see breakdowns of what venues got whatever score. <a href="http://www.studioofthings.com/dev/playground/livefoodratingsdetail.php?locationcode=404&amp;scorecheck=5">Have a look for the 5 rated venues in Bradford yourself</a>. I made sure I included the “date rated” in the output to give the viewer a sense of context (ie. a few years old to recent).</p>
+
+<p>Again, the outputs are rough and ready, but an easier hack this weekend (issues about how to actually query the FSA API aside) than the previous weekends’ <a href="http://www.ermlikeyeah.com/look-up-your-amazon-wish-list-in-a-local-library/">Amazon wish list</a>.</p>
+
+<p>As always, comments welcome, below, <a href="http://www.twitter.com/ermlikeyeah">on Twitter</a>, or <a href="mailto:si@studioofthings.com">by email</a>.</p>
+:ET

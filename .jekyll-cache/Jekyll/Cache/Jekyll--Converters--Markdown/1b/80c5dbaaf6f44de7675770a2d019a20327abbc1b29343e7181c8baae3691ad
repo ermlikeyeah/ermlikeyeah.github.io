@@ -1,0 +1,42 @@
+I"4<p>The monthly Bradford CoderDojo returned today after taking August off for the school holiday.</p>
+
+<p><img src="/assets/cd-ev3.jpg" alt="" /></p>
+
+<p>Held, as usual, at the city’s <a href="https://www.google.co.uk/maps/place/The+Innovation+Centre+Bradford/@53.7948029,-1.7454657,15z/data=!4m2!3m1!1s0x0:0x7d25cca0e49c6198?sa=X&amp;ved=0CHEQ_BIwCmoVChMIy5C8k4iZyAIVC74UCh0xzgKM">Curriculum Innovation Centre</a>, there was a really healthy turnout from children and their parents. Thank you to all that came along - if you didn’t we wouldn’t have a reason to run the Dojos.</p>
+
+<p>There was a wealth of options provided by <a href="http://www.ticbradford.com/coderdojo/mentors">the Dojo mentors</a> for the children to choose from this month.</p>
+
+<p>I offered the chance to use a prototype kit to quickly design and assemble a website, as an exercise to introduce sketching designs, a server-side application in <a href="https://nodejs.org/">NodeJS</a>, the <a href="https://github.com/alphagov/govuk_prototype_kit">GDS prototype kit</a>, and other frameworks such as <a href="http://getbootstrap.com/">Bootstrap</a> and <a href="http://foundation.zurb.com/">Foundation</a>.</p>
+
+<p>Kris suggested exploring digital, rendered filmmaking as his session.</p>
+
+<p>Jonny had lined up creating York Minster in Minecraft.</p>
+
+<p>And Paul - clearly abusing his position - thought the kids would enjoy using the centre’s Lego EV3 programmable robot kits. Imagine <a href="https://en.wikipedia.org/wiki/Big_Trak">Big Trak</a>, but easy to program using a desktop application. And made by Lego.</p>
+
+<p>Overwhelmingly, one session won out. Nothing can stand in the way of the formula:</p>
+
+<p><code class="highlighter-rouge">Lego + programmable robots + kids = maximum coding fun</code></p>
+
+<p><img src="/content/images/2015/09/cd-ev3-play.jpg" alt="Nate hooking up his EV3" /></p>
+
+<p>Initially the morning was going to be divided into two 45 minute sessions, but the way the kids - and their parents! - got into and on with the EV3s was impressive.</p>
+
+<p>All easily connected the EV3s to computers by USB to transfer their instructions (created using an interface similar to what you might see with a <a href="https://scratch.mit.edu/">Scratch</a> program) and then tested out the EV3s’ execution of the programs on ground sheets.</p>
+
+<p>You could see the child/parent teams working together, working through and working out what they needed to do to get the EV3s from START to END on the sheets, passing through all the green symbols.</p>
+
+<p>It was satisfying to have such a physical manifestation of programming as well, a “real world” thing rather than just an “on-screen” thing.</p>
+
+<p><img src="/content/images/2015/09/cd-ev3-shi.jpg" alt="Shi sends her EV3 off" /></p>
+
+<p>At the end of the morning, we got the kids to show off what they’d done with a little “race”, to see how their EV3s tackled the little test that was set. And, yes, some kids are older than others!</p>
+
+<p>In the coming months I will be leading a little course that will cross the rest of the term, getting our Dojo attendees to think about “their school’s website” (and I use quote marks deliberately), what they could do to make it for <em>them</em> as the user of a school, and go some way to making that website.</p>
+
+<p>The next Bradford CoderDojo is on the morning of <em>Saturday 24 October</em>. You can find more about the Bradford CoderDojo over on <a href="http://www.ticbradford.com/coderdojo">the Curriculum Innovation Centre website</a>.</p>
+
+<p>And finally, here’s the Big Trak ad we were talking about during the Dojo. Maybe next time we’ll take a comfy chair along for the parents to sit in as part of the morning’s challenge!</p>
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/0ToYAUm2PEQ" frameborder="0" allowfullscreen=""></iframe>
+:ET

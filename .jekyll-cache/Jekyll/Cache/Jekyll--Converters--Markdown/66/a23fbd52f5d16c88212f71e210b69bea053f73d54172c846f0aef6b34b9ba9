@@ -1,0 +1,52 @@
+I"�<h2 id="week-commencing-monday-23-january">Week commencing Monday 23 January</h2>
+
+<h3 id="monday">Monday</h3>
+<p>London: Assessor training at GDS.</p>
+
+<p>Chuffed to be able to do this, and thankful for the nudges. Wish I’d done it sooner. No real reason why other than had my head in the sand too much over the past six months on the Beta programme. The <a href="//www.gov.uk/service-manual/service-standard">service standard</a> is a great thing, a great mindset. I am more than happy to support, in the work I do and helping others with their work.</p>
+
+<p>Good catch ups: On the train down with a friend at the BBC, at lunch talking lots of govvy stuff, and a quick jar before catching the train back with a learned mate in agency land. A cracking mind whirrer of a day, and a cracking way to start the week.</p>
+
+<h3 id="tuesday">Tuesday</h3>
+<p>Leeds: A few meetings. One going over the analytics with Kenny. Not a case of what’s going well, more seeing what is being used, how it’s being used, and a bit of why it is being used.</p>
+
+<p>We’re doing user research tomorrow, so some prep for that. Nothing too much, but enough.</p>
+
+<p>We know where we are going to be. We’re not guaranteed an internet connection. So I spent most of the afternoon hacking a prototype I’d pulled together so it’d run off a “local” data source. I ended up taking a flat file of data and pointing the prototype at that. It means the prototype can run off a device with no internet access though. It’s faking it, but it’s with a sense of being real.</p>
+
+<h3 id="wednesday">Wednesday</h3>
+<p>Morning: Doing stand-up user research sessions at a GP surgery. Fun things that popped up:</p>
+
+<ol>
+  <li>People at this surgery like to walk in to make an appointment. They can see the queue ahead of them (unlike when they are constantly re-ringing on their phone). They tend to live close (catchment areas of a city surgery) so a walk isn’t that much of a problem. Do we tell people they can just walk into their surgery and make an appointment usually? No - we give them an address, a phone number, and try to get them to book online. One to chew over. Need to make sure people can succeed first time.</li>
+  <li>Only one person we talked to made their appointment online.</li>
+  <li>Some of the patients we talked to had been referred to this surgery for a minor operation.</li>
+</ol>
+
+<p>Afternoon: Did some design work following on from the morning session. Caught up on some of the stuff the other half of the NHS Beta ‘design’ team in Leeds – Alex, Sophie, and Dean – have been doing. <a href="//twitter.com/sophiedennis/status/824248142271053824">Lots of paper prototyping</a>, thinking things through. I highly approve. Also chuffed to see the three of them getting on so well.</p>
+
+<h3 id="thursday">Thursday</h3>
+<p>A day off, down in London. Could scrub this from my notes, but…</p>
+
+<p>I spent most of the day with the Parliamentary Digital Service. There’s a great team there, that’s not as little as I thought it’d be either. And even though it was a day on leave from NHS Beta I was more than happy to take an hour out talk to about the team I am in, how we are set up, the work we are doing, and how we are going about it.</p>
+
+<p>Talking through problems and solutions – some familiar, some shared – was worth Dan’s putting <a href="//twitter.com/dasbarrett/status/824657055701237763">a picture of me looking so inflated out there</a>. There’s some really interesting problems that team are looking at, and they might be my new favourite darlings of gov.</p>
+
+<p>There was another parallel with how we do things in NHS Beta land with an excellent lunchtime tech talk session. <a href="//twitter.com/ermlikeyeah/status/824600283888189442">Henry talked about visualising (bread) data</a> and <a href="https://twitter.com/ermlikeyeah/status/824603483995250688">Jamie talked about a ‘no CMS’ approach in his previous and current work</a>.</p>
+
+<p>If you’re interested they <a href="//pds.blog.parliament.uk/2017/01/26/our-blogging-resolutions-for-2017/">have a blog</a> and they use the hashtag <a href="//twitter.com/hashtag/TeamPDS?src=hash">#teamPDS on Twitter</a>.</p>
+
+<p>Thanks to Dan, Jamie, Jeanette, Lawrence, and anyone else who I spent time with.</p>
+
+<h3 id="friday">Friday</h3>
+<p>Our programme director Karen came up and did a re-run of the plans for the programme in the short term and longer term. Great to see Karen spend time with us in London. Followed that up with a skills assessment each member of the team is having. A quick half hour brain dump with the team, before running out to lunch.</p>
+
+<p>Lunch, I caught up with Tim Straughan, who is now working at NHS England. A long, deep, and honest chat, but – as always with Tim – a great chat, lots of back and forth, like a great point in a tennis match.</p>
+
+<p>Some more design work in the aft, doing some tweaks to the work I’ve been on ahead of a research session on Monday.</p>
+
+<p>But generally a day at the end of a week that had and has me thinking a lot more beyond just the next couple of weeks.</p>
+
+<h4 id="other-notes">Other notes</h4>
+<p>NHS Digital are looking for an interaction designer. <a href="//www.jobs.nhs.uk/xi/vacancy/eccdfc1df382a3ebf1c618748001062f/?vac_ref=914495805">More details here</a>.</p>
+:ET

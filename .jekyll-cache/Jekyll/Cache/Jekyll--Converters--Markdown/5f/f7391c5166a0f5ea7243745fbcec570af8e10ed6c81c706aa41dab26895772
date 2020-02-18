@@ -1,0 +1,48 @@
+I"q!<p>Week two of 2017 is done and dusted, and it’s late on a Friday night as I type this. I can hear the bells of the church in Idle chime away eleven times. It’s been another jam-packed week.</p>
+
+<p>I think I have just about – right now – got a prototype together that works, to show as a contender for minimum viable product.  This is for a journey that can be loosely defined as “I think, after reading information, I have [a condition, such as type 2 diabetes] and want to make an appointment with my GP to talk about it”.</p>
+
+<p>This prototype has been yanked together since I came back from the Christmas break – and been done amongst a few other things. There’s stuff that needs tightening - consistency of type size, type spacing, and the grid mainly, but the general gist is there.</p>
+
+<p>Why the stripped back minimum viable product? We want to improve what is already out there on nhs.uk.</p>
+
+<p>For Book an appointment with a/your GP we have a “vision” – something that pushes where this can really go – we feel would work well for users.</p>
+
+<p>Example: In last week’s notes I mentioned <em>Is there an appointment available at my GP’s?</em> as something we answer on-screen before asking who you are – like you might do when, say, booking tickets online for the cinema, or a train, or an aeroplane, and so on. The current journeys a user goes through ask who you are (sign in, basically) before allowing you to look for an appointment. It seems a bit back to front. Fixing that will take some work, and some of that work will involve talking to third parties.</p>
+
+<p>But: <a href="//18f.gsa.gov/2017/01/11/the-best-way-to-build-big-is-to-start-small/">The best way to build big is to start small</a>.  We want to be pragmatic about what we can do and get stuff out there soon-ish. So we’re focusing on keeping this as quite a simple journey for the user  but something that adds value and works hard.</p>
+
+<p>Here’s a quick peek at some screen grabs showing the journey. The pages shown were taken from a pretty standard desktop-sized browser window:</p>
+
+<p><img src="/assets/book-gp-appoint-journey-1200.jpg" alt="" /></p>
+
+<p>If you’re quite curious about some of the detail there’s a <a href="/assets/book-gp-appoint-journey.png">high resolution version here</a>. Warning: It’s 9Mb.</p>
+
+<p>Dean, our content designer, has been a legend the past couple of weeks, spinning a few plates himself. We’ve sat together and really tried to hone this. We have research and insight driving this, but we’re still filling in some gaps with assumptions – which we’ll dump as ‘proven false’ or elevate to ‘proven true’ once we’ve tested the thing we’ve made.</p>
+
+<p>The condition/symptom content page is a starter for ten, similar to <a href="//beta.nhs.uk/conditions/type-2-diabetes/check-if-you-have-it">the one</a> on the <a href="//beta.nhs.uk/">NHS beta site</a>. While this page isn’t the start of the user’s journey (unless they bookmark, that will start before they hit nhs.uk), it is a potential start of a user journey that we can shape explicitly.</p>
+
+<p>Even so there’s some tasty little features to get our heads round in here. Allowing the user to <em>Enter the name of their GP</em> can work on a few levels: the name of their doctor, the name of the surgery, the name of the practice, even the road it is on. We’ll try to cover that by having a search box that responds to all those options. Something very similar was looked at by the NHS alpha team – and the Register with a GP team have also been looking at it. If we know this stuff in the NHS, we must be able to use it to make the user’s journey a lot simpler. If this feature works with users it is something we can reuse across nhs.uk, as long as it is apt in context. Patterns, eh.</p>
+
+<p>The last page in “our pages” is an info page. We’ve stripped it right back to provide just -about what is needed in this journey: Clear next steps for the user. Nothing else. There’s a couple of variations not covered by the journey above (including “What if this GP surgery has a ‘sister’ surgery?”), but nothing that will overload the page more. It’s basic contact information.</p>
+
+<p>A GP’s online bookings are not handled by systems the NHS has made. If your GP offers such a service it is a third party system. We need to check but we think we have all the right systems matched to the surgeries that use them. There’s a little exercise in there. And just because we have it noted in our database a GP surgery has a system, doesn’t they actually use it for online bookings. Stuff to look into and check anyway.</p>
+
+<p>And, yes, we will be sending the user off from our website to another website. It’s a bit like DVLA a couple of years back., with gov.uk start pages and then jumps to legacy systems. We need to test this and see what works for users here. Do they need preparing? Does it matter? Does it depend on the system we jump them to? We’ll find out. (And it won’t take long. We’re not about chin stroking. Stuff to be done.)</p>
+
+<p>Anyway, tonight feels a good way to tie up that version of what we are doing – and tie up my work for the week. Looking forward to testing this stuff, with the team next week and users soon.</p>
+
+<p>Outside of that, we had a very epic day looking through all the user research sessions from 2016. With the team growing, it was a good time to go through stuff. As Joe went through the research sessions one by one, I scribbled on a long sheet of paper stuck on the wall each of the sessions. In the second half of last year we showed things to users every two-to-three weeks on average, which ain’t too bad for the team of five or six we were back then. We also reviewed our user needs and acceptance criteria. Some good consolidation, talking through, understanding, and where we didn’t understand recognising we need to just learn more. All good. Top marks to Joe for putting the graft in to prep for that as well.</p>
+
+<p>We bolstered the team this week with the arrival of Sophie to lead user research in Leeds, Alex as a front-end developer, and Eve will bring more depth to our back-end dev squad. Alex has got stuck in sorting out our SASS and getting some smart coffee on order. He also has the most amazing hair. I am 100% jealous.</p>
+
+<p>We’ve got quite a team in place now, across Leeds and London, and it’s been great fun helping bring together such a great crew.  Hopefully it’ll be as fun and rewarding working together. Thanks to them for coming to work with us. Much to do!</p>
+
+<p>It’s not just our team either. I’ve been helping look for and talk to designers to join NHS Digital and help other programmes. Embedding a user-centred design culture is key to the future of the way we make things at NHS Digital.  And getting good, pragmatic, patient, talented designers in is going to help that. We have some more work to do to get the structure sorted, but we’re not far off being able to bring in more junior designers and give them the chances to learn with us and develop working with us. Hopefully that will be sooner rather than a little-later-than-sooner.</p>
+
+<p>Growing the team from something that was a lot smaller and tight knit brings with it the potential problem of creating silos within the team. I don’t feel I’ve spent much time recently with Neil and Steve, who have been the devs on the team since I came in. Something to put right. With research sessions coming up it will be a good chance for the whole team to get observing and talking together again. And the prototype above will also be a good thing to show off and for the team to pour round.</p>
+
+<p>Amazing news for the programme with Register with a GP in London passing an alpha assessment. There’s a great little team who have been working on that. On the downside their product owner, Matt Harrington, one of the people on the programme when I joined and someone I wanted to come in and work with, left at the start of the week. While Matt is gone, I hope we can carry on working in the ways he and the rest of the establishing team set us off. The ways of working are as important as the work we are delivering.</p>
+
+<p>And if you’re reading this ahead pretty soon after I publish it, NHS Digital is looking for applicants to its graduate scheme,. Details are <a href="//www.jobs.nhs.uk/xi/vacancy/06e3fde96252854ecbf9b7960cc2a0a3/?vac_ref=914443472">over here</a>. The deadline is Saturday 15 January.</p>
+:ET

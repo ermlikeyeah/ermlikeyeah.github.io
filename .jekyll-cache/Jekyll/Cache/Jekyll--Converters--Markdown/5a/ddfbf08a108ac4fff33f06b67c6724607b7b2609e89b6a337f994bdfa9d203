@@ -1,0 +1,84 @@
+I"�<h4 id="the-short-version">The short version.</h4>
+<p>With some of my colleagues I am running a short series of lessons that teach the students the basics of Git, a piece of software that allows us to create, store, and recall versions.</p>
+
+<p>The lessons are unapologetically entry level. You can read why in the long version below.</p>
+
+<p>I am making the lessons openly available.</p>
+
+<p><strong><a name="lessons"></a>The lessons</strong></p>
+
+<ul>
+  <li><a href="https://github.com/ermlikeyeah/HMRC-Git-lessons">View the Github repo</a></li>
+</ul>
+
+<p><strong>The first lesson</strong></p>
+
+<ul>
+  <li><a href="https://github.com/ermlikeyeah/HMRC-Git-lessons/blob/master/hmrc%20digital%20-%20get%20git%20-%20lesson%201.pdf">View as PDF - 3.38Mb</a></li>
+  <li><a href="https://github.com/ermlikeyeah/HMRC-Git-lessons/tree/master/lesson1">View a repo of a web-friendly version</a>, created by <a href="http://www.twitter.com/techforevil">Zuz</a>
+(Note: Will push this to Heroku at some point soon so all can just view it.)</li>
+</ul>
+
+<h4 id="the-long-version">The long version</h4>
+<p>“What is Git?”</p>
+
+<p>“I don’t know Git.”</p>
+
+<p>“Should I be using Git?”</p>
+
+<p>“Why should I be using Git?”</p>
+
+<p>“I think I know Git. I <em>think</em>.”</p>
+
+<p>Some days I fall into that last bracket.</p>
+
+<p>I am a little “Am I doing this right? I’ve just always done it this way.”</p>
+
+<p>Before I go any further: Git. Don’t worry. We’re not talking about being a nasty person. We’re taking about <a href="https://en.wikipedia.org/wiki/Git_(software)">Git</a>, a piece of software that allows us to create, store, and recall versions of software.</p>
+
+<p>Anyway, I’ve never checked if I <em>know</em> Git. And I’ve been using Git for a long time now, six years, maybe seven years.</p>
+
+<p>About the time I started using Git, making web-based stuff was something I’d moved away from in my day job. I tinkered in evenings to keep the skills alive. Git is one of those things (seemingly like all the things I’ve learnt to do with making things for the internet) I learnt by doing a little reading on the web, and then just using and doing. I didn’t go on a course. I didn’t take lessons.</p>
+
+<p>So when I heard some people at work saying some of the stuff above it sparked a thought: Do <em>I</em> know Git?</p>
+
+<p>I spent a lunchtime going through a couple of online tutorials. It was alright. It’s OK. Relax, Si. You’ve been doing Git just fine.</p>
+
+<p>Which is handy. Git is a part of the way we store and share work within government, so it’s important as makers of things we understand how it works.</p>
+
+<p>Another part of how we work in government is about people - we put users first, but we’re also about collaboration.</p>
+
+<p>And some of my colleagues were saying that stuff above.</p>
+
+<p>I emailed round some of the other designers in HMRC with a “Hey guys! Would you be interested in learning about Git?”</p>
+
+<p>The tone was important. It was about inclusion, not exclusion. We’ll learn in a safe space. There’s no shame in saying you don’t know. Reply to me if you know nothing, if you’re unsure, or if you’re a Git pro who wants to help out. All welcome.</p>
+
+<p>And importantly, this wasn’t a persuasional, political piece. This wasn’t going to tell people they should use Git, that Git is the best. Just a quick intro to why <em>we use Git</em>, and how to use Git.</p>
+
+<p>I got a few replies from potential students.</p>
+
+<p>A coder on the service I help make had already pulled together a great intro to Git which he shared. There was some great stuff in there, although maybe too hardcore for an intro to the uninitiated, but some good stuff to draw on.</p>
+
+<p>I pulled the “lower level” stuff out, mixed in some of my own stuff, and met with some of those interested in helping me shape a session.</p>
+
+<p>We talked through how a good lesson would work for us, what are the essentials of Git, came to a consensus. We prototyped the lesson using a whiteboard, going through several versions, all in half an hour. I was keen the “students” learnt by doing, like a practical at school. And acting through the lesson we saw that it wasn’t just one lesson we’d need.</p>
+
+<p>In spare moments here and there over the next week - at the back in meetings, on train journeys - I pulled together the lesson, and then ran through it critically with the “adjudicators”, made some adjustments.</p>
+
+<p>We set up the first lesson, invited all, but made them aware this first lesson is us testing the lesson in the open.</p>
+
+<p>And it went alright. We found what we always learnt with making things: Running through <em>the actual thing we made</em> with other people provided some unexpected results.</p>
+
+<p>(This is why I say <em>test the test</em>.)</p>
+
+<p>We learnt from that first lesson, cut it shorter, made a couple of changes to the flow of the lesson, some edits to the content, and ran the lesson again.</p>
+
+<p>Again we learnt a couple of things, so again tweaked and ran the lesson again.</p>
+
+<p>After the third run-through we’re just about “there”. And we want to share that first lesson with you. You might find it useful for your own lessons. You can find links to the lesson <a href="#lessons">back up the page</a>.</p>
+
+<p>Thank you to my colleagues for helping shape these, and also show the need in the first place.</p>
+
+<p>We’ll be adding any follow-up lessons over the coming weeks after we’ve gone through the same iterating process.</p>
+:ET

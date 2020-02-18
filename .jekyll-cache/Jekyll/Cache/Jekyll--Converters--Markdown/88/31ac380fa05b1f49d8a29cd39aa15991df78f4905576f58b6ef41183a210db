@@ -1,0 +1,157 @@
+I"C<figure class="image">
+  <img src="/assets/2019-01-07-football.jpg" alt="At Selhurst Park last Saturday for Crystal Palace versus Grimsby Town. Grimsby had a player sent off after two minutes. Crystal Palace finally scored in the 86th minute. That means Crystal Palace couldn’t score past ten men Grimsby for 84 minutes. Super Grimsby!" />
+  <figcaption>At Selhurst Park last Saturday for Crystal Palace versus Grimsby Town. Grimsby had a player sent off after two minutes. Crystal Palace finally scored in the 86th minute. That means Crystal Palace couldn’t score past ten men Grimsby for 84 minutes. Super Grimsby!</figcaption>
+</figure>
+
+<p><a href="http://www.codalmighty.com/site/ca.php?article=6981">The football at the weekend was good</a>! Also Crystal Palace had a eagle flying from goal to goal before the game kicked off! An eagle! On the pitch! Shame we lost, but 1. Crystal Palace as a first division team would be expected to beat a team from the fourth division, 2. Crystal Palace as a first division team would be expected to beat a team from the fourth division by more than one goal, 3. there’s clearly something good happening at the moment with that Grimsby team. Cannot wait for the league game against Macclesfield this coming weekend. Anyway. How can this week follow that weekend?</p>
+
+<h2 id="worky-stuff">Worky stuff</h2>
+
+<p>Bit of a hectic week, ending the week spinning three plates for the project I am. (The project I am on is a system/product used by DWP staff to administer cases for <a href="https://www.gov.uk/support-for-mortgage-interest">a form of help DWP offers citizens</a>. Think of it as a product that helps fulfill a wider service.) You’d prefer to take one problem/feature, get that as far as you can (in a reasonable amount of time), test your thinking, then decide to revise what you’re doing — or move on to whatever problem is next. One, not more than one. So, I came into the week hopping between two features:</p>
+
+<ul>
+  <li>Letters</li>
+  <li>Case controls</li>
+</ul>
+
+<p>To avoid a sense of doing everything at once, having a feeling of no-to-little progress and getting brain-ache from constant context switching, on Monday morning I decided to divide my days for the week into two halves. Into a half would be some work for one of the features and one only. This would help me plan — to do manageable amounts of work — but also help the team I am on (there’s about twenty of us) know what I was doing and when they would expect stuff, to review, to test with staff, to see if/how they could be made. People simplify <em>the strategy is delivery</em> to mean get something out there. The strategy is delivery is more about <em>continually doing stuff that moves you forward with the aim of getting the right thing out there</em>. You are always delivering by working with a focus, a purpose.</p>
+
+<p>Last week I had worked with the delivery manager (DM) and lead business analyst (BA) to see when we were planning to deliver the features and then work out how well our designs for the features were working. Were they doing the absolute basic? (And what is “basic”?) Had we got the designs to the point we knew through research they met user needs and were usable? Is there anything we can build? What work do we need to do to get to that point?</p>
+
+<p>To help out, to spread the load, one of the developers — Gary — had pulled together a couple of screens for <em>letters</em>. In the nicest way we said these would be like a version zero, a sketch of what we knew and thought. We can then use the design zero as a talking point for a few members of the team to find gaps and problems. I’ve tried to instil in the team it’s better to talk around <em>some thing</em> than to talk in the abstract. Some simple rules:</p>
+
+<ol>
+  <li>Doing not talking.</li>
+  <li>Show the thing.</li>
+  <li>Make the thing better together.</li>
+</ol>
+
+<p>Gary just gave me a heads up before he got on: Was I OK with him pulling <em>some thing</em> together if I was so busy and we’ll get together when we’ve all got an hour in our calendar to make whatever we had better? Of course, but by Gary asking out loud we knew what was happening. (Good communication is clear communication.) Gary’s work on <em>letters</em> gave me the chance to concentrate on <em>changes to deductions and charges</em> (similarly to get our design zero down).</p>
+
+<p>Once I was clear at midday on Monday I took Gary’s <em>letters</em> starting point and set my status on Slack to a form of do not disturb.</p>
+
+<figure class="image">
+  <img src="/assets/2019-01-07-grab-1.png" alt="A screen grab of a pop up on Slack, showing I have changed my status to “prototypin’”. I have used a laptop emoji, because I was doing an in-browser prototype on my computer, because there is more than one way to do a prototype." />
+  <figcaption>A screen grab of a pop up on Slack, showing I have changed my status to “prototypin’”. I have used a laptop emoji, because I was doing an in-browser prototype on my computer, because there is more than one way to do a prototype.</figcaption>
+</figure>
+
+<p>I put my headphones on, opened my pad, typed <code class="highlighter-rouge">npm start</code> into a terminal and off I went creating some in-browser prototypes to talk round. Here’s some grabs of some of the work I did on Monday afternoon. This is just for the “letters index”. (We’ll look at the rest of the journey for this task for users another time.)</p>
+
+<figure class="image">
+  <img src="/assets/2019-01-07-grab-2.png" alt="Four screens from my work this week. Probably took about 90 minutes to do the work on these screens." />
+  <figcaption>Four screens from my work this week. Probably took about 90 minutes to do the work on these screens.</figcaption>
+</figure>
+
+<p>If that is too small, <a href="/assets/07-01-2019-designs-1.png">view a larger version</a>. [5MB]</p>
+
+<p>Here’s what those screens are, left to right:</p>
+
+<ol>
+  <li>
+    <p>The original list made by Gary, the links take users to a page that allows them to generate a letter. (Remember: We’ll look at the following bits of this journey another time.)</p>
+  </li>
+  <li>
+    <p>My first iterations, a revision of number 1, but with the list divided into more groups. My reckon was this was a very, very, very, very basic level of acceptable. Think of it as <em>tin</em> if you had a tin/bronze/silver/gold grading of features.</p>
+  </li>
+  <li>
+    <p>Taking number 1, I spent 15 minutes looking over the original list and trying to work out what scenarios they represented. You can see the matrix. I then went over this with a couple of people in the team (Mark and Matt). In the first review it turned out I had missed two things, in the second review another thing missed popped up. Always always review your work with other people, especially when you are working quickly.</p>
+  </li>
+  <li>
+    <p>I then used the matrix to quickly pull together a more “exploded’ table layout of the links. The content of the link in the starting screen were very compact: I was looking to make the options more scannable, clearer to read.</p>
+  </li>
+</ol>
+
+<p>Here’s four more screens:</p>
+
+<figure class="image">
+  <img src="/assets/2019-01-07-grab-3.png" alt="Four screens from my work this week. Probably took about 45minutes to do the work on these screens, including making a tea halfway through." />
+  <figcaption>Four screens from my work this week. Probably took about 45minutes to do the work on these screens, including making a tea halfway through.</figcaption>
+</figure>
+
+<p>If that is too small, <a href="/assets/07-01-2019-designs-2.png">view a larger version</a>. [3MB]</p>
+
+<p>Here’s what those screens are, left to right:</p>
+
+<ol>
+  <li>
+    <p>This is a copy of screen 4 from the previous collection of screen grabs. (These images are taken from a presentation I did.)</p>
+  </li>
+  <li>
+    <p>This is number 5. Using some simple logic (worked out from the matrix) I created a scenario: the citizen is English and they have not nominated an appointee (which is indicated to the user with a message on screen). And because of the matrix work we know some letters do not need to accessed in this scenario. We could know this from data about the case. We can make this list context appropriate for the member of staff, reducing their options to only ones that would be necessary in this scenario. (There are three other scenarios.) If the DWP staff needed any of the other letters from the fuller list we’ll give them that option, as a link (which goes to screen 4).</p>
+  </li>
+  <li>
+    <p>Some type/layout tweaks: Spacing and drawing out a message that tells the member of staff about English/Welsh and post to citizen/appointee.</p>
+  </li>
+  <li>
+    <p>Removed the column indicating “English”: It is indicated in the message on screen all communication is in English and there are no situations where the case might need English and Welsh communication.</p>
+  </li>
+</ol>
+
+<p>We reviewed the work as a team, found some possible issues, but I started planning going through this work with staff, find what doesn’t work and what does work for them as the people who would use this. Monday done. Tuesday morning I could explore the rest of the journey.</p>
+
+<p>Everything was going to plan until the afternoon of Tuesday: I suddenly had another plate. Two become three with the addition of <em>changes to deductions and charges</em>. The three features are now:</p>
+
+<ol>
+  <li>Letters</li>
+  <li>Case controls</li>
+  <li>Changes to deductions and charges</li>
+</ol>
+
+<p>There was too much to do. We needed to take a pragmatic approach to our work. Again working with the DM and the lead BA we did some analysis of where we were, what was needed, when, how, why. Essentially though: What can wait? We worked it out: <em>changes to deductions and charges</em> was the priority as we knew far less about it than the other two features. We needed to do some design zero work there to get that going. So we did. We huddled for a “briefing” of the problem, talked through a possible starting point, and I went away to pull something else together to talk through the next day. Hopefully we’ll go over some of that work in next week’s notes.</p>
+
+<p>It felt good the team had a show and tell later in the week, to go through the design and technical work on <em>letters</em>. We haven’t had a show and tell in months. The absence has pained me. And in that twenty minutes together we showed to the wider team how each bit of work on <em>letters</em> complemented the rest as we’d worked together and shared our thinking and what we were doing. Together it showed a possible roadmap for the feature. Doing the work we all agree it’s not about sticking the very first thing we do out there: We now have a degree of knowing what is <em>good enough</em> to be released and the possibilities of what is better afterwards.</p>
+
+<p>The rest of the week was ping-ponging between those three features. It’ll be more of the same next week but hopefully we’ll be on top of it. More good teamworking like this week makes it better. Fries yer brains though dunnit.</p>
+
+<p>Elsewhere in the week I had catch ups with a couple of designers. I try to do catch-ups with at least two designers a week, preferably three, each lasting between 30 and 60 minutes. Sometimes these aim for a few targets: How they getting on in life, what work have they been doing, how have they gone about it, how did they find it. Sometimes these are one-on-one reviews of work, talking through problems. Whatever the designers need though that time is for them.</p>
+
+<p>Had a couple of meetings where the type of work our interaction designers was doing came up: If you had a choice would you rather your interaction designers looked at journeys and mapping or would you rather they worked on Javascript and routes coding? I have a general aversion to the word, but the focus on what <em>craft</em> means, what <em>craft</em> is to interaction design and an interaction designer has been at the forefront of my thoughts the last few months.</p>
+
+<p>A few times this week heard/read people <em>fighting</em> for their work, <em>fighting</em> so something happens. Ur. <em>Fight</em>. I’ve spoken and written before about my aversion to the word ‘fight’. It’s the language of conflict. There are better words, more constructive words. Maybe <a href="/us-versus-them/">a post I wrote three years ago</a> helps explain my thinking.</p>
+
+<p>I tell you what though: HDMI cables are hard to come back in our place. Gotta keep a tight leash on any you have. Also: Toilet roll.</p>
+
+<p>##Non-worky stuff</p>
+
+<p>I’ve been trying to make sure I go for a walk every lunchtime. Stretch the legs and get some outside air into my lungs. One lunch this week I had a quick look at the Year of the Dog exhibition at <a href="https://coloursmayvary.com/">Colours May Vary</a> (which is just round the corner from Quarry House, where I work). I took some snaps and <a href="https://www.instagram.com/p/BsVeTZ5liIN/">put them on Instagram</a>.</p>
+
+<p>I made <a href="https://foursquare.com/ermlikeyeah/list/leeds-city-centre-coffee">a list on Foursquare</a> of places in Leeds that do excellent coffee. I immediately used the list to nip into <a href="https://foursquare.com/v/kapow-coffee/553dec47498eb9779ed08a51">Kapow on the Calls</a> one lunchtime. A fine Americano from there.</p>
+
+<p>Finished a re-read of Tim Harford’s <a href="https://www.amazon.co.uk/gp/product/B004XCFJ4S/">Adapt</a>. I dragged a quote out of it for a Leeds Gov Design meet a couple of months back and been reading a chapter here and there since. It was lingering as unread in my Kindle. Now it is not.</p>
+
+<p>Started reading <a href="https://www.amazon.co.uk/Entrepreneurial-State-Debunking-Public-Private/dp/0141986107">The Entrepreneurial State</a>.</p>
+
+<p>Someone (might have been <a href="https://twitter.com/iainbroome">Iain Broome</a>) mentioned on Twitter he’d been reading 25 pages a day, which used to be my minimum daily aim until last year. Going to aim for that again. Still tracking stuff <a href="https://www.goodreads.com/user/show/4156043-si-wilson">on Goodreads</a>.</p>
+
+<p>Got through a couple more episodes of the excellent first season of <a href="https://en.wikipedia.org/wiki/Runaways_%28TV_series%29">Runaways</a>. Just two more episodes left.</p>
+
+<h2 id="coming-up">Coming up</h2>
+
+<p>Next week continuing the plate spinning, and getting responses to this week’s work from users. There’s a day trip to Blackpool to see the designers and teams there, and a DWP Digital design systems meet in London on Friday.</p>
+
+<p>Got to gather as many of the header and footer options on the DWP Digital products and services and get the first draft of the combined thinking down to get further input. (We’ve got <a href="https://github.com/dwp/design-examples/issues/32">an issue</a> already set up in our [design examples log(https://github.com/dwp/design-examples/issues) to record all this at.) And do the same with How Do We Tell Users There’s Been A Change This Product/Service (which will need a new issue setting up).</p>
+
+<p>Keep an eye on prep for the DWP Digital interaction design meet in a couple of weeks.</p>
+
+<p>Prep for <a href="https://www.eventbrite.co.uk/e/leeds-gov-design-meet-7-tickets-53803669223">Leeds Gov Design meet #7</a>, which is at the end of this month.</p>
+
+<p>Prep for Leeds Service Jam, which is at the end of March.</p>
+
+<h2 id="ch-check-it-out">Ch-check it out</h2>
+
+<p><a href="https://medium.com/@mrcarlburton/real-stories-about-getting-stakeholder-buy-in-to-fund-ux-382da949527f">Real stories about getting stakeholder buy in to fund UX</a> by Carl Burton, the head of product over at Co-op Digital.</p>
+
+<p>Erika Hall’s excellent <a href="https://medium.com/mule-design/research-questions-are-not-interview-questions-7f90602eb533">Research Questions Are Not Interview Questions</a>.</p>
+
+<p>A fine thread <a href="https://twitter.com/bridges_tom/status/1083746781060628481">on Twitter from Tom Bridges</a> off the back of the NY Times piece <a href="https://www.nytimes.com/2019/01/11/upshot/big-cities-low-skilled-workers-wages.html">What if Cities Are No Longer the Land of Opportunity for Low-Skilled Workers?</a>.</p>
+
+<p><a href="http://blogs.lse.ac.uk/politicsandpolicy/how-deliberative-forums-can-help-us-understand-uk-attitudes-to-welfare/">Deliberative forums show that attitudes to welfare turn hostile because of low trust in government</a>.</p>
+
+<p>The rabbit hole of <a href="https://mmitii.mattballantine.com/2019/01/11/whats-in-the-bag/">what people put in their bags</a>.</p>
+
+<p>And to mark it being 20 years since the Sopranos started HBO’s Twitter account was offering people their <a href="https://twitter.com/hbo/status/1083425916540211203?s=21">Sopranos name</a>.</p>
+
+<h2 id="brought-to-you-by">Brought to you by…</h2>
+
+<p>A mug of green tea and <a href="https://en.wikipedia.org/wiki/The_Fall_%28band%29">The Fall</a>.</p>
+:ET

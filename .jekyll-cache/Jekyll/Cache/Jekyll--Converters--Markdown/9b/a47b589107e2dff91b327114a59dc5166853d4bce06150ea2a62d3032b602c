@@ -1,0 +1,121 @@
+I"�%<p>Why would you want your teams to put work into and work with a design patterns library?</p>
+
+<p><img src="/assets/so-hot-right-now.jpg" alt="Screen grab of the scene in Zoolander when Muguatu says That Hansel's so hot right now" /></p>
+
+<p>Design systems are such a trend right now. So hot right now. Design systems are not new though.</p>
+
+<p>I am taking a little time out tonight to remind myself why we do design patterns.</p>
+
+<p>First: What are design patterns?</p>
+
+<p>Let’s break that down a little: What is <em>a pattern</em>? The Oxford English Dictionary <a href="https://en.oxforddictionaries.com/definition/pattern">states</a>:</p>
+
+<blockquote>
+  <p>A regular and intelligible form or sequence discernible in the way in which something happens or is done.</p>
+</blockquote>
+
+<p>Patterns are everywhere. Just look around you. Life is a collection of patterns on every level.</p>
+
+<p>Designing is bringing structure to something. We design to bring structure to how a person interacts, with your product or service. Design is about that person’s experience. And a user’s experience is the result of a team’s work, not one person’s work.</p>
+
+<p>In a web-based product or service, design should be the outcome of accumulative efforts of these functions/roles:</p>
+
+<ul>
+  <li>Research.</li>
+  <li>Insight.</li>
+  <li>Understanding.</li>
+  <li>Interaction design.</li>
+  <li>Content design.</li>
+  <li>The production means (on the web that is code and the tech required).</li>
+  <li>Product management.</li>
+</ul>
+
+<p>A <em>design pattern</em> is a record of a design. It’s a guide to elements of your design work. What might we record?</p>
+
+<p>An example:</p>
+
+<blockquote>
+  <p>You are on a website and need to provide your name, address, and telephone number for something to be delivered to your home. How you provide your name is a pattern we are looking for.</p>
+</blockquote>
+
+<blockquote>
+  <p>How have you filled in your name recently? Is it several boxes, one for <code class="highlighter-rouge">First name</code> and another for <code class="highlighter-rouge">Last name</code>? Is it several boxes, one for <code class="highlighter-rouge">First name</code> and another for <code class="highlighter-rouge">Surname</code>? Is it one box for <code class="highlighter-rouge">Your name</code>? Was it something else? Did the form ask you to provide your gender? How? Was that actually important? What happened if you left a box empty? Did the page tell you? How did the page tell you? Did the box go a different colour? Was there a message telling you what you need to? How did it say it? Where was that message? Did the page reload before it told you this?</p>
+</blockquote>
+
+<p>The pattern here is <em>A person providing their name</em>. Our design solution to that problem is what we record as a pattern.</p>
+
+<p>So, a design pattern is not just a record of “how it looks” or just “the visual design”. Patterns note the interaction, the experience. Also they are not just a thing for “websites”.</p>
+
+<p>More intriguingly, the dictionary continues with the following about “patterns”:</p>
+
+<blockquote>
+  <p>An example for others to follow.</p>
+</blockquote>
+
+<p>Simply, that is the aim of design patterns. To be an example.</p>
+
+<p>Patterns start small. We design something. We record what we have designed. And as we learn more, as improvements happen the design work evolves — and so does the pattern. The pattern recorded evolves.</p>
+
+<p>By recording a design pattern we create a reference for the future to adopt, to adapt — for those continuing the work and others who may need to reference it.</p>
+
+<p>So, what makes a good pattern? I think it is important to know what good looks like. For design patterns and their library to be useful they need some conditions, some acceptance criteria. I believe in the following being recorded:</p>
+
+<ul>
+  <li>A name.</li>
+  <li>An explanation of what the pattern is: What does it do?</li>
+  <li>An example – or better <em>examples</em>. Show the thing, either as screen grabs (static, animated GIFs, or video) and wherever possible link to the pattern in another library (say, a production library or a Github repo) and/or showing it “in the wild”.</li>
+  <li>Context: How did the pattern come to be? What problem is it solving? Who is it designed to work for?</li>
+  <li>Guidance for use: Say where it should be used, and where it could be used, and why. Are there any technical factors? (The most common is the differences between device screen sizer and the user’s input methods). Environmental factors, be they emotions, motivations, behaviours, should also be noted.</li>
+  <li>Who has contributed: Often overlooked, but indicate contacts, either as teams or even the people who have worked on it.</li>
+  <li>Status: Every pattern committed must come with a state of play: Whether a first pass used under duress or used in many places, having been tested and iterated over time to reach this current point. Preferably patterns will have been tested and revised at least once before entering the library. Also look ahead: What opportunities for learning are there with this pattern? How would you like it be tested further?</li>
+</ul>
+
+<p>As design pattern represents the collective efforts of people’s thinking and making, that cross-discipline representation means design pattern libraries have the capability to be a cross-discipline resource, not just for “designers”.</p>
+
+<p>Many design patterns collected together are kept in a design patterns library.</p>
+
+<p>If we have recorded our patterns to an acceptable level of quality our library will have patterns that are replicable with relative ease.</p>
+
+<p>Such a library of provides a baseline system that allows us to start a few steps on already, to start further along, and spend time and effort looking at the harder problems we can solve. Design as patterns as a commodity as a platform as an opportunity for innovation through further design work. (And innovation as a natural outcome, not a role.)</p>
+
+<p>What this means is new products and services do not come into being just by copying and pasting bits together. That gives you a start. You will need to learn and test and improve in context.</p>
+
+<p>Underlining all that I recommend the following principles:</p>
+
+<ul>
+  <li>Honesty. Say it as it is in your patterns’ commentary. This isn’t marketing. Patterns help make things better. Patterns are also a thing that need to be better.</li>
+  <li>Little, often. Record regularly as you go along.</li>
+  <li>Start early. And start as you mean to go on. Putting this off will create a bigger problem later.</li>
+  <li>Don’t wait for permission. (Although cover, even a mandate, from above no matter how flat your organisation’s structure is always helpful.)</li>
+  <li>Patterns are an outcome of your communities, from communities of practice to the team that are focused on the product. Disparate, separate teams will share, discuss, understand, agree — and disagree — work.</li>
+  <li>Find what works. And find what doesn’t work. Acknowledge both. A pattern always needs to be tested. There is always the potential for improvement from new learning. When new research brings further supportive evidence, that’s just as valuable as corrective measures.</li>
+  <li>Use patterns to avoid being all over the fucking place: Go for consistency of experience.</li>
+  <li>Building patterns takes times.</li>
+  <li>Consistency takes time.</li>
+  <li>This is all about continual gradual improvement.</li>
+  <li>Make sure everyone understands why we have patterns — and support you.</li>
+  <li>Use simple English to explain. Avoid jargon.</li>
+  <li>Communicate, clearly, to all involved.</li>
+  <li>Involve everyone.</li>
+</ul>
+
+<p>A library should give us a idea of what is good. Design patterns are not just a record of what we have learnt to this point, but a thing we can use to plan the future, for foresight.</p>
+
+<p>I often get asked “Don’t our brand guidelines cover this?“ A design pattern library isn’t brand guidelines. Brand guidelines are usually a reference about the tone of an organisation. Design patterns should reflect the organisation in what they do and how they do. Hopefully a design patterns library will reflect the brand.</p>
+
+<p>Are design patterns a style guide? In a way, yes. A design patterns library will carry the elements of a style guide: Fonts, sizing, layout, and so on.</p>
+
+<p>A design pattern library isn’t a front-end code library — although the best design patterns library include and link off to examples in any front-end code library.</p>
+
+<p>Are design pattern libraries for everyone? Understand your needs.</p>
+
+<p>Does a “small product” need something so in-depth? Maybe not.</p>
+
+<p>But anything of weight — a large product, a number of products, particularly over a spread organisation — yes. Want consistency in your approach to making your organisation’s products and services? That’s why you should do patterns. They make all your things better by making your making better.</p>
+
+<p>Feel you need patterns and not doing them already? Start small. Look at problem you have solved already and unpack your work. Take an hour out as a team to huddle to record it. And you’re off.</p>
+
+<p>Doing patterns already? Remind yourself of them. Check they are fit for purpose.</p>
+
+<p>Have and use patterns because they are useful, not because others are, not because you feel they are a commitment you need to meet. Understand their usefulness, and value that usefulness.</p>
+:ET

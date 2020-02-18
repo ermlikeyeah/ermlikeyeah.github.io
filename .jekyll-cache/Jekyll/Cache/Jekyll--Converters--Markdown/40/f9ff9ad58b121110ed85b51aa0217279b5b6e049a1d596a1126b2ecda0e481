@@ -1,0 +1,47 @@
+I"�<blockquote>
+  <p>“I hate it. Especially as I have an iPhone. Look. It’s not like it is on <em>your [Nexus 5’s] bigger screen</em>. I have to pinch to zoom <em>and</em> put the phone that bit closer to my face - <em>and</em> squint. It’s horrible. I don’t want to keep going but I have to - I need to find something out. You know when the need is so great, you have to do it <em>now</em>? Yeah, I could have gone and got my laptop to go on the website. But how absurd does that sound? This is 2014.”</p>
+</blockquote>
+
+<p>Quick bit of background: I used to do front-end code years ago. I started my career as a coder but drifted away to more designing and managing rather than building. I’ve done a bit of dabbling here and there over the years (outside of markup in WordPress etc), but nothing that would make me comfortably say I was “a good front-ender” like I did back in 2000.</p>
+
+<p>Work-wise recently I’ve been sewn down with a lot of strategy, user experience stuff, and production management. I am far from complaining here: it’s all good stuff, enjoyable.</p>
+
+<p>The relationship between the ‘designer(s)’ and the ‘builder(s)’, the team that creates something, is a process <em>I</em> feel can/should be bridged and enhanced by both of those roles working together, having shared knowledge and appreciation of the other’s role and skills.</p>
+
+<p>Example: I used a recent project as an excuse to create some in-browser wireframes using <a href="http://getbootstrap.com/">Twitter bootstrap</a>, just for the heck of it. Could I do it? I could and I would, eventually. It was a learning experience that has helped me, understand deeper Twitter bootstrap.</p>
+
+<p>I followed up that experience pretty quickly, using the experience to hack together a holding site (well, page) for my <a href="http://www.studioofthings.com/">my company</a>. And I’ve used that initial website as an opportunity to focus, to create a reason to try new stuff, with iterations of the website. (It hasn’t gone <em>that</em> far yet. Because time.)</p>
+
+<p>So, to go back to the start: We were talking about <a href="http://www.bradford.gov.uk">our local council - Bradford - website</a>.</p>
+
+<p>I’ve been onto the council’s website earlier today with a specific goal, and on my laptop. Mindful of my chum’s little rant, I curiously had a quick go on the website on my 7 inch tablet and my mobile phone at the same time, to see where my chum was coming from. I could tolerate it, the things they found annoying - but then I spend a lot of time fiddling, evaluating, testing.</p>
+
+<p>But, still, I could see their point. It is a pain in the ass. And it’s not a point I’d just heard from them. Others had piped up with similar, others who don’t work in the ‘world of digital’ but are nonetheless inhabitants of this modern world where engagement, the diseemination of information is through technology.</p>
+
+<blockquote>
+  <p>“Here, Si, you work on websites. Why is it when I go to some websites they know I am on my iPhone yet the council website just shows me a normal website?”</p>
+</blockquote>
+
+<p>I know why that is, but I don’t know <em>why</em> that isn’t.</p>
+
+<p>Lunchtime I dound myself with a little “leftover time” (y’know, after lunch was made and eaten) - and my friend’s chat was at the back of my mind. How hard could it be to ‘fix’ the website so it displays on a mobile phone? Could I hack together a version of the council’s website in whatever was left over from my lunch break? I had the time to have a go.</p>
+
+<p>A quick nip to the website, selecting a content page, and then viewing the page’s source code was the starting point.</p>
+
+<p>In the half an hour of my lunch break left over I had taken a local copy of the page, fired up Brackets, sketched the page visual and code structure, included some immediate (and naughty) hide code, and got to work on the CSS for the header, main content, and footer.</p>
+
+<p>It wasn’t a massive job - there wasn’t time for it to be. And, sure, the approach I took was very much a hacked one, there are flaws. I worked with the HTML in place. My CSS was definitely hacks (not ‘best practice’. By the end of half an hour I’d broken the footer starting to do some more detailed faffing. And didn’t create versions of my code, so couldn’t quickly go back to a version that ‘worked’.</p>
+
+<p>But my goal was quite clear: To create a version of that page that displayed better on a mobile phone screen within half an hour. I wasn’t after the leanest code or a redesign (although I did use up the size of the breadcrumb slightly, just for the heck of it). And I did it.</p>
+
+<p>Experimenting, hacking, recycling, trying new ways to understand how things can be made, should be part and parcel of what we do - and not just ‘we’ as people that make digital things, but people as people.</p>
+
+<p>Four takeaways for me:</p>
+
+<ul>
+  <li>Could the people who actually own/run the council website just have a go like this?</li>
+  <li>It wasn’t too bad hacking together a mobile version in a lunch. What else out there could I hack together into a mobile friendly format? (The <a href="http://www.wymetro.com">WY Metro</a> timetables are something I regularly use.)</li>
+  <li>Could I extend this “half hour hacks” into a regular programme, maybe like <a href="http://alexproba.com/">Alex Proba</a>’s <a href="http://a-poster-a-day.tumblr.com/">a poster a day project</a>?</li>
+  <li>What thing out there already do you think could be improved with a little jiggery-pokery? Or maybe a redesign/rebuild. Could you have a go yourself? We’ll be talking about this at the next <a href="/leeds-digital-lunch">Leeds Digital Lunch</a>.</li>
+</ul>
+:ET
