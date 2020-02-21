@@ -118,6 +118,7 @@ h6 {
 h1 {
     font-size: $h1-font-size;
     line-height: $h1-line-height;
+    font-weight: $strong-font-weight;
     margin-bottom: $h1-font-size;
     @include media-query($on-palm) {
       font-size: $h1-font-size*0.8;
