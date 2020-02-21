@@ -16,7 +16,11 @@ I started to look up and learn about places in other parts of the country, under
 
 Not everything was physical. We went to stay in Chepstow, and on the way in the atlas I could see rivers and bridges I didn’t know about before, seeing the England/Wales border wind up the river Wye. Standing near Tintern Abbey I could see the river. The border is a boundary we can only _see fully_ on a map, but then the river makes it clearly visible in the world as we see experience it.
 
-—
+On that same trip I learned about the contour lines on maps, how they showed hills. Lines but showing something different from human boundaries of ownership.
+
+The _layers_ of maps, eh.
+
+---
 
 I’ve used a lot of mapping techniques and made a lot of maps in my work over the years. Products, services, organisations, businesses.
 
@@ -36,6 +40,8 @@ We all seem to come at this from different angles. How can we all find a common 
 
 How does this bit we are looking at fit in along other bits?
 
+We see too much.
+
 How things are. How things could be. How things were. Movement between those even, how the landscape shifts over time.
 
 Take your problem and think _what do you want the map to do?_
@@ -48,10 +54,18 @@ Whenever I join anything I scribble down notes, I look for relationships — lin
 
 With any _service_ work I start and do I want to understand _what is the service?_ and _what is the service as the team understands it?_.
 
-{% include image.html url="/assets/nhs-jobs-service-map.png" description="" %}
+{% include image.html url="/assets/nhs-jobs-service-map.png" description="The service map, in all its roughness of presentation but depth of detail" %}
 
 When I joined NHS Jobs I started to create a _service map_. What type was it? It was just drawing together understanding. Does the _type_ really matter? It was like a big virtual wall where I dumped everything. I changed the shape of it several times and it grew. Some pockets are in vast detail compared to others. Some areas are clearer than others. Some clearer areas are because nothing happens there, some clearer areas are gaps in my knowledge — and in the team’s knowledge. It helped me understand the idea of what is _the service_ and what the team viewed _the service_ they were working on (not mutually the same things).
 
-{% include image.html url="/assets/nhs-jobs-service-blueprint.png" description="" %}
+A few months ago there was enough detail and shape this service map was useful for some of the team I was on.
 
-A few months ago this incredibly zoomed out map wasn’t a useful navigation tool for the team I was on. They needed it zoomed in, they wanted the equivalent of the large spreads in the road atlas I used to pour over. But they also wanted certain routes highlighted only, like when use a map app on your phone. _I want to see cycle paths only_ you might choose.
+But it wasn’t an especially useful tool for the wider team. They needed something zoomed in, they wanted the equivalent of the large spreads of the road atlas I used to pour over. But they also only wanted certain elements highlighted, like when use a map app on your phone. _I want to see cycle paths only_ you might choose.
+
+The team wanted to see how someone in a particular role would go through the digital side of the service, and show when supporting systems and processes might come into play. We need to show only certain layers of the map. There was the problem.
+
+As we started to pull elements out into their own map it became clear a service blueprint format would meet the problem’s needs.
+
+{% include image.html url="/assets/nhs-jobs-service-blueprint.png" description="One of the blueprints for the digital side of the NHS Jobs service, this from an employer's perspective" %}
+
+Again: Take your problem and think _What do you want the map to do?_.
