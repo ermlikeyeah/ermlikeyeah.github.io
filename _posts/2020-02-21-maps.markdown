@@ -1,0 +1,57 @@
+---
+layout: post
+title: Maps
+date: '2020-02-21 14:00:00'
+tags: [maps]
+---
+Maps. They help us make sense, of where we are, where we are going, and — maybe not enough — where we have been. We use the things most days.
+
+How often do you open up a map app on your mobile phone to help you? Where is somewhere? Maybe furthermore: What is the route there? How can I can get there? How long could it take? _Maybe_ because we use maps in various ways. Sometimes we’re just curious what is around us, what is around somewhere. _What are the closest cinemas?_ _Where can I get a coffee near where I am going?_ _What motorway services are on the trip we are taking?_ _What is the name of that river than runs through York?_ _Where was that bridge we walked over last weekend?_
+
+I remember as a child so many times being on the back seat of my parents’ car with only an A to Z of Great Britain for company. As we went along the roads I tried to work where we were, sometimes my finger tracing if there were landmarks we passed, road turnings usually.
+
+I started to look further afield than what was along the roads we traveled, looking further afield (usually literally looking beyond the field I could see from the car). The river Trent flows into the Humber I learnt. If it wasn’t for the Humber Bridge driving from Grimsby to Hull would take a lot longer time.
+
+I started to look up and learn about places in other parts of the country, understanding where things and places were. Stonehenge I learnt about at school. Where is that? If the index at the back of the road atlas didn’t it’d mean finding the large double pages where I thought it was and scanning, scouring the maps.
+
+Not everything was physical. We went to stay in Chepstow, and on the way in the atlas I could see rivers and bridges I didn’t know about before, seeing the England/Wales border wind up the river Wye. Standing near Tintern Abbey I could see the river. The border is a boundary we can only _see fully_ on a map, but then the river makes it clearly visible in the world as we see experience it.
+
+—
+
+I’ve used a lot of mapping techniques and made a lot of maps in my work over the years. Products, services, organisations, businesses.
+
+Often in design work people seem to revert to the hierarchy of mapping. We’ll start with some form of storyboarding. We’ll then map experiences. We’ll then map journeys. It’s as if this is The Process.
+
+I say ‘often’. I think this is too often.
+
+Take a second and think about this: What is your problem?
+
+We know nothing.
+
+I know nothing.
+
+They know nothing.
+
+We all seem to come at this from different angles. How can we all find a common view?
+
+How does this bit we are looking at fit in along other bits?
+
+How things are. How things could be. How things were. Movement between those even, how the landscape shifts over time.
+
+Take your problem and think _what do you want the map to do?_
+
+Worry less about types of map, the type of map you are doing, what order you are doing it. Worry less full stop. Just make a start. Get down what you know and what you want to find out. See if you can find those things out and update the map. Then take a step back.
+
+Environments are living things. So, maps should be living things. What they are right now might not be what they are in the future. Things change. The landscape. Our understanding. [Maps are living things](/the-map-is-a-living-thing).
+
+Whenever I join anything I scribble down notes, I look for relationships — links, patterns — between things, I map things out.
+
+With any _service_ work I start and do I want to understand _what is the service?_ and _what is the service as the team understands it?_.
+
+{% include image.html url="/assets/nhs-jobs-service-map.png" description="" %}
+
+When I joined NHS Jobs I started to create a _service map_. What type was it? It was just drawing together understanding. Does the _type_ really matter? It was like a big virtual wall where I dumped everything. I changed the shape of it several times and it grew. Some pockets are in vast detail compared to others. Some areas are clearer than others. Some clearer areas are because nothing happens there, some clearer areas are gaps in my knowledge — and in the team’s knowledge. It helped me understand the idea of what is _the service_ and what the team viewed _the service_ they were working on (not mutually the same things).
+
+{% include image.html url="/assets/nhs-jobs-service-blueprint.png" description="" %}
+
+A few months ago this incredibly zoomed out map wasn’t a useful navigation tool for the team I was on. They needed it zoomed in, they wanted the equivalent of the large spreads in the road atlas I used to pour over. But they also wanted certain routes highlighted only, like when use a map app on your phone. _I want to see cycle paths only_ you might choose.
