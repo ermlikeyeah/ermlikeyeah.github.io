@@ -64,7 +64,7 @@ But it wasn’t an especially useful tool for the wider team. They needed someth
 
 The team wanted to see how someone in a particular role would go through the digital side of the service, and show when supporting systems and processes might come into play. We need to show only certain layers of the map. There was the problem.
 
-As we started to pull elements out into their own map it became clear a service blueprint format would meet the problem’s needs.
+As we started to pull elements out into their own map it became clear a service blueprint format would meet the problem’s needs. But we only got to that from taking the problem and what the map should do.
 
 {% include image.html url="/assets/nhs-jobs-service-blueprint.png" description="One of the blueprints for the digital side of the NHS Jobs service, this from an employer's perspective" %}
 
