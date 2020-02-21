@@ -8,13 +8,15 @@ Maps. They help us make sense, of where we are, where we are going, and — mayb
 
 How often do you open up a map app on your mobile phone to help you? Where is somewhere? Maybe furthermore: What is the route there? How can I can get there? How long could it take? _Maybe_ because we use maps in various ways. Sometimes we’re just curious what is around us, what is around somewhere. _What are the closest cinemas?_ _Where can I get a coffee near where I am going?_ _What motorway services are on the trip we are taking?_ _What is the name of that river than runs through York?_ _Where was that bridge we walked over last weekend?_
 
-I remember as a child so many times being on the back seat of my parents’ car with only an A to Z of Great Britain for company. As we went along the roads I tried to work out where we were, sometimes my finger tracing our route if there were landmarks we passed, road turnings usually.
+---
+
+I remember as a child so many times being on the back seat of my parents’ car with only an A to Z of Great Britain for company. As we drove along the roads I tried to work out where we were, sometimes my finger tracing our route if there were landmarks we passed, road turnings usually.
 
 I started to look beyond what was just along the roads we traveled, looking further afield (usually literally looking beyond the field I could see from the car). The river Trent flows into the Humber I learnt. If it wasn’t for the Humber Bridge driving from Grimsby to Hull would take a lot longer time. Skegness is after Mablethorpe if you go down the coast. The Wash I just found _fascinating_. I really could go on here.
 
 I started to look up and learn about places in other parts of the country, understanding where things and places were. Stonehenge I learnt about at school. Where is that? If the index at the back of the road atlas didn’t it’d mean finding the large double pages where I thought it was and scanning, scouring the maps.
 
-Not everything was physical. We went to stay in Chepstow, and on the way in the atlas I could see rivers and bridges I didn’t know about before, seeing the England/Wales border wind up the river Wye. Standing near Tintern Abbey I could see the river. The border is a boundary we can only _see fully_ on a map, but then the river makes it clearly visible in the world as we see experience it.
+Not everything was physical. We went to stay in Chepstow, and on the way in the atlas I could see rivers and bridges I didn’t know about before, seeing the England/Wales border wind up the river Wye. Standing near Tintern Abbey I could see the river. The border is a boundary we can only _see fully_ on a map, but then the river makes it clearly visible in the world as we experience it.
 
 On that same trip I learned about the contour lines on maps, how they showed hills. Lines but showing something different from human boundaries of ownership.
 
@@ -22,9 +24,9 @@ The _layers_ of maps, eh.
 
 ---
 
-I’ve used a lot of mapping techniques and made a lot of maps in my work over the years. Products, services, organisations, businesses. ([Here](/chlamydia-design-sprint-days-one-and-two) is one from the chlamydia discovery work I was involved with on NHS.UK.)
+I’ve used a lot of mapping techniques and made a lot of maps in my work over the years: As a designer to a business director, on products, services, organisations, businesses. ([Here](/chlamydia-design-sprint-days-one-and-two) is one from the chlamydia discovery work I was involved with on NHS.UK.)
 
-Often in design work people seem to revert to the hierarchy of mapping. We’ll start with some form of storyboarding. We’ll then map experiences. We’ll then map journeys. It’s as if this is The Process.
+Often in design work people seem to revert to the hierarchy of mapping. We’ll start with some form of storyboarding. We’ll then map experiences. We’ll then map journeys. We will do it in that order. It’s as if this is The Process.
 
 I say ‘often’. I think this is too often.
 
@@ -46,13 +48,13 @@ How things are. How things could be. How things were. Movement between those eve
 
 Take your problem and think _what do you want the map to do?_
 
-Worry less about types of map, the type of map you are doing, what order you are doing it. Worry less full stop. Just make a start. Get down what you know and what you want to find out. See if you can find those things out and update the map. Then take a step back.
+Worry less about types of map, the type of map you are doing, what order you are doing it. Worry less full stop. Just make a start. Get down what you know and what you want to find out. See if you can find those things out and update the map. Whatever shape it is in take a step back.
 
-Environments are living things. So, maps should be living things. What they are right now might not be what they are in the future. Things change. The landscape. Our understanding. [Maps are living things](/the-map-is-a-living-thing).
+Environments are living things. So, maps should be living things. What they are right now might not be what they are in the future. Things change. The landscape. Our understanding. [Maps are living things](/the-map-is-a-living-thing). And our approaches to mapping and what we are mapping should be equally adapting.
 
 Whenever I join anything I scribble down notes, I look for relationships — links, patterns — between things, I map things out.
 
-With any _service_ work I start and do I want to understand _what is the service?_ and _what is the service as the team understands it?_.
+With any _service_ work I start and do I want to understand _what is the service?_ and _what is the service as the team understands it?_. Mapping helps. I just start by scribbling things down. If I have to go back through it all at some point and reorder and reshape it, that's absolutely fine!
 
 {% include image.html url="/assets/nhs-jobs-service-map.png" description="The service map, in all its roughness of presentation but depth of detail" %}
 
