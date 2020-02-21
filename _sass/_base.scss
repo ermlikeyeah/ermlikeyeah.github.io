@@ -127,7 +127,7 @@ h1 {
 h2 {
     font-size: $h2-font-size;
     line-height: $h2-line-height;
-    // font-weight: $base-font-weight * 1.2;
+    font-weight: $base-font-weight;
     margin-bottom: $base-spacing-unit / 2;
     @include media-query($on-palm) {
       font-size: $h2-font-size*0.8;
@@ -137,7 +137,7 @@ h2 {
 h3 {
     font-size: $h3-font-size;
     line-height: $h3-line-height;
-    // font-weight: $base-font-weight *1.2;
+    font-weight: $base-font-weight;
     margin-bottom: $base-spacing-unit / 2;
     @include media-query($on-palm) {
       font-size: $h3-font-size*0.8;
@@ -146,7 +146,7 @@ h3 {
 }
 h4 {
     font-size: $h4-font-size;
-    font-weight: $base-font-weight *1.4;
+    font-weight: $base-font-weight * 1.4;
     line-height: $h4-line-height;
 //    @include media-query($on-palm) {
 //      font-size: $h4-font-size*0.8;
