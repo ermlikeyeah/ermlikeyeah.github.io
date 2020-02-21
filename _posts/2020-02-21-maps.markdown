@@ -68,4 +68,4 @@ As we started to pull elements out into their own map it became clear a service 
 
 {% include image.html url="/assets/nhs-jobs-service-blueprint.png" description="One of the blueprints for the digital side of the NHS Jobs service, this from an employer's perspective" %}
 
-Again: Take your problem and think _What do you want the map to do?_.
+Remember: Take your problem and think _What do you want the map to do?_.
