@@ -22,7 +22,7 @@ The _layers_ of maps, eh.
 
 ---
 
-I’ve used a lot of mapping techniques and made a lot of maps in my work over the years. Products, services, organisations, businesses.
+I’ve used a lot of mapping techniques and made a lot of maps in my work over the years. Products, services, organisations, businesses. ([Here](/chlamydia-design-sprint-days-one-and-two) is one from the chlamydia discovery work I was involved with on NHS.UK.)
 
 Often in design work people seem to revert to the hierarchy of mapping. We’ll start with some form of storyboarding. We’ll then map experiences. We’ll then map journeys. It’s as if this is The Process.
 
