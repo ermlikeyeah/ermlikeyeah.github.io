@@ -5,7 +5,7 @@ date: '2020-02-21 18:00:00'
 tags: [weeknotes, 2020 weeknotes]
 ---
 {% include weeknotes_2020_intro.html %}
-Half term so the kids were away, while I kept working.
+Half term so the kids were away, while I kept working. I need to stop doing that.
 
 There is probably a direct correlation between the kids’ absence and having a bit more evening time than usual, so a trip to the cinema ([Bad Boys For Life](https://www.imdb.com/title/tt1502397/), which was a guilty pleasure, and feel free to judge for I am cool with this decision), some episodes of my rewatch of The Americans (always overlooked but such super TV), and Picard, which is good fun. I finished reading I mean _listening_ to [Rise of the Ultra Runners](https://www.goodreads.com/book/show/50792074-the-rise-of-the-ultra-runners). I need to tie up another read before I start anything new.
 
