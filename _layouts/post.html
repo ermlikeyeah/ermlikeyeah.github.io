@@ -23,7 +23,7 @@ layout: default
 
   {% for tag in page.tags %}
   		  {% if forloop.first %}This post tagged with:<br />{% endif %}
-        <a href="/tags/#{{ tag }}">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}
+        <a href="/tags#{{ tag }}">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}
   {% endfor %}
 
 </p>
