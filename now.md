@@ -13,7 +13,7 @@ I coordinate the [Leeds gov design meets](/leedsgovdesign/), a regular meet-up f
 
 My upcoming speaking engagements:
 
-* A public one, on accessible products and services, at the next Product People North, Friday 15 May 2020
+* A public one, on accessible and inclusive products and services, at the next Product People North, Friday 15 May 2020
 * A private one, on my running adventures in 2019
 
 If you are interested in me doing a session at your place of work or event, please get in touch.
