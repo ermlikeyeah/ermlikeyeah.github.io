@@ -21,6 +21,7 @@ If you are interested in me doing a session at your event, get in touch.
 I am planning on being at the following events. If you see me I am always happy to say hi and have a chat, so pleased do! If you are planning on going to one of these events and fancy a longer chat feel free to get in touch ahead of the event and we can see what we can do.
 
 * [Service Design in Government](https://2020.govservicedesign.net), Edinburgh, Thursday 5 March 2020 only (not there the Wednesday and Friday)
+* [Disruption Summit](https://disruptionsummit.co.uk/), Leeds, Tuesday 24 March 2020
 * [Up Front](https://upfrontconf.com), Manchester, Friday 27 March 2020
 * [Camp Digital](https://www.wearesigma.com/campdigital/2020/), Manchester, Wednersday 13 May 2020
 
