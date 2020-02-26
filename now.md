@@ -16,7 +16,7 @@ My upcoming speaking engagements:
 * A public one, on accessible products and services, at the next Product People North, Friday 15 May 2020
 * A private one, on my running adventures in 2019
 
-If you are interested in me doing a session at your event, get in touch.
+If you are interested in me doing a session at your place of work or event, please get in touch.
 
 I am planning on being at the following events. If you see me I am always happy to say hi and have a chat, so pleased do! If you are planning on going to one of these events and fancy a longer chat feel free to get in touch ahead of the event and we can see what we can do.
 
