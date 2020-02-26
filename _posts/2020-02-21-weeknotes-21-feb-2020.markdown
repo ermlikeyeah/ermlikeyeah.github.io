@@ -1,0 +1,30 @@
+---
+layout: post
+title: Weeknote for Friday 21 February 2020
+date: '2020-02-21 18:00:00'
+tags: [weeknotes, 2020 weeknotes]
+---
+{% include weeknotes_2020_intro.html %}
+Half term so the kids were away, while I kept working.
+
+There is probably a direct correlation between the kids’ absence and having a bit more evening time than usual, so a trip to the cinema ([Bad Boys For Life](https://www.imdb.com/title/tt1502397/), which was a guilty pleasure, and feel free to judge for I am cool with this decision), some episodes of my rewatch of The Americans (always overlooked but such super TV), and Picard, which is good fun. I finished reading I mean _listening_ to [Rise of the Ultra Runners](https://www.goodreads.com/book/show/50792074-the-rise-of-the-ultra-runners). I need to tie up another read before I start anything new.
+
+The quietness of the house has meant I’ve had a lot of time this week to _think_, and some of that led to a couple of small DIY jobs around the house. I always find this is where quiet time to think leads: Fixing something.
+
+Some other thinking came after decisions for two permanent roles I’d gone for. My contract on NHS Jobs finishes in mid-May so I am looking at what could be next. This means getting on with talking to people and looking around now. One of the roles I missed out on after interviews. I got some lovely honest feedback (which I always try to give when I’ve interviewed people so nice to get some at the other end of the process). I never set myself up thinking _You will get this role_ but it felt like a good mix, especially as it was something I really cared about but… Disappointing but when you’re going for a role you’ve gotta expect failure. Anything else is a bonus. The other role I was offered and again something I am really into. We had some chats, and some right proper chats at that. Sometimes it just doesn’t feel the right fit. I always feel slightly bad after the people you’re talking to have been super open about the state of things, but if I am giving up _doing my own thing_  it needs to _feel right_. (I am maybe super attuned to this after [my time at Home](https://www.prolificnorth.co.uk/digital/featured/2014/03/simon-wilson-become-consultant-after-unexpected-departure-home), but hey.) Lovely people. I hope they find the right person for them.
+
+I am trying to run 2000km in 2020. To do this I need to try to run around 40km a week, roughly 170km every month. At the start if this week we were at the midpoint of the month. I’d done 46km. I was ill for the first week of February (and getting back going after illness took a little effort) so my average weekly running needed nudging up a touch. I thought for this week I’d try to run 60km over the seven days. That would be a tough ask, but doable. If I fell a bit short I’d be cool, but at least try to push as much over 40km as I could. It’s just ahead of the weekend: I ran 47.4km, which isn’t disastrous, a decent return, and a couple of rest days in there too. Looking ahead to the weekend I want to get 20km run and hopefully that’ll put me on course for 150km for the month. 20km short of 170km can be made up with a little bit more effort next month.
+
+You can now get a place for [Leeds Gov Design meet number 14](http://ermlikeyeah.com/leedsgovdesign).
+
+I published a post that’s been lurking in my drafts for a short while, on maps. You can [read it here](https://www.ermlikeyeah.com/maps).
+
+I believe in giving back. [Camp Digital](https://www.wearesigma.com/campdigital/2020/) is a great little conference and this year I again want to help someone from an underrepresented group attend. I put a shout out on Twitter. Shaun from Sigma said they’d offer another place too. I’ll be picking two names next Friday. If you’re interested, [here’s the tweet](https://twitter.com/OfficeOfWilson/status/1230561336020439041). (That tweet might not be there if you are reading this a month down the line: My tweets are deleted after four weeks.)
+
+Also I’ve the time and space to mentor someone. Again I put [a shout out on Twitter](https://twitter.com/OfficeOfWilson/status/1230477810235531265). If you’re interested let me know.
+
+I switched my public Twitter handle from [ermlikeyeah](https://twitter.com/ermlikeyeah) to [OfficeOfWilson](https://twitter.com/OfficeOfWilson). It’s just slightly easier to tell people.
+
+I enjoyed reading this [Barnett Freedman](https://www.designweek.co.uk/issues/3-9-february-2020/barnett-freedman-restrospective/) piece on the Design Week website.
+
+{% include weeknotes_2020_outro.html %}
