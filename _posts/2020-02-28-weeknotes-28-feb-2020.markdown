@@ -5,7 +5,6 @@ date: '2020-02-28 16:30:00'
 tags: [weeknotes, 2020 weeknotes]
 ---
 {% include weeknotes_2020_intro.html %}
-# Week note for week ending Friday 28 February
 
 A good weekend of running, [a slow 7km session with the dog on Saturday](https://www.strava.com/activities/3121173625) followed by [a nice 21km-er on Sunday](https://www.strava.com/activities/3124562322). Loved [a very fresh run along the Tyne](https://www.strava.com/activities/3128715549) on Monday night and [a late roadside session](https://www.strava.com/activities/3134859530) on Wednesday. Up early this morning for [a dog accompanied 10km-er](https://www.strava.com/activities/3138310500) through the woods and along the Canal. And nothing on Tuesday and Thursday: Rest is good! If I can squeeze in 20km tomorrow that’ll have been a great month of running, especially as week one was an illness-ridden wipe out. (I guess my monthly run note will tell that story.)
 
