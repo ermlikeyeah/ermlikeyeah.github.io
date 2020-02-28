@@ -1,0 +1,34 @@
+---
+layout: post
+title: Weeknote for Friday 28 February 2020
+date: '2020-02-28 16:30:00'
+tags: [weeknotes, 2020 weeknotes]
+---
+{% include weeknotes_2020_intro.html %}
+# Week note for week ending Friday 28 February
+
+A good weekend of running, [a slow 7km session with the dog on Saturday](https://www.strava.com/activities/3121173625) followed by [a nice 21km-er on Sunday](https://www.strava.com/activities/3124562322). Loved [a very fresh run along the Tyne](https://www.strava.com/activities/3128715549) on Monday night and [a late roadside session](https://www.strava.com/activities/3134859530) on Wednesday. Up early this morning for [a dog accompanied 10km-er](https://www.strava.com/activities/3138310500) through the woods and along the Canal. And nothing on Tuesday and Thursday: Rest is good! If I can squeeze in 20km tomorrow that’ll have been a great month of running, especially as week one was an illness-ridden wipe out. (I guess my monthly run note will tell that story.)
+
+Work:
+* Feels like a week of mainly nudging people to start stuff and keep doing the good work they are doing. (Nudging being get together and get on with something.)
+* On Tuesday a team looking into _recruitment in/for social care_ came to the NHS BSA offices in Newcastle and we did a run-through of NHS Jobs for them and answered a whole slew of questions.
+* Thursday had a fun service blueprinting session, drawing on user research to help get down the shape of the service as viewed by someone seeking to find a job. Too much we get pressure to record and view these journeys and the service through the lens of “the business”, so leaning on the user research was a nice start. As ever the real challenge with these is trying to politely keep the conversation rolling along.
+* Had a few catch ups with other people all over the place, designers of different flavours, user researchers, a couple of product owners, and a board director.
+
+Three days in Newcastle this week and all served by train journeys. On Thursday morning’s train it was announced before we left Leeds “Unfortunately this train is going to have to take the long way round to York, so we’ll be arriving 20 minutes later than planned.” Sometimes the long way is what’s needed to get us somewhere. Maybe we don’t take or allow ourselves the long way round enough.
+
+I’ve been mulling over a few things this week, doodling out thoughts, trying to tap some into shape. The last few weeks I’ve been dwelling on the emphasis of _empathy_ when designing human-centred products and services and how we bring wider _understanding_ into our work. If good service design sits, for example, in the area where user needs, business requirements and, say, policy meet then it won’t be empathy across all of those, more understanding. Nothing profound or more than that at the mo, at least in a way that makes sense out of my head.
+
+I visited my GP this morning who confirmed what I have — maybe even we have — felt was going to be the case for a while: I am diabetic. After months — over 18 — of monitoring a/my healthier — and _healthy_ — way of living I have officially “done as much as [I] can”. Next week I start on [some drugs](https://www.nhs.uk/medicines/metformin/). I got good service from my GP today. And it’s always good to hear a medical professional tell you “you’re in really good shape”, by the way.
+
+Doctor Who last weekend was quite good fun (it’s only a TV show!) and managing to stay on top of Picard. That’s probably the limit for my TV watching capacity at the moment.
+
+I started reading [The Pursuit of Endurance](https://www.goodreads.com/book/show/40910272-the-pursuit-of-endurance) which has been a nice one to take in leisurely.
+
+Next week I am looking forward to spending a day next week in Edinburgh at Service Design in Government. There’s [lots of good running options](https://greatruns.com/location/edinburgh-uk/) too! And I’ve updated my [now page](https://www.ermlikeyeah.com/now/) to list any upcoming events I am going to. Feel free to have a look and say hi if you’re there too!
+
+If you’re into design and looking for an end of week read could I suggest you [read this by Paula Scher](https://www.creativereview.co.uk/love-letter-paula-scher/). Lovely stuff.
+
+Oh, and on Tuesday [Town won, again](http://codalmighty.com/site/ca.php?article=7477)! I had to get up early on Wednesday and couldn’t get my head down until I knew it had ended 4-2. Even when Wright scored Town’s fourth in the 84th minute I just had to make sure.
+
+{% include weeknotes_2020_outro.html %}
