@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Criticism, a simple guide
+title: Criticism. A Simple Guide.
 date: '2020-03-02 16:00:00'
 tags: [criticism]
 ---
