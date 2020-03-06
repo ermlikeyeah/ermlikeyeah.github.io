@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Weeknote for Friday 28 February 2020
-date: 2020-02-28 16:30:00
+title: Weeknote for week ending Friday 6 March 2020
+date: 2020-03-06 16:30:00 +0000
 tags:
 - weeknotes
 - 2020 weeknotes
@@ -9,30 +9,22 @@ tags:
 ---
 {% include weeknotes_2020_intro.html %}
 
-Bit of a crazy week that. Let me see if I can unpack it a little.
+At the weekend I went to Middlesbrough for the son’s basketball game. This meant I couldn’t help with Bradford Coder Dojo, but priorities. The riverside area near Middlesbrough College is super interesting — and they’ve a dock tower. (Always the sign of the best places.)
 
-A good weekend of running, [a slow 7km session with the dog on Saturday](https://www.strava.com/activities/3121173625) followed by [a nice 21km-er on Sunday](https://www.strava.com/activities/3124562322). Loved [a very fresh run along the Tyne](https://www.strava.com/activities/3128715549) on Monday night and [a late roadside session](https://www.strava.com/activities/3134859530) on Wednesday. Up early this morning for [a dog accompanied 10km-er](https://www.strava.com/activities/3138310500) through the woods and along the Canal. And nothing on Tuesday and Thursday: Rest is good! If I can squeeze in 20km tomorrow that’ll have been a great month of running, especially as week one was an illness-ridden wipe out. (I guess my monthly run note will tell that story.)
+The start of a new month meant [a look back on the previous month’s running](https://www.ermlikeyeah.com/run-note-2020-february).
 
-Work:
-* Feels like a week of mainly nudging people to start stuff and keep doing the good work they are doing. (Nudging being get together and get on with something.)
-* On Tuesday a team looking into _recruitment in/for social care_ came to the NHS BSA offices in Newcastle and we did a run-through of NHS Jobs for them and answered a whole slew of questions.
-* Thursday had a fun service blueprinting session, drawing on user research to help get down the shape of the service as viewed by someone seeking to find a job. Too much we get pressure to record and view these journeys and the service through the lens of “the business”, so leaning on the user research was a nice start. As ever the real challenge with these sessions is trying to politely keep the conversation rolling along.
-* Had a few catch ups with other people all over the place, designers of different flavours, user researchers, a couple of product owners, and a board director.
+I published [a small guide to criticism](https://medium.com/@ermlikeyeah/criticism-a-simple-guide-1b98a1e3f8b7). I could have probably added more to it, but it felt brisk enough to get the bare bones down.
 
-Three days in Newcastle this week and all served by train journeys. On Thursday morning’s train it was announced before we left Leeds “Unfortunately this train is going to have to take the long way round to York, so we’ll be arriving 20 minutes later than planned.” Sometimes the long way is what’s needed to get us somewhere. Maybe we don’t take or allow ourselves the long way round enough.
+After my first visit to the diabetes nurse at my doctor’s surgery I published my [first blog post about recently being diagnosed with diabetes](https://www.ermlikeyeah.com/diabetes-1), share the journey I am on for anyone who reads it. As I tap this it’s Friday, its 4:30pm, and I am supposed to have had a call about my tests results by now, so I am already off the planned happy path.
 
-I’ve been mulling over a few things this week, doodling out thoughts, trying to tap some into shape. The last few weeks I’ve been dwelling on the emphasis of _empathy_ when designing human-centred products and services and how we bring wider _understanding_ into our work. If good service design sits, for example, in the area where user needs, business requirements and, say, policy meet then it won’t be empathy across all of those, more understanding. Nothing profound or more than that at the mo, at least in a way that makes sense out of my head.
+Wednesday evening I travelled to Edinburgh to be at the Thursday of [Service Design in Government](https://2020.govservicedesign.net). The sessions I went to were at least each good, but I found the time spent with many good friends was what I got the most from. We chatted, we talked about so many things, from _I was going to be interviewed by you but it wasn’t you when I turned up!_ to the nitty gritty of running a business. From the inane and daft and bollocks to some pretty serious and heavy stuff. I needed that. It’s been quite… lonely the recent few months. I also managed to sneak in [two](https://www.strava.com/activities/3155644767/overview) [runs](https://www.strava.com/activities/3156890045)! The view from the top of Arthur’s Seat was amazing. Well worth the huff and puff to get up there. And [Sharon](https://twitter.com/pixlz) snapped [a pic of me looking _not grumpy_](https://twitter.com/pixlz/status/1235724547720126464).
 
-I visited my GP this morning who confirmed what I have — maybe even we have — felt was going to be the case for a while: I am diabetic. After months — over 18 — of monitoring a/my healthier — and _healthy_ — way of living I have officially “done as much as [I] can”. Next week I start on [some drugs](https://www.nhs.uk/medicines/metformin/). I got good service from my GP today. And it’s always good to hear a medical professional tell you “you’re in really good shape”, by the way.
+I am still having conversations off the back of [a piece I wrote about maps](https://medium.com/@ermlikeyeah/maps-6cf37fde8651). I’ve been asked if there is a talk or workshop I could do around it. I see so many other talks, talks by others, I always wonder why would me doing it be that interesting? But sometimes doing a talk helps you get your thinking straight. You’re going to say it out loud — sometimes with slides too — is different to writing it out in a blog post.
 
-Doctor Who last weekend was quite good fun (it’s only a TV show!) and managing to stay on top of Picard. That’s probably the limit for my TV watching capacity at the moment.
+I haven’t read much more of my current book, as I’ve been doing a lot of reading of articles and other things along with some writing. I’ll update [Goodreads](https://www.goodreads.com/user/show/4156043-si-wilson) as I go along though.
 
-I started reading [The Pursuit of Endurance](https://www.goodreads.com/book/show/40910272-the-pursuit-of-endurance) which has been a nice one to take in leisurely.
+Some of that writing is a good 3000 words on design stuff, which felt like a bit of a brain dump. Will I ever publish it? I dunno. Did typing it out help me think some stuff through? Sure did.
 
-Next week I am looking forward to spending a day next week in Edinburgh at Service Design in Government. There’s [lots of good running options](https://greatruns.com/location/edinburgh-uk/) too! And I’ve updated my [now page](https://www.ermlikeyeah.com/now/) to list any upcoming events I am going to. Feel free to have a look and say hi if you’re there too!
-
-If you’re into design and looking for an end of week read could I suggest you [read this by Paula Scher](https://www.creativereview.co.uk/love-letter-paula-scher/). Lovely stuff.
-
-Oh, and on Tuesday [Town won, again](http://codalmighty.com/site/ca.php?article=7477)! I had to get up early on Wednesday and couldn’t get my head down until I knew it had ended 4-2. Even when Wright scored Town’s fourth in the 84th minute I just had to make sure.
+Anyway. Time for the weekend.
 
 {% include weeknotes_2020_outro.html %}
