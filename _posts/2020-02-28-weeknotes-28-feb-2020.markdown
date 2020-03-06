@@ -1,8 +1,11 @@
 ---
 layout: post
-title: Weeknote for Friday 28 February 2020
-date: '2020-02-28 16:30:00'
-tags: [weeknotes, 2020 weeknotes]
+title: Weeknote for week ending Friday 28 February 2020
+date: 2020-02-28 16:30:00
+tags:
+- weeknotes
+- 2020 weeknotes
+
 ---
 {% include weeknotes_2020_intro.html %}
 
