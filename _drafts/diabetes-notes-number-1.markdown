@@ -1,0 +1,46 @@
+---
+layout: post
+title: Diabetes notes, number 1
+date: 2020-03-04 08:00:00
+tags:
+- diabetes
+
+---
+Hello. My name is Simon and I am 44 years old. Two and a half years ago, late in the summer of 2017, I was getting headaches. I was working hard and was feeling tired so initially I put the headaches down to just being busy with work, maybe even rundown. But the headaches continued, in regularity and also in intensity. I booked an appointment to see my doctor and went along.
+
+In October 2017 and November 2017 I had tests, mostly on blood but also on a number of other physical factors. The results that came back weren’t good.
+
+1. My cholesterol was high. 
+2. My blood sugar — at 50 mmol/mol — was also high, borderline diabetes territory. 
+3. At just over 15 stone (95 kilograms) I was _obese_.
+4. My blood pressure wasn’t great, but it wasn’t terrible either. But, as I was told, if this was a little higher because of the other results I’d be in big trouble.
+
+My doctor went through how I lived my life. I didn’t smoke. I drank alcohol. But I’d also spent the last six-or-so months cutting down on sugary and fatty foods. (Which is difficult in working environments where biscuits and CAKE are regularly shared.)
+
+My job wavered between days being mainly sat at my desk and days when I was flitting between meetings or workshops. I’d already — because there was the option to thanks to a mindful workplace — had been using a standing desk to try to balance the sitting days. I was also already doing physio work — to help my left leg after a bad ankle break the year before — so I could get running properly again.
+
+My Apple Watch had also been doing a decent job of nudging me to be active to a certain level every day.
+
+But there was work that could be done.
+
+My doctor decided to put me on statins to work on my cholesterol and see how that went. He also advised I was doing some good stuff already, but I need to push things on a little more. Things I could do: 
+
+1. Lose some weight.
+2. Manage my diet more. (Which is linked to the above.) 
+3. Cut my alcohol intake a bit.
+4. Keep an eye on my blood pressure.
+5. Up my exercise some to do at last 30 minutes of “higher level” exercise every week.
+
+Through 2018 I had to play a longer game, but make sure I went in to see the doctor again for a check up. I kept at the five points, trying to slide in “walking lunch breaks”, lowering how much alcohol I drank, being more mindful of what I ate and the amount I ate, and working on my ankle and legs (and making a start on running again, slowly and shortly). I got a Withings blood pressure monitor to do regular checks at home.
+
+I went for my first check up in June 2018 and rang up for my tests results. I was told over the phone I didn’t need to come in. _Everything is fine_ I told myself. I kept at it. My walking and running became easier as my leg and ankle got back to “normal”.
+
+Towards the end of the year I gave up alcohol and with my legs feeling steady I planned to run about 360 kilometres during 2019. I also added another pledge to try and get eight hours of sleep every night. I felt like I was making progress.
+
+By the middle of 2019 I hadn’t felt fitter for years and I went for my check up. I remember it too well. Sitting down the nurse asked me “So, we’re seeing how your diabetes is getting on, eh.” “I thought it was more the cholesterol,” I replied. The nurse looking at the screen told me “well, 55 is diabetes territory.” _55_? She showed me the screen. The test from the previous summer wasn’t fine: It had shown my blood sugar had got worse. When I phoned for their outcome of my tests the whole results weren’t on screen. The one that mattered the most was off screen, the one indicating — as I was seeing on screen now — I needed to come in wasn’t seen. For 12 months I’d been just living, doing all this stuff. Ah well, eh, it’s done. I was here for more tests. Let’s see where we are at.
+
+The tests came back with 44, a downwards trend from the 55 I’d alarmingly discovered days before. Phew. And my cholesterol was well down. My blood pressure was OK. My weight was down to 13 stone (82.5 kilograms). Just keep doing what you’re doing I was told. It was working.
+
+So we’re now about 8 months on. I had some tests in early February which came back with 49. 55 to 44 to 49. Disappointing. I thought I had this. When I saw the doctor last week he was pretty clear. “You’ve done everything you can. You are in really good shape for someone your age. It’s time to see how else we can help you.” He marked clearly onto my medical record — like changing my relationship status on Facebook — I have diabetes. “Someone should have done that a long time ago,” he said. He explained let’s get some starter tests done and then get me onto a drug and see if that helps. “It might just be for six months, it might be longer. But let’s see how we can help you.”
+
+Yesterday I went to see the diabetes nurse. I gave three vials of blood and peed into a tube. On Friday I’ll get a call. “We’ll chat then,” said the nurse. We’ll chat then.
