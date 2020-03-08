@@ -10,14 +10,14 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
-  new_doc_ext: ".markdown"
+  new_doc_ext: markdown
 - type: directory
   path: assets
   label: Assets
   create: all
   match: "**/*"
 upload_dir: uploads
-public_path: "/uploads"
+public_path: "/assets"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
