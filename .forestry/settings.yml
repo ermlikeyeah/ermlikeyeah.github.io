@@ -10,6 +10,7 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
+  new_doc_ext: ".markdown"
 - type: directory
   path: assets
   label: Assets
