@@ -6,7 +6,7 @@ tags:
 - diabetes
 
 ---
-[Previously I left off](https://www.ermlikeyeah.com/diabetes-2) feeling disappointed and uncertain having not been told the outcome of my test results on Friday as planned, having seen the diabetes nurse previously on Tuesday 3 March.
+[Previously I left off](https://www.ermlikeyeah.com/diabetes-number-2) feeling disappointed and uncertain having not been told the outcome of my test results on Friday as planned, having seen the diabetes nurse previously on Tuesday 3 March.
 
 Yesterday I remembered I could access my test results using SystmOnline, the system my GP practice uses.
 
