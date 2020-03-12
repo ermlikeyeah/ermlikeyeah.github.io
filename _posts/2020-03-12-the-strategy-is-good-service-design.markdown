@@ -30,7 +30,7 @@ At the moment I work on a digital product that helps NHS organisations recruit s
 * The strategy may be about delivery but…
 * What is the problem the service is trying to overcome?
 * What are the outcomes of the service?
-
+* What are our actions to to deal with this challenge?
 
 More staff to lower [staff shortages](https://www.kingsfund.org.uk/publications/closing-gap-health-care-workforce)? Better quality of staff overall within the NHS? Encourage the NHS to be a better employer, especially under the competitive pressure for staff from private care providers? What about the real end users of the NHS: Better health outcomes for the people who receive health advice, treatment and care from an NHS service? Would more staff improve access to services, say, raise satisfaction through better access to primary care services (like a GP)? ([In 2018](https://www.kingsfund.org.uk/publications/public-satisfaction-nhs-social-care-2018) public satisfaction with GP services was 63 per cent, the lowest level since surveying began in 1983.)
 
