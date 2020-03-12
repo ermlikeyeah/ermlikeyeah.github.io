@@ -42,14 +42,11 @@ As a recruitment service NHS Jobs sits in a position that is not uncommon in hea
 When you are a product within a service, why would your product be preferred over the alternatives?
 
 * Knowing what the product is: Vital.
-
 * Knowing what the product isn’t: Vital.
-
 * Knowing what the product could be: Vital.
-
 * Knowing what the product shouldn’t be: Vital.
 
-How much weight does carrying theNHS brand carry. Complacency of approach and execution and continual movement of the service isn’t permissible regardless of [_the brand_](https://www.england.nhs.uk/nhsidentity/why-its-important/). Public perception isn’t the same as employee perception here. You need users of this product, who stay using it.
+How much weight does carrying the NHS brand carry? Complacency of approach and execution and continual movement of the service isn’t permissible regardless of [_the brand_](https://www.england.nhs.uk/nhsidentity/why-its-important/). Public perception isn’t the same as employee perception here. You need users of this product, who stay using it.
 
 How do you _build_ your regular, your _committed_ user base? How do you _keep_ your user base regularly committed to your product?
 
