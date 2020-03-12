@@ -59,7 +59,7 @@ How do you _build_ your regular, your _committed_ user base? How do you _keep_ y
 
 What works for everyone? One, some or all of those? How do you design for that?
 
-This is _proper_ product territory. Just delivering _something_ isn’t just enough. It needs to work and work best compared to the alternatives. Being in tune with the wider picture gives a head start, understanding how your product can contribute, even create the positive outcomes expected by the users of your service as jobseekers and employers — and ultimately the end users of their healthcare service. That’s service design basically: It is the insight and the knowing it is working that makes good service design. Know the process and trust the process. Good service design is it works and it works well.
+This is _proper_ product territory. Just delivering _something_ isn’t just enough. It needs to work and work best compared to the alternatives. Being in tune with the wider picture, understanding how your product can contribute, even create the positive outcomes expected by the users of your service as jobseekers and employers — and ultimately the end users of their healthcare service. That’s service design basically. That makes good service design. Know the process and trust the process. Aim for good service design: The service works for its users and it works well for its users.
 
 That should be the outcome. That’s what I saw a lot of at _SD in Gov_: Good. Progress. Continually.
 
