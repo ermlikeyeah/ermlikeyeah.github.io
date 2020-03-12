@@ -41,11 +41,13 @@ As a recruitment service NHS Jobs sits in a position that is not uncommon in hea
 
 When you are a product within a service, why would your product be preferred over the alternatives?
 
-Knowing what the product is: Vital.
+* Knowing what the product is: Vital.
 
-Knowing what the product isn’t: Vital.
+* Knowing what the product isn’t: Vital.
 
-Knowing what the product could be: Vital.
+* Knowing what the product could be: Vital.
+
+* Knowing what the product shouldn’t be: Vital.
 
 How much weight does carrying theNHS brand carry. Complacency of approach and execution and continual movement of the service isn’t permissible regardless of [_the brand_](https://www.england.nhs.uk/nhsidentity/why-its-important/). Public perception isn’t the same as employee perception here. You need users of this product, who stay using it.
 
@@ -55,8 +57,8 @@ How do you _build_ your regular, your _committed_ user base? How do you _keep_ y
 * By giving employers the tools and guidance to do their existing processes, but _better_ (maybe through digital means too)?
 * By trying to disrupt their existing ways of working to _best practise_?
 
-What works for everyone? One, some or all of those?
+What works for everyone? One, some or all of those? How do you design for that?
 
-This is _proper_ product territory. Just delivering _something_ isn’t just enough. It needs to work and work best compared to the alternatives. Being in tune with the wider picture gives a head start, understanding how your product can contribute, even create the positive outcomes expected by the users of your service as jobseekers and employers — and ultimately the end users of their healthcare service. That’s service design basically. Good service design is it works for them.
+This is _proper_ product territory. Just delivering _something_ isn’t just enough. It needs to work and work best compared to the alternatives. Being in tune with the wider picture gives a head start, understanding how your product can contribute, even create the positive outcomes expected by the users of your service as jobseekers and employers — and ultimately the end users of their healthcare service. That’s service design basically: It is the insight and the knowing it is working that makes good service design. Know the process and trust the process. Good service design is it works for them.
 
-That should be the outcome. That’s what I saw a lot of at _SD in Gov_. Progress.
+That should be the outcome. That’s what I saw a lot of at _SD in Gov_: Good. Progress. Continually.
