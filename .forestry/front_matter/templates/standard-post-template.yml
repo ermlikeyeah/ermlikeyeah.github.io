@@ -15,3 +15,5 @@ fields:
 - type: list
   name: tags
   label: tags
+pages:
+- _posts/the-strategy-is-good-service-design.markdown
