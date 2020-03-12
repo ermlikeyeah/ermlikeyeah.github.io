@@ -17,7 +17,7 @@ A question I commonly ask or look for the answer to: _What is it you are designi
 Last week at _[Service Design in Government](https://2020.govservicedesign.net)_ the sessions I attended gave me a strong feel how organisations treated design against this scale and how _service design_ was seen and embraced within that.  
 There’s a scale for that as well: Is ‘service design’ a synonym for interaction design on a product or is it seen as the driver for organisational operations?
 
-The majority of examples at _SD in Gov_ expressed service designing is not just a long game, it’s the always way of working for good services, for better organisations. On my scale this felt mature. Hardly mention of _digital_ or _websites_ too. No “we use _service design_ on a project to _service design_ a new _service_ in three months and job done”, scrappily pulling together *the prototype* and _MVP4EVA!_. Heartening examples of organisations and businesses embracing _better services_, even good services. Service designing setting up, folding neatly into organisational design. It felt service design and service designers had found their place and their mood, working together, supplementing what the organisations and businesses (and the people within them) already do. To reiterate: It felt very… mature. _Trust the process._ 
+The majority of examples at _SD in Gov_ expressed service designing is not just a long game, it’s the always way of working for good services, for better organisations. On my scale this felt mature. Hardly mention of _digital_ or _websites_ too. No “We use _service design_ on a project to _service design_ a new _service_ in three months and job done”, scrappily pulling together *the prototype* and _MVP4EVA!_. Heartening examples of organisations and businesses embracing _better services_, even good services. Service designing setting up, folding neatly into organisational design. It felt service design and service designers had found their place and their mood, working together, supplementing what the organisations and businesses (and the people within them) already do. To reiterate: It felt very… mature. _Trust the process._ 
 
 At _SD in Gov_ there were many discussion around government services. So many public services exist in a position as the singular provider. There is no alternative.
 
@@ -30,6 +30,7 @@ At the moment I work on a digital product that helps NHS organisations recruit s
 * The strategy may be about delivery but…
 * What is the problem the service is trying to overcome?
 * What are the outcomes of the service?
+
 
 More staff to lower [staff shortages](https://www.kingsfund.org.uk/publications/closing-gap-health-care-workforce)? Better quality of staff overall within the NHS? Encourage the NHS to be a better employer, especially under the competitive pressure for staff from private care providers? What about the real end users of the NHS: Better health outcomes for the people who receive health advice, treatment and care from an NHS service? Would more staff improve access to services, say, raise satisfaction through better access to primary care services (like a GP)? ([In 2018](https://www.kingsfund.org.uk/publications/public-satisfaction-nhs-social-care-2018) public satisfaction with GP services was 63 per cent, the lowest level since surveying began in 1983.)
 
