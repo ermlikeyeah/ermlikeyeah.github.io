@@ -1,27 +1,25 @@
 ---
 layout: post
 title: Diabetes notes, number 4
-date: 2020-03-10T08:00:00.000+00:00
+date: 2020-03-12 15:45:00 +0000
 tags:
 - diabetes
 
 ---
-After expecting a follow-up call from the GP surgery’s diabetes nurse on Friday [I spent the weekend not knowing what is next](https://www.ermlikeyeah.com/diabetes-notes-number-2). I decided to wait until Monday and ring the GP surgery and just explain I’d been expecting a call on Friday, what do I do next?
+_Keeping doing the good things you are doing_ was the advice I was given [earlier this week](https://www.ermlikeyeah.com/diabetes-notes-number-4).
 
-Monday morning. Having done a lot of research around GP surgeries in my NHS Beta days I felt a little loathe to make this call, but I waited until later in the morning, 11am-ish. Avoid the rush of 8:30 callers looking for same-day appointments, avoid the people who avoid that rush, and call at a time when the receptionist is more likely to have a little breathing space.
+With my levels coming in at 51, up from last summer’s 44, something isn’t quite right with _the good stuff I am doing_. I need to have a look back over _the good stuff I am doing_ and see if I can do it better.
 
-Late yesterday I decided I was going to work from home just so I can make this I make the call, and do whatever was needed. Ahead of the call I’ve run through what I’ll say so I am super-clear and concise. The receptionist at the surgery says _Not a problem, I’ll ping the nurse a message. She’ll get back to you, maybe not today, but tomorrow at the latest._ OK OK. There is nothing more I can do. I’ve nudged. I get on with my day.
+Over the last two years I’ve already been pretty strict with sweets and treats. Over the last year my alcohol intake has been well down. I can’t really exercise much more than I am doing, maybe do some higher intensity running once on a while, but small fry. So I had a look at what I was still eating and drinking.
 
-Around 3:15pm my phone rings. It’s the surgery. I am walking back to the shed as it rings. I thought I’d be sat down working when it rang. I answer the phone as I close the door to the shed.
+After doing some reminding and research the day before on a train journey I spent some time writing out all the stuff I have tended to eat over the last three or four months. The thing here was to be honest with myself. It’s just between me and the iPad I was writing it out on.
 
-The nurse says _hi_ and explains that the test results are mostly good, generally OK. I am good health (which _everyone_ on this journey seems to say.) The nurse asks if the doctor has already got me onto some drugs for diabetes. I say no, I saw him a couple of weeks ago and he said to get these tests and work out the drugs from there.
+I had read about the glycemic index (GI) and dug into the GI value of everything on the list and started to do some dismissing, trying to stick to foods that were 50ish and under. Honesty with myself raised stuff like I eat a Toffee Crisp once in a while. Can I? Should I? Probably not. Gone.
 
-_Ah, well, there’s no rush. You’re showing 51 which is high blood sugar, definitely diabetic range, but isn’t terrible. Last summer you were at 44, good progress. There’s no rush. I suggest you keep doing all the good stuff you’re doing already and we check your blood again in three months._ 
+Breakfast got some scrutiny. I eat porridge just about every day. I need to go a little more careful with the overall portion. And dates? Man, they’re so tasty, but eating five or six of them on top of an already fruity porridge is going too far. I sometimes have a small glass of fruit juice, but that’s struck off now too.
 
-I am told I’ll be referred for a retinal test and to have my feet checked. I asked the nurse to repeat those so I could write them down, half so I checked it was _retinal_ not _rectum_.
+And so it went on.
 
-They’ll call me in three months to sort a blood test. And that’s it.
+I then reviewed the list. I’ve been trying to live off a lower carb intake so checked there was nothing on there that was too carborific. I also slid in some potential replacements if I knew of any. Potatoes have been a longer time avoidance, but sweet potatoes are alright. Pasta is a common carbs source: I’d been trying to eat less and when I do it is wholegrain pasta. Is it OK for me? Yes, but try to cook and eat it al dente.
 
-I put a note in my diary for three months’ time. _Three months on diabetes blood test_ just in case I don’t get that call. At some point I am going to get _something_ for the retinal (not rectum) test and feet check.
-
-Life, as it has done for the last year or so, goes on as it has done. Which is right. I immediately note it’s less than four weeks until the Manchester marathon — and I haven’t run for a few days, running being one of the things that has put me in _good health_. Time for a run.
+As an exercise it didn’t take me too long, good to take stock, and while the stuff I crossed off the list wasn’t massive, maybe those little changes will have a bigger effect, doing the good things better.
