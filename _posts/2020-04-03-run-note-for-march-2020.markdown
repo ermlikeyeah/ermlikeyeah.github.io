@@ -44,7 +44,7 @@ tags:
 * Injury + being housebound = FRUSTRATION.
 * Going for longer walks a bit more has been refreshing. I’ve spotted plenty of things I’ve missed when running, including some new paths, which could make handy running routes in the future.
 * Not doing as much running means does mean my weight has risen a little.
-* But also I was officially recognised as being diabetic — and my running has played a big part in helping manage that as much as I can. I just need to keep going.
+* But also I was officially recognised as [being diabetic](https://www.ermlikeyeah.com/diabetes-1) — and my running has played a big part in helping manage that as much as I can. I just need to keep going.
 * I was disappointed I didn’t finish the two books about running I was reading this time last month. I will make sure they’re both done by the end of the first week of April.
 
 ### What am I looking to do over the next month?
