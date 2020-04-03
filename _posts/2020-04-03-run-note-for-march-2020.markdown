@@ -9,8 +9,6 @@ tags:
 - month note
 
 ---
-# Run note for March 2020
-
 ### What did I set out to do in March?
 
 * A target of 210km for March. An average of 6.77km a day. Fine.
