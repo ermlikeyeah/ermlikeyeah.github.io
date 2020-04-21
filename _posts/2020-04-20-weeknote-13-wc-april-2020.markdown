@@ -6,7 +6,7 @@ tags: [weeknotes, 2020 weeknotes]
 ---
 This week I continued easing myself back into running after the best part of three weeks out with a leg injury. The nearby school has sports fields that are easily accessible and I’ve been using a pitch to run round and across, at steady paces. By the end of the week I’d trotted through 29 kilometres — at full fitness I usually aim for 40km so a surprisingly good haul. Feel free to follow me on [Strava](https://www.strava.com/athletes/41247532) where I record this stuff.
 
-I’ve been cycling indoors. I got a turbo trainer, the road bike is hooked into it, and I’m using Swift on the iPad to help makes things a bit more interesting. (Hook up with me on Zwift by connecting with [my profile](https://zwift.com/athlete/58d04352-984b-4336-b52c-efd7363692980).
+To help my running recovery I’ve been cycling indoors. I got a turbo trainer, the road bike is hooked into it, and I’m using Zwift on the iPad to help makes things a bit more interesting. Unless I am biking through Harrogate, which is a bit dull as courses go. Sorry, Yorkshire. Hook up with me on Zwift by connecting with [my profile](https://zwift.com/athlete/58d04352-984b-4336-b52c-efd7363692980).
 
 With the government’s restrictions on movement I have had to swap around my exercising so the dog has a walker in the evening. The bike ride in the morning has been a good wakener and the run in the early evening is a nice wind down into other evening things.
 
