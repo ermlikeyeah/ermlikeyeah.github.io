@@ -4,13 +4,13 @@ title: Weeknote, from Monday 13 to Sunday 19 April 2020
 date: '2020-04-20 08:00:00'
 tags: [weeknotes, 2020 weeknotes]
 ---
-This week I continued easing myself back into running after the best part of three weeks out with a leg injury. The nearby school has sports fields that are easily accessible and I’ve been using a pitch to run round and across, at steady paces. By the end of the week I’d trotted through 29 kilometres — at full fitness I usually aim for 40km so a surprisingly good haul. Feel free to hook up on [Strava](https://www.strava.com/athletes/41247532).
+This week I continued easing myself back into running after the best part of three weeks out with a leg injury. The nearby school has sports fields that are easily accessible and I’ve been using a pitch to run round and across, at steady paces. By the end of the week I’d trotted through 29 kilometres — at full fitness I usually aim for 40km so a surprisingly good haul. Feel free to follow me on [Strava](https://www.strava.com/athletes/41247532) where I record this stuff.
 
 I’ve been cycling indoors. I got a turbo trainer, the road bike is hooked into it, and I’m using Swift on the iPad to help makes things a bit more interesting. (Hook up with me on Zwift by connecting with [my profile](https://zwift.com/athlete/58d04352-984b-4336-b52c-efd7363692980).
 
 With the government’s restrictions on movement I have had to swap around my exercising so the dog has a walker in the evening. The bike ride in the morning has been a good wakener and the run in the early evening is a nice wind down into other evening things.
 
-Despite everything I finished reading [Running Man](https://www.goodreads.com/book/show/27274423-running-man) by Charlie Engle  and Meb Keflezighi’s autobiography [26 Marathons] (https://www.goodreads.com/book/show/37901578-26-marathons). I seem to be avoiding any worky books at the mo. Maybe 15 years of mainly worky books has earned me a bit of a break. Any recommendations for any particularly good audio books let me know. Non-fiction, biographies, seem to work well for me at the mo. And, yes, I’ve seen Audible has William Gibson’s Alien 3 screenplay as an audiobook. Woooo.
+Despite everything I finished reading [Running Man](https://www.goodreads.com/book/show/27274423-running-man) by Charlie Engle and Meb Keflezighi’s autobiography [26 Marathons](https://www.goodreads.com/book/show/37901578-26-marathons). I seem to be avoiding any worky books at the mo. Maybe 15 years of mainly worky books has earned me a bit of a break. Any recommendations for any particularly good audio books let me know. Non-fiction, biographies, seem to work well for me at the mo. And, yes, I’ve seen Audible has William Gibson’s Alien 3 screenplay as an audiobook. Woooo.
 
 I finished my slow crawl through the third season of [Ozark](https://www.imdb.com/title/tt5071412/), started [Devs](https://www.imdb.com/title/tt8134186/), continued [The Mandalorian](https://www.imdb.com/title/tt8111088/). Not one of those shows I have hurtled through. Ozark an episode a night mostly, The Mandalorian two every fortnight. It feels just a bit more... _wallowing_ that way.
 
