@@ -10,7 +10,7 @@ I’d got back to reading a book a week again, but last week? A chapter, maybe t
 
 What reading I managed I quite enjoyed [Rob Campbell’s blog posts](https://robcampbell.wordpress.com).
 
-I’ve found over the most recent years I’m a silent worker, not that keen on listening to music while I work. When I started off full time in work in 1998, different story: I could, say, put on Air’s Moon Safari and work away. But back then I used to get a chunk of a thing and a decent stretch of time to do it, so it’s the only thing that occupied my mind. Now? Way less time to delve.
+I’ve found over the most recent years I’m a silent worker, not that keen on listening to music while I work. When I started off full time in work in 1998, different story: I could, say, put on Air’s Moon Safari and work away. But back then I used to get a chunk of a thing and a decent stretch of time to do it, so it’s the only thing that occupied my mind. Now? Way less time to delve. The music just messes and meshes with my mind.
 
 Less travelling in the last six week and I found I have been collecting podcasts in the background to listen to later—  and never listening to them. I trimmed the number of podcasts I subscribe to. And tbh there’s only so many podcasts extolling design systems one can take. (Note: Big fan of design systems. Need less of the fandom. Need more the awkwardness around doing them.)
 
