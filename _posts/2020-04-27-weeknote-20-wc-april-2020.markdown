@@ -8,7 +8,7 @@ Where did that week go?
 
 I’d got back to reading a book a week again, but last week? A chapter, maybe two and that was it. Every day I went to the shed to work, I put out a copy of Wired and The Pursuit of Endurance (because I will finish it, yes!) in the hope I’d get 10 or 15 minutes here and there to read _something_. It was a busy working week, lots of jumping about from thing to thing, lots of jumping about from what I was doing from thing to thing. Work came first. Reading came a very distant second. I’ve saved up a few blog posts too. I promise myself I’ll give myself an hour in the first few days of the new week. (It was a good working week, although another week gone mean I am also aware the end of my contract on NHS Jobs is looming ever- sooner so should look a bit deeper for the next thing.)
 
-What reading I did managed I quite enjoyed [Rob Campbell’s blog posts](https://robcampbell.wordpress.com).
+What reading I managed I quite enjoyed [Rob Campbell’s blog posts](https://robcampbell.wordpress.com).
 
 I’ve found over the past years I’m a silent worker, not that keen on listening to music while I work. When I started off full time in work in 1998 I could, say, put on Air’s Moon Safari and work away. But back then I used to get a chunk of a thing and a decent stretch of time to do it, so it’s the only thing that occupied my mind. Now? Way less time to delve.
 
