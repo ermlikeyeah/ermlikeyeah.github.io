@@ -42,15 +42,13 @@ What’s my plan for May? Try to average 6km a day, but don’t worry about my p
 Thank you to everyone that dropped me messages and little bits of advice to help me through my running this month. It all helped.
 
 #### I watched
-Running For Good, about Fiona Oakes (on [Amazon Prime](https://www.amazon.co.uk/Running-Good-Fiona-Oakes/dp/B07L5RHNPY))
+* Running For Good, about Fiona Oakes (on [Amazon Prime](https://www.amazon.co.uk/Running-Good-Fiona-Oakes/dp/B07L5RHNPY))
 
 #### I read
-[Two Hours](https://www.goodreads.com/book/show/25111101-two-hours) by Ed Ceasar
 
-[Running Man](https://www.goodreads.com/book/show/27274423-running-man) by Charlie Engle
-
-Meb Keflezighi’s autobiography [26 Marathons](https://www.goodreads.com/book/show/37901578-26-marathons)
-
-[The Song of the Ungirt Runners](https://www.poetryfoundation.org/poems/45177/the-song-of-the-ungirt-runners)
+* [Two Hours](https://www.goodreads.com/book/show/25111101-two-hours) by Ed Ceasar
+* [Running Man](https://www.goodreads.com/book/show/27274423-running-man) by Charlie Engle
+* Meb Keflezighi’s autobiography [26 Marathons](https://www.goodreads.com/book/show/37901578-26-marathons)
+* [The Song of the Ungirt Runners](https://www.poetryfoundation.org/poems/45177/the-song-of-the-ungirt-runners)
 
 Stay safe.
