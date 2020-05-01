@@ -15,9 +15,11 @@ I left last month’s note ending _I’d be happy with whatever running I did in
 
 And this was the month I was supposed to do my first marathon, in Manchester.
 
-In the first ten days of April I only managed to run three times. The first two were more experiments to see how my recovery was going. The last of those three runs was the start of easing myself back into running.
+In the first ten days of April I only managed to run three times. The first two were more experiments to see how my recovery was going. [The last of those three runs](https://www.strava.com/activities/3278415617) was the start of easing myself back into running.
 
 Control control control: Steady as I can, don’t push it with speed or distance. Control control control: Steady, take stock, and go steady again.
+
+2.3km to start with. Can I handle another run the very next day? [1.4km](https://www.strava.com/activities/3285273019) says sort of. Let's try again the next day. [3.35km](https://www.strava.com/activities/3287969696) on the fields. This feel better. And onwards.
 
 Over the last 20 days of April I managed to run, at various slow speeds, 91.8km. Steady away. Control control control.
 
@@ -36,6 +38,8 @@ There was a couple of days I hit a wall and just jogged through, heavy legged, b
 Doing some indoor cycling most days has also helped out. Earlier in the month it kept me doing something physical. Later in the month it helped me get going in the mornings, and the running bookended my days. 296km of leg rotating to go with the running. Not bad.
 
 What’s my plan for May? Try to average 6km a day, but don’t worry about my pace. More steady away and see where it goes. Hopefully going into June planning might be a thing I can do more of, and with more than just running.
+
+Thank you to everyone that dropped me messages and little bits of advice to help me through my running this month. It all helped.
 
 #### I watched
 Running For Good, about Fiona Oakes (on [Amazon Prime](https://www.amazon.co.uk/Running-Good-Fiona-Oakes/dp/B07L5RHNPY))
