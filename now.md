@@ -5,7 +5,7 @@ permalink: /now/
 ---
 ## Work
 
-Currently I am mainly contracting as a service designer for [Difrent](//difrent.co.uk) on the NHS Jobs project at [NHS BSA](//www.nhsbsa.nhs.uk), until May 2020. I am [figuring out what I will be doing after that date](/work-note-2020-january/).
+Currently I am mainly contracting as a service designer for [Difrent](//difrent.co.uk) at [NHS BSA](//www.nhsbsa.nhs.uk) on the NHS Jobs project and Covid-19 responses, until May 2020. I am [figuring out what I will be doing after that date](/work-note-2020-january/).
 
 I write [week notes](/tags#weeknotes) which sometimes mention work and a more specific [monthly work note](/tags#work%20notes).
 
