@@ -1,12 +1,6 @@
 ---
 layout: page
 title: Now
-permalink: "/now/"
-
----
----
-layout: page
-title: Now
 permalink: /now/
 ---
 ## Work
