@@ -11,12 +11,7 @@ I write [week notes](/tags#weeknotes) which sometimes mention work and a more sp
 
 I coordinate the [Leeds gov design meets](/leedsgovdesign/), a regular meet-up for people in and around Leeds who are designing and making public services.
 
-My upcoming speaking engagements:
-
-* A public one, on accessible and inclusive products and services, at the next Product People North, Friday 15 May 2020
-* A private one, on my running adventures during 2019
-
-If you are interested in me doing a session at your place of work or event, please get in touch. If you have something specific in mind that is a good start too.
+I have no upcoming speaking engagements. [gGt in touch](/contact) if you would like me to do something. If you have something specific in mind that is a good start too.
 
 I currently have no spare time to take on any further "full time" mentoring. Sorry. Three people is as many as I can help at the mo. If you just need an hour to chat with someone about work I could squeeze something in though.
 
