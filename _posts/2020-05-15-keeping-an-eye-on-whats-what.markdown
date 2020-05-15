@@ -16,6 +16,6 @@ I set off into this year seeing if I could run 2000km. After the injury which ha
 
 I will need to be nudging 50km over a week continuously, so I included a seven day rolling total column. Insert column, sum from there to there, bingo. Keep an eye on that most recent number, Si. Data, usefully analysed and deployed.
 
-I have only been using the spreadsheet a year or so, but looking through the tabs each is a version, an iteration of how I keep and have kept ahem tabs on my monthly running. Month to month the approach is hardly ever the same, with tweaks and bigger changes.. The way I record things and work things out has changed over the last year or so, but it always helps what I needed at that moment in time. And again this morning it changed.
+I have only been using the spreadsheet a year or so, but looking through the tabs each is a version, an iteration of how I keep and have kept ahem tabs on my monthly running. Month to month the approach is hardly ever the same, with tweaks and bigger changes. The way I record things and work things out has changed over the last year or so, but it always helps what I needed at that moment in time. And again this morning it changed.
 
-Do you have a spreadsheet? [Here is mine](https://www.icloud.com/numbers/0cWhQqgPDF2FKXSnUdB79lWVw#running).
+Do you have a spreadsheet? [Here is mine](https://www.icloud.com/numbers/0cWhQqgPDF2FKXSnUdB79lWVw#running). It’s not perfect, it never will be, but it does whatever job it needs to.
