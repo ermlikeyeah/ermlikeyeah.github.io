@@ -18,4 +18,4 @@ I will need to be nudging 50km over a week continuously, so I included a seven d
 
 I have only been using the spreadsheet a year or so, but looking through the tabs each is a version, an iteration of how I keep and have kept ahem tabs on my monthly running. Month to month the approach is hardly ever the same, with tweaks and bigger changes. The way I record things and work things out has changed over the last year or so, but it always helps what I needed at that moment in time. And again this morning it changed.
 
-Do you have a spreadsheet? [Here is mine](https://www.icloud.com/numbers/0cWhQqgPDF2FKXSnUdB79lWVw#running). It’s not perfect, it never will be, but it does whatever job it needs to.
+Do you have a spreadsheet? [Here is mine](https://www.icloud.com/numbers/0cWhQqgPDF2FKXSnUdB79lWVw#running). It’s not perfect, it never will be, but it does whatever job it needs to, to keep me running.
