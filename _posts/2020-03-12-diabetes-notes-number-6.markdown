@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Diabetes notes, number 5
+title: Diabetes notes, number 6
 date: 2020-03-12T15:45:00.000+00:00
 tags:
 - diabetes
