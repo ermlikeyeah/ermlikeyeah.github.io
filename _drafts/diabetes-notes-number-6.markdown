@@ -6,20 +6,14 @@ tags:
 - diabetes
 
 ---
-_Keeping doing the good things you are doing_ was the advice I was given [earlier this week](https://www.ermlikeyeah.com/diabetes-notes-number-4).
+This morning my phone reminded me I need to sort my “three months on blood test”. It’s been nearly three months since my last few diabetes notes, when I documented the days after being told I was “officially” diabetic. I had been told to keep doing what I was doing and see where it goes.
 
-With my levels coming in at 51, up from last summer’s 44, something isn’t quite right with _the good stuff I am doing_. I need to have a look back over _the good stuff I am doing_ and see if I can do it better.
+I decided [back then](https://www.ermlikeyeah.com/diabetes-notes-number-5/) I’d also push things a bit, cutting out things like the occasional Toffee Crisp, dates from my morning porridge, little tweaks like wholemeal versions of stuff like pasta whenever possible (and moderate how much I have). I’ve stayed true to that. And despite a leg injury shortly after my last note I’ve been static cycling to help me keep exercising and the last month I have been fully back to running most days (218km in May was a good haul). I’ve become more of a grazer and there are some afternoons where I have struggled to focus, and found it’s because I haven’t had a little snack or drink for several hours. Little, often.
 
-Over the last two years I’ve already been pretty strict with sweets and treats. Over the last year my alcohol intake has been well down. I can’t really exercise much more than I am doing, maybe do some higher intensity running once on a while, but small fry. So I had a look at what I was still eating and drinking.
+A few weeks back I’d done another blood test, albeit one for Thriva not through my doctor’s surgery. It’d been a couple of months of working from home. I’d put on a little (and it is a little) weight, generally I felt OK, but I wondered if the shift had any other effects. As part of that test I also got back results of my haemoglobin A1c levels. Three months back I “scored” 51. A couple of months on I was now at 42. (I’ve been recording the results from all tests [here](https://www.icloud.com/numbers/02wb223nySZ6XmUED4XcJQWzw#blood).) Cause for further optimism.
 
-After doing some reminding and research the day before on a train journey I spent some time writing out all the stuff I have tended to eat over the last three or four months. The thing here was to be honest with myself. It’s just between me and the iPad I was writing it out on.
+I was told three months back I’d be referred for a retinal test and a feet check. I’ve heard nothing back yet, but then a few weeks after my appointment with the nurse the coronavirus situation worsened massively. I’m not concerned. It just makes me wonder if there is a growing pile of appointments like mine that will need sorting... whenever they can be.
 
-I had read about the [glycemic index](https://www.nhs.uk/common-health-questions/food-and-diet/what-is-the-glycaemic-index-gi/) (GI) and dug into the GI value of everything on the list and started to do some dismissing, trying to stick to foods that were 50ish and under. Honesty with myself raised stuff like I eat a Toffee Crisp once in a while. Can I? Should I? Probably not. Gone.
+So now, with this morning’s alert, I am just waiting for the call for me to go in and have my blood taken. When in the current climate? I don’t know. My doctor’s surgery have been really good on a couple of occasions over the last couple of months. An example: My annual asthma check up was due. I got a call from a nurse at the surgery, who checked I was OK, asked how and when I was taking my inhalers, was sorry they were doing it over the phone, but I won’t get out of my peak flow test, it’ll just be later. At least I had the Thriva test, I could afford to have the Thriva test to rest my mind.
 
-Breakfast got some scrutiny. I eat porridge just about every day. I need to go a little more careful with the overall portion. And dates? Man, they’re so tasty, but eating five or six of them on top of an already fruity porridge is going too far. I sometimes have a small glass of fruit juice to go with breakfast, but that’s [struck off now](https://www.diabetes.co.uk/food/juice-and-diabetes.html) too.
-
-And so it went on.
-
-I then reviewed the list. I’ve been trying to live off a lower carb intake so checked there was nothing on there that was too carborific. I also slid in some potential replacements if I knew of any. Potatoes have been a longer time avoidance, but sweet potatoes are alright. Pasta is a common carbs source: I’d been trying to eat less and when I do it is wholegrain pasta. Is it OK for me? Yes, but try to cook and eat it al dente. A sweep of the list done, all done.
-
-As an exercise it didn’t take me too long, good to take stock, and while the stuff I crossed off the list wasn’t massive, maybe those little changes will have a bigger effect, doing the good things better.
+In the meantime, keep on keeping on. It seems to be doing the job.
