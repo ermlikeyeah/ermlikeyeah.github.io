@@ -6,7 +6,7 @@ permalink: "/now/"
 ---
 ## Work
 
-I have left my studio head and board room life behind and these days work as a freelancer, usually doing service or product work (usually designing), eulogising-through-coaching agile ways of working, _sometimes_ helping look at operations stuff.
+I have left my studio head and board room life behind and these days work as a freelancer, usually doing service or product work (usually designing), eulogising-through-soft-coaching agile ways of working, _sometimes_ helping look at operations stuff.
 
 Currently I am mainly contracting as a service designer for [Difrent](//difrent.co.uk) at [NHS BSA](//www.nhsbsa.nhs.uk) on the new NHS Jobs and Covid-19 responses, until the summer 2020. I am [figuring out what I will be doing after that date](/work-note-2020-january/).
 
