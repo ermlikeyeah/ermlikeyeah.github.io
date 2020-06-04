@@ -6,6 +6,8 @@ permalink: "/now/"
 ---
 ## Work
 
+I have left my studio head and board room life behind and these days work as a freelancer, usually doing service or product work (usually designing), eulogising agile ways of working, _sometimes_ helping look at operations stuff.
+
 Currently I am mainly contracting as a service designer for [Difrent](//difrent.co.uk) at [NHS BSA](//www.nhsbsa.nhs.uk) on the new NHS Jobs and Covid-19 responses, until the summer 2020. I am [figuring out what I will be doing after that date](/work-note-2020-january/).
 
 I write [week notes](/tags#weeknotes) which sometimes mention work and a more specific [monthly work note](/tags#work%20notes).
@@ -14,9 +16,9 @@ I coordinate the [Leeds gov design meets](/leedsgovdesign/), a regular meet-up f
 
 I have no upcoming speaking engagements. [Get in touch](/contact) if you would like me to do something. If you have something specific in mind that is a good start too.
 
-I offer up time to mentor through Mega Mentor. Check out [their website](https://mega-mentor.com) and the other mentors too.
+I offer up time to mentor through Mega Mentor. Do you need a mentor? Could you be a mentor? Check out [the Mega Mentor website](https://mega-mentor.com) and all the mentors offering their time.
 
-If you are interested in how I can help you or your organisation please [get in touch](/contact).
+If you think I might be able to help you or your organisation please [get in touch](/contact).
 
 ## Non-work
 
