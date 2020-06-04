@@ -14,7 +14,7 @@ I coordinate the [Leeds gov design meets](/leedsgovdesign/), a regular meet-up f
 
 I have no upcoming speaking engagements. [Get in touch](/contact) if you would like me to do something. If you have something specific in mind that is a good start too.
 
-I offer up time to mentor through [Mega Mentor](https://mega-mentor.com). Check out their website and the other mentors too.
+I offer up time to mentor through Mega Mentor. Check out [their website](https://mega-mentor.com) and the other mentors too.
 
 If you are interested in how I can help you or your organisation please [get in touch](/contact).
 
