@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Now
-permalink: /now/
+permalink: "/now/"
+
 ---
 ## Work
 
-Currently I am mainly contracting as a service designer for [Difrent](//difrent.co.uk) at [NHS BSA](//www.nhsbsa.nhs.uk) on the new NHS Jobs and Covid-19 responses, until May 2020. I am [figuring out what I will be doing after that date](/work-note-2020-january/).
+Currently I am mainly contracting as a service designer for [Difrent](//difrent.co.uk) at [NHS BSA](//www.nhsbsa.nhs.uk) on the new NHS Jobs and Covid-19 responses, until the summer 2020. I am [figuring out what I will be doing after that date](/work-note-2020-january/).
 
 I write [week notes](/tags#weeknotes) which sometimes mention work and a more specific [monthly work note](/tags#work%20notes).
 
@@ -13,7 +14,7 @@ I coordinate the [Leeds gov design meets](/leedsgovdesign/), a regular meet-up f
 
 I have no upcoming speaking engagements. [Get in touch](/contact) if you would like me to do something. If you have something specific in mind that is a good start too.
 
-I currently have no spare time to take on any further "full time" mentoring. Sorry. Three people is as many as I can help at the mo. If you just need an hour to chat with someone about work I could squeeze something in though.
+I offer up time to mentor through [Mega Mentor](https://mega-mentor.com).
 
 If you are interested in how I can help you or your organisation please [get in touch](/contact).
 
@@ -21,17 +22,16 @@ If you are interested in how I can help you or your organisation please [get in 
 
 In my free time I:
 
-1. am a dad
-2. [run](https://www.strava.com/athletes/41247532)
-3. watch films and sometimes get to watch TV programmes
-4. [read](https://www.goodreads.com/user/show/4156043-si-wilson)
-5. do gardening
-6. walk the dog
-7. help teach service design at [Leeds Service Jams](//gsjleeds.wordpress.com) and [Leeds GovJams](//leedsgovjam.wordpress.com/)
-8. guide young people to design and make with code and technology at [Bradford CoderDojo](//bradford-coderdojo.github.io)
-9. am a part-time lecturer on design and communication at Leeds Beckett university
-10. write posts on [my blog](/all-posts/)
-11. still support Grimsby Town Football Club
-12. try to follow Brooklyn Nets, despite the five hour time difference
+ 1. am a dad
+ 2. [run](https://www.strava.com/athletes/41247532)
+ 3. watch films and sometimes get to watch TV programmes
+ 4. [read](https://www.goodreads.com/user/show/4156043-si-wilson)
+ 5. do gardening
+ 6. walk the dog
+ 7. help teach service design at [Leeds Service Jams](//gsjleeds.wordpress.com) and [Leeds GovJams](//leedsgovjam.wordpress.com/)
+ 8. guide young people to design and make with code and technology at [Bradford CoderDojo](//bradford-coderdojo.github.io)
+9. write posts on [my blog](/all-posts/)
+10. still support Grimsby Town Football Club
+11. try to follow Brooklyn Nets, despite the five hour time difference
 
-<a href="/past/" class="more-link">What I have done in the past &rarr;</a>
+<a href="/past/" class="more-link">What I have done in the past →</a>
