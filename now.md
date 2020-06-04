@@ -14,7 +14,7 @@ I coordinate the [Leeds gov design meets](/leedsgovdesign/), a regular meet-up f
 
 I have no upcoming speaking engagements. [Get in touch](/contact) if you would like me to do something. If you have something specific in mind that is a good start too.
 
-I offer up time to mentor through [Mega Mentor](https://mega-mentor.com).
+I offer up time to mentor through [Mega Mentor](https://mega-mentor.com). Check out their website and the other mentors too.
 
 If you are interested in how I can help you or your organisation please [get in touch](/contact).
 
@@ -30,7 +30,7 @@ In my free time I:
  6. walk the dog
  7. help teach service design at [Leeds Service Jams](//gsjleeds.wordpress.com) and [Leeds GovJams](//leedsgovjam.wordpress.com/)
  8. guide young people to design and make with code and technology at [Bradford CoderDojo](//bradford-coderdojo.github.io)
-9. write posts on [my blog](/all-posts/)
+ 9. write posts on [my blog](/all-posts/)
 10. still support Grimsby Town Football Club
 11. try to follow Brooklyn Nets, despite the five hour time difference
 
