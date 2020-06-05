@@ -9,8 +9,7 @@ tags:
 - month note
 
 ---
-
-Coming into the month I felt my leg was better following injury but not best. I’d notched up 94km of running in April, to take my annual total to 500km. Most of that running came in the last three weeks of the month. My leg felt solid enough to keep going out and keep pushing on through May. So I did. My plan for May didn’t have a distance target in mind, more try to average 6km a day. See how May goes, pick up from there.
+Coming into the month I felt my leg was better following injury but not best. I’d notched up 94km of running [in April](/run-note-for-april-2020/), to take my annual total to 500km. Most of that running came in the last three weeks of the month. My leg felt solid enough to keep going out and keep pushing on through May. So I did. My plan for May didn’t have a distance target in mind, more try to average 6km a day. See how May goes, pick up from there.
 
 Day after day I went out. 31 days in May, 28 days I ran, just 3 days off. Get out, get on. Most days I aimed for between 6 and 7km. It was going OK. Some days were slower than others, some days because my legs felt a little tighter than before, others because I was trying to make sure I kept it steady overall. But there were days where I was just moving along, like a needle in the groove of a record, just steadily moving forward.
 
