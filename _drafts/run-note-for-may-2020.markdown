@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Run note for April 2020
-date: 2020-05-01T17:20:00.000+00:00
+title: Run note for May 2020
+date: 2020-06-05 11:40:00 +0000
 tags:
 - running
 - run notes
@@ -9,46 +9,31 @@ tags:
 - month note
 
 ---
-A very long month with all the work on. A very long month not helped with my running hampered, coming into the month in the middle of a three week stint out due to a leg injury.
 
-I left last month’s note ending _I’d be happy with whatever running I did in the end, whenever I start again, however much I get to do_.
+Coming into the month I felt my leg was better following injury but not best. I’d notched up 94km of running in April, to take my annual total to 500km. Most of that running came in the last three weeks of the month. My leg felt solid enough to keep going out and keep pushing on through May. So I did. My plan for May didn’t have a distance target in mind, more try to average 6km a day. See how May goes, pick up from there.
 
-And this was the month I was supposed to do my first marathon, in Manchester.
+Day after day I went out. 31 days in May, 28 days I ran, just 3 days off. Get out, get on. Most days I aimed for between 6 and 7km. It was going OK. Some days were slower than others, some days because my legs felt a little tighter than before, others because I was trying to make sure I kept it steady overall. But there were days where I was just moving along, like a needle in the groove of a record, just steadily moving forward.
 
-In the first ten days of April I only managed to run three times. The first two were more experiments to see how my recovery was going. [The last of those three runs](https://www.strava.com/activities/3278415617) was the start of easing myself back into running.
+In April I found the fields at the local school had a number of pitches in them, handy to do circuits round. And that’s pretty much what I did all of May, lap after lap after lap of a pitch. (Or sometimes two pitches, to spice things up, y’know.)
 
-Control control control: Steady as I can, don’t push it with speed or distance. Control control control: Steady, take stock, and go steady again.
+Halfway through the month the legs felt alright. No tweaks, no twinges. I was making solid progress, at about 120km by the halfway point of the month. I was mixing up my running shoes too. Just keep going like this is all I needed.
 
-2.3km to start with. Can I handle another run the very next day? [1.4km](https://www.strava.com/activities/3285273019) says sort of. Let's try again the next day. [3.35km](https://www.strava.com/activities/3287969696) on the fields. This feel better. And onwards.
+I then read about the [Great Virtual Race Across Tennessee](https://runsignup.com/Race/TN/Memphis/TheGreatVirtualRaceAcrossTennessee1000K)... Run 1000km over May, June, July and August. 250km a month. _Interesting._ But if I start now I’d be two weeks down, I’d have to spread 125km over the remaining three-and-a-half months. I’d need to run about 9.5km a day, and for three months hit something like 300km of running in each of them. Hmmmm... Sure, why not. Let’s give it a go.
 
-Over the last 20 days of April I managed to run, at various slow speeds, 91.8km. Steady away. Control control control.
+I tried to ease myself in, try 9 to 10km days, have the lighter days and the odd rest days. Build up steadily. I got in about 110km in those 17 days, but a few longer runs. It left me a little behind on the road to the 1000km challenge, but ahead on doing 200km this year. I feel I can notch up those “lost” kilometres over the coming months — or have a good attempt to. I am pretty sure I won’t hit 1000km, but it’s a good ambitious target to try for. And I am enjoying seeing my virtual progress. The GVRAT tracker allows me to see how far along the route I am, which is a nice touch.
 
-Week 1 (five days): 3.1km (0.62km a day)
-Week 2: 7km (1km a day)
-Week 3: 29km (4.1km a day)
-Week 4: 39km (5.6km a day)
-Week 5 (four days): 16.8km (4.2km a day)
+I stopped cycling for most of the last two weeks of May to help my body get into 9 to 10km days. But I’ll be back on the bike early in June. Cycling has helped. I don’t want to lose that assistance.
 
-I passed 500km for the year with a [5km run on the last day of the month](https://www.strava.com/activities/3376380678). A very satisfying return, and — in the later days of the month as I got in [7.5km](https://www.strava.com/activities/3349929383) and [11km](https://www.strava.com/activities/3354878046) days, distances I’d taken for granted a couple of months ago — an emotional one. It has been a bit of a battering month in so many ways.
+I used the last day of the month to go for [my first venture](https://www.strava.com/activities/3539898760) back along the trails and paths near and long the canal — and in my Hoka One One Cliftons too, much neglected in my many day of many laps of pitches. At some point going round and round the pitches will be lessened so this was a nice warm up. It was nice to get back out into the woods, over the fields, along the water road, and with not too many people out too.
 
-I have not been running the canal paths or streets, instead heading out to the local sport fields and doing laps of the pitches, and not just because of Covid-19. These sessions helped massively, the fear at the back of my mind my leg might give in again. I could be in control. A problem? Just stop the lap, head home. Better to be going round and round close to home than schlepping along the canal and having to limp up to the main road. With the lockdown the emptiness of the school grounds and the seemingly softer mud ground made a good space to run and to think through some stuff (which was mostly work).
+For June I am aiming for 300km of running. 10km a day on average. 70km a week. Crack 1000km for the year by the end of the month. Sheeeeesh! Steady away, eh!
 
-There was a couple of days I hit a wall and just jogged through, heavy legged, but there was no pressure. I could give up any time, but I kept going, slowly, in control. Maintain this course.
+I watched
 
-Doing some indoor cycling most days has also helped out. Earlier in the month it kept me doing something physical. Later in the month it helped me get going in the mornings, and the running bookended my days. 296km of leg rotating to go with the running. Not bad.
+* [A Mile an Hour](https://www.youtube.com/watch?v=EvT5XS7j-Dc), a short fun film about doing a marathon in a day, by doing a mile every hour and other stuff in between.
 
-What’s my plan for May? Try to average 6km a day, but don’t worry about my pace. More steady away and see where it goes. Hopefully going into June planning might be a thing I can do more of, and with more than just running.
+I read
 
-Thank you to everyone that dropped me messages and little bits of advice to help me through my running this month. It all helped.
+* I finished [The Pursuit of Endurance](https://www.goodreads.com/en/book/show/35879295). Took a while.
 
-#### I watched
-* Running For Good, about Fiona Oakes (on [Amazon Prime](https://www.amazon.co.uk/Running-Good-Fiona-Oakes/dp/B07L5RHNPY))
-
-#### I read
-
-* [Two Hours](https://www.goodreads.com/book/show/25111101-two-hours) by Ed Ceasar
-* [Running Man](https://www.goodreads.com/book/show/27274423-running-man) by Charlie Engle
-* Meb Keflezighi’s autobiography [26 Marathons](https://www.goodreads.com/book/show/37901578-26-marathons)
-* [The Song of the Ungirt Runners](https://www.poetryfoundation.org/poems/45177/the-song-of-the-ungirt-runners)
-
-Stay safe.
+Feel free to [follow me on Strava](https://www.strava.com/athletes/41247532).
