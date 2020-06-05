@@ -25,13 +25,17 @@ I stopped cycling for most of the last two weeks of May to help my body get into
 
 I used the last day of the month to go for [my first venture](https://www.strava.com/activities/3539898760) back along the trails and paths near and long the canal — and in my Hoka One One Cliftons too, much neglected in my many day of many laps of pitches. At some point going round and round the pitches will be lessened so this was a nice warm up. It was nice to get back out into the woods, over the fields, along the water road, and with not too many people out too.
 
+Running total for May 2020: 218.5km
+
+Running total so far for 2020: 718.8km
+
 For June I am aiming for 300km of running. 10km a day on average. 70km a week. Crack 1000km for the year by the end of the month. Sheeeeesh! Steady away, eh!
 
-I watched
+#### I watched
 
 * [A Mile an Hour](https://www.youtube.com/watch?v=EvT5XS7j-Dc), a short fun film about doing a marathon in a day, by doing a mile every hour and other stuff in between.
 
-I read
+#### I read
 
 * I finished [The Pursuit of Endurance](https://www.goodreads.com/en/book/show/35879295). Took a while.
 
