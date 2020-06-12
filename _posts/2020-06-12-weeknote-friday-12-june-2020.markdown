@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Weeknote, Monday 20 to Friday 12 June 2020
+title: Weeknote, Monday 8 to Friday 12 June 2020
 date: 2020-06-12 17:00:00 +0000
 tags:
 - weeknotes
@@ -18,5 +18,6 @@ tags:
 * Listening to [Chaos Monkeys](https://www.goodreads.com/book/show/28259132-chaos-monkeys) at the mo. There's a bit when they first go into Y-Combinator Jessica Livingston gets a mention, and reminded me it's a good ten summers since I read [Founders at Work: Stories of Startups' Early Days](https://www.goodreads.com/book/show/98233.Founders_at_Work). One of _those business books_, but at the time opened my eyes more to the things that went and go wrong with businesses as much as things that went and they did “right”. Less about looking good, PR hue; More about keeping it real. Also reminded a lot of business problems, maybe most business problems, when they are not cashflow problems are people problems.
 * I spent a lot of time looking through the [Black History and Culture](https://artsandculture.google.com/project/black-history-and-culture) part of Google's Arts &amp; Culture. Didn't feel I got anywhere near the end either, which is good. More to take in.
 * [Sweet post on _behaviour modes_](https://digitalblog.coop.co.uk/2020/06/08/were-using-behaviour-modes-to-keep-users-at-the-centre-of-decisions/) from the Co-op Digital team.
+* Still cannot get past what feels like the first boss in [Control](https://en.wikipedia.org/wiki/Control_(video_game)). Feel I am close to doing what kids do: Watch a walkthrough video on YouTube.
 * Reminder: I need to take some time out to do an virutal gallery or museum or something tour.
 * It's the time of year the scent of elderflower hangs in the air. Enjoy it while it's there.
