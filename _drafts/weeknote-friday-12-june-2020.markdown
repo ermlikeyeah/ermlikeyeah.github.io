@@ -1,30 +1,22 @@
 ---
 layout: post
-title: Weeknote, from Monday 20 to Sunday 26 April 2020
-date: 2020-04-27 17:00:00
+title: Weeknote, Monday 20 to Friday 12 June 2020
+date: 2020-06-12 17:00:00 +0000
 tags:
 - weeknotes
 - 2020 weeknotes
 
 ---
-Where did that week go?
-
-I’d got back to reading a book a week again, but last week? A chapter, maybe two and that was it. Every day I went to the shed to work, I put out a copy of Wired and The Pursuit of Endurance (because I will finish it, yes!) in the hope I’d get 10 or 15 minutes here and there to read _something_. It was a busy working week, lots of jumping about from thing to thing, lots of jumping about from what I was doing from thing to thing. Work came first. Reading came a very distant second. I’ve saved up a few blog posts too. I promise myself I’ll give myself an hour in the first few days of the new week. (It was a good working week, although another week gone mean I am also aware the end of my contract on NHS Jobs is looming ever- sooner so should look a bit deeper for the next thing.)
-
-What reading I managed I quite enjoyed [Rob Campbell’s blog posts](https://robcampbell.wordpress.com).
-
-I’ve found over the most recent years I’m a silent worker, not that keen on listening to music while I work. When I started off full time in work in 1998, different story: I could, say, put on Air’s Moon Safari and work away. But back then I used to get a chunk of a thing and a decent stretch of time to do it, so it’s the only thing that occupied my mind. Now? Way less time to delve. The music just messes and meshes with my mind.
-
-Less travelling in the last six week and I found my phone has been collecting podcasts in the background to listen to later — and never listening to them. I trimmed the number of podcasts I subscribe to. And tbh there’s only so many podcasts extolling design systems one can take. (Note: Big fan of design systems. Need less of the fandom. Need more the awkwardness around doing them.)
-
-I took the weekend off from work. Offered some “If you need help”s to a couple of people but other than that I managed to slink away to the house, the garden and get some running in. Sorting one of the planting beds (mainly lifting bind weed roots which is strangely satisfying, like a shit form of archeology) a little robin kept coming by, to feed, but also so close to touch. [Dave Beckitt observed on Twitter](https://twitter.com/DavidBeckitt/status/1254398074899832832) "Anybody else noticing a lot more garden birds this year?” Yes, but still some way before I have birds on my fingers like Snow White.
-
-Installed Return of the Obra Dinn on my MacBook. The 1 bit graphic style is lovely and the detail in the characters on the ship is unexpectedly crisp given the influence of the resolution. I’ve played it for just over an hour and it’s sort of fun weaving in and out of the narrative in a non-linear way, revealing “evidence”, poking up clues, and trying to piece it together, but the mechanic of exploring is getting repetitive already. Maybe it works best in short bursts.
-
-Got down to one episode of Devs and The Mandalorian left, so had a few minutes to tap out a list of the shows I got into and then sort of didn’t finish (hello, Luke Cage), ones I want to watch (The Young Pope), and um that’s it.
-
-Watched Birds of Prey with the kids. Surprisingly fun for an “adult” comic book film, sweary, violent in places, but has literal knowing winks. Ali Wong’s outfit too, oh yes.
-
-Finishing the week with 39km of running done. I said [earlier this year](https://www.ermlikeyeah.com/2019-running/) start with loops, and I’ve taken my own advice getting myself back after the injury. Covd-19 might have played a part in my thinking, but looking to the sports pitches of the school nearby was a handy move. No lockdown and I would have been looking to the flats of the cannal path. Maybe it’s also a confidence thing: What if my leg borks again? At least I’ll always be close to home to hobble back. But it’s actually quite pleasant on the green fields, on the edge of the farmland and woodland that rolls down to the canal. I put my drink bottle down at a corner of a pitch and set off following the boundary lines as I run.
-
-As I finished Sunday’s run, getting that much running in for the week gave me a sense of happiness, being _back_; But writing now I also hold a little apprehension. It’s taken a lot of patience and some steady steady steady work to get back to something faster than a slow jog and a distance like 10km, holding back how far I go, holding back how fast I go. But that holding back will help me longer term. I don’t want want to lose that control and suffer another breakdown. For a while longer I need to keep that restraint. Slower now for stronger later.
+* I have had some unexpected but welcome thinking this week. I was reminded I try to work as openly as possible. Why haven't I been? I had a look through my guiding principles for work. I'll give them a dust over and share them. Maybe publishing quick end-of-week notes again will help.
+* I found half an hour to finish building a Lego City set that had been lurking lurking in the shed for the last few months. I'm not the biggest fan of the seemingly default design workshop _Let's Break Out The Lego!_ approach, but that doesn't mean I don't like Lego. I've a lot of the City stuff in the shed... I like the time away, to myself to build a set. Anyway, was reminded just how excellent the building instructions are for Lego sets. Something in this for all fans and dissers of documentation.
+* Hancock mentioning "world class" again is starting to get on my whick. What even does that mean? Standards, ones that uphold the idea of something -- especially a public service -- being _good enough for all who use and will use the service_ I am all for. But the Cvoid-19 service (or services even) just need _to work_, _to work well_.
+* I started wearing a FreeStyle Libre sensor this week. More in [my latest diabetes note](https://www.ermlikeyeah.com/diabetes-notes-number-7/).
+* I am looking forward to running again this weekend. I was trying to run 70km this week. The last couple of days paused that. I am at the 30km point. I was enjoying a run early in the morning and a run at the end of the day. Two 5km jaunts. One woke me up. The other helped me wind down. Felt good on the legs too. See what I can do tomorrow and Sunday. 
+* The boy has followed up learning Python by asking for an Arduino. I caved in quite easily and got him him one. [The starter kit from Pimoroni](https://shop.pimoroni.com/products/arduino-starter-kit-1) is pretty neat. I got myself some kit to use one of the older Pis as a weather station, feed the data from the shed into the wider world. I resisted getting a [Picade kit](https://shop.pimoroni.com/products/picade-console).
+* Took in some more of Luke Cage season two. Some of its best scenes are less about the muscular action but the pains of recollection. I don't mind it is spread over 13 epsiodes. Having 13 episodes allows you to write those scenes. Go along for the journey, not to get to the destination. 
+* Watched [Booksmart](https://www.imdb.com/title/tt1489887/) (on Amazon Prine Video at the mo) and afterwards was why oh why didn't I make the effort to see it at the cinema. So so good. [The Gentlemen](https://www.imdb.com/title/tt8367814/), Guy Ritchie's return to gangster land, is OK. An Arsenal game provides an unexpected pivotal plot point.
+* Listening to [Chaos Monkeys](https://www.goodreads.com/book/show/28259132-chaos-monkeys) at the mo. There's a bit when they first go into Y-Combinator Jessica Livingston gets a mention, and reminded me it's a good ten summers since I read [Founders at Work: Stories of Startups' Early Days](https://www.goodreads.com/book/show/98233.Founders_at_Work). One of _those business books_, but at the time opened my eyes more to the things that went and go wrong with businesses as much as things that went and they did “right”. Less about looking good, PR hue; More about keeping it real. Also reminded a lot of business problems, maybe most business problems, when they are not cashflow problems are people problems.
+* I spent a lot of time looking through the [Black History and Culture](https://artsandculture.google.com/project/black-history-and-culture) part of Google's Arts &amp; Culture. Didn't feel I got anywhere near the end either, which is good. More to take in.
+* [Sweet post on _behaviour modes_](https://digitalblog.coop.co.uk/2020/06/08/were-using-behaviour-modes-to-keep-users-at-the-centre-of-decisions/) from the Co-op Digital team.
+* Reminder: I need to take some time out to do an virutal gallery or museum or something tour.
+* It's the time of year the scent of elderflower hangs in the air. Enjoy it while it's there.
