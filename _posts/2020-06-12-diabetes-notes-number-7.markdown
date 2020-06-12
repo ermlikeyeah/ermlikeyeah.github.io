@@ -13,16 +13,20 @@ In the days after publishing that post I recognised an increasing pattern of fee
 Sleep? At worst I have been getting six hours, at best eight hours, usually it is about seven hours. Not _too_ bad.
 
 Maybe it is my diet.
-      
+
 Was I skipping lunch? No. Sometimes I was having closer to 2pm than 12pm.
 
 Was I having small or large lunches? Nothing small, but not huge.
 
 Was I having regular sups of drinks through the day? I thought I was. (And I limit myself to two coffees and no more after lunchtime.)
 
+Was I having too much squash rather than water? Dunno.
+
 Was I having a little snack around 3:30pm to 4pm? Seemed to be.
 
-I have tried keeping a light record of all of this and looking through my notes I was struggling to see a pattern. 
+Was the snack causes too much of a spike? How could I know that?
+
+I have tried keeping a light record of all of this and looking through my notes I was struggling to see a pattern.
 
 Last week I had a day when I wasn't really on my Macbook, working through something with print outs, on paper, with pens, on the whiteboards. I would say it was a steady day. And it ended with me feeling pretty spaced out again. I wondered if it was anything to do with my blood sugar levels.
 
