@@ -5,7 +5,7 @@ date: 2020-06-15 06:00:00 +0000
 tags: []
 
 ---
-Over the weekend I sharedon Twitter [an Evernote document](https://www.evernote.com/l/ACj7Gm9Y3mVNtYyuh2GqvVdMgpOPHLMw5So) with ten questions I ask when looking for a new role. My current contract ends soon so at the moment I am talking to people and places about what I could do next. This usually means a shorter chat up front to get some background. I use these questions then.
+Over the weekend I shared on Twitter [an Evernote document](https://www.evernote.com/l/ACj7Gm9Y3mVNtYyuh2GqvVdMgpOPHLMw5So) with ten questions I ask when looking for a new role. My current contract ends soon so at the moment I am talking to people and places about what I could do next. This usually means a shorter chat up front to get some background. I use these questions then.
 
 There are no binary responses to these questions and no outright right or wrong (that might come later when you reflect though!). These are about building an understanding of the situation you would be going into.
 
