@@ -5,11 +5,13 @@ date: 2020-06-15 06:00:00 +0000
 tags: []
 
 ---
-Over the weekend I shared [an Evernote document](https://www.evernote.com/l/ACj7Gm9Y3mVNtYyuh2GqvVdMgpOPHLMw5So) with ten questions I ask when looking for a new role. My current contract ends soon so at the moment I am talking to people and places about what I could do next, so I use these most weeks and have done over the years. I put them down to share wider. They might help you.
+Over the weekend I shared [an Evernote document](https://www.evernote.com/l/ACj7Gm9Y3mVNtYyuh2GqvVdMgpOPHLMw5So) with ten questions I ask when looking for a new role. My current contract ends soon so at the moment I am talking to people and places about what I could do next, so I use these most weeks and have done over the years. This usually means a shorter chat at the start to get some background.
+
+I put the questions down to share wider. They might help you too so I am sharing them.
 
 There are no binary responses to these questions and no outright right or wrong (that might come later when you reflect though!). These are about building an understanding of the situation you would be going into.
 
-One piece of advice: Be clear about how you see the practice and the role and the ways of working to give you a foil to reflect the response. We might laugh about all the patchwork _UI UX service designer_ labels out there but understanding _what you would be expected to do and how_ cuts through those distractions, gives you clarity.
+One piece of advice: Be clear about how you see your practice, your role and ways of working to give you a foil to reflect the responses. We might laugh about all the patchwork _UI UX service designer_ labels out there but understanding _what you would be expected to do and how_ cuts through those distractions, gives you clarity.
 
 ***
 
