@@ -10,7 +10,7 @@ tags:
 
 Already I have learned that the empty headed or spaced out feeling I get towards the end of the working day comes when my blood glucose dips to the lowest of the day, of any days, just above 4mmol/L. Most of these occurrences also coincided with a slightly larger lunch than usual and then “fasting” until later.
 
-The days when my mmol/L doesn’t dip that low I don’t feel empty headed or spaced out, I feel OK. It’s a small sample from a week’s data, but there’s a hypothesis there to test. After years of _this_ it feels like I am learning, maybe getting some micro understanding beyond the "Here's your blood sugar average for the last three months".
+The days when my mmol/L doesn’t dip that low I don’t feel empty headed or spaced out, I feel OK. It’s a small sample from a week’s data but there’s a correlation, and a hypothesis there to test. After years of _this_ it feels like I am learning, maybe getting some micro understanding beyond the "Here's your blood sugar average for the last three months".
 
 A lesson learned here: For the foreseeable future I will have a smaller lunch and have several smaller snacks through the afternoon.
 
