@@ -17,4 +17,5 @@ fields:
   label: tags
 pages:
 - _posts/2020-03-12-the-strategy-is-good-service-design.markdown
+- _posts/business-constraints.markdown
 - _posts/ten-questions-for-a-new-role.markdown
