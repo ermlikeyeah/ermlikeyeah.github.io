@@ -28,6 +28,6 @@ Not sure where that week went.
 * Didn’t really enjoy [Once Upon a Time in… Hollywood](https://www.imdb.com/title/tt7131622/), at least as a whole.
 * Tracking my blood glucose with the FreeStyle Libre is [going… on](https://www.ermlikeyeah.com/diabetes-notes-number-8/).
 * Jumped back onto [the ‘gram](https://www.instagram.com/idlesi/) this week. Openly admitting I missed it.
-* Got the Pimoroni Enviro + Air Quality kit to hook up to a Raspberry Pi this weekend. _really_ want to get the data from it shared wider. _It is currently raining at Si's shed_. You know you want this.
+* Got the Pimoroni Enviro + Air Quality kit to hook up to a Raspberry Pi this weekend. _Really_ want to get the data from it shared wider, once it's working. _It is currently raining at Si's shed_. You know you want this.
 
 The kids are messaging asking if we’re having takeaway food delivered tonight, and if we’re ordering soon. My hopes for an end-of-week after-work run feel dashed already. Maybe a day off and a couple of longer runs this weekend would be just the ticket.
