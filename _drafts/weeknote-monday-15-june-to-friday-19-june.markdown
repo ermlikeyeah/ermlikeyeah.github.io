@@ -1,24 +1,32 @@
 ---
 layout: post
-title: Weeknote, Monday 8 to Friday 12 June 2020-(copy)
-date: 2020-06-12 17:00:00 +0000
+title: Weeknote, Monday 15 June to Friday 19 June 2020
+date: 2020-06-19 16:00:00 +0000
 tags:
 - weeknotes
 - 2020 weeknotes
 
 ---
-* I had some unexpected but welcome thinking this week. I had a look through my guiding principles for work and was reminded I try to and I have tried to work as openly as possible over the last six years or so. So, why haven't I been recently? Stuff, eh. Maybe publishing some quick end-of-week notes again will help get some of that going again. So here we are. And I'll give my guiding principles for working a dust off and share them. 
-* I found half an hour to finish building a Lego City set that had been lurking lurking in the shed for the last few months. I'm not the biggest fan of the seeming default design workshop _Let's Break Out The Lego!_ approach, but that doesn't mean I don't like Lego. I've a lot of the City stuff in the shed... Building it: I like the time away, the time aside, the time to myself to build a set. And it's usually a little pleasure, reading the instructions and clicking it all together, piece by piece. It makes a change from work where feels like what are instructions? Anyway, was reminded just how excellent the building instructions are for Lego sets. Something in this for all fans and dissers of documentation.
-* Matt Hancock mentioning "world class" again about the UK's coronavirus track amnd trace is starting to get on my whick. What even does that mean? Standards, ones that uphold the idea of something -- especially a public service -- being _good enough for all who use and will use the service_ I am all for. But the Cvoid-19 service (or services even) just need _to work_, _to work well_.
-* I started wearing a FreeStyle Libre sensor this week. More in [my latest diabetes note](https://www.ermlikeyeah.com/diabetes-notes-number-7/).
-* I am looking forward to running again this weekend. I was trying to run 70km this week. The last couple of days paused that. I am teetering at the 30km point. I have recently been enjoying a run early in the morning and a run at the end of the day, two 5km jaunts. One woke me up. The other helped me wind down. Felt good on the legs too. See what I can do tomorrow and Sunday. 
-* The boy has followed up learning Python by asking for an Arduino. I caved in quite easily and got him him one. [The starter kit from Pimoroni](https://shop.pimoroni.com/products/arduino-starter-kit-1) is pretty neat. I got myself some kit to use one of the older Raspberry Pis as a weather station, put it in the shed, feed the data into the wider world. I resisted getting a [Picade kit](https://shop.pimoroni.com/products/picade-console).
-* Took in some more of Luke Cage season two. Some of its best scenes are less about the muscular action but the pains of recollection. I don't mind it spread over 13 epsiodes. Having 13 episodes allows you to write those scenes. Go along for the journey, not just to get to the destination. 
-* Tried to make sure  we were tidied up and sat down in the lounge for 8pm so we could watch a film. This doesn't happen enough. Managed it not just once this week, but twice. Saw [Booksmart](https://www.imdb.com/title/tt1489887/) (on Amazon Prine Video at the mo) and afterwards was why oh why didn't I make the effort to see it at the cinema. So so good. [The Gentlemen](https://www.imdb.com/title/tt8367814/), Guy Ritchie's return to gangster land, is OK. An Arsenal game provides an unexpected pivotal plot point. Good reference to [The Conversation](https://www.imdb.com/title/tt0071360/). Lots of C-bombs. Surprised the boy thought it was good. Wonder what the kids will make of [Lock, Stock...](https://www.imdb.com/title/tt0120735/) and [Snatch](https://www.imdb.com/title/tt0208092/) now... (Any other parents do that _Oh, they've watched the most recent film by this director, I'll make sure they go further back into their catalogue..._ thing?)
-* Listening to [Chaos Monkeys](https://www.goodreads.com/book/show/28259132-chaos-monkeys) at the mo. There's a bit where they first go into Y-Combinator and Jessica Livingston gets a mention. Reminded me it's a good ten summers since I read [Founders at Work: Stories of Startups' Early Days](https://www.goodreads.com/book/show/98233.Founders_at_Work). One of _those business books_, but at the time opened my eyes more to the things that went and go wrong with businesses as much as things that went and they did “right”. Less about looking good, PR hue; More about keeping it real. Also reminded a lot of business problems, maybe most business problems, when they are not cashflow problems are people problems. Founders at Work is still _excellent_.
-* I spent a lot of time looking through the [Black History and Culture](https://artsandculture.google.com/project/black-history-and-culture) part of Google's Arts &amp; Culture. Didn't feel I got anywhere near the end either, which is good. More to take in.
-* [Sweet post on _behaviour modes_](https://digitalblog.coop.co.uk/2020/06/08/were-using-behaviour-modes-to-keep-users-at-the-centre-of-decisions/) from the Co-op Digital team.
-* Still cannot get past what feels like the first boss in [Control](https://en.wikipedia.org/wiki/Control_(video_game)). Are the bosses hard or am I just shit at bosses? 
-Feel I am close to doing what kids do: Watch a walkthrough video on YouTube.
-* Reminder: I need to take some time out to do an virutal gallery or museum or something tour.
-* It's the time of year the scent of elderflower hangs in the air. Enjoy it while it's there.
+Not sure where that week went.
+
+* Had some fun hacking an inbox-browser prototype together. 
+* Had less fun breaking another one and spending more time than I really have to fix it.
+* Giving new starters to the NHS Jobs team an overview of the service. Realising some of the stuff I’ve done around that actually does the job. Shake my head out of the thought of going back to being “product person”.
+* Wondering if Miro is actually better than Omnigraffle at flowy charty things.
+* Spent a fun hour listening to a team from another place alother, who dropped me a line to see if I would mind spending some time with them. Just a super fun hour.
+* Started pulling together an “approach to work” to compare work possibilities off. Nothing rigid, but something in there about “preferred approach”. Be interesting to compare it to what I had for the studio six years back, see what’s changed, see what’s not.
+* Finished work later than planned most days. Result: Having my evening time squeezed by my daily commitment to running, eating dinner, and then doing something else. That last bit lost out.
+* Running 35km by Friday felt good though, even running 7.5km in the drizzle last night. Getting to 60km by end of the weekend looks possible.
+* Managed to squeeze in a little bit of time on [Control](https://en.wikipedia.org/wiki/Control_(video_game)). Actually enjoying, now I’ve got past that boss, which was pretty easy to get past in the end. I was piling in too far, too soon. Don’t read too much into that, please. Didn't need to look up a walkthrouhg on YouTube either.
+* Also saw on the PS4 I’ve got The Last of Us (1, not the sequel that came out today) and didn’t really get far into it. There was a sneaking about bit that I found frustrating and never went back. Don’t read too much into that, please.
+* Had some thoughts about how we need some stage between components and patterns in design systems, maybe bringing assemblies back into the mix. Patterns are were assemblies are shown to be repeatedly. Also something about design systems being driven by something like principles rather than strict rules. Might make these thoughts coherent.
+* Looked up the 2010 Chicago marathon YouTube and watched it. Read a lot about the race, the battle between Samuel Wanjiru and Tsegaye Kebede, and sadly it being Wanjiru's last race. The last couple of miles are a right tussle, amazing moreso when you remember this is _the end of a marathon_ and Wanjiru came into the marathon carrying an injury.
+* Finished [Chaos Monkeys](https://www.goodreads.com/book/show/28259132-chaos-monkeys).
+* Started listening to [Range](https://www.goodreads.com/book/show/41795733-range).
+* Started reading [How Bad Do You Want It?](https://www.goodreads.com/book/show/28679765-how-bad-do-you-want-it), usually when I should have been asleep already.
+* Didn’t really enjoy [Once Upon a Time in… Hollywood](https://www.imdb.com/title/tt7131622/), at least as a whole. 
+* Tracking my blood glucose with the FreeStyle Libre is [going… on](https://www.ermlikeyeah.com/diabetes-notes-number-8/).
+* Jumped back onto [the ‘gram](https://www.instagram.com/idlesi/) this week. Openly admitting I missed it.
+* Got the Pimoroni Enviro + Air Quality kit to hook up to a Raspberry Pi this weekend. _really_ want to get the data from it shared wider. _It is currently raining at Si's shed_. You know you want this.
+
+The kids are messaging asking if we’re having takeaway food delivered tonight, and if we’re ordering soon. My hopes for an end-of-week after-work run feel dashed already. Maybe a day off and a couple of longer runs this weekend would be just the ticket.
