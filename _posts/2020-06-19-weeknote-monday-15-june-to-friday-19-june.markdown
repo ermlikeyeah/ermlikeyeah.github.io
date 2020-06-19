@@ -9,7 +9,7 @@ tags:
 ---
 Not sure where that week went.
 
-* Had some fun hacking an inbox-browser prototype together. 
+* Had some fun hacking an inbox-browser prototype together.
 * Had less fun breaking another one and spending more time than I really have to fix it.
 * Giving new starters to the NHS Jobs team an overview of the service. Realising some of the stuff I’ve done around that actually does the job. Shake my head out of the thought of going back to being “product person”.
 * Wondering if Miro is actually better than Omnigraffle at flowy charty things.
@@ -19,12 +19,12 @@ Not sure where that week went.
 * Running 35km by Friday felt good though, even running 7.5km in the drizzle last night. Getting to 60km by end of the weekend looks possible.
 * Managed to squeeze in a little bit of time on [Control](https://en.wikipedia.org/wiki/Control_(video_game)). Actually enjoying, now I’ve got past that boss, which was pretty easy to get past in the end. I was piling in too far, too soon. Don’t read too much into that, please. Didn't need to look up a walkthrouhg on YouTube either.
 * Also saw on the PS4 I’ve got The Last of Us (1, not the sequel that came out today) and didn’t really get far into it. There was a sneaking about bit that I found frustrating and never went back. Don’t read too much into that, please.
-* Had some thoughts about how we need some stage between components and patterns in design systems, maybe bringing assemblies back into the mix. Patterns are were assemblies are shown to be repeatedly. Also something about design systems being driven by something like principles rather than strict rules. Might make these thoughts coherent.
-* Looked up the 2010 Chicago marathon YouTube and watched it. Read a lot about the race, the battle between Samuel Wanjiru and Tsegaye Kebede, and sadly it being Wanjiru's last race. The last couple of miles are a right tussle, amazing moreso when you remember this is _the end of a marathon_ and Wanjiru came into the marathon carrying an injury.
+* Had some thoughts about how we might need some stage between _components_ and _patterns_ in design systems, maybe bringing _assemblies_ back into the mix. Patterns are assemblies that show up repeatedly, hopefully shown _to work well for users_. Also something about design systems being driven by something like principles rather than strict rules. Might make these thoughts coherent, because you don't come to weeknotes for thought leadership, do you?
+* Looked up the 2010 Chicago marathon YouTube and watched a few clips of it. I've read a lot about the race, the battle between Samuel Wanjiru and Tsegaye Kebede, and sadly it being Wanjiru's last race. The last couple of miles are a right tussle, amazing moreso when you remember this is _the end of a marathon_ and Wanjiru came into the marathon carrying an injury.
 * Finished [Chaos Monkeys](https://www.goodreads.com/book/show/28259132-chaos-monkeys).
 * Started listening to [Range](https://www.goodreads.com/book/show/41795733-range).
 * Started reading [How Bad Do You Want It?](https://www.goodreads.com/book/show/28679765-how-bad-do-you-want-it), usually when I should have been asleep already.
-* Didn’t really enjoy [Once Upon a Time in… Hollywood](https://www.imdb.com/title/tt7131622/), at least as a whole. 
+* Didn’t really enjoy [Once Upon a Time in… Hollywood](https://www.imdb.com/title/tt7131622/), at least as a whole.
 * Tracking my blood glucose with the FreeStyle Libre is [going… on](https://www.ermlikeyeah.com/diabetes-notes-number-8/).
 * Jumped back onto [the ‘gram](https://www.instagram.com/idlesi/) this week. Openly admitting I missed it.
 * Got the Pimoroni Enviro + Air Quality kit to hook up to a Raspberry Pi this weekend. _really_ want to get the data from it shared wider. _It is currently raining at Si's shed_. You know you want this.
