@@ -13,7 +13,7 @@ Not sure where that week went.
 * Had less fun breaking another one and spending more time than I really have to fix it.
 * Giving new starters to the NHS Jobs team an overview of the service. Realising some of the stuff I’ve done around that actually does the job. Shake my head out of the thought of going back to being “product person”.
 * Wondering if Miro is actually better than Omnigraffle at flowy charty things.
-* Spent a fun hour listening to a team from another place alother, who dropped me a line to see if I would mind spending some time with them. Just a super fun hour.
+* Spent a fun hour listening to a team from another place, who dropped me a line to see if I would mind spending some time with them. Just a super fun hour, super constructive.
 * Started pulling together an “approach to work” to compare work possibilities off. Nothing rigid, but something in there about “preferred approach”. Be interesting to compare it to what I had for the studio six years back, see what’s changed, see what’s not.
 * Reminded a few times this week about [providing useful feedback](https://www.ermlikeyeah.com/criticism-a-simple-guide/). Tone as well, eh. It's how ya tell 'em!
 * Finished work later than planned most days. Result: Having my evening time squeezed by my daily commitment to running, eating dinner, and then doing something else. That last bit lost out.
