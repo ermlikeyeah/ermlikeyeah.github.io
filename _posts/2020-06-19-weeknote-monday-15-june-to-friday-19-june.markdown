@@ -15,6 +15,7 @@ Not sure where that week went.
 * Wondering if Miro is actually better than Omnigraffle at flowy charty things.
 * Spent a fun hour listening to a team from another place alother, who dropped me a line to see if I would mind spending some time with them. Just a super fun hour.
 * Started pulling together an “approach to work” to compare work possibilities off. Nothing rigid, but something in there about “preferred approach”. Be interesting to compare it to what I had for the studio six years back, see what’s changed, see what’s not.
+* Reminded a few times this week about [providing useful feedback](https://www.ermlikeyeah.com/criticism-a-simple-guide/). Tone as well, eh. It's how ya tell 'em!
 * Finished work later than planned most days. Result: Having my evening time squeezed by my daily commitment to running, eating dinner, and then doing something else. That last bit lost out.
 * Running 35km by Friday felt good though, even running 7.5km in the drizzle last night. Getting to 60km by end of the weekend looks possible.
 * Managed to squeeze in a little bit of time on [Control](https://en.wikipedia.org/wiki/Control_(video_game)). Actually enjoying, now I’ve got past that boss, which was pretty easy to get past in the end. I was piling in too far, too soon. Don’t read too much into that, please. Didn't need to look up a walkthrouhg on YouTube either.
