@@ -34,7 +34,11 @@ Design is the process of working out and deciding on how something works. Design
 > Service design improves the experiences of both the user and employee by designing, aligning, and optimizing an organization’s operations to better support customer journeys.
 [Nielsen Norman Group](https://www.nngroup.com/articles/service-design-101)
 
-I view service design as _doing the work to make services that are usable_. Service design looks for strengths and weaknesses of any existing or proposed service and then improving. It is about being strategic, researching, analysing, understanding what needs to be done and then doing.
+I view service design as _doing the work to make services that are usable_. (W3C has [a great definition](https://www.w3.org/WAI/fundamentals/accessibility-usability-inclusion/#terms) of usability that can be applied to an experience: _designing products to be effective, efficient, and satisfying_.)
+
+Service design 1. looks for strengths and weaknesses of any existing or proposed service, 2. doing the work to design improvements to the service, 3. seeing those improvements happen.
+
+It is about being strategic -- researching, analysing, understanding what needs to be done -- and then tactical -- doing what needs to be done.
 
 #### What outcomes will you be expecting from doing service design work?
 
