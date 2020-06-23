@@ -7,7 +7,7 @@ tags:
 - service design
 
 ---
-I recently shared [ten questions for a new role](https://www.ermlikeyeah.com/ten-questions-for-a-new-role/). In the blog post I position the questions as pertinent when looking for a specific role, but they can easily be adapted for looking for project work too.
+I recently shared [ten questions for a new role](https://www.ermlikeyeah.com/ten-questions-for-a-new-role/). In the blog post I position the questions as pertinent when looking for a specific role, but they can easily be adapted for looking at project work too.
 
 Over the bulk of my career I’ve helped pull together proposals and pitches for project work. Over the last five to six years I’ve not had to pitch for project work for a team or a company, but as a freelancer doing digital strategy and design work I’ve reached out or been contacted about “interim roles". In every situation I would have asked those questions (for the project work there’d be a little adaptation for finances, how much, how/when).
 
