@@ -67,6 +67,6 @@ I tend to think a large part of a service designer's approach is being an interd
 
 #### Closing
 
-I’m not precious about being _a service designer_, more _as someone who is \[going in/here\] I need to know what my role is there for so I can help deliver \[outcomes\]_. If I going to be a piece of the jigsaw I just want to know where the role and the work fits into the wider picture. I think everyone should too, not just me and the role I do but everyone and their roles.
+As an organisation don't just keep up with the Joneses. Don't just get a service designer just because it seems everyone else is. Know why: Know what service design is and how a service designer would help with that.
 
-And don't just keep up with the Joneses. Don't just get a service designer just because it seems everyone else is. Know why: Know what service design is and how a service designer would help with that.
+Personally, I’m not precious about being _a service designer_, more _as someone who is \[going in/here\] I need to know what my role is there for so I can help deliver \[outcomes\]_. If I going to be a piece of the jigsaw I just want to know where the role and the work fits into the wider picture. I think everyone should too, not just me and the role I do but everyone and their roles.
