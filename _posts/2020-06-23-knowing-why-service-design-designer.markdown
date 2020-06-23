@@ -37,9 +37,13 @@ Design is the process of working out and deciding on how something works. Design
 
 I view service design as _doing the work to make services that are usable_. (W3C has [a great definition](https://www.w3.org/WAI/fundamentals/accessibility-usability-inclusion/#terms) of usability that can be applied to an experience: _designing products to be effective, efficient, and satisfying_.)
 
-A service can already be in operation and usage or it could be a prospective service based on known needs. It's looking for strengths and weaknesses of any service, existing or proposed. It's doing the work to design improvements to a service (and knowing or even setting standards). And it should be about seeing those improvements happen.
+A service can already be in operation and usage or it could be a prospective service based on known needs. 
 
-It is about being strategic -- researching, analysing, understanding what needs to be done -- and then tactical -- doing what needs to be done.
+It is about being strategic: Researching, analysing, understanding what needs to be done, such as looking for strengths and weaknesses of any service, existing or proposed. 
+
+It's about being tactical, doing what needs to be done, the work to design improvements to a service (and knowing or even setting standards).
+
+And it should be about seeing those improvements happen.
 
 #### What outcomes will you be expecting from doing service design work?
 
