@@ -15,7 +15,7 @@ Over the last six years I’ve looked for opportunities where service design is 
 
 I was asked recently if I felt service design had changed in the last five years and how did I see “service design” now. It was a timely question: Over the past few months I’ve been going round in my head _what is_ service design these days? Service design is definitely something more places are saying they are doing or saying they want to do.
 
-At the moment when I am talking about what I do next for any _service designer_ roles I go back to -- and going back to my ten questions -- looking for this detail:
+At the moment when I am talking about what I do next for any _service designer_ roles, as service design is an unclear process in a few chats I go -- and going back to my ten questions -- looking for this detail:
 
 > What is _service design_ to you, as a person recruiting, as a team recruiting and as an organisation recruiting?
 
