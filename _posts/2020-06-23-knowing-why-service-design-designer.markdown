@@ -23,7 +23,7 @@ Frequently people reply “service design is the design of services”, but what
 
 #### What is a service?
 
-If _a service is something that helps someone who needs to do something do something_ what’s an example of a service you are involved with, maybe (part) responsible for?
+_A service is something that helps someone who needs to do something do something_. What’s an example of a service you are involved with, maybe (part) responsible for?
 
 #### What is design?
 
@@ -34,7 +34,7 @@ Design is the process of working out and deciding on how something works. Design
 > Service design improves the experiences of both the user and employee by designing, aligning, and optimizing an organization’s operations to better support customer journeys.
 (Nielsen Norman Group)\[https://www.nngroup.com/articles/service-design-101/\]
 
-I view service design as _making services usable_. Service design looks for strengths and weaknesses and then improving. It is about being strategic, researching, analysing, understanding what needs to be done and then doing.
+I view service design as _making services that are usable_. Service design looks for strengths and weaknesses of any existing or proposed service and then improving. It is about being strategic, researching, analysing, understanding what needs to be done and then doing.
 
 #### What outcomes will you be expecting from doing service design work?
 
