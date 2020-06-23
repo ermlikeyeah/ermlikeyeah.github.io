@@ -19,7 +19,7 @@ At the moment when I am talking about what I do next for any _service designer_ 
 
 > What is _service design_ to you, as a person recruiting, as a team recruiting and as an organisation recruiting?
 
-Frequently people reply “service design is the design of services”, but what does that mean?
+Frequently people reply “service design is the design of services”, but what does that mean in the context of the opportunity?
 
 #### What is a service?
 
