@@ -57,13 +57,13 @@ Less a focus on the tools, the methods and output (maps!), more a focus on the p
 
 The outcomes help understand what needs to be done (and not done).
 
-_The service designer_ will help with the outcomes, but how?
+How will _a service designer_ will help with the outcomes?
 
 Is _service design_ about one person’s role? No.
 
-But being _a service designer_ is a person’s role. What does that mean as ervice designer does?
+But being _a service designer_ is a person’s role. What does that mean a service designer does?
 
-I tend to think of service designers more as coaches, coaxers, being interdisciplinary themselves to bring an interdisciplinary view of a service by gathering people with different disciplines and channels/silos together. And softly, innovation to ways of working and delivered services through education, innovation through exploration. If a user's experience is the result of the collective efforts of a team’s work then service design is a contributor to that.
+I tend to think of service designers more as coaches, coaxers, being interdisciplinary themselves to bring together an interdisciplinary view of a service by gathering people with different disciplines and channels/silos together. And softly bring innovation to ways of working and delivered services through education, innovation through exploration. If a user's experience is the result of the collective efforts of a team’s work then service design is a contributor to that.
 
 #### Closing
 
