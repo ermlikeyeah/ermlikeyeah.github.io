@@ -13,7 +13,7 @@ Over the bulk of the last twenty years of my career I’ve helped pull together 
 
 Over those last six years I’ve looked for opportunities where service design is a thing to be involved with or thing that could be involved with. Six years ago getting work as _a service designer_ was very, very limited. The opportunities were more consultancy, come in, help a team understand what the design of a service is or what "service design" is (usually looking at something that team or organisation is already doing), and maybe you’ll get a call to go back to help with some "improvement work". Other people found places doing service design work (maybe not by name but by spirit) and took roles that allowed them be involved in that work, like delivery managers. I did the same: I took a role as an interaction designer in government. Now there are lots of opportunities for _service designers_ seemingly everywhere. (And sometimes it feels there are _service designers everywhere_.)
 
-At the moment when I am talking about what I do next for any _service designer_ roles, as service design is an unclear process in a few chats I go -- and going back to my ten questions -- looking for this detail:
+At the moment when I am talking about what I do next for any _service designer_ role, as service design is feels an unclear process in a few chats I go looking -- and going back to my ten questions -- for this detail:
 
 > What is _service design_ to you, as a person recruiting, as a team recruiting and as an organisation recruiting?
 
