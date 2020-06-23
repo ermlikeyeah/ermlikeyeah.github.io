@@ -33,13 +33,13 @@ Design is the process of working out and deciding on how something works. Design
 
 > Service design improves the experiences of both the user and employee by designing, aligning, and optimizing an organization’s operations to better support customer journeys.
 
--- [Nielsen Norman Group](https://www.nngroup.com/articles/service-design-101)
+\-- [Nielsen Norman Group](https://www.nngroup.com/articles/service-design-101)
 
 I view service design as _doing the work to make services that are usable_. (W3C has [a great definition](https://www.w3.org/WAI/fundamentals/accessibility-usability-inclusion/#terms) of usability that can be applied to an experience: _designing products to be effective, efficient, and satisfying_.)
 
-A service can already be in operation and usage or it could be a prospective service based on known needs. 
+A service can already be in operation and usage or it could be a prospective service based on known needs.
 
-It is about being strategic: Researching, analysing, understanding what needs to be done, such as looking for strengths and weaknesses of any service, existing or proposed. 
+It is about being strategic: Researching, analysing, understanding what needs to be done, such as looking for strengths and weaknesses of any service, existing or proposed.
 
 It's about being tactical, doing what needs to be done, the work to design improvements to a service (and knowing or even setting standards).
 
@@ -59,11 +59,9 @@ The outcomes help understand what needs to be done (and not done).
 
 How will _a service designer_ will help with the outcomes?
 
-Is _service design_ about one person’s role? No.
+Is _service design_ about one person’s role? No. But being _a service designer_ is a person’s role. What does that mean a service designer does?
 
-But being _a service designer_ is a person’s role. What does that mean a service designer does?
-
-I tend to think a large part of a service designer's approach is as a coach, a coaxer, being interdisciplinary themselves to bring together an interdisciplinary view of a service by gathering people with different disciplines, specialisms, from disparate channels/silos together. And softly bring innovation to ways of working and delivered services through that sharing, that education -- and innovation through exploration.
+I tend to think a large part of a service designer's approach is being an interdisciplinary generalist themselves, and then as a coach, a coaxer, to bring together an interdisciplinary view of a service by gathering together people with different disciplines and specialisms, from disparate channels/silos. And softly bring innovation to ways of working and delivered services through that sharing, that education -- innovation through exploration.
 
 If a user's experience of service is the result of the collective efforts of a team’s work then service design is an approach that contributes to that.
 
