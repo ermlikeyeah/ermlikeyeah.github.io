@@ -21,7 +21,7 @@ At the moment when I am talking about what I do next for any _service designer_ 
 
 Frequently people reply “service design is the design of services”, but what does that mean?
 
-### What is a service?
+#### What is a service?
 
 If _a service is something that helps someone who needs to do something do something_ what’s an example of a service you are involved with, maybe (part) responsible for?
 
@@ -29,7 +29,7 @@ If _a service is something that helps someone who needs to do something do somet
 
 Design is the process of working out and deciding on how something works. Design is [the rendering of intent](https://articles.uie.com/design_rendering_intent/).
 
-### What is service design?
+#### What is service design?
 
 > Service design improves the experiences of both the user and employee by designing, aligning, and optimizing an organization’s operations to better support customer journeys.
 > (Nielsen Norman Group)\[https://www.nngroup.com/articles/service-design-101/\]
@@ -46,13 +46,13 @@ An example:
 
 Less a focus on the tools, the methods and output (maps!), more a focus on the problem and the effects.
 
-### What will a service designer do to help you, the team and the organisation with service designing?
+#### What will a service designer do to help you, the team and the organisation with service designing?
 
 The outcomes help understand what needs to be done (and not done).
 
 _The service designer_ will help with the outcomes, but how? Is _service design_ about one person’s role? No. But being _a service designer_ is one person’s role. What does that mean? I tend to think of service designers more as coaches, coaxers, being interdisciplinary themselves to bring an interdisciplinary view of a service by gathering people with different disciplines and channels/silos together. And softly, innovation to ways of working and delivered services through education, innovation through exploration. If a user's experience is the result of the collective efforts of a team’s work then service design is a contributor to that.
 
-### Closing
+#### Closing
 
 I’m not precious about being _a service designer_, more _as someone who is \[going in/here\] I need to know what my role is there for so I can help deliver \[outcomes\]_. If I going to be a piece of the jigsaw I just want to know where the role and the workd fits into the wider picture.
 
