@@ -63,7 +63,9 @@ Is _service design_ about one person’s role? No.
 
 But being _a service designer_ is a person’s role. What does that mean a service designer does?
 
-I tend to think of service designers more as coaches, coaxers, being interdisciplinary themselves to bring together an interdisciplinary view of a service by gathering people with different disciplines and channels/silos together. And softly bring innovation to ways of working and delivered services through education, innovation through exploration. If a user's experience is the result of the collective efforts of a team’s work then service design is a contributor to that.
+I tend to think a large part of a service designer's approach is as a coach, a coaxer, being interdisciplinary themselves to bring together an interdisciplinary view of a service by gathering people with different disciplines, specialisms, from disparate channels/silos together. And softly bring innovation to ways of working and delivered services through that sharing, that education -- and innovation through exploration.
+
+If a user's experience of service is the result of the collective efforts of a team’s work then service design is an approach that contributes to that.
 
 #### Closing
 
