@@ -29,14 +29,12 @@ If _a service is something that helps someone who needs to do something do somet
 
 Design is the process of working out and deciding on how something works. Design is [the rendering of intent](https://articles.uie.com/design_rendering_intent/).
 
-#### What is service design?
+#### So, what is (service + design) service design?
 
 > Service design improves the experiences of both the user and employee by designing, aligning, and optimizing an organization’s operations to better support customer journeys.
 > (Nielsen Norman Group)\[https://www.nngroup.com/articles/service-design-101/\]
 
-Service design is about making services usable. Service design looks for strengths and weaknesses.
-
-It is about being strategic, researching, analysing, understanding what needs to be done and then doing.
+I view service design as _making services usable_. Service design looks for strengths and weaknesses and then improving. It is about being strategic, researching, analysing, understanding what needs to be done and then doing.
 
 #### What outcomes will you be expecting from doing service design work?
 
@@ -50,7 +48,13 @@ Less a focus on the tools, the methods and output (maps!), more a focus on the p
 
 The outcomes help understand what needs to be done (and not done).
 
-_The service designer_ will help with the outcomes, but how? Is _service design_ about one person’s role? No. But being _a service designer_ is one person’s role. What does that mean? I tend to think of service designers more as coaches, coaxers, being interdisciplinary themselves to bring an interdisciplinary view of a service by gathering people with different disciplines and channels/silos together. And softly, innovation to ways of working and delivered services through education, innovation through exploration. If a user's experience is the result of the collective efforts of a team’s work then service design is a contributor to that.
+_The service designer_ will help with the outcomes, but how?
+
+Is _service design_ about one person’s role? No.
+
+But being _a service designer_ is a person’s role. What does that mean as ervice designer does?
+
+I tend to think of service designers more as coaches, coaxers, being interdisciplinary themselves to bring an interdisciplinary view of a service by gathering people with different disciplines and channels/silos together. And softly, innovation to ways of working and delivered services through education, innovation through exploration. If a user's experience is the result of the collective efforts of a team’s work then service design is a contributor to that.
 
 #### Closing
 
