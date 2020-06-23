@@ -17,7 +17,7 @@ Six years ago getting work as _a service designer_ was very, very limited. The o
 
 At the moment when I am talking about what I would do for any _service designer_ role, a number of times _service design_ feels an inconsistently viewed, consistently unclear process and off that what _a service designer_ does is equally fuzzy.
 
-Personally, I’m not precious about being _a service designer_, more _as someone who is \[going in/here\] I need to know what the role is understood to be so I can help deliver \[outcomes\]_. If I going to be a piece of the jigsaw I just want to know where the role and the work fits into the wider picture. I think everyone should too, not just me and the role I do but everyone and their roles.
+Personally, I’m not precious about being _a service designer_, more _as someone who is \[going in/here\] I need to know what the role is understood to be so I can help deliver \[outcomes\]_. If I going to be a piece of the jigsaw I just want to know where the role and the work fits into the wider picture. I think everyone should too, their roles, my role, all the roles.
 
 But if _service design_ is to be consistently understood and approached on a wider scale I go looking -- and going back to one of my ten questions -- for this detail:
 
