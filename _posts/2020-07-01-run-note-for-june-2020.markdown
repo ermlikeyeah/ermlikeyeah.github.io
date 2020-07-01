@@ -29,6 +29,8 @@ I’m just 24km away from sneaking past 1000km for the year. The 2000km target f
 
 Oh, and the dog reminded me she’s not that keen on this running lark. I had [one aborted run](https://strava.app.link/DzVtAGe8K7) with her. Dogs.
 
+What's for July? Aim for 300km again. Who knows. It might happen.
+
 #### Reads
 
 [Good to Go](https://www.goodreads.com/book/show/53458163). Basically, sleep is good for you, but definitely worth a read or listen (there’s an audiobook of it). 
