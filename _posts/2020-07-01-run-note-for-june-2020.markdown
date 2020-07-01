@@ -29,6 +29,8 @@ I’m just 24km away from sneaking past 1000km for the year. The 2000km target f
 
 Oh, and the dog reminded me she’s not that keen on this running lark. I had [one aborted run](https://strava.app.link/DzVtAGe8K7) with her. Dogs.
 
+I have just tried to enjoy it all in June, thankful I can get out, thankful I can run again, especially after the injury. I've not worried about pace or times. Just get out and experience whatever happens.
+
 What's for July? Aim for 300km again. Who knows. It might happen.
 
 #### Reads
