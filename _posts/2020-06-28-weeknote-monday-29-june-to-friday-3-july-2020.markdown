@@ -9,13 +9,13 @@ tags:
 ---
 Maps or models, eh. Is there a difference? What is the difference? Does it matter?
 
-I rejigged the layout of the desk in the shed, swapping the MacBook from being front and centre and the monitor to the side, so now the monitor is front and centre. With the greyer days this week I got the light back over the door and on most of the time.
+Early in the week I rejigged the layout of the desk in the shed, swapping the MacBook from being in the centre and the monitor to the side. Now the monitor is front and centre. With the greyer days this week I got the light back over the door and on most of the time.
 
 {% include image.html url="/assets/monitor-middle.jpg" description="The monitor in the middle" %}
 
-I finished the third season of the TV show Dark. Which means I have finished all of Dark.
+I finished the third season of the TV show Dark. Which means I have finished all of Dark. I watched the last few episodes in the shed because the constant rumble of thunder in the shower reduced the dog to a panty state, drool dripping onto the settee, carpet, and wherever gravity drew it towards. Dark was super good, even though there were a few involuntary flinches. So much cracking of skulls with rocks. 😬
 
-Sim City Build It got deleted off my iPad. It’d become like a Tamogotchi, check in every day, _sometimes_ a bit more. The whole repetitive nature of the cycle of making in teh game wore me down. _Set that being made_, then later I can collect _that_ to add to _another thing I have had made too_. And then add that with other things I’ve made to create buildings. The ever expanding loops. I just want to watch my conurbation... happen. Plus the price of cheesecake in that city economy oh boy.
+Sim City Build It got deleted off my iPad. I was enjoying it, developing the area, but... it’d become like a Tamogotchi, check in every day, sometimes _a bit more_, occasionally _a bit bit more_. The whole repetitive nature of the cycle of making resources in the game wore me down. _Set that being made_ and _set that other thing being made_ so later I _collect that_ to _add to that other thing I got made_. And then add that with other things I’ve made to create buildings, as long as I have them all made already. Otherwise go back and _set another thing being made_. The ever expanding loops. It just became too tiresome, joyless. I just want to watch my conurbation... happen, like I used to in earlier version of Sim City. So, deleted. Yeah, I'd sunk some time into it but so what? You got to draw the line somewhere. Plus the price of cheesecake in that city's economy oh boy.
 
 The boy and I got our environment monitor up and running. [A kit from Pimoroni](https://shop.pimoroni.com/products/enviro?variant=31155658457171), a lower end Raspberry Pi, and some other bits and piece and we were away making it. (There’s some really good instructions [on Pimoroni’s website](https://learn.pimoroni.com/tutorial/sandyj/enviro-plus-and-luftdaten-air-quality-station)) 
 
