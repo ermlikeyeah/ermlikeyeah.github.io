@@ -9,7 +9,7 @@ tags:
 ---
 Maps or models, eh. Is there a difference? What is the difference? Does it matter?
 
-Early in the week I rejigged the layout of the desk in the shed, swapping the MacBook from being in the centre and the monitor to the side. Now the monitor is front and centre. With the greyer days this week I got the light back over the door and on most of the time. I've had some good days in the shed, and one great day. The move around helped, more space for my hands, pads and multiple mugs as I drink through the day.
+Early in the week I rejigged the layout of the desk in the shed, swapping the MacBook from being in the centre and the monitor to the side. Now the monitor is front and centre. With the greyer days this week I got the light back over the door and on most of the time. I've had some good days in the shed, and one great day. The move around helped, more space for my hands, pads and multiple mugs as I drink through the day. Working with a group of really constructive people for most of the week helped too. Man, so good to work with a group that want to keep doing continual gradual improvements to a service and go about it in a way that is so focused on betterment. Chef's kiss and all that.
 
 {% include image.html url="/assets/monitor-middle.jpg" description="The monitor in the middle" %}
 
