@@ -13,7 +13,7 @@ Early in the week I rejigged the layout of the desk in the shed, swapping the Ma
 
 {% include image.html url="/assets/monitor-middle.jpg" description="The monitor in the middle" %}
 
-I took a little time out to catch up with some friends in the industry and had a couple of mentoring sessions, organised through Mega Mentor. If you've not caught up with some friends recently, I recommend it! Do it! Send that message now! And if you're looking for mentorship, head to the Mega Mentor website. Other mentors are available.
+I took a little time out to catch up with some friends in the industry and had a couple of mentoring sessions, organised through Mega Mentor. If you've not caught up with some friends recently, I recommend it! Do it! Send that message now! And if you're looking for mentorship, head to [the Mega Mentor website](https://mega-mentor.com). Other mentors are available.
 
 I have views on being a mentor, seeking a mentor and having a mentor. This week I had a strong feeling as a mentor _sometimes_ when you talk with people they are waiting for you as a mentor to set them off, like you're a career advisor at school. Don't wait for the mentor to nudge you onwards. Do some of that yourself. Come along with an idea of something you've started already, something you're in the middle of. Maybe it is just the relationships I have had before but those feel the most engaging sessions, relationships even.
 
