@@ -7,4 +7,9 @@ tags:
 - 2020 weeknotes
 
 ---
+{% include image.html url="/assets/monitor-middle.jpg" description="" %}
+
+{% include image.html url="/assets/making-monitor.jpg" description="" %}
+
 {% include image.html url="/assets/boy-monitor.jpg" description="" %}
+
