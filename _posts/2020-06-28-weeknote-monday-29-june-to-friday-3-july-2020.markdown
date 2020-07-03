@@ -25,7 +25,7 @@ The boy and I got our environment monitor up and running. [A kit from Pimoroni](
 
 {% include image.html url="/assets/making-monitor.jpg" description="Connecting everything and setting the Pi up" %}
 
-We’re now sharing environment data from the end of the garden (the monitor is attached to the shed). Tehnically we’ve two sensors: sensor ID 47639, a particulate matter sensor (which reads like one of the subtitles from Dark), and sensor ID 47640, a temperature/humidity/pressure sensor. You can see them on [this map](https://maps.sensor.community/#6/51.165/10.455). I am enjoying see what our sensor thinks is the temperature and what Dark Skies reports it as. And making the data open feels good. I've really enjoyed making physical products/things again the last couple of weeks (I have also had some time to create a prototype device for a client with another Pi and a small touchscreen).
+We’re now sharing environment data from the end of the garden (the monitor is attached to the shed). Tehnically we’ve two sensors: sensor ID 47639, a particulate matter sensor (which reads like one of the subtitles from Dark), and sensor ID 47640, a temperature/humidity/pressure sensor. You can see them on [this map](https://maps.sensor.community/#9/53.8687/-1.7358). I am enjoying see what our sensor thinks is the temperature and what Dark Skies reports it as. And making the data open feels good. I've really enjoyed making physical products/things again the last couple of weeks (I have also had some time to create a prototype device for a client with another Pi and a small touchscreen).
 
 {% include image.html url="/assets/boy-monitor.jpg" description="The boy attaching the monitor to the side of the shed" %}
 
