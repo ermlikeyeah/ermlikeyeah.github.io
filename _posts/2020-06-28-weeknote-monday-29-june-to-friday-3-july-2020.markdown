@@ -7,9 +7,11 @@ tags:
 - 2020 weeknotes
 
 ---
-Maps or models, eh. Is there a difference? Does it matter?
+Maps or models, eh. Is there a difference? What is the difference? Does it matter?
 
-I rejigged the layout of the desk in the shed, swapping the MacBook from being front and centre and the monitor to the side, so now the monitor is front and centre. With the greyer days this week I got the light back over the door and on most of the time. {% include image.html url="/assets/monitor-middle.jpg" description="The monitor in the middle" %}
+I rejigged the layout of the desk in the shed, swapping the MacBook from being front and centre and the monitor to the side, so now the monitor is front and centre. With the greyer days this week I got the light back over the door and on most of the time.
+
+{% include image.html url="/assets/monitor-middle.jpg" description="The monitor in the middle" %}
 
 I finished the third season of the TV show Dark. Which means I have finished all of Dark.
 
