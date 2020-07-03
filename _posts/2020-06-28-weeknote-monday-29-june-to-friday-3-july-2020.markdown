@@ -33,4 +33,6 @@ What have you been making recently?
 
 I published [a run note for June](https://www.ermlikeyeah.com/run-note-for-june-2020/). My running this week has been a bit off to be honest. It’s Friday and so far I’ve only been out on Tuesday. I wanted to give my leg a rest on Monday and Wednesday. Yesterday my legs felt a little pang. so rest again. Today the same, but I am gonna get out after I publish these and see where I go.
 
+Talking of publishing [ma boi Scott](https://twitter.com/NoCarsScott) got [his blog's first post out there](https://scottsmith93.github.io/blog/2020/07/02/welcome). Support people talking openly and support them constructively. 
+
 And finally July has snook up on me. My current work contract is up next month — next month! — so I am going to have to start looking and chatting. I've shared a few interesting roles the last few months but not really taken a moment to think "Is that for me?" I will be now. I've had a couple of chats already this week after sharing the news on Twitter and LinkedIn, and yes [my ten questions for a new role](https://www.ermlikeyeah.com/ten-questions-for-a-new-role/) were used. If you hear or know of anything that you think I’d be good at and/or interested in, let me know. Being good at the role and the role being interesting are definitely my two main acceptance criteria.
