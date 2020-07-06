@@ -48,7 +48,7 @@ Sometimes the boy hits blockers, he has a question and needs to speak to a teach
 2. By email.
 3. By comments on a Trello board (for one subject).
 
-There is a wider variance is response though, some teachers are more immediately available, others we do not get  a response for several days. But the boy moves that sticky note onto another day. He also now tries to get on with work with a slower response earlier in the week. Time is a thing we miss from so many process maps.
+There is a wider variance is response though, some teachers are more immediately available, others we do not get a reply for several days. But the boy moves that sticky note onto another day. He also now tries to plan work with a slower response earlier in the week. Time is a thing we miss from so many process maps.
 
 The boy is enjoying the way him he can move his work around. If he was at school his timetable would be more rigid. He also talks to his friends as they work and they align their work so they can do it together, almost like self organising teams.
 
