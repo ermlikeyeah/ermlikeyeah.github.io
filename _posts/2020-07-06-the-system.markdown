@@ -52,7 +52,9 @@ There is a wider variance is response though, some teachers are more immediately
 
 The boy is enjoying how he can move his work around to suit his... preferences, whether they are like/not-like for a subject, mood, difficulty, whatever. If he was at school his timetable would be more rigid. He also talks to his friends as they work and they align their work so they can do it together, almost like self organising teams.
 
-To get to this order has meant working with the boy to lay it out as clear as we can. A parent I talked to said they went through the same thing.
+To get to this order has meant working with the boy to lay it out as clear as we can. And it isn't strenuous or taxing. If it was we'd pull back, go another way. At the moment it works.
+
+Another parent I talked to said they went through the same thing, working it all out so their child could get on.
 
 As a parent I am seeing more of his schoolwork than I was before. The Monday review of _what is to be done_, looking over what he has been doing and looking at the responses to his work. There is a visibility at the moment I don't feel we had before. And sometimes the work sounds great. As I tap this his music homework is about the history of rap music. I just so wanna do that work too!
 
