@@ -56,4 +56,4 @@ To get to this order has meant working with the boy to lay it out as clear as we
 
 As a parent I am seeing more of his schoolwork than I was before. The Monday review of _what is to be done_, looking over what he has been doing and looking at the responses to his work. There is a visibility at the moment I don't feel we had before. And sometimes the work sounds great. As I tap this his music homework is about the history of rap music. I just so wanna do that work too!
 
-I hope there's a period of reflection over the coming couple of months to see what lessons teaching can learn from this, and they involve the students and parents in that.
+I hope there's a period of reflection over the coming couple of months to see what teaching has and can learn from this, and they involve the students and parents in that. We've become more deeply involved participants of the education system.
