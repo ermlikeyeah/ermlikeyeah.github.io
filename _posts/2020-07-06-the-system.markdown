@@ -24,9 +24,9 @@ A series of digital tools for getting the work and knowing where to look for whi
 
 If the boy was at school he would have been in a lesson in a classroom, noted down the details of any work in his journal and planned from that. It wasn’t perfect. We always had to check he wasn’t leaving it all to the last minute. _Where is that sheet he needs to do the work?_ still happens in secondary school. But there was a process, a system even, and the journal was the record of his mind processing what was needed.
 
-Gathering and analysis can be overlooked when we rush to digitalise processes. Long lists of _things to do_ don't help you as a person work through what you need to do and when by. You still need to order it. This can be overwhelming if you are giving most things or every thing all at once.
+Gathering and analysis can be overlooked when we rush to digitalise processes. Long lists of _things to do_ don't help you as a person work through what you need to do and when by. You still need to order it. This can be overwhelming if you are given most things or every thing at once.
 
-To help with this at the start of the week we have s all session with a sticky note for every subject the boy studies. We look through the systems the lessons use and see what is needed. This means a look at — and that means a good look over — the work set. We see what is needed and write onto each subject sticky note:
+To help with this at the start of the week we have small session with a sticky note for every subject the boy studies. We look through the systems the lessons use and see what is needed. This means a look at — and that means a good look over — the work set. We see what is needed and write onto each subject sticky note:
 
 1. The subject.
 2. A brief description of the work. Not “work on Trello” but a brisk overview of the work, like “answer questions about rap”.
