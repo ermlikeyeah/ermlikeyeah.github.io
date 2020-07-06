@@ -1,9 +1,9 @@
 ---
 layout: post
 title: You say persona, I say person-ah
-date: '2014-11-28 18:15:00'
----
+date: 2014-11-28 18:15:00
 
+---
 A couple of nights ago I presented at [Forefront](http://forefront.cc/), a regular gathering in Leeds for people who work on and with the front-end of digital products, be they designers, coders, or people just interested in that sort of thang.
 
 At short notice I rustled together a talk entitled *You say persona, I say person-ah*. If you want to cut to the chase, below are the slides, and after that some quick notes on that.
@@ -28,6 +28,6 @@ Rosser’s takes on products: *it* has to actually have *something about it in t
 5.
 The bulk was on my frustration with the *person and user story approach* to create products (as well as the multiple flavours of persona on the scale various people adopt) - and how I try to employ a sideways step (a step *upwards* is little too egotistical) to focus more on what are the user’s, the audience’s motivations in a way that personas cannot, which we refer to as *characters* rather than personas. I touch upon it in the talk (and may blog more fully on it later).
 
-You can also view the slides by scrolling back up or [by nipping over to Speakerdeck](https://speakerdeck.com/idlesi/you-say-persona-i-say-person-ah). There’s no audio track, so these are very much the accompinment to the talk. But there are people, ideas, explorations in there that you might want to look through and think about.
+You can also view the slides by scrolling back up or [by nipping over to Speakerdeck](https://speakerdeck.com/idlesi/you-say-persona-i-say-person-ah). There’s no audio track, so these are very much the accompaniment to the talk. But there are people, ideas, explorations in there that you might want to look through and think about.
 
-If you have any feedback comment below - or feel free to shout out [through Twitter](http://www.twitter.com/ErmLikeYeah) or [by email](mail:simoncwilson@gmail.com).
+If you have any feedback comment below - or feel free to shout out [through Twitter](http://www.twitter.com/OfficeOfWilson) or [by email](mail:simoncwilson@gmail.com).
