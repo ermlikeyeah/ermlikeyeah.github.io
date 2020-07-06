@@ -32,7 +32,7 @@ To help with this at the start of the week we have small session with a sticky n
 2. A brief description of the work. Not “work on Trello” but a brisk overview of the work, like “answer questions about rap”.
 3. Any deadline (sometimes there is a time on a day not just a day, such as _12pm on Friday_; there have been several pieces of work that have to be done on a particular day).
 
-Looking over the work gives us a rough idea of the size of the work, which we don't record because it'd make the sticky notes too busy. We then put the stickies onto a sheet of A3, with a row for each day of the week. We try to have three subjects for each day, sometimes one or two more if they're "smaller" pieces of work. As they are sticky notes we can move them around as much as we like. And once we are done doesn't mean we are finished.
+Looking over the work gives us a rough idea of the size of the work, which we don't record because it'd make the sticky notes too busy. We then put the stickies onto a sheet of A3, with a row for each day of the week. We try to have three subjects for each day (handily the paper width limits us to three), sometimes one or two more if they're "smaller" pieces of work. As they are sticky notes we can move them around as much as we like. And once we are done doesn't mean we are finished.
 
 As we go through anything that is needed beyond the current week we place to the left of the paper, _for later_. As work is done the boy moves them over to the right of the paper, _done_, complete with _a green tick_ because he thinks green is _a positive colour_ that _shows movement_.
 
