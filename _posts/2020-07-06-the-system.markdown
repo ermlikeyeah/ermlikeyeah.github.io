@@ -18,7 +18,11 @@ Things heated up at my end a few weeks back when the amount of the boy’s schoo
 
 {% include image.html url="/assets/schoolwork-map.jpg" description="The latest version of the schoolwork map. It changes every week." %}
 
-An assumption that proved to be wrong early on: Each subject has one tool. Incorrect. Maths had two. We had to update and adapt as we went along.
+It's all about assumptions as we go along.
+
+An assumption that continues to be proven correct: Not every subject starts in the same place (on Teams). 
+
+An assumption that proved to be wrong early on: Each subject has one tool for doing the work. Incorrect. Maths had two. We had to update and adapt as we went along.
 
 A series of digital tools for getting the work and knowing where to look for which subject was one thing.
 
