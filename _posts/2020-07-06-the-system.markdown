@@ -6,11 +6,18 @@ tags:
 - systems
 
 ---
-How’s homeschooling been going four you?
+How’s homeschooling been going for you?
 
-Things heated up at my end a a few weeks back when the amount of the boy’s school work increased. We got access to an email address we could access online through Outlook, we got access to Teams, then a Trello board, and then other things. We were learning the what and how as we went along, each subject getting in touch separately with their process. I started to map it all lightly, the process for each, where the work is set and done, how to talk to teachers, how to “submit” etc.
+Things heated up at my end a few weeks back when the amount of the boy’s schoolwork increased. We got access to an email address we could access online through Outlook, we got access to Microsoft Teams, then a Trello board, and then other things. As each subject getting in touch separately with their process we were learning _the what_, _the how_ and _the when_ as we went along. I started to map it all lightly.
+
+1. How does the boy find out what work he has been set?
+2. Where and how does he do the work done? (Online: What system? Offline?)
+3. Support: What is the boy needs to talk to his teacher/s abotu the work?
+4. Submission: How is the work sent to the teacher/s?
 
 {% include image.html url="/assets/schoolwork-map.jpg" description="The latest version of the schoolwork map" %}
+
+
 
 Getting the work and knowing where to look was one thing.
 
