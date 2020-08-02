@@ -21,6 +21,8 @@ After [257 kilometres in June](/run-note-for-june-2020/) I felt positive about J
 * A [weekday lunchtime run](https://www.strava.com/activities/3790043636) out along the canal and back along the Aire
 * [Heading out through Wrose and Eccleshill](https://www.strava.com/activities/3751920954)
 * Just [the one session running round the school pitches](https://www.strava.com/activities/3725144428) this month, but early morning and listening to Chris Hawkins was a good combo
+* Got back on the bike towards their end of the month. It helped when I was recovering from injury. Going to try and do it two or three times a week
+* Bought a copy of [Trail and Fell Running in the Yorkshire Dales](https://www.cicerone.co.uk/trail-and-fell-running-in-the-yorkshire-dales) and eyed up a couple of treks for next month
 
 #### Socks
 
