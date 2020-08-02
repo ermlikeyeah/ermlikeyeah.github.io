@@ -27,7 +27,7 @@ After [257 kilometres in June](/run-note-for-june-2020/) I felt positive about J
 
 #### Socks
 
-In May the pins and needles in my feet later in my runs were starting to get extremely painful. There were points when I was running and couldn’t feel my feet, wondered if my feet might give way. I loosened the laces on my runnings shoes more and more, before the runs and during the runs. But I started to spot a pattern: When I wore thinner running socks very rarely did I suffer from pins and needles.My theory: My thicker, even slightly thicker, running socks were the cause. I tested this theory throughout July, relying completely on thinner running sock. I bought more thinner runnings socks, Rockay and Soar ones to help with this. I didn’t suffer from pins and needles once.
+In May the pins and needles in my feet later in my runs were starting to get extremely painful. There were points when I was running and couldn’t feel my feet, wondered if my feet might give way. I loosened the laces on my runnings shoes more and more, before the runs and during the runs. But I started to spot a pattern: When I wore thinner running socks very rarely did I suffer from pins and needles.My theory: My thicker, even slightly thicker, running socks were the cause. I tested this theory throughout July, relying completely on thinner running sock. I bought more thinner runnings socks, Rockay (who do a nice line in socks made from recycled materials) and Soar ones to help with this. I didn’t suffer from pins and needles once.
 
 #### Retiring running shoes
 
