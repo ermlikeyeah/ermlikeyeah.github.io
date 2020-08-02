@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Run note for July 2020
-date: 2020-07-01 05:50:00 +0000
+date: 2020-08-02 07:50:00 +0000
 tags:
 - running
 - run notes
@@ -9,32 +9,33 @@ tags:
 - month note
 
 ---
-After running 218km in May at the start of June I’d run 718km in the year so far. I was aiming to do 300km in June. A bold target after being badly injured a couple of months back, but something that might give me a focus and then some doing rhythm throughout the month.
+During July I ran 162 kilometres. This brought my total for 2020 to 1138 kilometres. That’s an average of 162 kilometres every month so far, which is weird synchronicity with the distance I ran in July.
 
-Spoiler: I managed 257km. Not 300km, but still a daily average of 8.6km a day. I think I had just five days off too. Doing 10km a day felt a little too beyond my legs but also my schedule. I am not disappointed. It was a fun month of running, my injured leg is still working well again and 257km is the most distance I’ve run in a month. I am now up to 975km ran this year.
+I have a spreadsheet I keep track of this stuff which you can [view online](https://www.icloud.com/numbers/0cWhQqgPDF2FKXSnUdB79lWVw#running_and_riding). I also [use Strava](https://www.strava.com/athletes/41247532) to gather my data.
 
-The first half of the month still featured a lot of lapping the school sport pitches which dominated April and May’s running. I went for the occasional session down to the canal, get some road and trails in rather than the grass. The monotony of the loops was fine most days and with Everything Else, the solitude of the pitches was comforting. But as the month went on I started to get away from the fields laps for some explorations.
+After [257 kilometres in June](/run-note-for-june-2020/) I felt positive about July. I planned for another good month! I didn’t plan to feel so drained in the first week through. Just devoid of energy, my legs so stiff and tired. I had three days of rest — no running and also making sure I was eating well — and felt better for it. Longer working days and fam needs also penned in the time I could run some days, which also hit my overall distance. I took what I could and enjoyed it while I did.
 
-[A Saturday morning head out towards Baildon Moor](https://strava.app.link/q4MbMgw7K7) was a tough uphiller to the moor, but then a bit easier back home as it was downhill. And I learned Tong Park isn’t in Tong on the other side of Bradford, it's near Baildon.
+#### Highlights
 
-[In the middle of the month](https://strava.app.link/LqfOMhl7K7) I headed out through Thackley to explore the trails by Windhill play area before heading over to Esholt. [Yesterday](https://strava.app.link/MbJaGqO6K7), the last day of June,  I went out to the play area again for another explore, went on some different trails and did a handy 6km loop.
+* Towards the end of the month I felt I was starting to have some good pace going again and over distance too, which [this Sunday run](https://www.strava.com/activities/3786878726) felt the culmination of. Felt reassuring after the knock the leg injury caused.
+* A [weekday lunchtime run](https://www.strava.com/activities/3790043636) out along the canal and back along the Aire 
+* [Heading out through Wrose and Eccleshill](https://www.strava.com/activities/3751920954)
+* Just [the one session running round the school pitches](https://www.strava.com/activities/3725144428) this month, but early morning and listening to Chris Hawkins was a good combo
 
-On fathers’ day I took [a morning jaunt up to Rombald’s Moor](https://strava.app.link/nGFDsz96K7) and got a little lost on [the way back](https://strava.app.link/k1avdTd7K7) (and managing to have an ice cream) made for a fun 24km session.
+#### Socks
 
-[An end of week explore](https://strava.app.link/AO3ui9Z6K7) of the trails on the south side of the canal towards Calverley, against a glorious end of day sky. I just happened to see the trail on an online map and when the chance came to go have a look, I did.
+In May the pins and needles in my feet later in my runs were starting to get extremely painful. There were points when I was running and couldn’t feel my feet, wondered if my feet might give way. I loosened the laces on my runnings shoes more and more, before the runs and during the runs. But I started to spot a pattern: When I wore thinner running socks very rarely did I suffer from pins and needles.My theory: My thicker, even slightly thicker, running socks were the cause. I tested this theory throughout July, relying completely on thinner running sock. I bought more thinner runnings socks, Rockay and Soar ones to help with this. I didn’t suffer from pins and needles once.
 
-After reaching 250km for the month on the 28th I decided to have a day off from running. The back of my legs felt a little too tight. I could have ploughed on, done two more 10km days, but I listened to my body. I felt a lot fresher for my last run of the month. I hope it sets June up well.
+#### Retiring running shoes
 
-I’m just 24km away from sneaking past 1000km for the year. The 2000km target for the year seems doable now.
+My Hoka One One Clifton 6s reached the end of the line. Retiring shoes is harder than it should be. A shoe that helps you along on an enjoyable run plays a part in that. The more difficult runs you endure and get through, the shoes helped. (As long as they weren’t the reason for the difficulties!) I weirdly develop an attachment to the shoes.
 
-Oh, and the dog reminded me she’s not that keen on this running lark. I had [one aborted run](https://strava.app.link/DzVtAGe8K7) with her. Dogs.
+I am loathe to just sling any sports shoes straight into the bin, but also loathe to pass them onto a charity shop. As a running shoe their performance has dropped. If I am retiring them because they could play a part in injuring me if I did pass them they’d need some warning. “My stompy running style has battered the soles! Don’t use these for running!” In theory I could retire three pairs of running shoes in 2020, and I don’t want them to be contributing to waste tips, I’d like them to be recycled. This is proving way harder than I thought. I must be missing something obvious but I can’t find anything. I’ll keep my blue Hokas to one side until I do.
 
-I have just tried to enjoy it all in June, thankful I can get out, thankful I can run again, especially after the injury. I've not worried about pace or times. Just get out and experience whatever happens.
+#### Looking onwards
 
-What's for July? Aim for 300km again. Who knows. It might happen.
+I have 862 kilometres still to run before the end of 2020. That is an average of 172 kilometres for the remaining five months of the year.
 
-#### Reads
+I want to average at least 6 kilometres a day in August, totalling 186 kilometres for the month. My hope is with some time away from work, assuming It being August there will be some decent weather, and lots of good run options from my front door, 186 kilometres will be _at least_.
 
-[Good to Go](https://www.goodreads.com/book/show/53458163). Basically, sleep is good for you, but definitely worth a read or listen (there’s an audiobook of it). 
-
-[To Run My Best Marathon at Age 44, I Had to Outrun My Past](https://www.wired.com/story/marathon-speed-tech-training-outrunning-my-past/), a brilliant piece by Nicholas Thompson over on Wired.
+Make sure I have four rest days and some slower runs in there though.
