@@ -8,9 +8,11 @@ tags:
 - product lifecycle
 
 ---
-In [my run note for last month](/run-note-for-july-2020/) I briefly mentioned I had retired a pair of running shoes. 
+In [my run note for last month](/run-note-for-july-2020/) I briefly mentioned I had retired a pair of running shoes and what to do next with them.
 
-I feel if we’re trying to encourage people to be active (and I have been one of those people over the last few years, but been perfect willing to) we should also understand and enable a responsible lifecycle for the things in those activities. Encouraging more people to be active should mean more things. Nothing lasts forever which should mean more waste. If we just drop them in the trash that's already a lot, possible a lot more running shoes that [take many years to degrade](https://www.theguardian.com/fashion/2020/mar/21/some-soles-last-1000-years-in-landfill-the-truth-about-the-sneaker-mountain). No running shoes I’ve bought comes with an “end of life” suggestion.
+I like running. I wearing running shoes to help me run. Obvious, sure, but the emphasis there is on the purpose and usability of the shoes against that purpose (against, say, an aesthetics or brand values). When the shoes struggles to perform adequately or even impedes my running I have to retire the shoes.
+
+Alongside this if we’re trying to encourage people to be active (and I have been one of those people over the last few years, but been perfect willing to) we should also understand and enable a responsible lifecycle for the things in those activities. Encouraging more people to be active should mean more things. Nothing lasts forever which should mean more waste. If we just drop them in the trash that's already a lot, possible a lot more running shoes that [take many years to degrade](https://www.theguardian.com/fashion/2020/mar/21/some-soles-last-1000-years-in-landfill-the-truth-about-the-sneaker-mountain). No running shoes I’ve bought comes with an “end of life” suggestion.
 
 Finding things that are made from recycled materials, easier. That’s the start of my engagement with the product. But when I’m done? Have read about Nike in the US taking finished running shoes to make sports pitches but so so few schemes, manufacturers or elsewhere.
 
