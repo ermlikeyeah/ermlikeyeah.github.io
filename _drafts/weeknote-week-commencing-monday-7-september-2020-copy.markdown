@@ -1,0 +1,26 @@
+---
+layout: post
+title: Weeknote, week commencing Monday 7 September 2020-(copy)
+date: 2020-09-14 11:00:00 +0000
+tags:
+- weeknotes
+- 2020 weeknotes
+
+---
+Coffee: I’ve been limiting my drinking to no more than two mugs a day, none after lunchtime. Knock on effect: I’ve been drinking more tea. I went right off black tea a few years ago and went right on to green tea. But green tea after green tea after green tea can get a little monotonous, so I’ve been exploring the world of teas more. I got a sample box from [Mission](https://missionuk.com) a month or so back. Their [energise tea](https://missionuk.com/products/energise-pyramids) has given me a little lift when I’ve needed it. Anyway. Hit me with your favourite teas.
+
+With a few gaps in my diary I opened it up wider for half hour slots to have catch ups. I’m so glad I did. The last 12 months I’ve not really connected with any sense of a wider network, really gone into my shell. I’ve started popping back to meet-ups (which lockdown has helped with because they’re all remote) and having remote chats. The deluge from opening my calendar was unexpected, lots of sessions, talking with people from contrasting ends of spectrums: people in our “digital industry” to people who aren’t; people early in their career to people who’ve been at it a while; “employees” to “business owners”; some were just catch up chats, others more of a focus. I am doing it again this coming week and every week going forward. If you fancy a hello, a catch up or talking about something [see what’s free here](https://calendly.com/officeofwilson/catch-up).
+
+I like videogames. I try to play them here and there when I can. Even really playing one game at a time this means it takes me _a while_ to get through anything. I’ve recently been focused on _Control_ on the PS4. I’d hit a point coming into the week where I just couldn’t get past a big bad and was tempted to give it up. You know that point when you hit a point in _anything_ that is just a time sink? No matter what you do, you’re just spending time making no progress, then you become aware there’s other things to do elsewhere, life’s too short and all that? I didn’t want to give up, I was quite enjoying following the story. And all that brutalist architecture is quite my thing. I gave it _just one more go, one last go_ and a-ha got past the big bad. The rest of the game was relatively straightforward. By the end of the week I had finished playing through the story of Control. Glad I had. The story was worth it.
+
+_Assemble with Care_ was downloaded onto the iPad over the weekend, and I got an hour on it, and coooooo-eeeee that’s a sweet sweet little game, softly softly introducing you to how things are made by taking them apart and fixing them. Taking my time with it as it seems short and I don’t want that experience to be over too soon.
+
+I enjoyed listening to Badly Drawn Boy’s recent album, Banana Skin Shoes, a couple of times — and by listen I mean _listen_ not just passively have it on in the background. When was the last time you focused on an album like that?
+
+The plan was for this week to be a softer start back working after my first weeks off in 2020. I’ve been a bit picky about what I do, making sure whatever I do has some level of interestingness for me. My attempts to get a full time job elsewhere didn’t work out so I had a good think about if I keep doing “my own thing” _why am I doing that?_ which helps form _what is that?_. This means I say “no” a lot more than I might have done previously. It’s been good to get back working doing some work with a group of good people at a place with a strong idea of product, who all treat each other and their work with mutual respect. It’s very _grown up_. Also seeds for more work were laid. Not as soft a week back as I planned but still nothing strenuous.
+
+After a couple of shorter runs earlier in the week it became a frustrating week of running, niggles throughout the week making me think twice about going out. By Saturday I felt _OK_ and went for a run while the boy was at basketball but 4km in my right calf started playing up. Slowing up I still got in a 10km session round north-west Leeds, but it wiped out my chances of doing a virtual half marathon the next day. I felt a bit mopey that I hadn’t managed to hit the 300 miles mark for the Great North Run Solo “gold”. But then I realised I'd run 422km in 2 months and 2 weeks and still on track to run 2000km in 2020, even after a big injury. To make up for No Running On Sunday I got on my bike, still hooked up to the turbo trainer, and had an hour pedalling. I keep saying I’ll do a bit more cycling — and by “a bit more” I mean even doing a bit — but I will I will do two or three sessions this coming week.
+
+Seeing out the weekend watching game 6 of Western Conference semi-final between the LA Clippers and Denver Nuggets was just the ticket. The Nuggets, needing to win to stay in the playoffs, were 19 points down early in the third quarter and were 13 points up by the end of a super game of basketball. There’s a lot of social media talk about Steve Kerr’s player coaching, but the Nuggets’ Michael Malone doesn’t anything near as much praise. He should.
+
+My reading wasn’t that great this week and I’ve still to finish off season 2 of Luke Cage. Goals for the coming week.
