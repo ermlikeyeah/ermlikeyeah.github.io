@@ -3,6 +3,9 @@ layout: post
 title: Shed life, then and whatever is next
 date: 2020-09-23 16:40:00 +0000
 tags:
+- Covid-19
+- lockdown
+- work life
 - shed life
 - shed
 
