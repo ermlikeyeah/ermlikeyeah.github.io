@@ -14,13 +14,13 @@ Going into my little summer break I wrote a little list of things I was going to
 
 One of those was about my shed life. I’d have probably sat down for an hour, banged out a rough starter.
 
----
+***
 
 For the last five years I didn’t have to worry about running a sizeable company any more, just the one employee, me, and no need to have an office space. I worked “on site” for clients the vast majority of the time. It worked for me: I like being in the workplaces. Sure they didn’t quite feel as comfortable and comforting as my days in studios (man, I missed the background noise of 6 Music or an album someone put on) but you could get the work done with the people you worked with.
 
 Two years on, about three years ago, a combination of working for a remote first team and starting to pick up a few smaller bits of consultancy work where I could work remotely made me look at my working from home arrangements. There wasn’t somewhere quiet and comfortable I could work at home, even one day a week. I’d considered renting a desk, that sort of thing. Browsing around Homebase I saw some sheds, I went a shed, felt “this might be alright”, noted the measurements, but thought nothing more. A couple of weeks later I was clearing a compost area in the top corner of the garden, and noticed it was the right width for a shed. I found one that seemed to be sturdy, cheap enough and had enough light coming in to not feel I was locked away. Ordered it. Put a base down. Made the shed. Put a table and chair in, voila MVP office. There’s a shot of it in its early days in [this post](https://www.ermlikeyeah.com/shed-patterns-workshop/).
 
----
+***
 
 That would have been the outline. I would then have added some more detail on that, how it iterated. The shed got a power cable up to it, I got some shelve, moved some books, hung a whiteboard. I might have dug up some pictures. But I never got round to writing it.
 
@@ -32,4 +32,4 @@ Over summer I decided I couldn’t shed it all the time. I wanted to get back to
 
 Yesterday the government outlined plans for the immediate future. Work from home wherever possible. That means putting my plans of working from somewhere else on ice. That means working from the shed again. And for the dread of sitting there through the shortening and then short days, at least I have somewhere quiet to go and do my work, and I have work to do. And I can listen to BBC 6 Music most of the day.
 
-*If you’re looking ahead to the coming months with a sense of dread at being cooped up over the last six months I’ve been giving up half hour slots in my diary for others to say hi, catch up and maybe talk about a problem you’re facing. As the ad used to say it’s good to talk. You can book some time through [my Calendly page](https://calendly.com/officeofwilson/catch-up) or [drop me a line another way](/contact).*
+_If you’re looking ahead to the coming months with a sense of dread at being cooped up, over the last six months I’ve been giving up half hour slots in my diary for others to say hi, catch up and maybe talk about a problem you’re facing. As the ad used to say it’s good to talk. You can book some time through_ [_my Calendly page_](https://calendly.com/officeofwilson/catch-up) _or_ [_drop me a line another way_](/contact)_._
