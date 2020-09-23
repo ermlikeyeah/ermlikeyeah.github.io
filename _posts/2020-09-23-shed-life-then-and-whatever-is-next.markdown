@@ -12,7 +12,7 @@ tags:
 ---
 Going into my little summer break I wrote a little list of things I was going to do. Even for such a little list in the end I did not much of it. For the first time in years I had a break where I did nothing work related. I didn’t reach out to anyone to talk about business life (and neither did they, because turns out they were off too). I didn’t pick up a single book about work, going for books about running and graphic novels. Any work related blog posts became lurking tabs in my browser for later. Work related podcasts? Avoided. I didn’t make a start on two pieces of writing I had in mind either.
 
-One of those was about my shed life. I’d have probably sat down for an hour, banged out a rough starter.
+One of those was about my shed life, having a shed for a home office. I’d have probably sat down for an hour, banged out a rough starter.
 
 ***
 
