@@ -15,7 +15,7 @@ Up front here I find this friend an incredibly level headed person, who always h
 
 My friend explained further that they felt they couldn’t have a healthy conversation about their work with their current team members, “tear down” sessions felt verging on personal attacks, tear downs on the person’s ways of working. “Who is wrong here: Me or the team?”
 
-I felt a little at unease. I’d started this discussion by briefly sharing with my friend a workshop I’d done recently, the prep I did — what tasks, who I did the prep with — and actually running the workshop and setting up some actions off the workshop. Sharing. Listening. Constructive, helpful discussion, circling back to sharing and listening. It felt _respectful_, people working with other people who have a whole heap of appropriate experience in the workshop topic. It felt _grown up_, _mature_.
+I felt a little at unease. I’d started this discussion by briefly sharing with my friend a workshop I’d done recently, the prep I did — what tasks, who I did the prep with — and actually running the workshop and setting up some actions off the workshop. The workshop was full of sharing, listening, understanding, constructive and helpful discussion circling back to sharing and listening. It felt _respectful_, people working with other people who have a whole heap of appropriate experience in the workshop topic. It felt _grown up_, _mature_.
 
 My friend and I worked through what they could do, see if the tone within their team could be better, for them and the work the team was doing.
 
