@@ -19,4 +19,4 @@ I felt a little at unease. I’d started this discussion by briefly sharing with
 
 My friend and I worked through what they could do, see if the tone within their team could be better, for them and the work the team was doing.
 
-Afterwards the conversation made me reflect on _tone_, how we set things up and how we go about doing stuff, the lines between understanding and dismissiveness, confidence and arrogance, encouraging and bullying, and so so many other pairings. It made think about a couple of things where the tone could be better.
+Afterwards the conversation made me reflect on _tone_, how we set things up and how we go about doing stuff, the lines between understanding and dismissiveness, confidence and arrogance, encouraging and bullying, and so so many other pairings. It made think about a couple of things I am involved with where the tone could be better. I will work on that.
