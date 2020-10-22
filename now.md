@@ -12,6 +12,8 @@ I am currently on a short term contract helping [Pilot Works](https://pilot.work
 
 I try to write [week notes](/tags#weeknotes) which sometimes mention work and a more specific [monthly work note](/tags#work%20notes).
 
+I [offer up half hour spaces in my diary](http://calendly.com/officeofwilson/catch-up), a chance to say hi, catch up or talk about a problem.
+
 I coordinate the [Leeds gov design meets](/leedsgovdesign/), a regular meet-up for people in and around Leeds who are designing and making public services.
 
 I have no upcoming speaking engagements. [Get in touch](/contact) if you would like me to do something. If you have something specific in mind that is a good start too.
