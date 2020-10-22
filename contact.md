@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Get in touch
-permalink: /contact/
----
+permalink: "/contact/"
 
+---
 You can contact and connect with me by:
 
 * Email: [simoncwilson@gmail.com](mailto:simoncwilson@gmail.com)
+* [Book a half hour catch up in my diary](http://calendly.com/officeofwilson/catch-up)
 * [Twitter](http://www.twitter.com/ErmLikeYeah)
 * [LinkedIn](https://uk.linkedin.com/in/siwilson/)
 * [Instagram](https://www.instagram.com/idlesi/)
