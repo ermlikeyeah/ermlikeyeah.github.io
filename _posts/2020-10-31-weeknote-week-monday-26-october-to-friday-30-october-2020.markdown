@@ -83,7 +83,7 @@ The last working afternoon of the week featured the words "typeface", "grids", "
 
 Typically just as things are getting super interesting on the local gov project my time on it is going down. But live in the moment and enjoy while you can, eh.
 
-I did a little work and promoting the second local gov research and design meet-up. We did the first earlier this month, initially just Annie and I putting some time in the diary to chat and inviting others. It ballooned quite quickly, 25 people on the call on the end. In the first meet we put down some topics to talk about, voted, and talked through. We decided to lookinto design systems and playboos in the second meet, so here we are. There are already 35 people signed up. We are doing it remotely, Thursday 5 November, from 1pm GMT until 2pm GMT. You can ["book a place" on Eventbrite](https://www.eventbrite.co.uk/e/local-gov-research-and-design-meet-up-number-2-tickets-126032475527). Come!
+I did a little work and promoting the second local gov research and design meet-up. We did the first earlier this month, initially just [Annie](https://twitter.com/Annie3H) and I putting some time in the diary to chat and then inviting others. It ballooned quite quickly, 25 people on the call on the end. In the first meet we put down some topics to talk about, voted, and talked through. We decided to look into design systems and playbooks in the second meet, so here we are. There are already 35 people signed up. We are doing it remotely, Thursday 5 November, from 1pm GMT until 2pm GMT. Let's see how it goes. You can ["book a place" on Eventbrite](https://www.eventbrite.co.uk/e/local-gov-research-and-design-meet-up-number-2-tickets-126032475527). Come!
 
 #### Some interesting reads
 
