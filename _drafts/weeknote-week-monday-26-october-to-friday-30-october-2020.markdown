@@ -11,15 +11,16 @@ Two days off this week, three days working, three days full of working.
 
 The two days off were for for the kids’ half term and My Birthday. I am now 45 years old and in these times of Stay At Home I was whistled back to my 40th, spending the day at the Barbican and going to Leicester Square to watch Spectre. The new Bond film was due to be released this week, and yeah so I’ve been enjoying the Craig era Bond films.
 
-Last weekend I [asked on Twitter](https://twitter.com/OfficeOfWilson/status/1320626102558199808) for suggestions of non-fiction/loosely based on real events/snippets of real life graphic novels. I used some birthday cash to add to my collection from the suggestions.
-They called us enemy https://www.goodreads.com/book/show/42527866-they-called-us-enemy
-Guy Delisehttps://www.goodreads.com/author/show/46027.Guy_Delisle  - Shenzhen, Pyongyang, Burma Chronicles
-Trinity
-Logicomix
-The Loneliness of the Long-distance Cartoonist
-'Coltrane' by Paolo Parisi
- 300 Frank miller.
-Jeffery Brown's autobiographies
+Last weekend I [asked on Twitter](https://twitter.com/OfficeOfWilson/status/1320626102558199808) for suggestions of non-fiction/loosely based on real events/snippets of real life graphic novels. I used some birthday cash to add to my collection from the suggestions. Sharing the list here as it is quite a good list. You might find it useful. (Links are to Goodreads author and book pages.)
+
+* [They Called Us Enemy](https://www.goodreads.com/book/show/42527866-they-called-us-enemy)
+* [Guy Delise](https://www.goodreads.com/author/show/46027.Guy_Delisle): [Shenzhen](https://www.goodreads.com/book/show/210946.Shenzhen), [Pyongyang](https://www.goodreads.com/book/show/80834.Pyongyang), [Burma Chronicles](https://www.goodreads.com/book/show/5596923-burma-chronicles)
+* [Trinity](https://www.goodreads.com/book/show/13166598-trinity)
+* [Logicomix](https://www.goodreads.com/book/show/6493321-logicomix)
+* [The Loneliness of the Long-Distance Cartoonist](https://www.goodreads.com/book/show/51796259-the-loneliness-of-the-long-distance-cartoonist)
+[Coltrane](https://www.goodreads.com/book/show/13012652-coltrane) by [Paolo Parisi](https://www.goodreads.com/author/show/3022567.Paolo_Parisi)
+* [300](https://www.goodreads.com/book/show/59952.300)
+* [Jeffery Brown](https://www.goodreads.com/author/show/45429.Jeffrey_Brown)'s autobiographies Little Things, [Funny Misshapen Body](https://www.goodreads.com/book/show/6220815-funny-misshapen-body) and A Matter Of Life
 the biography of Josephine Baker by Bocquet
 The collected works of @squires_david
 From Hell by Alan Moore
