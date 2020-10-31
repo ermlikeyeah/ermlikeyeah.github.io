@@ -7,9 +7,13 @@ tags:
 - 2020 weeknotes
 
 ---
-Two days off this week, three days working. 
+Two days off this week, three days working.
 
-Two days off for the kids’ half term and My Birthday. I am now 45 years old and in these times of Stay At Home I was whistled back to my 40th, spending the day at the Barbican and going to Leicester Square to watch Spectre. The new Bond film was due to be released this week, and yeah so I’ve been enjoying the Craig era Bond films.
+#### Two days off
+
+Two days off for the kids’ half term and My Birthday. I am now 45 years old and in these times of Stay At Home I was whistled back to my 40th, spending the day at the Barbican and going to Leicester Square to watch Spectre. The new Bond film was due to be released this week, and yeah so I’ve been enjoying the Craig era Bond films. I just felt a little meh about the wider world.
+
+I spent my birthday painting my son's room, having filled in holes and smoothed them over the day before. IT FEELS LIKE A WORK METAHPOR but I am not going there. And my son now feels happier in his room, so mission accomplished.
 
 Last weekend I [asked on Twitter](https://twitter.com/OfficeOfWilson/status/1320626102558199808) for suggestions of non-fiction/loosely based on real events/snippets of real life graphic novels. I used some birthday cash to add to my collection from the suggestions. Sharing the list here as it is quite a good list. You might find it useful. The links are to Goodreads author and book pages, but please think about buying from an indie bookstore. Thye'll appreciate your custom more than tax-dodging Amazon.
 
@@ -59,19 +63,25 @@ Last weekend I [asked on Twitter](https://twitter.com/OfficeOfWilson/status/1320
 
 Continuing my policy of _start finishing, finish starting_ I finished reading the last three volumes [Ex Machina](https://www.goodreads.com/series/52500) this week, just over _14 years_ since I read volume 2. It’s never too late. Absolutely amazing read.
 
-Three days of working, three days full of working.
+#### Three days of working, three days full of working
 
 I swapped the chair in the shed. As long as I’ve had the shed to work from I’ve had a nifty stool from Ikea, back to it, no arms, goes up and down, swivels. My daughter put her old bedroom chair in the attic and I just fancied _a change_. The height isn’t adjustable, but it’s a comfortable height, it’s got arms and it’s pretty decent for slouching in once in a while. I felt too rigid sat most of the day on the other chair. Yeah yeah _your back, Si_ but sometimes slouching jsut feels right.
 
-Assumptions, sharing early
+It was a few days of head down making things (maps, in-browser prototypes) to get thoughts together and invite responses. There are some gaps in the thinking, some assumptions, but making something early to share and talk round is always the winner. Reminder: Designing is literally the act of making something tangible, so tangiblise your thinking and problems.
 
-Getting access to [the local gov user ressarch library](https://research.localgov.digital) that Richard Smith looks after felt a little but big step. It's good working in a team that want to contribute to it.
+Had a remote workshop, which was alright. Trying (as ever) to avoid workshop bullshit and try to keep it real, making sure it's about the stuff we do rather than the razzmatazz of The Process. Some decisions were made to move things along, so solid outcome. Reminded not everyone wants to go along on _A Voyage Of Designing And Making Software-For-Services_ journeys and _Just Show Me What We'll Be Using, Thanks_.
+
+For all the "move fast" of _agile working_ had to get some of the team to take the foot off the gas on Friday and get some of us thinking through the options. Younger me would probably have kept going, but older me is aware there are implications. It's problematic. Accessing services safely deserves some stewing time. A product owner I am working with was bang on, _I'll get down the options_ to analyse. 
+
+Getting access to adding stuff to [the local gov user ressarch library](https://research.localgov.digital) that [Richard Smith](https://twitter.com/RichSmiths) looks after felt a little but big step. It's good working in a team that want to contribute to it.
+
+Kind of related: I started scribbling down what are good (ie. useful) service patterns. I am looking at stuff that is just way too skimpy. It's just not...useful enough for those wanting to lean on ressearch and other work done already. I am hoping the local gov project I am on can do the sharing well.
 
 An intro for some of the team to [the gov prototype kit](https://govuk-prototype-kit.herokuapp.com) and [the gov design system](https://design-system.service.gov.uk) was top of my list to of things to do once I'd got some design work out of the way. There's no mystique to these things, lower the barriers for entry (which the kit and design system help with massively) but at the same time they're tools for designing. Always always keep a mindfulness on better designing to do good design work.
 
-The last working afternoon of the week featured the words "typeface", "grids", "spacing" as well as discussing the meaning of colours (as long as you can see colours) -- which made a refreshing change. Designing, at least the designing I do, doesn't dip its toe into that pool too much, enough.
+The last working afternoon of the week featured the words "typeface", "grids", "spacing" as well as discussing the meaning of colours (as long as you can see colours) -- which made a refreshing change. Designing, at least the designing I mainly do these days, doesn't dip its toe into that pool too much, enough.
 
-I did a little work and promoting the second local gov research and design meet-up. We did the first earlier this month, initially just Annie and I putting some time in the diary to chat and inviting others. It ballooned quite quickly, 25 people on the call on the end. In the first meet we put down some topics to talk about, voted, and talked through. We decided to lookinto design systems and playboos in the second meet, so here we are. There are already 35 people signed up. We are doing it remotely, Thursday 5 November, from 1pm GMT until 2pm GMT. You can ["book a place" on Eventbrite](https://www.eventbrite.co.uk/e/local-gov-research-and-design-meet-up-number-2-tickets-126032475527).
+I did a little work and promoting the second local gov research and design meet-up. We did the first earlier this month, initially just Annie and I putting some time in the diary to chat and inviting others. It ballooned quite quickly, 25 people on the call on the end. In the first meet we put down some topics to talk about, voted, and talked through. We decided to lookinto design systems and playboos in the second meet, so here we are. There are already 35 people signed up. We are doing it remotely, Thursday 5 November, from 1pm GMT until 2pm GMT. You can ["book a place" on Eventbrite](https://www.eventbrite.co.uk/e/local-gov-research-and-design-meet-up-number-2-tickets-126032475527). Come!
 
 Some interesting reads:
 
