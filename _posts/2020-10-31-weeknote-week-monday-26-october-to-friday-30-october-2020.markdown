@@ -9,7 +9,7 @@ tags:
 ---
 Two days off this week, three days working. Funny how we use the word "off". How work focused are our lives, eh.
 
-#### Two days off
+#### Two days not doing work
 
 Two days off for the kids’ half term and My Birthday. I am now 45 years old and in these times of Stay At Home I was whistled back to my 40th, spending the day at the Barbican and going to Leicester Square to watch Spectre. The new Bond film was due to be released this week, and yeah so I’ve been enjoying the Craig era Bond films. I just felt a little meh about the wider world.
 
