@@ -69,7 +69,7 @@ I swapped the chair in the shed. As long as Iâ€™ve had the shed to work from Iâ€
 
 It was a few days of head down making things (maps, in-browser prototypes) to get thoughts together and invite responses. There are some gaps in the thinking, some assumptions, but making something early to share and talk round is always the winner. Reminder: Designing is literally the act of making something tangible, so tangiblise your thinking and problems.
 
-Had a remote workshop, which was alright. Trying (as ever) to avoid workshop bullshit and try to keep it real, making sure it's about the stuff we do rather than the razzmatazz of The Process. Some decisions were made to move things along, so solid outcome. Reminded not everyone wants to go along on _A Voyage Of Designing And Making Software-For-Services_ journeys and _Just Show Me What We'll Be Using, Thanks_.
+Had a remote workshop, which was alright. Trying (as ever) to avoid workshop bullshit and try to keep it real, making sure it's about the stuff we do rather than the razzmatazz of The Process. Some decisions were made to move things along, so solid outcome. Reminded not everyone wants to go along on _A Voyage Of Designing And Making Software-For-Services_ journeys and _Just Show Me What We'll Be Using, Thanks_. Totally understandable and totally fair.
 
 For all the "move fast" of _agile working_ had to get some of the team to take the foot off the gas on Friday and get some of us thinking through the options. Younger me would probably have kept going, but older me is aware there are implications. It's problematic. Accessing services safely deserves some stewing time. A product owner I am working with was bang on, _I'll get down the options_ to analyse and we'll go through it on Monday.
 
