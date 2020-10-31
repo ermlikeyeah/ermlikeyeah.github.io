@@ -20,41 +20,43 @@ Last weekend I [asked on Twitter](https://twitter.com/OfficeOfWilson/status/1320
 * [The Loneliness of the Long-Distance Cartoonist](https://www.goodreads.com/book/show/51796259-the-loneliness-of-the-long-distance-cartoonist)
 [Coltrane](https://www.goodreads.com/book/show/13012652-coltrane) by [Paolo Parisi](https://www.goodreads.com/author/show/3022567.Paolo_Parisi)
 * [300](https://www.goodreads.com/book/show/59952.300)
-* [Jeffery Brown](https://www.goodreads.com/author/show/45429.Jeffrey_Brown)'s autobiographies Little Things, [Funny Misshapen Body](https://www.goodreads.com/book/show/6220815-funny-misshapen-body) and A Matter Of Life
-the biography of Josephine Baker by Bocquet
-The collected works of @squires_david
-From Hell by Alan Moore
-Unbecoming
-Blankets
-Maus 1 & 2
-March Ghetto Brother Lovelace and Babbage ...and all the Scott McCloud books on making comics :)
- Sheriff of Babylon
-Rent Girl -  by Michelle Tea 
-Pride of Baghdad
-Persepolis - Marjane Satrapi
-Brought To Life
-Tetris, by Box Brown
-The Photographer is just awesome Weapons of Mass Diplomacy Fun Home
-Laika
-The Thrilling Adventures of Lovelace and Babbage Queer: a graphic history
-"Pretty much anything by Lucy Knisley but I’m very fond of Relish."
- Alice in Sunderland
-two Allie Brosh books, although they're more like illustrated books than GNs.
-The Best We Could Do
-Capote in Kansas
-The Art of Flying‘ by Antonio Altarriba.
-Nick Cave: Mercy on me
-Fun Home
-Genevieve Castree’s Susceptible
-Michel Rabagliati’s Paul series
-Sarah Leavitt’s Tangles
-Joe Sacco books
-Alan Moore’s Brought To Light
-Craig Thompson’s Blankets
-Marisa Acocella Marchetto’s Cancer Vixen
-Mizuki’s Showa
-The Arab of the Future
-Understanding Comics by Scott McCloud 
+* [Jeffery Brown](https://www.goodreads.com/author/show/45429.Jeffrey_Brown)'s autobiographies [Little Things](https://www.goodreads.com/book/show/1924490.Little_Things), [Funny Misshapen Body](https://www.goodreads.com/book/show/6220815-funny-misshapen-body) and [A Matter Of Life](https://www.goodreads.com/book/show/17591893-a-matter-of-life)
+* [Josephine Baker](https://www.goodreads.com/book/show/31941881-jos-phine-baker) by [Bocquet](https://www.goodreads.com/author/show/854871.Jos_Louis_Bocquet)
+* The collected works of [David Squires](https://www.goodreads.com/author/show/3407293.David_Squires)
+* [From Hell](https://www.goodreads.com/book/show/23529.From_Hell)
+* [Unbecoming](https://www.goodreads.com/book/show/25363212-becoming-unbecoming)
+* [Blankets](https://www.goodreads.com/book/show/25179.Blankets)
+* [Maus 1 & 2](https://www.goodreads.com/book/show/15195.The_Complete_Maus)
+* [March](https://www.goodreads.com/book/show/17346698-march) (available as three books or one volume)
+* [Ghetto Brother](https://www.goodreads.com/book/show/23359742-ghetto-brother)
+* All the [Scott McCloud](https://www.goodreads.com/author/show/33907.Scott_McCloud) books on making comics, including [Understanding Comics](https://www.goodreads.com/book/show/102920.Understanding_Comics)
+* [Sheriff of Babylon](https://www.goodreads.com/series/175638)
+* [Rent Girl](https://www.goodreads.com/book/show/46640.Rent_Girl)
+* [Pride of Baghdad](https://www.goodreads.com/book/show/105703.Pride_of_Baghdad)
+* [Persepolis](https://www.goodreads.com/book/show/991197.The_Complete_Persepolis)
+* [Brought To Life](https://www.goodreads.com/book/show/358862.Brought_to_Light)
+* [Tetris, by Box Brown](https://www.goodreads.com/book/show/27414415-tetris)
+* [The Photographer](https://www.goodreads.com/book/show/5967064-the-photographer)
+* [Weapons of Mass Diplomacy](https://www.goodreads.com/book/show/18405541-weapons-of-mass-diplomacy) 
+* [Fun Home](https://www.goodreads.com/book/show/26135825-fun-home)
+* [Laika](https://www.goodreads.com/book/show/1641695.Laika)
+* [The Thrilling Adventures of Lovelace and Babbage](https://www.goodreads.com/book/show/22822839-the-thrilling-adventures-of-lovelace-and-babbage)
+* [Queer](https://www.goodreads.com/book/show/28957268-queer)
+* "Pretty much anything by [Lucy Knisley](https://www.goodreads.com/author/show/731384.Lucy_Knisley) but I’m very fond of [Relish](https://www.goodreads.com/book/show/15786110-relish)."
+* [Alice in Sunderland](https://www.goodreads.com/book/show/544595.Alice_in_Sunderland)
+* "Two [Allie Brosh](https://www.goodreads.com/author/show/6984726.Allie_Brosh) books, although they're more like illustrated books than graphic novels"
+* [The Best We Could Do](https://www.goodreads.com/book/show/29936927-the-best-we-could-do)
+* [Capote in Kansas](https://www.goodreads.com/book/show/198346.Capote_in_Kansas)
+* [The Art of Flying by Antonio Altarriba](https://www.goodreads.com/book/show/23346614-the-art-of-flying)
+* [Nick Cave: Mercy on Me](https://www.goodreads.com/book/show/34227681-nick-cave)
+* [Genevieve Castree’s Susceptible](https://www.goodreads.com/book/show/13538044-susceptible)
+* [Michel Rabagliati’s Paul series](https://www.goodreads.com/series/74334)
+* [Sarah Leavitt’s Tangles](https://www.goodreads.com/book/show/8468008-tangles)
+* [Joe Sacco](https://www.goodreads.com/author/show/32468.Joe_Sacco) books
+* [Marisa Acocella Marchetto’s Cancer Vixen](https://www.goodreads.com/book/show/349348.Cancer_Vixen)
+* [Mizuki’s Showa series](https://www.goodreads.com/series/123953)
+* [The Arab of the Future](https://www.goodreads.com/book/show/23168840-the-arab-of-the-future)
+
 
 
 I swapped the chair in the shed. As long as I’ve had the shed to work from I’ve had a nifty stool from Ikea, back to it, no arms, goes up and down, swivels. My daughter put her old bedroom chair in the attic and I just fancied _a change_. The height isn’t adjustable, but it’s a comfortable height, it’s got arms and it’s pretty decent for slouching in once in a while. I felt too rigid sat most of the day on the other chair.
