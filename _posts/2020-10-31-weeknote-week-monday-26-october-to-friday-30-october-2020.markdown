@@ -7,7 +7,7 @@ tags:
 - 2020 weeknotes
 
 ---
-Two days off this week, three days working.
+Two days off this week, three days working. Funny how we use the word "off". How work focused are our lives, eh.
 
 #### Two days off
 
