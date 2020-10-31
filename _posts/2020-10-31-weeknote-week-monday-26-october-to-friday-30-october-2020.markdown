@@ -85,9 +85,10 @@ Typically just as things are getting super interesting on the local gov project 
 
 I did a little work and promoting the second local gov research and design meet-up. We did the first earlier this month, initially just Annie and I putting some time in the diary to chat and inviting others. It ballooned quite quickly, 25 people on the call on the end. In the first meet we put down some topics to talk about, voted, and talked through. We decided to lookinto design systems and playboos in the second meet, so here we are. There are already 35 people signed up. We are doing it remotely, Thursday 5 November, from 1pm GMT until 2pm GMT. You can ["book a place" on Eventbrite](https://www.eventbrite.co.uk/e/local-gov-research-and-design-meet-up-number-2-tickets-126032475527). Come!
 
-Some interesting reads:
+#### Some interesting reads
 
 * [Nobody told me UX would be like this](https://uxdesign.cc/nobody-told-me-ux-would-be-like-this-2fa8a30b7a84)
 * [Do not write off human centred design before it has started](https://acuity-design.medium.com/dont-write-off-user-centred-design-before-it-has-started-85c32bf0132)
 * [https://cp.catapult.org.uk/2020/09/17/future-of-standards-a-user-research-project/](https://cp.catapult.org.uk/2020/09/17/future-of-standards-a-user-research-project/)
 * [Prototyping with slides](https://www.dxw.com/2020/10/prototyping-with-slides/)
+* [Principles for Designing Sustainable Services](https://medium.com/wearesnook/principles-for-designing-sustainable-services-bbf3f3948ac2) (I had to skip a meet-up this week about these, but there's more to come. Head over to [designandclimate.org](http://designandclimate.org) for more info.)
