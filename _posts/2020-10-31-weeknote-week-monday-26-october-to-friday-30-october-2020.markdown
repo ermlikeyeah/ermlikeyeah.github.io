@@ -22,7 +22,7 @@ Last weekend I [asked on Twitter](https://twitter.com/OfficeOfWilson/status/1320
 * [Trinity](https://www.goodreads.com/book/show/13166598-trinity)
 * [Logicomix](https://www.goodreads.com/book/show/6493321-logicomix)
 * [The Loneliness of the Long-Distance Cartoonist](https://www.goodreads.com/book/show/51796259-the-loneliness-of-the-long-distance-cartoonist)
-[Coltrane](https://www.goodreads.com/book/show/13012652-coltrane) by [Paolo Parisi](https://www.goodreads.com/author/show/3022567.Paolo_Parisi)
+  [Coltrane](https://www.goodreads.com/book/show/13012652-coltrane) by [Paolo Parisi](https://www.goodreads.com/author/show/3022567.Paolo_Parisi)
 * [300](https://www.goodreads.com/book/show/59952.300)
 * [Jeffery Brown](https://www.goodreads.com/author/show/45429.Jeffrey_Brown)'s autobiographies [Little Things](https://www.goodreads.com/book/show/1924490.Little_Things), [Funny Misshapen Body](https://www.goodreads.com/book/show/6220815-funny-misshapen-body) and [A Matter Of Life](https://www.goodreads.com/book/show/17591893-a-matter-of-life)
 * [Josephine Baker](https://www.goodreads.com/book/show/31941881-jos-phine-baker) by [Bocquet](https://www.goodreads.com/author/show/854871.Jos_Louis_Bocquet)
@@ -41,7 +41,7 @@ Last weekend I [asked on Twitter](https://twitter.com/OfficeOfWilson/status/1320
 * [Brought To Life](https://www.goodreads.com/book/show/358862.Brought_to_Light)
 * [Tetris, by Box Brown](https://www.goodreads.com/book/show/27414415-tetris)
 * [The Photographer](https://www.goodreads.com/book/show/5967064-the-photographer)
-* [Weapons of Mass Diplomacy](https://www.goodreads.com/book/show/18405541-weapons-of-mass-diplomacy) 
+* [Weapons of Mass Diplomacy](https://www.goodreads.com/book/show/18405541-weapons-of-mass-diplomacy)
 * [Fun Home](https://www.goodreads.com/book/show/26135825-fun-home)
 * [Laika](https://www.goodreads.com/book/show/1641695.Laika)
 * [The Thrilling Adventures of Lovelace and Babbage](https://www.goodreads.com/book/show/22822839-the-thrilling-adventures-of-lovelace-and-babbage)
@@ -71,7 +71,7 @@ It was a few days of head down making things (maps, in-browser prototypes) to ge
 
 Had a remote workshop, which was alright. Trying (as ever) to avoid workshop bullshit and try to keep it real, making sure it's about the stuff we do rather than the razzmatazz of The Process. Some decisions were made to move things along, so solid outcome. Reminded not everyone wants to go along on _A Voyage Of Designing And Making Software-For-Services_ journeys and _Just Show Me What We'll Be Using, Thanks_.
 
-For all the "move fast" of _agile working_ had to get some of the team to take the foot off the gas on Friday and get some of us thinking through the options. Younger me would probably have kept going, but older me is aware there are implications. It's problematic. Accessing services safely deserves some stewing time. A product owner I am working with was bang on, _I'll get down the options_ to analyse. 
+For all the "move fast" of _agile working_ had to get some of the team to take the foot off the gas on Friday and get some of us thinking through the options. Younger me would probably have kept going, but older me is aware there are implications. It's problematic. Accessing services safely deserves some stewing time. A product owner I am working with was bang on, _I'll get down the options_ to analyse and we'll go through it on Monday.
 
 Getting access to adding stuff to [the local gov user ressarch library](https://research.localgov.digital) that [Richard Smith](https://twitter.com/RichSmiths) looks after felt a little but big step. It's good working in a team that want to contribute to it.
 
@@ -80,6 +80,8 @@ Kind of related: I started scribbling down what are good (ie. useful) service pa
 An intro for some of the team to [the gov prototype kit](https://govuk-prototype-kit.herokuapp.com) and [the gov design system](https://design-system.service.gov.uk) was top of my list to of things to do once I'd got some design work out of the way. There's no mystique to these things, lower the barriers for entry (which the kit and design system help with massively) but at the same time they're tools for designing. Always always keep a mindfulness on better designing to do good design work.
 
 The last working afternoon of the week featured the words "typeface", "grids", "spacing" as well as discussing the meaning of colours (as long as you can see colours) -- which made a refreshing change. Designing, at least the designing I mainly do these days, doesn't dip its toe into that pool too much, enough.
+
+Typically just as things are getting super interesting on the local gov project my time on it is going down. But live in the moment and enjoy while you can, eh.
 
 I did a little work and promoting the second local gov research and design meet-up. We did the first earlier this month, initially just Annie and I putting some time in the diary to chat and inviting others. It ballooned quite quickly, 25 people on the call on the end. In the first meet we put down some topics to talk about, voted, and talked through. We decided to lookinto design systems and playboos in the second meet, so here we are. There are already 35 people signed up. We are doing it remotely, Thursday 5 November, from 1pm GMT until 2pm GMT. You can ["book a place" on Eventbrite](https://www.eventbrite.co.uk/e/local-gov-research-and-design-meet-up-number-2-tickets-126032475527). Come!
 
