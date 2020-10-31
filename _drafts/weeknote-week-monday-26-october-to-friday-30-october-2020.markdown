@@ -7,11 +7,11 @@ tags:
 - 2020 weeknotes
 
 ---
-Two days off this week, three days working, three days full of working.
+Two days off this week, three days working. 
 
-The two days off were for for the kids’ half term and My Birthday. I am now 45 years old and in these times of Stay At Home I was whistled back to my 40th, spending the day at the Barbican and going to Leicester Square to watch Spectre. The new Bond film was due to be released this week, and yeah so I’ve been enjoying the Craig era Bond films.
+Two days off for the kids’ half term and My Birthday. I am now 45 years old and in these times of Stay At Home I was whistled back to my 40th, spending the day at the Barbican and going to Leicester Square to watch Spectre. The new Bond film was due to be released this week, and yeah so I’ve been enjoying the Craig era Bond films.
 
-Last weekend I [asked on Twitter](https://twitter.com/OfficeOfWilson/status/1320626102558199808) for suggestions of non-fiction/loosely based on real events/snippets of real life graphic novels. I used some birthday cash to add to my collection from the suggestions. Sharing the list here as it is quite a good list. You might find it useful. (Links are to Goodreads author and book pages.)
+Last weekend I [asked on Twitter](https://twitter.com/OfficeOfWilson/status/1320626102558199808) for suggestions of non-fiction/loosely based on real events/snippets of real life graphic novels. I used some birthday cash to add to my collection from the suggestions. Sharing the list here as it is quite a good list. You might find it useful. The links are to Goodreads author and book pages, but please think about buying from an indie bookstore. Thye'll appreciate your custom more than tax-dodging Amazon.
 
 * [They Called Us Enemy](https://www.goodreads.com/book/show/42527866-they-called-us-enemy)
 * [Guy Delise](https://www.goodreads.com/author/show/46027.Guy_Delisle): [Shenzhen](https://www.goodreads.com/book/show/210946.Shenzhen), [Pyongyang](https://www.goodreads.com/book/show/80834.Pyongyang), [Burma Chronicles](https://www.goodreads.com/book/show/5596923-burma-chronicles)
@@ -57,10 +57,25 @@ Last weekend I [asked on Twitter](https://twitter.com/OfficeOfWilson/status/1320
 * [Mizuki’s Showa series](https://www.goodreads.com/series/123953)
 * [The Arab of the Future](https://www.goodreads.com/book/show/23168840-the-arab-of-the-future)
 
+Continuing my policy of _start finishing, finish starting_ I finished reading the last three volumes [Ex Machina](https://www.goodreads.com/series/52500) this week, just over _14 years_ since I read volume 2. It’s never too late. Absolutely amazing read.
 
+Three days of working, three days full of working.
 
-I swapped the chair in the shed. As long as I’ve had the shed to work from I’ve had a nifty stool from Ikea, back to it, no arms, goes up and down, swivels. My daughter put her old bedroom chair in the attic and I just fancied _a change_. The height isn’t adjustable, but it’s a comfortable height, it’s got arms and it’s pretty decent for slouching in once in a while. I felt too rigid sat most of the day on the other chair.
+I swapped the chair in the shed. As long as I’ve had the shed to work from I’ve had a nifty stool from Ikea, back to it, no arms, goes up and down, swivels. My daughter put her old bedroom chair in the attic and I just fancied _a change_. The height isn’t adjustable, but it’s a comfortable height, it’s got arms and it’s pretty decent for slouching in once in a while. I felt too rigid sat most of the day on the other chair. Yeah yeah _your back, Si_ but sometimes slouching jsut feels right.
 
 Assumptions, sharing early
 
-Continuing my policy of _start finishing, finish starting_ I finished reading the last three volumes Ex Machina this week, just over _14 years_ since I read volume 2. It’s never too late.
+Getting access to [the local gov user ressarch library](https://research.localgov.digital) that Richard Smith looks after felt a little but big step. It's good working in a team that want to contribute to it.
+
+An intro for some of the team to [the gov prototype kit](https://govuk-prototype-kit.herokuapp.com) and [the gov design system](https://design-system.service.gov.uk) was top of my list to of things to do once I'd got some design work out of the way. There's no mystique to these things, lower the barriers for entry (which the kit and design system help with massively) but at the same time they're tools for designing. Always always keep a mindfulness on better designing to do good design work.
+
+The last working afternoon of the week featured the words "typeface", "grids", "spacing" as well as discussing the meaning of colours (as long as you can see colours) -- which made a refreshing change. Designing, at least the designing I do, doesn't dip its toe into that pool too much, enough.
+
+I did a little work and promoting the second local gov research and design meet-up. We did the first earlier this month, initially just Annie and I putting some time in the diary to chat and inviting others. It ballooned quite quickly, 25 people on the call on the end. In the first meet we put down some topics to talk about, voted, and talked through. We decided to lookinto design systems and playboos in the second meet, so here we are. There are already 35 people signed up. We are doing it remotely, Thursday 5 November, from 1pm GMT until 2pm GMT. You can ["book a place" on Eventbrite](https://www.eventbrite.co.uk/e/local-gov-research-and-design-meet-up-number-2-tickets-126032475527).
+
+Some interesting reads:
+
+* [Nobody told me UX would be like this](https://uxdesign.cc/nobody-told-me-ux-would-be-like-this-2fa8a30b7a84)
+* [Do not write off human centred design before it has started](https://acuity-design.medium.com/dont-write-off-user-centred-design-before-it-has-started-85c32bf0132)
+* [https://cp.catapult.org.uk/2020/09/17/future-of-standards-a-user-research-project/](https://cp.catapult.org.uk/2020/09/17/future-of-standards-a-user-research-project/)
+* [Prototyping with slides](https://www.dxw.com/2020/10/prototyping-with-slides/)
