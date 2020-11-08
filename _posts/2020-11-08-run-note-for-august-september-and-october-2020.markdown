@@ -36,7 +36,7 @@ At the end of July I decided to talk to a doctor at the surgery I am registered 
 
 By that point, on every run every time my right foot touched the floor I feel _something_ in my right shin. I had my scan. At the end of the session the doctor asked if I had anywhere to go, “I think it’d really help us if you went for another scan today”. By this point I had done Internet Research and was aware of what the possibilities were. Being asked to go for a second scan, a different scan did nothing to reduce the possibilities or alleviate my worries. Along the ghostly corridors I walked, the right leg of my jean rolled up, with a thin film of lubricant on the shin still. Second scan done I went home, told to wait for my doctor to get in touch.
 
-A couple of days later my doctor rang me, said they’d narrowed the possibilities down to several things, from a stress fracture to maybe bone cancer. I was being referred again, and it was likely I’d need another scan. The next day I got a brisk text message from an orthopaedic doctor, recommending I take daily doses of vitamin D (which I do anyway) and referring me to a physio. Across the stepping stones of the NHS I go.
+A couple of days later my doctor rang me, said they’d narrowed the possibilities down to several things, from a stress fracture to maybe bone cancer. I was being referred again, and it was likely I’d need another scan. The next day I got a brisk text message from an orthopaedic doctor, recommending I take daily doses of vitamin D (which I do anyway) and referring me to a physio. Across the stepping stones of the NHS I go. (And, yeah, I’ve mapped all this out.)
 
 The next week — three weeks ago — a physio got in touch.
 
