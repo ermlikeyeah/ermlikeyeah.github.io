@@ -17,7 +17,7 @@ I started a new bit of work, helping on project MC. So far it’s been spending 
 
 #### Pro tips
 
-* There’s was a moment when I kept quiet about something I didn’t agree with. Sometimes despite your disagreement it plays out you were wrong, either empirically or democratically. Other times you need someone else to say what you’re thinking so you’re not that continual nit-picker.
+* There was a moment when I kept quiet about something I didn’t agree with. Sometimes despite your disagreement it plays out you were wrong, either empirically or democratically. Other times you need someone else to say what you’re thinking so you’re not that continual nit-picker.
 * If you're working on a design system a useful principle from the start is something along the lines of Do The Hard Work To Keep It Simple -- And Keep It Simple.
 * Leaving a thought or problem lingering for some time: Sometimes the stewing unearths problems, other times the stewing can help with creeping confidence. Worth reminding yourself as you jump through your Problem Solving in a rapid fire 60 minute workshop. Big issues need space.
 * Your regular reminder whatever process you use for designing it's always messy. Just a question how much other people see that or even involved with that.
