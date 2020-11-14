@@ -1,44 +1,57 @@
 ---
 layout: post
 title: Weeknote, Monday 9 to Friday 13 November 2020
-date: 2020-11-07 08:30:00 +0000
+date: 2020-11-14 08:30:00 +0000
 tags:
 - weeknotes
 - 2020 weeknotes
 
 ---
-A very busy, at times hectic week. In a way a perfect week for some reflection. And, no, I’m not going to mention The Other Thing going on.
+Project MT for the first three days of the week. The service design side is going along fine, there’s an understanding of what the structure is, there’s abstract possibilities for service improvements, but there’s a reliance on a few things shifting for change. Realising something better is taking a bit of knitting and re-knitting. It’s the usual though. 80 to 90% of what you design isn’t seen. It’s getting there. I’m down to two days a week from next week and that floaty _dip in and out feeling_ I don’t like is starting to set in. Nature of the role here though innit. Documenting some of this work to be shareable is on the radar in the coming weeks. 👍🏼 
 
-It’s the first week for a long time (like maybe 6 years) where I’ve been split over two clients in normal working hours. Reminded me of my agency time more. I had a slight pang for those days, seeing the same crew every day, working on different things together. A big part of me misses that, at least the solidity of working with people you _know_. We don’t talk about that enough as a confidence builder. A lot of the gov work I’ve been on people come and go, come and go. Anyway.
+Project MV, four or five days spread over just two weeks is done. Take a bit of a gnarly mess, work out with the team are responsible (or better still actually feel responsible) how to untangle it, explore where those loose ends could go, go back and forth a bit, and getting down a decreasing opacity roadmap of probable/possible tactics. One of the trickier bits in a work of many trickialities: How do we communicate this to the people who have been waiting for this and will have to be doing most of the work? Tested that too, with a bit more back and forth. Never mad keen on “just a few days” work, but this was one of those that pulled on lots of my experiences and skills. And being _a consultant coming in for just a few specific days_ gave the work a reason to push on. And if it all goes wrong I can take the heat. 😂 
 
-Project MT (helping [Pilot Works](https://pilot.works) and [Placecube](https://www.placecube.com)) is _proceeding OK_. Looking back I met my goals for the week (which for the last few weeks I’ve been setting ahead of starting work on Monday to help me limit what I do as much as get stuff done), realised we’re ahead on the design work and want to keep us to keep there. A nice mix of workshops (and each one moved us ahead) but lots of making tangibles.
+I started a new bit of work, project PM. So far it’s been spending time with the designer going over what has done, what they are doing and what needs to be done. It’s not a web thing as well, which is a nice break from the slew of web stuff I’ve done recently. The designer is really cool and bright, which always makes work enjoyable, and it’s nice to spend some time supporting rather than leading. I spent less time as agreed (felt a bit like Snoop Dogg on Cslifornia Gurls) because I wasn’t really needed and invoiced less accordingly. It’s about doing the right thing the right way and all that.
 
-Thursday was show and tell, a good one from the whole team, seeing how the stuff everyone does flows through the team. I showed off some in-browser design prototypes, but making sure to explain what a prototype even is, why we use them. Being remote means you don't get to see people's physical responses in show and tells, which used to be a big thing for me but hey ho. I am still really enjoying the work (might rate in my faves of the last ten years) but because my weekly time on project MT is dropping off I know my time is coming to an end. Enjoy good things while you're doing them. And looking through my notebook doing these notes I’ve realised I didn’t copy some content into a design, so something to do.
+Also took some time out to do a couple of sessions with students, one talking about the need for much more diversity in design and digital teams.
 
-Next week I have some reviews of design approaches, catch up on how some testing with users went (we design with users not for users etc etc), there will be some changes off those, and a little bit of a deeper dive into registering to use the service (which won’t take too long, more concentrating on how we handle bots and everyone being on board with what we do). I need to check over and release a vanilla version of the gov.uk prototype kit I’ve been using too, in case someone else in local gov finds it useful (was a stretch goal for this week, just ran out of time to document it).
+{% include image.html url="assets/203bec33-d86e-4304-8b77-d2725bfbc1e4.jpeg" description="Stickie saying do somethign you love" %}
 
-The rest of my time was on project MV — public but not gov — on some DesignOps stuff, working with some people who are big brains and big talents on something that is big in volume and reach. We’re working out how to move the work from being in _dithering mode_ to _doing something mode_. It’s really fucking hard but an experimental mindset from everyone is helping us try things and inch forward into shaping a strategy that has a roadmap of tactics. (And yes, an Out Run style road map not a linear road map etc etc.) This work finishes this coming week, been very much some set up time into some days working together and... that’s it.
+I shared on Twitter a stickie I have on my monitor, which says _do something you love_, noting it has guided me most of the year. Something tangible, something visible to remind us and all that, especially when the heads go down or the heads go in and lose focus.
 
-Overall I’ve been doing lots of brain dumps sooner this last week, externalise what’s in my head, half to help get my head clear, but also so I can move the work on or move onto the next thing I need to do. Looking back through my notebook it’s interesting the variety of ways these came out, from lists to scamped wireframes (some of which I shifted to quick in-browser prototypes) to double page spread maps which ended up being dumped into something like Miro. An 8 out of 10 for variety there.
+#### Pro tips
 
-I’ve got some work creep into the weekend — a couple of loose ends (maybe that missing content I mentioned earlier), a little to get ahead — to make next week feel a little more comfortable. An hour or two through the weekend helps my head be clear for the weekends focused _not on work_. From my WhatsApp/Signal/private Slack chats seems a few designers are doing the same recently, feeling on the back foot, using their weekends to help themselves and their teams being more on an even keel. Also interesting hearing how their teams respond to them doing this.
+* There’s also been a moment when I kept quiet about something I didn’t agree with. Sometimes you’re wrong and it plays out you were wrong, either empirically or democratically. Other times you need someone else to say what you’re thinking so you’re not that continual nit-picker. 
+*  If you're working on a design system a useful principle from the start is something along the lines of Do The Hard Work To Keep It Simple -- And Keep It Simple.
+* Leaving a thought or problem lingering for some time: Sometimes the stewing unearths problems, other times the stewing can help with creeping confidence. Worth reminding yourself as you jump through your Problem Solving in a rapid fire 60 minute workshop. Big issues need space.
 
-I dipped into some community events this week too.
+#### Events/meet ups
 
-Tuesday was the monthly service design breakfast run by [Leanne Coker](https://twitter.com/leannecoker) at dxw. 15 to 20 minutes of sketching around a topic and intros (and a wake up!), choosing a topic, 15 minutes breakouts to chat about the topic and then coming together to share the discussion. It’s a good format, steady, balancing people and sharing. The chosen topic was scaling up services. Leanne [shared more on Twitter](https://twitter.com/leannecoker/status/1323599525399928837). Held every first Tuesday of the month, the next meet is on 1 December. [More details on Eventbrite](https://www.eventbrite.co.uk/e/service-design-mornings-tickets-105393063490).
+On Monday, [Head to Head, using data in service design](https://www.eventbrite.co.uk/e/head-to-head-using-data-in-service-design-tickets-127299661715#). A nippy meet hop, with a couple of 7 minute breakout sessions. “2020 is a prototype” was an interesting sound byte.
 
-Making the DesignOps meet ups because they are now virtual is super handy. They’re also super fun! One of those in my week was refereshingly passive.
+Paper’s _how we treat people_ session was excellent. I have a lot of time for Paper. They’re half the studio/agency I aspired to get going, and a one of a handful that I think are interesting (with DXW, Sigma and a couple of others). 
+I had some reflections after the session. One off the gang talking about their four founding principles. Reminded me what I wrote when I left Home, getting down how I wanted to operate my own thing including me treating people and how I wanted people to treat me. At the time it was about starting myself off right, an eye to scaling aye, but self centred, sure. I’ve been reminded of some of that stuff off Paper's session, like really simplified T&Cs (which changed as we went along, versioning them, and were linked to on all invoices), a “these are the kind of people we like to work with” sheet. I never got to scaling just a one human company. Those “operating guidelines” have been more a mental checklist, never something I use to gain or agree work. I abide by the client’s rules... But the Paper gang talking about having those things up front and open, set standards, behavioural standards, seemed to increase confidence, increase accountability, got me thinking why a company of more than one human can do that but a company of one might not. I dug the old stuff out and went through it all, see what I can use, improve and use, add to it. I frequently say “If you have got principles what have you got?” I need to remind myself that. I am going to get them out there for a reference.
 
-[Talk UX](https://www.talk-ux.com) has been going on during the week, all remotely. I’ve dipped in and watched some sessions live and got a couple on my watchlist for the very near future. Head over to [their YouTube channel](https://www.youtube.com/channel/UCO3ixz3IXRQoLoOmht1HD8Q).
+Under all this I ended having to make an unexpectedly difficult decision. Yeah, do something you love, but also in my ears I have the words _don't squander your potential_ still ringing after a brutally honest session with my mentor before summer.
 
-On Friday I ran the second local gov research and design meet, facilitated using one main Google Meet, and three individually created Meets waiting in the sidelines for breakouts. Meets seemed to be the commonest platform for the majority of people. It seemed to work for attendees and it just about worked for me as the “ring master”. We looked into playbooks and design systems for local gov. Fruitful discussions! We’re going to analyse the session in the coming weeks, and the playbook work might get its own meet-ups going forward. I’m going to write a separate blog post around this with some detail rather than bury it in my weeknotes. Another local gov research and design meet is being eyed for week commencing 7 December. [Follow the meets on Eventbrite](https://www.eventbrite.co.uk/o/local-gov-research-and-design-31649032203).
+Ending the working week with a catch up with Kathryn Grace is one of the best ways to end a week
 
-I’ve been having intro chats about what’s next as my time on project MT is winding down, project MV is done next week and I’ve got available time in the coming weeks. I’ve become quite brutal about saying no to things that aren’t for me. I look for interesting work, a team that understand how my skills would help with that work (and in reverse if it looks like my skills aren’t a match), a decent team doing the work (in experience, skills, ways of working and tone) and decent conditions for success at the least. A couple of _sorry, not for me_ already, but booked in helping a place and people I’ve time for. And next week a few follow up chats about longer term stuff, not all freelance/contracts, but all promising sounding work.
+#### Things you might like to read too
 
-Next week already looks busy with work, but looking forward to taking some time out to run a session with students at a local university. [Using Data in Service Design](https://www.eventbrite.co.uk/e/head-to-head-using-data-in-service-design-tickets-127299661715) is in my diary and [Paper](https://paper.studio) are doing an excellent looking session on [How We Treat People](https://www.eventbrite.co.uk/e/how-we-treat-people-at-paper-tickets-125893720507). And a couple of [half hour catch-ups](http://calendly.com/officeofwilson/catch-up) in the mix too.
+Cape Town’s Unfinished Foreshore Freeway: What Went Wrong
+https://thisbigcity.net/cape-towns-unfinished-foreshore-freeway-what-went-wrong/
 
-Feels the refocus earlier this year is paying off, a lot going on, but there’s a balance there: work/life balance,  doing work (that I get on with) but also looking wider — and giving something back too. And there’s an openness to where things to go too.
+A bit late to the party but Working as a user researcher on the coronavirus team https://medium.com/@micolartom/working-as-a-user-researcher-on-the-coronavirus-testing-team-fast-forwarded-learning-a91a8ea2be9e
 
-Away from work, nothing much I feel I want to share. Nearly three weeks into my forced rest my right leg/stay off running and not enjoying it, but hey ho could be worse.
+Concrete jungle: the brutalist buildings of northern England – in pictures 
 
-Oh. And this weekend I will finish off _When They See Us_. Yes I will.
+https://www.theguardian.com/artanddesign/gallery/2020/nov/12/concrete-jungle-the-brutalist-buildings-of-northern-england-in-pictures?CMP=share_btn_tw
+
+#### This week was assisted by
+
+* The musical blessings of Simian Mobile Disco
+* Under Milk Wood coffee
+
+#### Next week
+
+Future of Service Design https://www.meetup.com/Service-Lab-London/events/274518531/
