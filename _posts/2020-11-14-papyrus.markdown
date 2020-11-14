@@ -7,7 +7,7 @@ tags:
 - typefaces
 
 ---
-11b4088c-1686-4af7-979d-2ac6c5730769.jpeg
+{% include image.html url="/assets/11b4088c-1686-4af7-979d-2ac6c5730769.jpeg" description="Ryan Gosling in the Saturday Night Live sketch about the Avatar logo" %}
 
 Several days back it was Ryan Gosling’s birthday, the cue for design people on Twitters to reshare the [Papyrus Saturday Night Live (SNL) sketch](https://youtu.be/jVhlJNJopOQ) from a couple of years back.
 
