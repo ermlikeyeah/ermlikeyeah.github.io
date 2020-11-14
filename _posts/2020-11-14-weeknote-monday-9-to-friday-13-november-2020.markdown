@@ -34,7 +34,7 @@ One of the gang talking about their starting up journey reminded me what I wrote
 
 Took some time out to do a couple of sessions with students at universities, one talking about the need for much more diversity in design and digital teams.
 
-{% include image.html url="assets/203bec33-d86e-4304-8b77-d2725bfbc1e4.jpeg" description="Stickie saying do somethign you love" %}
+{% include image.html url="/assets/203bec33-d86e-4304-8b77-d2725bfbc1e4.jpeg" description="Stickie saying do something you love" %}
 
 I shared on Twitter a stickie I have on my monitor, which says _do something you love_, noting it has guided me most of the year. Something tangible, something visible to remind us and all that, especially when the heads go down or the heads go in and lose focus. Same thing about slogan posters in offices. Remember those?
 
