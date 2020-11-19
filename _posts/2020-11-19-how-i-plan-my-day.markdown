@@ -11,13 +11,13 @@ Here’s a method I have used for the last 15 years to help me get on with my wo
 
 I do this out of habit at the start of the working day. I have had roles in the past where things can change overnight so I found too much planning the night before could be wasted.
 
-I currently have the 4 calendars I am a member of, viewable simultaneously through the calendar app on my MacBook. I open that for reference. I have every session with other people in one of these calendars.
+I currently have the 4 calendars I am a member of, viewable simultaneously through the calendar app on my MacBook. I open that for reference. Every session with other people can be found in one of those calendars.
 
 I write out the working hours of the day on a piece of paper, one hour per day, from whenever I start down to whenever I plan to end. I used to do this on a fresh page in my notebook, with the day and date at the top of the page.
 
 {% include image.html url="/assets/empty_planner.jpg" description="A page of the daily planner pad. There are areas for Date, Daily Tasks, Notes, Grateful For and Rate Your Day." %}
 
-I take a lot of notes through my days, this planning page can easily disappear from sight as I wrote notes as the day progressed. I am currently experimenting with a separate sheet from a [Mål Paper Daily Tasks Planner Pad](https://malpaper.com/collections/gratitude-notepads-and-mindfulness-accessories/products/daily-planner-pad) that I have on my desk or hung above my desk. You can [download a template](https://malpaper.com/pages/free-downloads) to use at home. Or just write it out on another piece of paper like I did until a few months ago.
+I take a lot of notes through my days: This planning page can easily disappear from sight as I write notes as the day progresses I am currently experimenting with a separate sheet from a [Mål Paper Daily Tasks Planner Pad](https://malpaper.com/collections/gratitude-notepads-and-mindfulness-accessories/products/daily-planner-pad) that I have on my desk or hung above my desk. You can [download a template](https://malpaper.com/pages/free-downloads) to use at home. Or just write it out on another piece of paper like I did until a few months ago.
 
 {% include image.html url="/assets/filled_planner.jpg" description="A planner page, filled in." %}
 
