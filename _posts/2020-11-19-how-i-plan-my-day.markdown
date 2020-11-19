@@ -15,11 +15,11 @@ I currently have the 4 calendars I am a member of, viewable simultaneously throu
 
 I write out the working hours of the day on a piece of paper, one hour per day, from whenever I start down to whenever I plan to end. I used to do this on a fresh page in my notebook, with the day and date at the top of the page.
 
-\[pic\]
+{% include image.html url="/assets/empty_planner.jpeg" description="A page of the daily planner pad. There are areas for Date, Daily Tasks, Notes, Grateful For and Rate Your Day." %}
 
 I take a lot of notes through my days, this planning page can easily disappear from sight as I wrote notes as the day progressed. I am currently experimenting with a separate sheet from a [Mål Paper Daily Tasks Planner Pad](https://malpaper.com/collections/gratitude-notepads-and-mindfulness-accessories/products/daily-planner-pad) that I have on my desk or hung above my desk. You can [download a template](https://malpaper.com/pages/free-downloads) to use at home. Or just write it out on another piece of paper like I did until a few months ago.
 
-\[pic\]
+{% include image.html url="/assets/filled_planner.jpeg" description="A planner page, filled in." %}
 
 I write out my calendar. Things that plan to take an hour or the best part of an hour take up the full line. Half an hour (or thereof), half the line. This gives me the chance to recognise the outcome of very session I am due to do, and check if there is anything I still need to do beforehand. In the absence of rooms in physical workplaces at the moment I usually write how the meeting will be held online too. Knowing how much you’re jumping between Google Meet, Whereby, Zoom, Slack and Teams calls sometimes helps.
 
