@@ -21,7 +21,7 @@ I take a lot of notes through my days, this planning page can easily disappear f
 
 {% include image.html url="/assets/filled_planner.jpg" description="A planner page, filled in." %}
 
-I write out my calendar. Things that plan to take an hour or the best part of an hour take up the full line. Half an hour (or thereof), half the line. This gives me the chance to recognise the outcome of very session I am due to do, and check if there is anything I still need to do beforehand. In the absence of rooms in physical workplaces at the moment I usually write how the meeting will be held online too. Knowing how much you’re jumping between Google Meet, Whereby, Zoom, Slack and Teams calls sometimes helps.
+I write out my calendar. Things that plan to take an hour or the best part of an hour take up the full line. Half an hour (or thereof), half the line. This gives me the chance to recognise the outcome of every session I am due to do, and check if there is anything I still need to do beforehand. In the absence of rooms in physical workplaces at the moment I usually write how the meeting will be held online too. Knowing how much you’re jumping between Google Meet, Whereby, Zoom, Slack and Teams calls sometimes helps.
 
 I have found this exercise helps me acclimatise to the planned day ahead.
 
@@ -34,3 +34,5 @@ I leave at least two hours blank, for the unplanned. Regardless of your role pla
 At the end of the day I look in my calendar briefly, at the next day, so I know what time my first planned session is. I make some notes on my day planner of things to be mindful of the next day. I shut down.
 
 This exercise takes me 5 minutes every day. I always feel better after doing it.
+
+_With thanks to [Harry Bailey](https://twitter.com/HarryBailey) for spotting a typo in the original publication._
