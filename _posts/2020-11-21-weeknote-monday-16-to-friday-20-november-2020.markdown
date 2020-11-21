@@ -63,7 +63,7 @@ I found myself fading fast after 4pm, only happening the last month or so. I won
 
 #### Interesting reads
 
-* [Annie Heath's return to weeknoting](https://annie3h.medium.com/weeknotes-s02e01-b6582699092b) was quite thing. (For the record, I have a lot of time for Annie.)
+* [Annie Heath's return to weeknoting](https://annie3h.medium.com/weeknotes-s02e01-b6582699092b) was quite the thing. (For the record: I have a lot of time for Annie.)
 * [Video gaming can benefit mental health, find Oxford academics](https://www.theguardian.com/games/2020/nov/16/video-gaming-can-benefit-mental-health-find-oxford-academics) - but only Animal Crossing, as well as EA’s shooter Plants vs. Zombies
 * [Self-care in User Research](https://medium.com/@janereid73/self-care-in-user-research-765b5869a5e8)
 * [OpenStreetMap](https://joemorrison.medium.com/openstreetmap-is-having-a-moment-dcc7eef1bb01)
