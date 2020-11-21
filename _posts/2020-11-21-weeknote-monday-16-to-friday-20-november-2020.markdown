@@ -39,7 +39,9 @@ I kept half an eye on all the US election recounts and political moves, and wond
 
 We — a few of the UK’s jam runners — had a chat about jams in the UK in the future. Gov Jams are being planned for next month and we had a little heads-together to see if we could pull something together by then. To be honest some of feel smashed. Finding the time and space to plan one on top of our existing commitments with about a month’s notice isn’t easy. Also, how do other people who feel? We decided we’re going to look at March 2021. If you’re interested in helping form whatever this jam is, drop me a line.
 
-I went to a service design event and was observed how few people wanted to understand more a very vague problem they were presented with and defaulted to throwing ideas against a wall. Understanding is as valuable as ideas. Ideas are cheap and all that.
+[Service Lab London](https://www.weareservicelab.com)'s gig this was pretty great. I nodded a lot, I made some notes, it prompted me to get round to writing down what I mean by _the terribleness of data_ and I also disagreed with some stuff, which is a pretty healthy outcome for a couple of hours.
+
+I went to another service design event (which was generally very good) and observed how few people wanted to understand more a very vague problem they were presented with and defaulted to throwing ideas against a wall. Understanding is as valuable as ideas. Ideas are cheap and all that.
 
 Too many friends have suddenly got Playstation 5s and I have a little tech envy. But — and big but — I have a PS4, I have games yet to play on it, so I am fine with my PS4 right now. Honestly.
 
