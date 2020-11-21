@@ -23,7 +23,7 @@ I published some blogs posts, on [the typeface Papyrus](https://officeofwilson.m
 
 The rest of the week was helping others out, quite a few chats with other designers helping them, from team issues to better ways of working to exploring design options to second eyeing stuff. When you get a few designers spread around public services telling you about team and culture issues it gets dispiriting. I enjoy having the chats, I just don't like seeing the wider pattern. People say stuff like how user centred design is well established in government now, but especially after this week I still feel the struggle is real. Some days I feel it's easier just to gut some teams and start again. Sorry to the people in those teams.
 
-Some issues
+Some commoner issues:
 
 * How design has to fit into the development process rather than the overall software/service making process. Designing is a process too and should work with development into the overall software/service making process.
 * In story writing or stand ups designers asked to provide a solution to something not so straightforward from developers on the spot has popped up a few times over the last couple of months. My tip here: Just ask if you can take the problem away, and you’ll look at it as soon as you can. Buy yourself your space. Do devs code a solution on the spot in reviews?
