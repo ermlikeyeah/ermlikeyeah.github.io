@@ -2,7 +2,6 @@
 layout: page
 title: Guiding Principles for Work
 permalink: "/principles"
-published: false
 
 ---
 ### With, not for
@@ -15,8 +14,8 @@ published: false
 
 — Realise ideas: Make actual, tangible things
 — Stay grounded
-— Be adaptable: Things change
 — Don’t work with assholes
+— Be adaptable: Things change   
 — Be a good ally; Call out bad behaviour
 
 ### Be open minded
