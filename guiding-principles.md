@@ -1,6 +1,6 @@
 ---
 layout: page
-title: guiding-principles
+title: Guiding Principles for Work
 permalink: "/principles"
 published: false
 
