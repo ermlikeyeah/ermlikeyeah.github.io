@@ -4,6 +4,9 @@ title: Guiding Principles for Work
 permalink: "/principles"
 
 ---
+First published: Tuesday 24 November<br>
+This version published: Tuesday 24 November
+
 ### With, not for
 
 — Collaborate, with users and colleagues<br>
