@@ -15,7 +15,7 @@ permalink: "/principles"
 — Realise ideas: Make actual, tangible things<br>
 — Stay grounded<br>
 — Don’t work with assholes<br>
-— Be adaptable: Things change<br>  
+— Be adaptable: Things change<br>
 — Be a good ally; Call out bad behaviour<br>
 
 ### Be open minded
