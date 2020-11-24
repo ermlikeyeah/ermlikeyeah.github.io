@@ -4,7 +4,9 @@ title: Get in touch
 permalink: "/contact/"
 
 ---
-You can contact and connect with me by:
+If you are after the travel blogger Simon Wilson, that isn't me. His contact details are [on YouTube](https://www.youtube.com/c/SimonWilson12/about).
+
+If it's me that you are looking for you can contact and connect with me by:
 
 * Email: [simoncwilson@gmail.com](mailto:simoncwilson@gmail.com)
 * [Book a half hour catch up in my diary](http://calendly.com/officeofwilson/catch-up)
