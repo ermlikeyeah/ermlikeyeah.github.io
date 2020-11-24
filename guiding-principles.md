@@ -1,22 +1,38 @@
 ---
 layout: page
 title: guiding-principles
-permalink: "/contact/"
+permalink: "/principles"
 published: false
 
 ---
-If you are after the travel blogger Simon Wilson, that isn't me. His contact details are [on YouTube](https://www.youtube.com/c/SimonWilson12/about).
+### With, not for
 
-If it's me that you are looking for you can contact and connect with me by:
+— Collaborate, with users and colleagues
+— Understand the situation and understand the problem/s
+— Be inclusive, with users and colleagues
 
-* Email: [simoncwilson@gmail.com](mailto:simoncwilson@gmail.com)
-* [Book a half hour catch up in my diary](http://calendly.com/officeofwilson/catch-up)
-* [Twitter](http://www.twitter.com/ErmLikeYeah)
-* [LinkedIn](https://uk.linkedin.com/in/siwilson/)
-* [Instagram](https://www.instagram.com/idlesi/)
-* [Speakerdeck](https://speakerdeck.com/idlesi)
-* [Github](https://github.com/ermlikeyeah)
-* [Strava](https://www.strava.com/athletes/41247532)
-* [Goodreads](https://www.goodreads.com/user/show/4156043-si-wilson)
-* [Internet Move Database](https://www.imdb.com/user/ur25681432/ratings)
-* [Playstation Network](https://my.playstation.com/profile/idlesi)
+### Keep it real
+
+— Realise ideas: Make actual, tangible things
+— Stay grounded
+— Be adaptable: Things change
+— Don’t work with assholes
+— Be a good ally; Call out bad behaviour
+
+### Be open minded
+
+— Share whenever possible, as much as possible
+— Borrow wherever appropriate (and feedback how useful it was)
+— Have strong ideas loosely held
+— Ideas can come from anywhere
+— Be open to construvtive criticism
+
+### Always make progress
+
+— Movement forward can be small or large, but keep that momentum going
+
+### Be proud
+
+— Do good work
+— Be proud of the work, but not to the detriment of inclusive working
+— Be an example to others
