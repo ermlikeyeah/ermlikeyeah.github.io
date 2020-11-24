@@ -27,7 +27,7 @@ This version published: Tuesday 24 November
 — Borrow wherever appropriate (and feedback how useful it was)<br>
 — Have strong ideas loosely held<br>
 — Ideas can come from anywhere<br>
-— Be open to construvtive criticism<br>
+— Be open to constructive criticism<br>
 
 ### Always make progress
 
