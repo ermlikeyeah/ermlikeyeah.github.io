@@ -32,7 +32,7 @@ Seven years on I was mulling these over during the summer just gone. I had a fee
 
 I went back to my guiding principles -- and started again. What do I want to do? What can I do? What do I not want to do? What does this make me as a working person? I mapped out a lot of this. And I tried to distill it into some revised principles.
 
-I recently attended a session ran by [Paper](http://paper.studio) where they talked about publishing their business's founding principles and it pushed me to hone my revised guiding principles so I can share them too. This is how I like to work, this is how I want to work. This is how I will hold myself to account, and this is how I will hold the work I am involved with to account.
+I recently attended a session ran by [Paper](http://paper.studio) where they talked about publishing their business's founding principles. As someone who works as a :business of one" it pushed me to hone my revised guiding principles so I can share them too. This is how I like to work, this is how I want to work. This is how I will hold myself to account, and this is how I will hold the work I am involved with to account.
 
 So, now anyone can view [my guiding principles for working](https://www.ermlikeyeah.com/principles).
 
