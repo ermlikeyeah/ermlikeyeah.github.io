@@ -30,7 +30,7 @@ Looking back at those original principles some were grounded, some aspirational,
 
 Seven years on I was mulling these over during the summer just gone. I had a feeling the last several years I have just trundled along. I don't think I have taken much satisfaction from the work I have done. I tried to be professional, turn up, do the work, but felt like an actor: I had turned up and performed the role.
 
-So I went back to my guiding principles -- and started again. What do I want to do? What can I do? What do I not want to do? What does this make me as a working person? I mapped out a lot of this. And I tried to distill it into some revised principles.
+I went back to my guiding principles -- and started again. What do I want to do? What can I do? What do I not want to do? What does this make me as a working person? I mapped out a lot of this. And I tried to distill it into some revised principles.
 
 I recently attended a session ran by [Paper](http://paper.studio) where they talked about publishing their business's founding principles and it pushed me to hone my revised guiding principles so I can share them too. This is how I like to work, this is how I want to work. This is how I will hold myself to account, and this is how I will hold the work I am involved with to account.
 
