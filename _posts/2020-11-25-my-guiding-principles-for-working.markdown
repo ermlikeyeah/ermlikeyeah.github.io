@@ -3,6 +3,8 @@ layout: post
 title: My guiding principles for working
 date: 2020-11-25 09:00:00 +0000
 tags:
+- work focus
+- guiding principles
 - ways of working
 
 ---
