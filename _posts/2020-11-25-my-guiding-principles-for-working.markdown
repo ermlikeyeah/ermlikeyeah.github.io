@@ -6,9 +6,9 @@ tags:
 - ways of working
 
 ---
-Late in the afternoon on 17 June 2013 I opened up a Google Doc and started typing. I can relay this precise date because that's when the document was created. The version history tells me I did a couple of versions that afternoon.
+Late in the afternoon on 17 June 2013 I opened up a Google Doc and started typing. I can relay this precise date because that's when the document was created. The version history tells me I did a couple of versions that afternoon. The date allows me to pinpoint where I was at.
 
-I had reached a point in my career where I was wondering what I _wanted to do next_ and _what I could do next_. Do I keep on with an "official" leadership role? How much would that be management, how much would that be coaching, how much would it be practicing? How do I set up and be focused on what I want to do next -- and how I go about it? And then how could I do that?
+I had reached a point in my career where I was wondering what I _wanted to do next_ and _what I could do next_. Do I keep on with doing "official" leadership roles, being _a director of a business_ with other people, being _a manager_? How much would do I want management, coaching, practicing? How do I set up and be focused on what I want to do next -- and how I go about it? And then how could I do that?
 
 A little brain dump later, I had the following guiding principles:
 
