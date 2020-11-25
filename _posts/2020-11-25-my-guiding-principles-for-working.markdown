@@ -26,7 +26,7 @@ A little brain dump later, I had the following guiding principles:
 * Create things for clients that will be wanted and will be loved.
 * Achieve through collaboration: with clients, with partners, together.
 
-Looking back at those original principles some were grounded, some aspirational, but all fine. Out of my head and down. They've changed a little over the years (defluffed them), but the core of them remains.
+Looking back at those original principles some were grounded, some aspirational, but all fine. Out of my head and down. They've changed a little over the years (defluffed them), but the core of them remains and there are times they helped me [make decisions](https://www.prolificnorth.co.uk/digital/featured/2014/03/simon-wilson-become-consultant-after-unexpected-departure-home).
 
 Seven years on I was mulling these over during the summer just gone. I had a feeling the last several years I have just trundled along. I don't think I have taken much satisfaction from the work I have done. I tried to be professional, turn up, do the work, but felt like an actor: I had turned up and performed the role.
 
