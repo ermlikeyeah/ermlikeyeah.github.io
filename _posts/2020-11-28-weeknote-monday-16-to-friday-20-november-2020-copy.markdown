@@ -9,7 +9,7 @@ tags:
 ---
 #### Project stuff
 
-Project MT was steady away then had some reprioritisation this week. Which is fine, but not so straightforward if that needs some of your time and you’ve only two days a week planned/budgeted for the project and you’ve used them by that point aaarrggghhh. I had some spare time in my week, and I obliged half because I don’t like doing a bad job and half I am in a team that seeks the counsel of the service designer. [Kit](https://twitter.com/kitterati) published the council’s digital strategy this week and introduced it with an A1 [blog post](https://www.royalgreenwich.gov.uk/blog/digital/post/103/we%E2%80%99ve-published-our-first-digital-strategy-at-the-royal-borough-of-greenwich). I have the key points stuck up in the shed over the last coupel of months while I work to keep my mindful of my the work I am involved with.
+Project MT was steady away this week then had some reprioritisation. Which is fine, but not so straightforward if that needs some of your time and you’ve only two days a week planned/budgeted for the project and you’ve used them by that point aaarrggghhh. I had some spare time in my week, and got on with what was needed half because I don’t like doing a bad job and half I am in a team that seeks the counsel of the service designer. [Kit](https://twitter.com/kitterati) published the council’s digital strategy this week and introduced it with an A1 [blog post](https://www.royalgreenwich.gov.uk/blog/digital/post/103/we%E2%80%99ve-published-our-first-digital-strategy-at-the-royal-borough-of-greenwich). I have the key points stuck up in the shed over the last coupel of months while I work to keep my mindful of my the work I am involved with.
 
 Not a lot of time on project MC other than going over some work and what nexts, but seems to be in a decent place, now getting good input. Shout out to [Anna](https://twitter.com/annascande) for being a star!
 
@@ -27,10 +27,10 @@ I enjoyed [Chris](https://twitter.com/chrisparmstrong)’s [setup and build a ba
 
 Attended:
 
-- Transitions, run by FutureGov, while I worked. (I think you can view it on YouTube.)
-- Joined my first [Design and Climate](http://designandclimate.org) regular catch up.
-- [PITA](http://pita.social) (where I just sat and listened at the end of a frazzling day)
-- [The RSA’s Kate Raworth talk](https://youtu.be/GJqhmr0K-4M)
+* Transitions, run by FutureGov, while I worked. (I think you can view it on YouTube.)
+* Joined my first [Design and Climate](http://designandclimate.org) regular catch up.
+* [PITA](http://pita.social) (where I just sat and listened at the end of a frazzling day)
+* [The RSA’s Kate Raworth talk](https://youtu.be/GJqhmr0K-4M)
 
 Could be at the point where more video chats and events at the end of the working day after a day of video chats is not that great a thing. More breakfast and during the day stuff please.
 
@@ -39,22 +39,23 @@ I got a mechanical keyboard. I have used it for three hours so no definite opini
 #### This week helped by
 
 Coffee
-- [Asomuprisma](https://www.pactcoffee.com/coffees/asomuprisma)
-- [San Jose](https://www.djangocoffeeco.com/products/el-salvador-san-jose)
+
+* [Asomuprisma](https://www.pactcoffee.com/coffees/asomuprisma)
+* [San Jose](https://www.djangocoffeeco.com/products/el-salvador-san-jose)
 
 Home made spiced pecan nuts. Strongly recommend you do this too.
 
 #### Next week
 
-- As I continue to “wind down” on project MM, I start on project MH.
-- More project MC and MA (but not lots)
-- [Service Design morning](https://www.eventbrite.co.uk/e/service-design-mornings-tickets-105393837806)
-- [Nothing About Us Without Us](https://www.eventbrite.co.uk/e/nothing-about-us-without-us-challenging-companies-to-do-better-tickets-129441514053)
-- [Accessibility testing: tips to succeed](https://www.eventbrite.co.uk/e/accessibility-testing-tips-to-succeed-tickets-129468558945)
-- And -- at last! -- my six-weeks-on chat with my physio to see how six weeks off running has effected my leg issue. I am expecting I’ll have to have more time off, but I have a slight hope I’ll be given the “get back to regular running and see how it goes”. I have missed running in too many ways.
+* As I continue to “wind down” on project MM, I start on project MH.
+* More project MC and MA (but not lots)
+* [Service Design morning](https://www.eventbrite.co.uk/e/service-design-mornings-tickets-105393837806)
+* [Nothing About Us Without Us](https://www.eventbrite.co.uk/e/nothing-about-us-without-us-challenging-companies-to-do-better-tickets-129441514053)
+* [Accessibility testing: tips to succeed](https://www.eventbrite.co.uk/e/accessibility-testing-tips-to-succeed-tickets-129468558945)
+* And -- at last! -- my six-weeks-on chat with my physio to see how six weeks off running has effected my leg issue. I am expecting I’ll have to have more time off, but I have a slight hope I’ll be given the “get back to regular running and see how it goes”. I have missed running in too many ways.
 
-#### Interesting reads 
+#### Interesting reads
 
-- [Revisiting Enzo Mari, the Design Maverick Who Left a Clear Message to Today’s Designers](https://eyeondesign.aiga.org/revisiting-enzo-mari-the-late-design-maverick-who-left-a-clear-message-to-todays-designers/)
-- [All These Worlds Are Yours](https://cennydd.com/blog/all-these-worlds-are-yours)
-- [Local Welcome during the pandemic](https://www.localwelcome.org/blog/2020/11/26/localwelcome-during-the-pandemic)
+* [Revisiting Enzo Mari, the Design Maverick Who Left a Clear Message to Today’s Designers](https://eyeondesign.aiga.org/revisiting-enzo-mari-the-late-design-maverick-who-left-a-clear-message-to-todays-designers/)
+* [All These Worlds Are Yours](https://cennydd.com/blog/all-these-worlds-are-yours)
+* [Local Welcome during the pandemic](https://www.localwelcome.org/blog/2020/11/26/localwelcome-during-the-pandemic)
