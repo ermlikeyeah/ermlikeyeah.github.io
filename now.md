@@ -8,7 +8,7 @@ permalink: "/now/"
 
 I have left my studio head and board room life behind and these days work as a freelancer, usually doing service or product work (usually designing), eulogising-through-soft-coaching agile ways of working, _sometimes_ helping look at operations stuff.
 
-I am currently on a short term contract helping [Pilot Works](https://pilot.works) as a service designer. I have 3 days a week available from mid-November and full available for mind-December. You can [view my full work availability online](https://calendar.google.com/calendar/embed?src=aa8es2014pag41p94t71nbi77k%40group.calendar.google.com&ctz=Europe%2FLondon).
+I am currently on a short term contract helping [Pilot Works](https://pilot.works) as a service designer. I have 3 days a week available from mid-November and full availability from mid-December. You can [view my full work availability online](https://calendar.google.com/calendar/embed?src=aa8es2014pag41p94t71nbi77k%40group.calendar.google.com&ctz=Europe%2FLondon).
 
 I try to write [week notes](/tags#weeknotes) which sometimes mention work and a more specific [monthly work note](/tags#work%20notes).
 
