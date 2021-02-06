@@ -8,7 +8,7 @@ tags:
 ---
 Despite it being a [guiding principle for work](https://www.ermlikeyeah.com/principles) I’ve not been very _working in the open_ the last couple of months. I’ve more been:
 
-1. Focusing on the full time contract I have been on since the early December.
+1. Focusing on the full time contract I have been on since early December.
 2. Trying to preserve evenings and weekends for _not work_ (when these sort of working in the open notes are tapped out).
 3. Helping the kids now they are doing school work from home.
 4. CHORES.
