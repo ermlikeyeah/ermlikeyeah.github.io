@@ -6,15 +6,13 @@ permalink: "/now/"
 ---
 ## Work
 
-I have left my studio head and board room life behind and these days work as a freelancer, usually doing service or product work (usually designing), eulogising-through-soft-coaching agile ways of working, _sometimes_ helping look at operations stuff.
+I have left my studio head and board room life behind and these days work as a freelancer, usually doing service or product work (usually designing), _sometimes_ helping look at operations stuff.
 
-I am currently on a short term contract helping [Pilot Works](https://pilot.works) as a service designer. I have 3 days a week available from mid-November and full available for mind-December. You can [view my full work availability online](https://calendar.google.com/calendar/embed?src=aa8es2014pag41p94t71nbi77k%40group.calendar.google.com&ctz=Europe%2FLondon).
+I am currently helping the Ministry of Housing, Communities and Local Government map their services. I have a contract until late March 2021.
 
 I try to write [week notes](/tags#weeknotes) which sometimes mention work and a more specific [monthly work note](/tags#work%20notes).
 
 I [offer up half hour spaces in my diary](http://calendly.com/officeofwilson/catch-up), a chance to say hi, catch up or talk about a problem.
-
-I coordinate the [Leeds gov design meets](/leedsgovdesign/), a regular meet-up for people in and around Leeds who are designing and making public services.
 
 I have no upcoming speaking engagements. [Get in touch](/contact) if you would like me to do something. If you have something specific in mind that is a good start too.
 
