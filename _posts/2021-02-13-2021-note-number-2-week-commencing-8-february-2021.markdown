@@ -9,7 +9,7 @@ tags:
 ---
 After last week’s weeknote, [Katy](https://twitter.com/armstrongkatya?s=21) [shared the note on Twitter](https://twitter.com/armstrongkatya/status/1358740632328695810?s=21):
 
->I think this is the first that anyone's said publicly about some really cool cool work we're doing trying to answer the big question: what is MHCLG for, and how can we do it better.
+> I think this is the first that anyone's said publicly about some really cool cool work we're doing trying to answer the big question: what is MHCLG for, and how can we do it better.
 
 So another week, let’s have another public weeknote. This is a brain dump and not an exhaustive pick over every single activity from the week. Some questions presented are _rhetorical_, _have been dug into further but not going into that detail here_ or may actually be _where does the thinking go next?_. Expect a few things in _italics_ or “air quotes” because things can get woolly, might not be defined — and italics and air quotes are useful mechanisms for dealing with people who pick over _the meaning of every single word_ and whose only feedback draws upon pedantry.
 
@@ -33,7 +33,7 @@ Question for next week: How do we record _intent_ or _desired outcomes_? How do 
 
 We have a decent idea of how we might categorise aspects of a service to store — emergent, sure — but need some solid time to rake through it properly. Feels we can do this now though. We have enough to look through and understand how it needs shaping to be useful and understood.
 
-A thing worth highlighting: “Delivering a service”. MHCLG does a lot of the policy and a lot of the funding, but a number of other bodies do a lot of the “serving” bit of a service. If you line out from _the problem_ through _policy_ to _the service_ is all of that delivering_ — or is just the _the service_ delivering? If you have people in policy who want to enable better outcomes does ringfencing _delivery_ to just _the service_ bit seem... unfair?
+A thing worth highlighting: “Delivering a service”. MHCLG does a lot of the policy and a lot of the funding, but a number of other bodies do a lot of the “serving” bit of a service. If you line out from _the problem_ through _policy_ to _the service_ is all of that _delivering_ — or is just the _the service_ delivering? If you have people in policy who want to enable better outcomes does ringfencing _delivery_ to just _the service_ bit seem... unfair?
 
 This week available time where the team were all available together (there must be a German word for that. _mannschaft zeitschaft_?) was a little tighter than usual, few slots where the team could be together. There’s stuff you can do on your own. There’s stuff you can do in pairs. And there’s stuff you try to do with the whole team.
 
