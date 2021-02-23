@@ -2,6 +2,8 @@
 layout: post
 title: Stickers as a thank you
 date: '2016-05-23 20:00:00'
+tags:
+- stickers
 ---
 Exactly a month back [I posted on the brave and hard work](/bradford-gov-uk/) being done by the team at Bradford council to create a new digital platform.
 
