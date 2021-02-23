@@ -2,6 +2,9 @@
 layout: post
 title: 'Designing stickers – or: Getting out a bit more'
 date: '2015-11-17 21:50:00'
+tags:
+- stickers
+
 ---
 
 #### 1
