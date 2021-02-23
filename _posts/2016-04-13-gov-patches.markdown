@@ -2,6 +2,8 @@
 layout: post
 title: Some new stickers
 date: '2016-04-13 21:00:00'
+tags:
+- stickers
 ---
 Hello there.
 
