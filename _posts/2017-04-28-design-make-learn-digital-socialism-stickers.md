@@ -2,6 +2,8 @@
 layout: post
 title: Design, Make, Learn and 'digital socialism' stickers
 date: '2017-04-12 00:01:00'
+tags:
+- stickers
 ---
 A couple of new stickers I have had printed.
 
