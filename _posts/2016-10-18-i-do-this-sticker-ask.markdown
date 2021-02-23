@@ -2,6 +2,8 @@
 layout: post
 title: I do this stickers
 date: '2016-10-18 08:00:00'
+tags:
+- stickers
 ---
 A few weeks back I rattled together a very quick sticker. I put it on Twitter. People seemed to like it. I’ve now done an asterisked, more “family friendly” version.
 
