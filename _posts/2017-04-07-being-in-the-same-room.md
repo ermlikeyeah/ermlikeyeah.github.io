@@ -2,6 +2,8 @@
 layout: post
 title: Being in the same room
 date: '2017-04-07 09:00:00'
+tags:
+- stickers
 ---
 There’s been a recent Government Digital Service (GDS) roadshow. Nice enough idea.
 
