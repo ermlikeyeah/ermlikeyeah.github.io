@@ -5,8 +5,7 @@ date: 2021-05-01 07:55:00 +0000
 tags:
 - running
 - run notes
-- run notes 2020
-- month note
+- run notes 2021
 
 ---
 My last run note was published back [at the start of December 2020](https://www.ermlikeyeah.com/run-note-for-november-2020/), five months ago. Towards the end of that note I wrote:
