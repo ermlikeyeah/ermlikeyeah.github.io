@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Run note for April 2021
-date: 2020-12-02T08:55:00.000+00:00
+date: 2021-05-01 07:55:00 +0000
 tags:
 - running
 - run notes
@@ -9,24 +9,56 @@ tags:
 - month note
 
 ---
-In the middle of October I was told to lay off running, to lay off just about anything strenuous on my right leg for six weeks. The detail is in [October’s run note](/run-note-for-august-september-and-october-2020/). So November has been a waiting game, an observation game, a little trial game.
+My last run note was published back [at the start of December 2020](https://www.ermlikeyeah.com/run-note-for-november-2020/), five months ago. Towards the end of that note I wrote:
 
-In November I can count the runs on one hand: One on [Saturday 21 November](https://www.strava.com/activities/4369976266/overview), the second on [Sunday 29 November](https://www.strava.com/activities/4405633821/overview). Both were trial sessions, a week apart, to see how the injured area feels. Both had a warm up walk for about ten minutes down to the canal, then 10 repetitions of 1 minute of gentle running and 1 minute of walking, followed by a cool down walk back up the hill. And both were had strong ABORT mechanisms if anything didn't feel right. The first I could feel a slight dull pain in my leg, but nothing really notable. The second run even less so. It felt like progress. I have a third similar run lined up later this week, see how that goes. Symptoms-wise the pain feels “numbed”, the lump is still there.
+>I’ve got my six week check with the physio at the end of this week.
 
-The turbo trainer for the bike — something I got earlier to year to help keep me fit while I had my calf injury — would have been super helpful during November. The physio specfically recommenced cycling as exercise to keep me going. But the turbo trainer decided to fault, erratically turning off during rides, no matter what app I used to connect to it. Getting off the bike and having to unplug the trainer, wait a few seconds and plug it back was just about bearable until one hour long session I dismounted at least 12 times. I got in touch with the shop I bought the trainer from and they’ve taken it back. (On the flip, Rutland Cycles provided one of the best customer experiences I’ve had for a long time, mainly by email, liaising with their warranty team, asking me for a description of what wasn’t right, sorting a pick up of the trainer, and all with a really helpful tone. Without wanting to sound work me, it was a really good service.) Just awaiting the outcome of their evaluation now. And now been without a trainer for three weeks, when I have needed it the most. (Thought: A turbo trainer as a service is a thing I’d totally buy into right now, a fault trainer is immediately replaced by a new one, delivered straightaway to plug any potential gap from a faulty product. Where is this?)
+My hope then was I’d get the all clear to starting getting back into running.
 
-As it’s been lockdown in England during November the gyms — my back-up — have also been closed.
+It is now the start of May 2021. I’ve only been starting the running work to get back to longer sustained periods of running the last couple of weeks. That’s over four months later than planned in December.
 
-Stretches have been a part of the physio’s programme too, but nothing too “load bearing”. There’s plenty of steps in the garden to stand over and do tip-toes on. Planks, sure. Sadly burpees have been off the menu, the shame. But stretches are just... stretches.
+What took so long?
 
-I was also advised to wear tight longer socks if I can or my running leggings to help the shin. If we’ve had meetings the last month, just think back. Strong chance I was sat wearing either of these. This is why video chats are top half only.
+## Sometimes processes are there for good reasons
 
-I’ve tried to go for longer walks when I can, but the short weekday daylight hours make them usually short, in the near-dark of dawn and past-dusk. Not as fun and not as motivating.
+In early December I had my check up with my hospital based physio. He told me something had been bothering him since I first started spending time with him: He was surprised that I hadn’t had a full range of scans as from what he was looking at it _seemed_ to be a nasty fracture. He felt like I’d missed some steps in the usual process. So he showed the scans I’d had done to his boss. His boss then happened to see one of the leg specialists when he was getting a coffee and they had a chat. The specialist looked at my scans and recommended I see him and probably get a full set of scans again.
 
-The worst thing has been seeing people, on the streets or along the canal, going for jogs and runs, and personally feeling... left out, of a mainly solo activity I know I know.
+In the proceeding two weeks I went into two hospitals for a face to face chat with the leg specialist (and my physio’s boss!) and then a series of scans, the last on the 23rd December. I was told to continue doing stretches and raises to help my muscles but nothing more. Christmas and the New Year came and went.
 
-During this drop in my physical activity my body weight has increased. I have put on a stone — a stone! — and I am now just nudging 14 stone, unravelling a lot of the work I have put in to get to this point. Before the odd Tunnock’s tea cake, no probs, but now that teacake is a part of me (along with the other _several_ I had during November). It’s a downer for sure, but not one to spiral me into continual depression.
+Early in January I went back in to see my little leg fixing team and got the lowdown: The fracture was to my tibia (which we knew), the scans showed it was a lot worse than was initially expressed (in July after one scan the physio at my GP’s surgery recommended I rest the leg for six weeks and up my intake of vitamin D and that was it).
 
-But it’s December. I’ve got my six week check with the physio at the end of this week. Hoping hopefully the hope is I get an let's move things up a bit. Getting back “almost be like Couch to 5k, if you’ve ever done that” the physio warned at the start of all of this. I’ve done some researching into what _like Couch to 5k_ will be like. I just need to make sure my body is _ready_ to get back to regular running first. Hopefully it is definitely confirmed as just a stress fracture and it’s healed. I’ve had one building-back-up-from-a-bad-injury this year, so it won’t be the first time. But, that go light... I need that.
+If I’d been sent in for all the scans and the specialist had reviewed them, as process set down I was told, we would have known this a lot sooner.
 
-As things stand I’m at 1528km for the year. For a moment I wondered if the activity in a Couch to 5k-esque programme would nudge me over 1600km, but as a few friends have said: Forget about the numbers for now.
+But the situation now matters the most, which is: It’s healing, it looks like it’s healing well, but it’s going to take a while before I am running again. At best: March. Being realistic because things never go to plan: June. At the start of the year June seemed a long way away.
+
+It’s 1 May as I type this. June is just next month. June is turning out to have been the realistic prediction.
+
+## It’s the grind that gets you down
+
+I needed a different kind of recovery programme. The next week I had a long phone chat with my physio. I took notes. We needed to change things. I needed to do activities every other day, I needed to “build my bone back up”, but I also needed to see how my leg felt after each. This would determine what I did next.
+
+The short version: Any pain, stop what I am doing. If the pain subsides go back a step in the plan. If the pain is substantial call the hospital. No pain? Keep going with the plan.
+
+What this amounted to was lots of walking, lots and lots of walking. A lots more squats and stretches and lifts, and hops and jumps, some just myself, some holding a weight of some kind. The gyms had shut due to lockdown so this was all done in the backyard at home. In the in between days I could cycle (so the turbo trainer my bike was hooked up to proved very useful) and get some value out of that Zwift subscription.
+
+At the start of every month I caught up with Jonny. I had been taking it steady for the first four weeks, gradually increasing my effort and load as Jonny said. I had got to the point of some small two-legged hops, sets of 10 and 20, and one legged hops (which I was and still am useless at). No negative reactions so in February’s catch up we set up gradually adding more. Towards the end of February I started to get an ache in my right shin, rested, eased back a couple of notches. The ache didn’t surface with the lower level exercise and I waited for my March catch up with Jonny. I had held out that March could have been a time to do a little running but knew this ache was a symptom I couldn’t ignore.
+
+In March’s catch up Jonny assured me I had done the right thing, it’s not worth pushing it, better to slow down for another month or two of recovery than face a lot longer out. So we kept with increasing the load but spread out the increases.
+
+My body weight had also increased since the summer, during this time of leg problems, by 1 and a half stone (neatly 10kg). One of the reasons I got back into regular running was to help my type 2 diabetes. Now I was weighing in at 14.5 stone (92kg). I was worried what this increase in weight was doing to my insides. In late March I had a blood test and the results showed my levels had crept back up to where they were a couple of years ago. Time alone doing exercise, be it jumps, the bike, whatever, and now knowing what was going on inside me. This wasn’t a happy place to be. I needed to grind through this. But more grind meant more time alone. And the grind got me down.
+
+So into April, the fourth session with Jonny. For some reason it was closer to the middle of the month. I went through what I had done, how my body responded. Jonny told me with the work I have been doing past week I am beyond the point he would ask someone to try going for a short run. “So you should try and go for a run.” But he was clear, go for a walk — which I’d been doing — and roll in some faster segments (not fast just faster), so maybe walk for 5 minutes and run for 5 minutes, do that a couple of times, see how it feels. Any sharp pain, stop running. Test and try, but be prepared to roll back or stop if needed. If after a couple of successful sessions it feels OK increase the load a little: same distance, a little faster; a bit more distance, same speed. And best of all: No more jumps. Yes!
+
+## This run: 9:08/km
+
+So on 15 April, after a couple of walks with “jogging bits” [I gave it a go](https://strava.app.link/11omx5uQTfb). I went out, aiming to walk for half a kilometre and then “run” for half a kilometre. The early running* halves I tried to keep at a slow “recovery” pace. I didn’t find this difficult. I hadn’t done this for a while. Slow was easy. But I found that I wasn’t feeling tired, the bike work maybe helping with this. After 3km though I found myself running faster than I thought I was. No harm for just half a kilometre I thought. Another walking half and the next running* half I concentrated hard to slow it down and carried that on until the end of 8 or so kilometres.
+
+My leg felt _strange_, I could sense there was *something* different about my right leg but I couldn’t quite place it. I was reminded that fracture was now “filled in”, a massive scar on my bone, a chunk of my bone that was new, that needed to respond to the work I was putting it through. I needed to respect it, to “educate” it, so it goes along with me — otherwise I won’t be doing much running for the rest of my life.
+
+No pain. Glad to be out. Half hope, half fear what happens next.
+
+I left it a few days before I went out again. There was a slight ache in my shin the next day but it subsided.
+
+## 6 more runs, 7 runs for the month
+
+So, I’ve now had two weeks of being in the groove of going for a run every two or three days, building it back up. I’ve not done any start-to-end distance where I have just run — but I am OK with starting, doing some running, doing some walking, and finishing. There’s some longer stretches of running in those (I managed about 3km earlier this week). At some point I’ll do 5km all running. But there’s no rush. I’m not in a race. Just keep building it back up.
