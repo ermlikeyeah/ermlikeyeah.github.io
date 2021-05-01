@@ -8,7 +8,7 @@ permalink: "/now/"
 
 I have left my studio head and board room life behind and these days work as a freelancer, usually doing service or product work (usually designing), _sometimes_ helping look at operations stuff.
 
-I am currently helping the Ministry of Housing, Communities and Local Government map their services. I have a contract until late March 2021.
+I am currently helping the Ministry of Housing, Communities and Local Government map their services. I have a contract until late June 2021.
 
 I try to write [week notes](/tags#weeknotes) which sometimes mention work and a more specific [monthly work note](/tags#work%20notes).
 
