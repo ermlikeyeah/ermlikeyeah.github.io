@@ -14,16 +14,15 @@ The Fence had me thinking _a bit_ about all those _should designers code?_ discu
 
 Had the last [Signature Lo-fi beer](https://www.signaturebrew.co.uk/collections/live/products/lofi), stashed in the shed. Criminally a) I saw Sarah D post about it on the ‘gram, b) I bought some, c) despite already having about 20 cans/bottles of other low alc beers. Good beer though. Was tempted to buy some more but want to run my stocks down some more first. But Drummond is now officially a Thought Leader in my books.
 
-
 Not read many blog posts this week, but got through [Mark’s post on products](https://mhurrell.co.uk/prospects/starting-to-look-up-again/), starting from Kanye’s trainers. Worth a read.
 
 Related (sustainable products): Have the web page for [Saucony Jazz Court RFGs](https://www.saucony.com/UK/en_GB/jazz-court-rfg/48766U.html?dwvar_48766U_color=S70562-1) lurking in a tab. Must resist. _Must_.
 
-Finished _The Falcon and the Winter Soldier_. Thumbs up all round.
+Finished _The Falcon and the Winter Soldier_ at last. Thumbs up all round.
 
 Watched the [Shang-Chi trailer](https://youtu.be/giWIr7U1deA) a few times, half for the comment someone left _Asian Parents Expectations 100% on point_.
 
-Got drawn into Animal Planet videos of things like (look away now) [a man who has a barnacle growing inside his hand](https://youtu.be/tAmSR-SRmMI). I advise you don’t start. I wasted an hour of my life in that wormhole.
+Got drawn into Animal Planet videos of things like (look away now) [a man who has a barnacle growing inside his hand](https://youtu.be/tAmSR-SRmMI). I advise you don’t start. I wasted an hour of my life in that wormhole. Absolutely fearful bind-/knot-weed fluid on my hands will see the stuff spouting out of my hands and arms like Swamp Thing.
 
 Not a lot to say about Basecamp. Yes, feel for the employees, but _it’s a company_. Owners gonna own.
 
