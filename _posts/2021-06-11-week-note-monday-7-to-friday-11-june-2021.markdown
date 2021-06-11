@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Week note, Monday 7 to Friday 11 June 2021
+title: Weeknote, Monday 7 to Friday 11 June 2021
 date: 2021-06-11 03:20:00 +0000
 tags:
+- weeknotes
 - MHCLG
 - weeknote
 
