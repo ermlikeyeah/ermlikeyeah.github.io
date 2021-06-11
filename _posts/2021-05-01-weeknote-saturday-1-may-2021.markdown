@@ -3,7 +3,8 @@ layout: post
 title: Weeknote, Saturday 1 May 2021
 date: 2021-05-01 12:00:00 +0000
 tags:
-- week note
+- weeknotes
+- weeknote
 
 ---
 I was in the Rec this morning and all the dandelions are out in FULL FORCE. One of the best times of the year. Also means all the knot- and bind-weed will be out on the veg patch. One of the worst times of the year.
