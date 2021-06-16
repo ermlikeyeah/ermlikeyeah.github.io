@@ -8,7 +8,7 @@ If you are after the travel blogger Simon Wilson, that isn't me. His contact det
 
 If it's me that you are looking for you can contact and connect with me by:
 
-* Email: [simoncwilson@gmail.com](mailto:simoncwilson@gmail.com)
+* Email: simoncwilson@gmail.com
 * [Book a half hour catch up in my diary](http://calendly.com/officeofwilson/catch-up)
 * [Twitter](http://www.twitter.com/ErmLikeYeah)
 * [LinkedIn](https://uk.linkedin.com/in/siwilson/)
