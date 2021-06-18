@@ -16,14 +16,14 @@ And then getting that coded in. Lots of that logic and nested within _if we have
 
 Had some good little sessions with user researcher Jess working through lots of stuff, which was nice. But mainly a week sat on my own, ticking along.
 
-Outside of the department service map I chatted with one designer by Slack a bit this week, see how they're going. A product owner and I had chats about all sorts of stuff, was. was nice. I had an end of week catch up with another MHCLG designer, [Paul](https://twitter.com/paulmsmith), which was, again, nice. I also had catch ups with four people at gov departments that aren't MHCLG, through my [public offering of half hour chats](https://calendly.com/officeofwilson/catch-up?month=2021-06). Nice. I had a really good discussion about the value of exploring concepts, regardless of whether you work in a "design systemed" enviornment or not. Yes, nice. And another chat, about the shared skills of a designer (interaction, service, whatever) and a product owner. Which was also nice, helping the PO start to see where they can work closer with a designer. Respectfull crossovers and all that.
+Outside of the department service map I chatted with one designer by Slack a bit this week, see how they're going. A product owner and I had chats about all sorts of stuff, was. was nice. I had an end of week catch up with another MHCLG designer, [Paul](https://twitter.com/paulmsmith), which was, again, nice. I also had catch ups with four people at gov departments that aren't MHCLG, through my [public offering of half hour chats](https://calendly.com/officeofwilson/catch-up?month=2021-06). Nice. I had a really good discussion about the value of exploring concepts, regardless of whether you work in a "design systemed" enviornment or not. Yes, nice. And maybe a separate blog post in that. And another chat, about the shared skills of a designer (interaction, service, UX, content whatever) and a product owner. Which was also nice, helping the PO start to see where they can work closer with a designer. Respectful crossovers and all that.
 
 A couple of things outside of all that:
 
-A couple of weeks back I chatted with Randy and Lily about mapping, on the Mind the Product podcast as part of MtP's discovery week. Feel free to [listen](https://www.mindtheproduct.com/using-maps-as-part-of-discovery-simon-wilson/) and let me know what you think.
+A couple of weeks back I chatted with Randy and Lily about mapping, on the Mind the Product podcast as part of MtP's discovery week. Nothing too in depth and tried to keep it "light". Feel free to [listen](https://www.mindtheproduct.com/using-maps-as-part-of-discovery-simon-wilson/) and let me know what you think.
 
 My son has been isolating the last two days of the week (thanks Covid!), doing his schoolwork from home, logging onto Teams, picking up bits of work that are simply labeled "for those isolating". Not ideal circumstances but nice to get messages from him asking where he can put his newly built website. Yes, you should have been doing Spanish, son, but...
 
 Pro tip of the week: As tempting as it is to stay up until 2am so you can catch some of the NBA playoffs I advise not to do this in the middle of a working week. You will feel it the next day.
 
-But aside from that, a couple of teeth0gnashing hours aside a reasonably straightforward week with my MHCLG work. Can't complain on that front.
+But aside from that, a couple of teeth-gnashing hours aside a reasonably straightforward week with my MHCLG work. Can't complain on that front.
