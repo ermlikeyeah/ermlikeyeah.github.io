@@ -1,25 +1,29 @@
 ---
 layout: post
 title: Weeknote, Monday 14 to Friday 18 June 2021
-date: 2021-06-11T15:20:00.000+00:00
+date: 2021-06-18 16:00:00 +0000
 tags:
 - weeknotes
 - MHCLG
 - weeknote
 
 ---
-The development of the service map prototype trundles along: Some fixes; Pulling through some new types of data the team has put into our database; A little tidying up some messy code and files to make it easier to update latest info in the future. I want to get this nice and neat by the middle of next week to review as "pretty much done". And I need to stop calling it the prototype. It's a working website.
+I'm just looking through my references for the week of work. My notebook shows two spreads at least for each day of the week. 16 spreads for the week in total, full of lists, notes, scribbles, sketches. But the board we use for work has just one thing against me: The Prototype. And that's been my focus this week. Last thing yesterday I counted I had done about 60 "tasks" so far this week. Today I did another 22.
 
-Earlier in the week, I was adding into the service map the freshly provided information for a service from a body at arm's length from MHCLG (get your breath back). It felt satisfying simultaneously gathering service info (will people get what we are asking for? will they need help from us? what's the process at their end?) with info from people wanting to help further our understanding of the services around the department.
+Some small things -- typos, replace little bits of content -- others fell into 1. redesigning stuff and 2. a fair bit of restructuring our service map database and then creating hierarchical rules for using it. If we have information supplied by a service team use that. If we don't have that and we have information analysed by us, use that. If we don't have either of those do we have our initial assumptions for what the service is? Use that. That sort of thing.
 
-Later in the week it was drawing into the prototype the revised approach to users and user needs which user researcher Jess grafted through.
+And then getting that coded in. Lots of that logic and nested within _if we have that use it, otherwise don't do anything -- or say we don't have anything_. It's one of those grinding weeks of lots of little things but The Thing is Getting Made (or remade, feeling a bit Trigger's broom now): I'm making that code-wise and the team collectively are making it in all sorts of other ways. It's satisfying, in that it's-coming-together way. And I am really glad I decided early in to work out how to easily grab a JSON file of the data so we can build a prototype around it. It's mde our work feel alive a lot sooner - and made the jump to getting into people's hands easier.
 
-Side note: Having a couple of stretches where I had several hours to just focus on coding felt way more productive than fitting in an hour here and there. You know those tasks where you get warmed up a little slower than some other things, but when you get going you just motor through?
+Had some good little sessions with user researcher Jess working through lots of stuff, which was nice. But mainly a week sat on my own, ticking along.
 
-I had a chance to review the service patterns we've distilled over the last couple of weeks, looking through some services and noting which patterns I observed in those services. The list won't be done but it feels right at this moment in time. I'd love to dig a little more into the variants within those patterns, how is applying in that service the same or different to that service? What other services have the same process for asking for something. It's nice to be looking at services too, not just the web bit.
+Outside of the department service map I chatted with one designer by Slack a bit this week, see how they're going. A product owner and I had chats about all sorts of stuff, was. was nice. I had an end of week catch up with another MHCLG designer, [Paul](https://twitter.com/paulmsmith), which was, again, nice. I also had catch ups with four people at gov departments that aren't MHCLG, through my [public offering of half hour chats](https://calendly.com/officeofwilson/catch-up?month=2021-06). Nice. I had a really good discussion about the value of exploring concepts, regardless of whether you work in a "design systemed" enviornment or not. Yes, nice. And another chat, about the shared skills of a designer (interaction, service, whatever) and a product owner. Which was also nice, helping the PO start to see where they can work closer with a designer. Respectfull crossovers and all that.
 
-As the service map team is operating as a service to its own users we made some handy progress shaping the feedback journey for our own service, again using prototypes to sketch our thoughts after some virtual board work and then start to hone the journeys, as well as looking at other tools that can help (like Office 365's Word and web form services). Still some work to do, but it's always easier to talk from made things than referring to abstracts. (Shout out to Jess again.)
+A couple of things outside of all that:
 
-There aren't many designers in MHCLG, which means designers' support is reliant on a small number of us. Helping others learn a new skill or have a reminder session because they are rusty is something I had lost time for about 7 years ago, made me want to go back to being "hands on" full time. But the last few years I've found it one of the more satisfying sides to my working days again, the last couple of weeks particularly. As someone in the later years of their career and done the up/down/up/down the career ladder I wonder how much communities of practice (over specialised one on one time with a peer) support (and not support) the development of designers, and ultimately the furtherment of better design in an organisation. Anyway, satisfying to spend time supporting a couple of the other designers this week.
+A couple of weeks back I chatted with Randy and Lily about mapping, on the Mind the Product podcast as part of MtP's discovery week. Feel free to [listen](https://www.mindtheproduct.com/using-maps-as-part-of-discovery-simon-wilson/) and let me know what you think.
 
-Wednesday I ended the day looking over everything I had done in the working day. It felt like I'd used a lot of tools from my toolbox, a lot of tools I'd built up over the years. I didn't feel any sense of context switching whiplash. It had been a steady day, a lot of things on my own and a lot of things with others, a lot of things done, but again that word: satisfying.
+My son has been isolating the last two days of the week (thanks Covid!), doing his schoolwork from home, logging onto Teams, picking up bits of work that are simply labeled "for those isolating". Not ideal circumstances but nice to get messages from him asking where he can put his newly built website. Yes, you should have been doing Spanish, son, but...
+
+Pro tip of the week: As tempting as it is to stay up until 2am so you can catch some of the NBA playoffs I advise not to do this in the middle of a working week. You will feel it the next day.
+
+But aside from that, a couple of teeth0gnashing hours aside a reasonably straightforward week with my MHCLG work. Can't complain on that front.
