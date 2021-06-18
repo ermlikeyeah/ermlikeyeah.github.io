@@ -20,7 +20,7 @@ Outside of the department service map I chatted with one designer by Slack a bit
 
 A couple of things outside of all that:
 
-A couple of weeks back I chatted with Randy and Lily about mapping, on the Mind the Product podcast as part of MtP's discovery week. Nothing too in depth and tried to keep it "light". Feel free to [listen](https://www.mindtheproduct.com/using-maps-as-part-of-discovery-simon-wilson/) and let me know what you think.
+A couple of weeks back I chatted with Randy and Lily on the Mind the Product podcast as part of MtP's discovery week, about mapping. Nothing too in depth and tried to keep it "light". Feel free to [listen](https://www.mindtheproduct.com/using-maps-as-part-of-discovery-simon-wilson/) and let me know what you think.
 
 My son has been isolating the last two days of the week (thanks Covid!), doing his schoolwork from home, logging onto Teams, picking up bits of work that are simply labeled "for those isolating". Not ideal circumstances but nice to get messages from him asking where he can put his newly built website. Yes, you should have been doing Spanish, son, but...
 
