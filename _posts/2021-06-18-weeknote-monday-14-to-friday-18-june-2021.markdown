@@ -26,4 +26,4 @@ My son has been isolating the last two days of the week (thanks Covid!), doing h
 
 Pro tip of the week: As tempting as it is to stay up until 2am so you can catch some of the NBA playoffs I advise not to do this in the middle of a working week. You will feel it the next day.
 
-But aside from that, a couple of teeth-gnashing hours aside a reasonably straightforward week with my MHCLG work. Can't complain on that front.
+But aside from that, despite a couple of teeth-gnashing hours, a reasonably straightforward week with my MHCLG work. Can't complain on that front.
