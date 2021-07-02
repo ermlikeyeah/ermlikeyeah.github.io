@@ -8,56 +8,22 @@ tags:
 - run notes 2021
 
 ---
-My last run note was published back [at the start of December 2020](https://www.ermlikeyeah.com/run-note-for-november-2020/), five months ago. Towards the end of that note I wrote:
+In my [previous run note](https://www.ermlikeyeah.com/run-note-for-april-2021/), two months back on 1 May, I was looking forward to building my running back up again after a long time out with a stress fracture. How have I got on since?
 
->I’ve got my six week check with the physio at the end of this week.
+May started with some gradual progression building back up, a nice steady day to day rhythm of cycling and walking or running. In the first 16 days of May I'd gone on 6 sessions that incorporated running. A [10km session](https://www.strava.com/activities/5248058209/overview) that was half walking, half running. Two days later it was [12km](https://www.strava.com/activities/5255167183) of the same. I could feel the groove of my move coming back. At the weekend I tried to steadily run as much of [5km](https://www.strava.com/activities/5267989700/overview) as possible (my first 5km _running_ since last October), on the way out to Rodley and something slower on the [way back](https://www.strava.com/activities/5268363202/overview). My leg was starting to feel normal so I pushed on a couple of days later to an [8km session](https://www.strava.com/activities/5277027012). All OK, so several days later I had a walk-and-run [13km session](https://www.strava.com/activities/5294061095/overview) and ended the week with [16km session](https://www.strava.com/activities/5305842605/overvie)w that was more running than walking. So halfway through the month and everything seems to be going OK. I can move, my shin wasn't reacting, good good.
 
-My hope then was I’d get the all clear to starting getting back into running.
+Until Monday 17 May, when a trip to the gym for some resistance and aerobic work. A slow warm up on a treadmill gave me a pang at the back of my right leg. The next day I was in agony, hobbling but could cycle with no pain so dropped the running, exchanged it for more cycling, try and keep my fitness increasing, hope the pain subsided and my walking came back. It did, slowly, very slowly. I started having a hot bath most nights to soak my legs. I stank of the wonderful hot and cold creams. I read up on massaging my Achilles tendon (because it was this giving my aggro) and eventually, after a couple of weeks, walking up hills wasn't painful, just an ache.
 
-It is now the start of May 2021. I’ve only been starting the running work to get back to longer sustained periods of running the last couple of weeks. That’s over four months later than planned in December.
+*May running total: 71km*
 
-What took so long?
+About 3 weeks after the treadmill induced injury I tried going for [a light run](https://www.strava.com/activities/5414091459/overview), just up and down a local lane, 1300 metres of moving faster than walking. Something not too taxing, see how it goes, if I need to give up I can give up. Awkward but I could move. What next?
 
-## Sometimes processes are there for good reasons
+The next day I went to my old friend the school field, did [some laps](https://www.strava.com/activities/5418659140/overview). My leg seemed OK to trot out 5km. Over the following week I did a couple more sport field sessions to test my Achilles and give me some confidence. It didn't feel 100% but it felt usable - and I had read better to do something than nothing with an Achilles. Again I was back to building back up and gave it a test with an early Saturday trip out [towards Rodley](https://www.strava.com/activities/5454977370). 10km, felt awkward, but some distance in there. A few days later I went out for [nearly 7km](https://www.strava.com/activities/5475668745) and just felt so... stiff, rigid, wobbly. I decided to give the leg a rest again for a few days. Just do nothing but a dog walk and sit down for work (not use my standing desk) and raise my feet as I worked a lot more. Continual softer exercise.
 
-In early December I had my check up with my hospital based physio. He told me something had been bothering him since I first started spending time with him: He was surprised that I hadn’t had a full range of scans as from what he was looking at it _seemed_ to be a nasty fracture. He felt like I’d missed some steps in the usual process. So he showed the scans I’d had done to his boss. His boss then happened to see one of the leg specialists when he was getting a coffee and they had a chat. The specialist looked at my scans and recommended I see him and probably get a full set of scans again.
+A good five days of that and [another try out](https://www.strava.com/activities/5507358790). It's always about giving it a try and seeing how its goes, eh. The stiffness, the aching from the previous was still there, maybe worse so I eased back, left it a few days before a [Sunday run](https://www.strava.com/activities/5535679678). Still some stiffness, still bathing. 
 
-In the proceeding two weeks I went into two hospitals for a face to face chat with the leg specialist (and my physio’s boss!) and then a series of scans, the last on the 23rd December. I was told to continue doing stretches and raises to help my muscles but nothing more. Christmas and the New Year came and went.
+The next day, the start of the week, I read up more and watched some videos about the Achilles, further my learning. Some more detail on massages seemed hopeful and I also dug out the kinesiology tape, laying a strip along the back of my right leg and tucked onto the sole of my foot. I dragged myself out for a [lunchtime run](https://www.strava.com/activities/5542477344/overview), keeping the pace around 6min/km (easier when you feel you've a slight hobble). And for the remaining two days of the month that's what I did: Do some stretches and ease my way out for some 5km sessions.
 
-Early in January I went back in to see my little leg fixing team and got the lowdown: The fracture was to my tibia (which we knew), the scans showed it was a lot worse than was initially expressed (in July after one scan the physio at my GP’s surgery recommended I rest the leg for six weeks and up my intake of vitamin D and that was it).
+*June running total: 71km*
 
-If I’d been sent in for all the scans and the specialist had reviewed them, as process set down I was told, we would have known this a lot sooner.
-
-But the situation now matters the most, which is: It’s healing, it looks like it’s healing well, but it’s going to take a while before I am running again. At best: March. Being realistic because things never go to plan: June. At the start of the year June seemed a long way away.
-
-It’s 1 May as I type this. June is just next month. June is turning out to have been the realistic prediction.
-
-## It’s the grind that gets you down
-
-I needed a different kind of recovery programme. The next week I had a long phone chat with my physio. I took notes. We needed to change things. I needed to do activities every other day, I needed to “build my bone back up”, but I also needed to see how my leg felt after each. This would determine what I did next.
-
-The short version: Any pain, stop what I am doing. If the pain subsides go back a step in the plan. If the pain is substantial call the hospital. No pain? Keep going with the plan.
-
-What this amounted to was lots of walking, lots and lots of walking. A lots more squats and stretches and lifts, and hops and jumps, some just myself, some holding a weight of some kind. The gyms had shut due to lockdown so this was all done in the backyard at home. In the in between days I could cycle (so the turbo trainer my bike was hooked up to proved very useful) and get some value out of that Zwift subscription.
-
-At the start of every month I caught up with Jonny. I had been taking it steady for the first four weeks, gradually increasing my effort and load as Jonny said. I had got to the point of some small two-legged hops, sets of 10 and 20, and one legged hops (which I was and still am useless at). No negative reactions so in February’s catch up we set up gradually adding more. Towards the end of February I started to get an ache in my right shin, rested, eased back a couple of notches. The ache didn’t surface with the lower level exercise and I waited for my March catch up with Jonny. I had held out that March could have been a time to do a little running but knew this ache was a symptom I couldn’t ignore.
-
-In March’s catch up Jonny assured me I had done the right thing, it’s not worth pushing it, better to slow down for another month or two of recovery than face a lot longer out. So we kept with increasing the load but spread out the increases.
-
-My body weight had also increased since the summer, during this time of leg problems, by 1 and a half stone (neatly 10kg). One of the reasons I got back into regular running was to help my type 2 diabetes. Now I was weighing in at 14.5 stone (92kg). I was worried what this increase in weight was doing to my insides. In late March I had a blood test and the results showed my levels had crept back up to where they were a couple of years ago. Time alone doing exercise, be it jumps, the bike, whatever, and now knowing what was going on inside me. This wasn’t a happy place to be. I needed to grind through this. But more grind meant more time alone. And the grind got me down.
-
-So into April, the fourth session with Jonny. For some reason it was closer to the middle of the month. I went through what I had done, how my body responded. Jonny told me with the work I have been doing past week I am beyond the point he would ask someone to try going for a short run. “So you should try and go for a run.” But he was clear, go for a walk — which I’d been doing — and roll in some faster segments (not fast just faster), so maybe walk for 5 minutes and run for 5 minutes, do that a couple of times, see how it feels. Any sharp pain, stop running. Test and try, but be prepared to roll back or stop if needed. If after a couple of successful sessions it feels OK increase the load a little: same distance, a little faster; a bit more distance, same speed. And best of all: No more jumps. Yes!
-
-## This run: 9:08/km
-
-So on 15 April, after a couple of walks with “jogging bits” [I gave it a go](https://strava.app.link/11omx5uQTfb). I went out, aiming to walk for half a kilometre and then “run” for half a kilometre. The early running* halves I tried to keep at a slow “recovery” pace. I didn’t find this difficult. I hadn’t done this for a while. Slow was easy. But I found that I wasn’t feeling tired, the bike work maybe helping with this. After 3km though I found myself running faster than I thought I was. No harm for just half a kilometre I thought. Another walking half and the next running* half I concentrated hard to slow it down and carried that on until the end of 8 or so kilometres.
-
-My leg felt _strange_, I could sense there was *something* different about my right leg but I couldn’t quite place it. I was reminded that fracture was now “filled in”, a massive scar on my bone, a chunk of my bone that was new, that needed to respond to the work I was putting it through. I needed to respect it, to “educate” it, so it goes along with me — otherwise I won’t be doing much running for the rest of my life.
-
-No pain. Glad to be out. Half hope, half fear what happens next.
-
-I left it a few days before I went out again. There was a slight ache in my shin the next day but it subsided.
-
-## 6 more runs, 7 runs for the month
-
-So, I’ve now had two weeks of being in the groove of going for a run every two or three days, building it back up. I’ve not done any start-to-end distance where I have just run — but I am OK with starting, doing some running, doing some walking, and finishing. There’s some longer stretches of running in those (I managed about 3km earlier this week). At some point I’ll do 5km all running. But there’s no rush. I’m not in a race. Just keep building it back up.
+So the end of the month, as I type this I've the weekend ahead. I have had a couple of days of rest and going to see how things go tomorrow. Back to being hyper sensitive how the leg is, trying not to push it too hard, but trying to get out. I'll report back in a month.
