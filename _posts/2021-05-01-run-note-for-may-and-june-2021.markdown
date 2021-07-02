@@ -22,7 +22,7 @@ The next day I went to my old friend the school field, did [some laps](https://w
 
 A good five days of that and [another try out](https://www.strava.com/activities/5507358790). It's always about giving it a try and seeing how its goes, eh. The stiffness, the aching from the previous was still there, maybe worse so I eased back, left it a few days before a [Sunday run](https://www.strava.com/activities/5535679678). Still some stiffness, still bathing.
 
-The next day, the start of the week, I read up more and watched some videos about the Achilles, further my learning. Some more detail on massages seemed hopeful and I also dug out the kinesiology tape, laying a strip along the back of my right leg and tucked onto the sole of my foot. I dragged myself out for a [lunchtime run](https://www.strava.com/activities/5542477344/overview), keeping the pace around 6min/km (easier when you feel you've a slight hobble). And for the remaining two days of the month that's what I did: Do some stretches and ease my way out for some 5km sessions.
+The next day, the start of the week, I read up more and watched some videos about the Achilles, further my learning. Some more detail on massages seemed hopeful and I also dug out the kinesiology tape, laying a strip along the back of my right leg and tucked onto the sole of my foot. I dragged myself out for a [lunchtime run](https://www.strava.com/activities/5542477344/overview), keeping the pace around 6min/km (easier when you feel you've a slight hobble). And for the remaining two days of the month that's what I did: Do some stretches and ease my way out for some 5km sessions. I even freshened things up with different pairs of running shoes for each session. Not showing off, honest.
 
 _June running total: 71km_
 
