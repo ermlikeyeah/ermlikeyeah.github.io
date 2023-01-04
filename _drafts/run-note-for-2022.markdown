@@ -1,0 +1,132 @@
+---
+layout: post
+title: Run note for 2022
+date: 2023-01-01 13:00:00 +0000
+tags:
+- run notes
+
+---
+## (With a bit of walking too.)  
+  
+Didn’t do a run note for 2021 but let’s go again.   
+  
+### In short   
+  
+Start of the year aimed for 1,600km. A slow start, things picked up for a steady few months then hit by Covid and heel aggro in July and August. Adjusted target to 1300km for the year. Ended on 1372km for the year. Not bad.   
+  
+### Injuries and illness   
+  
+Early July: Covid   
+Late July through August: Heel   
+December: Achilles   
+  
+### Monthly run totals   
+  
+January: 98km (3.2km per day)   
+February: 66km (2.4km per day)   
+March: 170km (5.5km per day)   
+April: 167km (5.6km per day)   
+May: 133km (4.3km per day)   
+June: 107km (3.6km per day)   
+July: 55km (1.8km per day)   
+August: 64km (2.1km per day)   
+September: 147km (4.9km per day)   
+October: 178km (5.7km per day)   
+November: 121km (4.0km per day)   
+December: 66km (2.1km per day)   
+  
+### General notes   
+  
+Had two injuries that hampered things but 1372km for the year will do.   
+
+A period in April when the legs felt somewhere back where they should be, clocking a pace sub 5min/km for sessions that were 5km to 8km long. That felt good.   
+
+Retired the Catamounts. Loved them. Part regret not buying a new pair. Went for some Brooks Calderas instead which have supposedly plusher soles but just aren’t the same. Got some Brook Hyperion Tempos to try to plug the Catamount gap; They’re grand. Still might pull the trigger and get some new Catamounts.   
+
+Made sure I rotated my soles and types of runs.   
+
+Back to loops, at Roberts Park. Session not going well? Peel off the circuit and head home   
+
+Ever thankful for all the variety of routes near where I live.   
+
+Running in Copenhagen was fun.   
+
+Notched up some runs over London bridges and going to try tick the remainders off.   
+
+More cities should have nice ‘n long trails like Dallas’s Katy.   
+
+Registered for two marathons (Manchester in April and Edinburgh at the end of May). Supposed to do my first marathon in 2020. Try to put that right in 2023.   
+
+With kids, dogs, chores and other things I couldn’t run every day. A long walk or two aren’t the same but they’re a good complement.   
+
+Related: Finally accepted the dog hates runs. Her staring at me about 200 metres back going “where the fuck are you going?” usually meant she won and I had to turn back. We’re just walk mates now.   
+
+Walking is good. In Alcudia, Mallorca I did a walk out along the seaside to the lighthouse and back. Can take things in in a way running doesn’t allow.   
+[https://www.strava.com/activities/7620624681/overview](https://www.strava.com/activities/7620624681/overview "https://www.strava.com/activities/7620624681/overview")   
+
+Walking is good for talking things through with a mate.   
+
+So nice to have the turbo trainer set up on the bike again after the best part of a year stored in the laundry room. Need to use it more though.   
+
+Weight. Started the year at 82.8kg (62kg muscle / 20kg fat), got to 84kg by the end of summer and ending the year at 87kg (71.5kg muscle / 15.3kg fat). Add in my cholesterol levels back up and not been good. Something to work on.   
+
+I made my Strava account private. I’ve been quite open how getting out and about more has helped me but I was sensitive to a few things so thought privacy was best. I’m not on Strava for the vanity of high likes numbers, more to measure and analyse my own acitvities, learn new things (routes mainly) and share the good and the not so good in case it helps someone else.   
+
+My efforts in December were shite.   
+  
+### Favourite runs   
+  
+Running over bridges in London.   
+[https://www.strava.com/activities/7955526244/overview](https://www.strava.com/activities/7955526244/overview "https://www.strava.com/activities/7955526244/overview")   
+[https://www.strava.com/activities/7045204962/overview](https://www.strava.com/activities/7045204962/overview "https://www.strava.com/activities/7045204962/overview")   
+[https://www.strava.com/activities/8085572553/overview](https://www.strava.com/activities/8085572553/overview "https://www.strava.com/activities/8085572553/overview")   
+
+Went for a run during the Conference play of final. Did the highest jump of my running along the canal when Town scored.   
+[https://www.strava.com/activities/7260398851/overview](https://www.strava.com/activities/7260398851/overview "https://www.strava.com/activities/7260398851/overview")   
+
+Early morning along the beach at Alcudia.   
+[https://www.strava.com/activities/7618426736/overview](https://www.strava.com/activities/7618426736/overview "https://www.strava.com/activities/7618426736/overview")   
+
+Early morning runs along the canal or river can look quite bonny.   
+[https://www.strava.com/activities/7815870851/overview](https://www.strava.com/activities/7815870851/overview "https://www.strava.com/activities/7815870851/overview")   
+
+Some late on street griddin’ in Saltaire   
+[https://www.strava.com/activities/7886421028/overview](https://www.strava.com/activities/7886421028/overview "https://www.strava.com/activities/7886421028/overview")   
+
+A couple of runs, one along the coast, on a trip back to the homeland. Sea air is the best air.   
+[https://www.strava.com/activities/8000032232](https://www.strava.com/activities/8000032232 "https://www.strava.com/activities/8000032232")   
+[https://www.strava.com/activities/8005363598/overview](https://www.strava.com/activities/8005363598/overview "https://www.strava.com/activities/8005363598/overview")   
+
+Two in Copenhagen. Sea air is the best air part 2.   
+[https://www.strava.com/activities/8035102378/overview](https://www.strava.com/activities/8035102378/overview "https://www.strava.com/activities/8035102378/overview")   
+[https://www.strava.com/activities/8040409191](https://www.strava.com/activities/8040409191 "https://www.strava.com/activities/8040409191")   
+
+A Saturday morning run along the excellent Katy trail in Dallas, Texas.   
+[https://www.strava.com/activities/8130894365](https://www.strava.com/activities/8130894365 "https://www.strava.com/activities/8130894365")   
+  
+### Goals for 2023   
+  
+Run at least 1400km, maybe 1800km over the year.   
+
+Run at least 100km every month.   
+
+Run 12 days out of every 14.   
+
+Don’t beat myself up if I get to the end of next year and two injuries have limited my running to closer to 1000km.   
+Finish one marathon, if not two.   
+
+Have a medium (3km to 5km) or long walk (5km plus) every day   
+
+Do my heel raises every day. (Slacked on this recently.)   
+
+Keep doing a strengthening session every week.   
+
+Cycle 100km a month (probably mainly indoors).   
+
+Get weight down to 82kg (80kg ideally) and fat down by 5kg (to 10kg) at least. Then take it from there.   
+
+Do at least two more London bridges.   
+
+Have a better December.   
+
+Enjoy it.
