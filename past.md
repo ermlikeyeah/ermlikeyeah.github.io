@@ -13,6 +13,8 @@ Since 2014 I have worked as a freelancer. I have mainly contracted on public sec
 
 Between 2000 and 2014 I held head of, director, and board positions at the agencies [Home](//www.homeagency.co.uk), [Bloom](//www.bloomagency.co.uk), and [Brahm](//en.wikipedia.org/wiki/Brass_(company)), responsible for the digital, design, and creative parts of those companies.
 
+I used to coordinate the [Leeds gov design meets](/leedsgovdesign/), a regular meet-up for people in and around Leeds who are designing and making public services.
+
 I got my first full time job in 1998, starting as a junior web developer on [Sporting Life](//www.sportinglife.com/). I got to play with databases full of sport data and work out how to put all that onto the internet as information. It was the best first job I could have wished for.
 
 <a href="https://uk.linkedin.com/in/siwilson/" class="more-link">View my career on LinkedIn  →</a>
