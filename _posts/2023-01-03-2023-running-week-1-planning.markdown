@@ -20,6 +20,8 @@ Around March last year I started planning my week using a grid, days have a row 
 
 I mark in my commitments — household helping, the kids, dog walk days, climbing, days away with work, trips to my mum or the football, any lunchtimes that work had bagged for meets, that sort of stuff — and work off that. It helped a lot.
 
+{% include image.html url="/assets/3ef95188-c036-4510-a365-f271bcc436f2.jpeg" description="A spread from my note book. The right hand page shows the grid I described previously." %}
+
 There’s been some little tweaks over the months — to the time slots — but the weeks I do this it helps massively. The weeks I don’t I’m just plodding through.
 
 This week I have planned for 54km over 6 days (runs of variable lengths and pace worked out elsewhere). Usually I lose 8km from my planned dist* ance due to other time pressures, so 46km will be a good return. Thursday is my regular rest from running day, with a gym session and climbing in the evening. This plan also makes it right clear when I’ve weekend commitments my weekday efforts need to stay on track _and_ I’ve got to go to bed early on Friday for an early rise on Saturday. And I’ve managed to weave in some bike sessions too.
@@ -27,5 +29,3 @@ This week I have planned for 54km over 6 days (runs of variable lengths and pace
 My weight this morning was 87.5kg, 12.3kg of which is fat. See how that is in a week (with some picky eating to help too).
 
 And yes my handwriting is that terrible for notes to myself.
-
-![](/assets/3ef95188-c036-4510-a365-f271bcc436f2.jpeg)
