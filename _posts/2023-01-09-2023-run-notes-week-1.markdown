@@ -13,21 +13,27 @@ tags:
 #### Runs: 5
 
 Total distance: 32.86km
+
 Average distance over the days of the week (total distance / 7 days): 4.69km
+
 Average distance over the week’s sessions (total distance / number of runs): 6.57km
+
 Average pace over the week’s runs: 5m 28s per KM
 
 Total time running: 3h 18m
+
 Average run time over the week’s sessions: 33m 5s
 
-Longest run: 11.19km, Saturday 7 January https://www.strava.com/activities/8353612933
-Fastest pace: 5m 19s per KM over 5.61km, Wednesday 4 January https://www.strava.com/activities/8336619225/overview
+Longest run: [11.19km, Saturday 7 January](https://www.strava.com/activities/8353612933)
+
+Fastest pace: [5m 19s per KM over 5.61km, Wednesday 4 January](https://www.strava.com/activities/8336619225/overview)
 
 Overall: Was aiming for at least 42km but had two days off running in the end (one planned rest day, one had too much work) so ended up near 33km. Pleased with Saturday’s long run (albeit ended up being much later in the day than planned). Kept it steady throughout than push for pace. Achilles leans between aching and a constant niggle.
 
 #### Bike rides: 5
 
 Total distance: 66.96km
+
 Average distance over the week’s sessions: (total distance / number of rides): 13.39km
 
 Total time on the saddle: 2h 33m
@@ -45,6 +51,7 @@ Total time spent walking: 4h 8m
 #### Year so far
 
 Ran: 32.86km
+
 Distance left to run: 1367.14km
 
 #### Goals for week 2
