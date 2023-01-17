@@ -27,7 +27,7 @@ Was ticking along for the week just fine. Had to switch my strengthening session
 
 #### Bike rides
 
-Goal: 40km<br />
+Goal: 40km
 Total distance ridden: 34km (6km off goal)
 Number of rides: 2
 
@@ -38,7 +38,7 @@ Again, doing just fine, then IBS weekend.
 
 #### Walks
 
-Goal: 15km<br />
+Goal: 15km
 Total distance tracked walking: 9.58km (5.42km off goal)
 
 Again — again — steady week then hit the weekend. Managed to have a walk to and from Asda on Sunday to see how the stomach was though, small victories.
@@ -48,17 +48,17 @@ Total distance: 14.81km
 
 #### Year goals check in 
 
-Ran so far: 61.1km<br />
+Ran so far: 61.1km
 Distance left to run: 1338.8km 
 
 
 ## Looking ahead to week 3
 
-Running goal: 30km <br />
+Running goal: 30km
 Take it easy after the weekend. Monday off, then try a small one (3km-ish) on Tuesday. If OK push it to a 7.5km-er on Wednesday. Thursday off. 20km over Friday, Saturday and Sunday.
 
-Biking goal: 50km <br />
+Biking goal: 50km
 Lower running means upping biking.
 
-Walking goal: 15km<br />
+Walking goal: 15km
 Get back to having a couple of walks every day. If they total 3km easy peasy.
