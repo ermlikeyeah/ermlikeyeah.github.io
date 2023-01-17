@@ -1,64 +1,64 @@
 ---
 layout: post
 title: 2023 run notes, week 2
-date: 2023-01-09 23:00:00 +0000
+date: 2023-01-17 18:40:00 +0000
 tags:
+- run note
 - running 2023
 - running note
 - running
 
 ---
-## Week commencing Monday 2 January
+## Look back on week commencing Monday 9 January 2023
 
-#### Runs: 5
+TL;DR: Planning for a steady week was working well, then scuppered by weekend IBS attack.
 
-Total distance: 32.86km
 
-Average distance over the days of the week (total distance / 7 days): 4.69km
+#### Runs
 
-Average distance over the week’s sessions (total distance / number of runs): 6.57km
+Goal: 40km
+Total distance ran: 24.6km (15.4km off goal)
+Number of runs: 4
 
-Average pace over the week’s runs: 5m 28s per KM
+[Longest run: 10.08km / 53mins 46secs, Monday 9 January](https://www.strava.com/activities/8363811004)
 
-Total time running: 3h 18m
+Was ticking along for the week just fine. Had to switch my strengthening session from Thursday to Friday (meaning Friday a day off from running), which gave me four straight days of running (Monday to Thursday). Well poised to have a 15km weekend but ended up with an IBS attack, which meant a wasted weekend. Gah.
 
-Average run time over the week’s sessions: 33m 5s
 
-Longest run: [11.19km, Saturday 7 January](https://www.strava.com/activities/8353612933)
+#### Bike rides
 
-Fastest pace: [5m 19s per KM over 5.61km, Wednesday 4 January](https://www.strava.com/activities/8336619225/overview)
+Goal: 40km<br />
+Total distance ridden: 34km (6km off goal)
+Number of rides: 2
 
-Overall: Was aiming for at least 42km but had two days off running in the end (one planned rest day, one had too much work) so ended up near 33km. Pleased with Saturday’s long run (albeit ended up being much later in the day than planned). Kept it steady throughout than push for pace. Achilles leans between aching and a constant niggle.
+[Longest ride: 20km / 48mins 20secs, Friday 13 January](https://www.strava.com/activities/8383807730)
 
-#### Bike rides: 5
+Again, doing just fine, then IBS weekend.
 
-Total distance: 66.96km
 
-Average distance over the week’s sessions: (total distance / number of rides): 13.39km
+#### Walks
 
-Total time on the saddle: 2h 33m
+Goal: 15km<br />
+Total distance tracked walking: 9.58km (5.42km off goal)
 
-Overall: Good.
+Again — again — steady week then hit the weekend. Managed to have a walk to and from Asda on Sunday to see how the stomach was though, small victories.
 
-#### Walks: 6
+Total distance: 14.81km 
 
-Total distance: 14.81km
 
-Total time spent walking: 4h 8m
+#### Year goals check in 
 
-#### Work outs: 0
+Ran so far: 61.1km<br />
+Distance left to run: 1338.8km 
 
-#### Year so far
 
-Ran: 32.86km
+## Looking ahead to week 3
 
-Distance left to run: 1367.14km
+Running goal: 30km <br />
+Take it easy after the weekend. Monday off, then try a small one (3km-ish) on Tuesday. If OK push it to a 7.5km-er on Wednesday. Thursday off. 20km over Friday, Saturday and Sunday.
 
-#### Goals for week 2
+Biking goal: 50km <br />
+Lower running means upping biking.
 
-Run: 40km
-Looking to have the majority of the runs closer to 10km rather than 5km. Aim for one run that is over 12.5km. Keep an eye on the Achilles. Keep it steady. Just need a little more focus this week, lots of life stuff to juggle. Be alright.
-
-Bike: 40km
-
-Walk: 15km
+Walking goal: 15km<br />
+Get back to having a couple of walks every day. If they total 3km easy peasy.
