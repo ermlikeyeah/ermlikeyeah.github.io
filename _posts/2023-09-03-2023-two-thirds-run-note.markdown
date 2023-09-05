@@ -19,38 +19,38 @@ So far I have run 884km in 2023, which averages 3.6km a day so far — or 25.2km
 
 How far I’ve run each month so far:
 
-January: 121.1 km
-February: 99.7km
-March: 111km
-April: 108.1km
-May: 131.2km
-June: 103.6km
-July: 120km
-August: 78.3km
+1. January: 121.1 km
+2. February: 99.7km
+3. March: 111km
+4. April: 108.1km
+5. May: 131.2km
+6. June: 103.6km
+7. July: 120km
+8. August: 78.3km
 
 A couple of days back, at the end of August, I felt 78.3km was my worst running month for a long long time. I checked my records and found it wasn’t. I ran less than that last year — 2022 — in five months: December, August, July, February and January. Heck, even December 2021. So, last month wasn’t great, but it wasn’t as bad as I felt. But just 78.3km still feels rubbish. It’s definitely my worst running month of 2023. And despite those low distance five months last year I totalled 1372km for the year.
 
-A little further digging into my running habits show when I am at home: I do the bulk of my running on Monday through Thursday. Weekends, especially when I have dog/s about, my running pretty much vanishes. A reminder to myself: I run half to keep my weight in check, which keeps my diabetes in check. Three or four runs over the first four days of the week and then nothing for the last three days of the week isn’t balanced. Some earlier analysis, from June: https://www.strava.com/athletes/41247532/posts/24573617
+A little further digging into my running habits show when I am at home: I do the bulk of my running on Monday through Thursday. Weekends, especially when I have dog/s about, my running pretty much vanishes. A reminder to myself: I run half to keep my weight in check, which keeps my diabetes in check. Three or four runs over the first four days of the week and then nothing for the last three days of the week isn’t balanced. [Some earlier analysis, from June](https://www.strava.com/athletes/41247532/posts/24573617)
 
 ## Things that have been good about the year so far
 
 I’ve travelled a bit this year and managed to run on every trip away, which is just a fab way to explore somewhere.
 
-* Barcelona 1: https://www.strava.com/activities/8851623541/overview
-* Barcelona 2: https://www.strava.com/activities/8861263469/overview
-* Ticking off some more London bridges: https://www.strava.com/activities/9280515134/overview
-* …twice in one weekend: https://www.strava.com/activities/9287067395/overview
-* Rome: https://www.strava.com/activities/9409505934/overview
-* Porto 1: https://www.strava.com/activities/9535682145/overview
-* Porto 2: https://www.strava.com/activities/9541429272/overview
-* Porto 3: https://www.strava.com/activities/9547867196/overview 
+* [Barcelona 1](https://www.strava.com/activities/8851623541/overview)
+* [Barcelona 2](https://www.strava.com/activities/8861263469/overview)
+* [Ticking off some more London bridges](https://www.strava.com/activities/9280515134/overview)
+* […twice in one weekend](https://www.strava.com/activities/9287067395/overview)
+* [Rome](https://www.strava.com/activities/9409505934/overview)
+* [Porto 1](https://www.strava.com/activities/9535682145/overview)
+* [Porto 2](https://www.strava.com/activities/9541429272/overview)
+* [Porto 3](https://www.strava.com/activities/9547867196/overview)
 
 I ran two marathons, my first two marathons:
 
-* Manchester marathon: https://www.strava.com/activities/8901578149/overview
-* Glasgow marathon: https://www.strava.com/activities/9157291335/overview
-* Raising over £1500 for Samaritans in just over a month from running the Glasgow marathon: https://www.justgiving.com/fundraising/simon-wilson2023
-
+* [Manchester marathon](https://www.strava.com/activities/8901578149/overview)
+* [Glasgow marathon](https://www.strava.com/activities/9157291335/overview)
+* [Raising over £1500 for Samaritans](https://www.justgiving.com/fundraising/simon-wilson2023) in just over a month from running the Glasgow marathon
+  
 Despite whinging about August I spent the whole month running without headphones, just taking in the sounds of what was around me. That was more relaxing than always having the radio or a podcast on during runs.
 
 A couple of weeks back I went back to basics, remembering the lonely mornings recovering from my fractured leg, doing laps of a nearby sports pitch with the dog with me. Early one morning I took my dog down to a nearby cricket pitch and started on that old habit again, doing some steady laps. Some back to basics is what I need.
