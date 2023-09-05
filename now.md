@@ -8,7 +8,7 @@ permalink: "/now/"
 
 I have left my studio head and board room life behind and these days work as a freelancer, usually doing service or product work (usually designing), _sometimes_ helping look at operations stuff.
 
-I am currently helping [create/change](//createchange.io) and the Ministry of Justice as a product manager. I am contracted until early February 2023 and currently available after that.
+I am currently helping [create/change](//createchange.io) and the Ministry of Justice as a product manager. I am contracted until early February 2024 and currently available after that.
 
 I try to write [week notes](/tags#weeknotes) which sometimes mention work and a more specific [monthly work note](/tags#work%20notes).
 
